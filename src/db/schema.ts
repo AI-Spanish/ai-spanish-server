@@ -1,4 +1,4 @@
-import { sql } from "drizzle-orm";
+import { SQL, sql } from "drizzle-orm";
 import {
   boolean,
   date,
@@ -12,7 +12,6 @@ import {
   pgEnum,
 } from "drizzle-orm/pg-core";
 
-
 export const users = pgTable("users", {
   id: text("id")
     .primaryKey()
@@ -20,7 +19,7 @@ export const users = pgTable("users", {
   username: text("username"),
   pwd: text("pwd"),
   nickName: text("nickName"),
-  gender: integer('gender'),
+  gender: integer("gender"),
   phoneNumber: text("phoneNumber"),
   avatarUrl: text("avatarUrl"),
   of_matrix: text("of_matrix"),
@@ -122,6 +121,12 @@ export const word = pgTable("word", {
 });
 
 export const wordInBook = pgTable("word_in_book", {
+  id: text("id")
+    .notNull()
+    .primaryKey()
+    .generatedAlwaysAs(
+      (): SQL => sql`${wordInBook.wb_id} || '_' || ${wordInBook.word_id}`
+    ),
   wb_id: text("wb_id").references(() => wordBook.id),
   word_id: text("word_id").references(() => word.id),
   word_index: integer("word_index"),
