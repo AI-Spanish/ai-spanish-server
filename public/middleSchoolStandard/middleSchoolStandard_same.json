@@ -1,0 +1,4158 @@
+[
+    {
+        "word_id": "171_朝向方向",
+        "word": "a"
+    },
+    {
+        "word_id": "908_在下面在底下",
+        "word": "abajo"
+    },
+    {
+        "word_id": "216_抛弃",
+        "word": "abandonar"
+    },
+    {
+        "word_id": "788_拥抱",
+        "word": "abrazar"
+    },
+    {
+        "word_id": "604_拥抱",
+        "word": "abrazo"
+    },
+    {
+        "word_id": "575_大衣",
+        "word": "abrigo"
+    },
+    {
+        "word_id": "523_四月",
+        "word": "abril"
+    },
+    {
+        "word_id": "241_开打开",
+        "word": "abrir"
+    },
+    {
+        "word_id": "935_结束",
+        "word": "acabar"
+    },
+    {
+        "word_id": "687_抚摸",
+        "word": "acariciar"
+    },
+    {
+        "word_id": "795_事故",
+        "word": "accidente"
+    },
+    {
+        "word_id": "757_采纳接纳",
+        "word": "aceptar"
+    },
+    {
+        "word_id": "581_陪伴",
+        "word": "acompañar"
+    },
+    {
+        "word_id": "14_劝告",
+        "word": "aconsejar"
+    },
+    {
+        "word_id": "505_习惯于",
+        "word": "acostumbrar"
+    },
+    {
+        "word_id": "598_态度",
+        "word": "actitud"
+    },
+    {
+        "word_id": "146",
+        "word": "actividad"
+    },
+    {
+        "word_id": "360",
+        "word": "actor"
+    },
+    {
+        "word_id": "361",
+        "word": "actriz"
+    },
+    {
+        "word_id": "74_表演",
+        "word": "actuación"
+    },
+    {
+        "word_id": "67_赶到前来",
+        "word": "acudir"
+    },
+    {
+        "word_id": "366_积累",
+        "word": "acumular"
+    },
+    {
+        "word_id": "921_改编节选",
+        "word": "adaptación"
+    },
+    {
+        "word_id": "780_向前",
+        "word": "adelante"
+    },
+    {
+        "word_id": "556_此外",
+        "word": "además"
+    },
+    {
+        "word_id": "283_再见",
+        "word": "adiós"
+    },
+    {
+        "word_id": "575_接受接纳",
+        "word": "admitir"
+    },
+    {
+        "word_id": "166_去哪里",
+        "word": "adónde"
+    },
+    {
+        "word_id": "323",
+        "word": "aeropuerto"
+    },
+    {
+        "word_id": "517_影响波及",
+        "word": "afectar"
+    },
+    {
+        "word_id": "677_抓",
+        "word": "agarrar"
+    },
+    {
+        "word_id": "320_代办处",
+        "word": "agencia"
+    },
+    {
+        "word_id": "193_记事本",
+        "word": "agenda"
+    },
+    {
+        "word_id": "283_令人愉快的",
+        "word": "agradable"
+    },
+    {
+        "word_id": "931_感谢",
+        "word": "agradecer"
+    },
+    {
+        "word_id": "96",
+        "word": "agua"
+    },
+    {
+        "word_id": "147_忍受",
+        "word": "aguantar"
+    },
+    {
+        "word_id": "96_现在",
+        "word": "ahora"
+    },
+    {
+        "word_id": "21",
+        "word": "alegre"
+    },
+    {
+        "word_id": "370_高兴欣喜",
+        "word": "alegría"
+    },
+    {
+        "word_id": "460_一些一点",
+        "word": "algo"
+    },
+    {
+        "word_id": "880_有人",
+        "word": "alguien"
+    },
+    {
+        "word_id": "30_食品",
+        "word": "alimento"
+    },
+    {
+        "word_id": "500_那边",
+        "word": "allá"
+    },
+    {
+        "word_id": "273_那里",
+        "word": "allí"
+    },
+    {
+        "word_id": "391_吃午饭",
+        "word": "almorzar"
+    },
+    {
+        "word_id": "714_四周",
+        "word": "alrededor"
+    },
+    {
+        "word_id": "93_和蔼的",
+        "word": "amable"
+    },
+    {
+        "word_id": "855_气氛氛围",
+        "word": "ambiente"
+    },
+    {
+        "word_id": "813_威胁",
+        "word": "amenaza"
+    },
+    {
+        "word_id": "317_扩大扩充",
+        "word": "ampliar"
+    },
+    {
+        "word_id": "784_走路",
+        "word": "andar"
+    },
+    {
+        "word_id": "557_焦虑",
+        "word": "angustia"
+    },
+    {
+        "word_id": "392",
+        "word": "animal"
+    },
+    {
+        "word_id": "195_记录",
+        "word": "anotar"
+    },
+    {
+        "word_id": "427_以前之前",
+        "word": "antes"
+    },
+    {
+        "word_id": "421_宣布",
+        "word": "anunciar"
+    },
+    {
+        "word_id": "373_年岁",
+        "word": "año"
+    },
+    {
+        "word_id": "268_熄灭",
+        "word": "apagar"
+    },
+    {
+        "word_id": "502_器具器官",
+        "word": "aparato"
+    },
+    {
+        "word_id": "770_停车",
+        "word": "aparcar"
+    },
+    {
+        "word_id": "214_出现",
+        "word": "aparecer"
+    },
+    {
+        "word_id": "405_姓氏",
+        "word": "apellido"
+    },
+    {
+        "word_id": "734_几乎不",
+        "word": "apenas"
+    },
+    {
+        "word_id": "525_想望渴望",
+        "word": "apetecer"
+    },
+    {
+        "word_id": "110_鼓掌喝彩",
+        "word": "aplaudir"
+    },
+    {
+        "word_id": "293_依靠",
+        "word": "apoyar"
+    },
+    {
+        "word_id": "141",
+        "word": "aprender"
+    },
+    {
+        "word_id": "458_学习学会",
+        "word": "aprendizaje"
+    },
+    {
+        "word_id": "879_衣服鞋等紧小",
+        "word": "apretar"
+    },
+    {
+        "word_id": "478_通过赞同",
+        "word": "aprobar"
+    },
+    {
+        "word_id": "817_利用",
+        "word": "aprovechar"
+    },
+    {
+        "word_id": "696_那",
+        "word": "aquello"
+    },
+    {
+        "word_id": "125_这里",
+        "word": "aquí"
+    },
+    {
+        "word_id": "395",
+        "word": "árbol"
+    },
+    {
+        "word_id": "816_武器",
+        "word": "arma"
+    },
+    {
+        "word_id": "172",
+        "word": "armario"
+    },
+    {
+        "word_id": "942_拔除",
+        "word": "arrancar"
+    },
+    {
+        "word_id": "765_收拾使整洁",
+        "word": "arreglar"
+    },
+    {
+        "word_id": "656_上边",
+        "word": "arriba"
+    },
+    {
+        "word_id": "481_稻子大米米饭",
+        "word": "arroz"
+    },
+    {
+        "word_id": "323_商品",
+        "word": "artículo"
+    },
+    {
+        "word_id": "245",
+        "word": "ascensor"
+    },
+    {
+        "word_id": "417_这样",
+        "word": "así"
+    },
+    {
+        "word_id": "754_亚洲的",
+        "word": "Asia"
+    },
+    {
+        "word_id": "587_座位",
+        "word": "asiento"
+    },
+    {
+        "word_id": "341_课程",
+        "word": "asignatura"
+    },
+    {
+        "word_id": "687_服侍出席",
+        "word": "asistir"
+    },
+    {
+        "word_id": "203_协会",
+        "word": "asociación"
+    },
+    {
+        "word_id": "307_事情",
+        "word": "asunto"
+    },
+    {
+        "word_id": "766_堵塞",
+        "word": "atasco"
+    },
+    {
+        "word_id": "125_注意",
+        "word": "atención"
+    },
+    {
+        "word_id": "18_注意关注",
+        "word": "atender"
+    },
+    {
+        "word_id": "822_穿过",
+        "word": "atravesar"
+    },
+    {
+        "word_id": "100_教室",
+        "word": "aula"
+    },
+    {
+        "word_id": "287_公共汽车",
+        "word": "autobús"
+    },
+    {
+        "word_id": "794_高速公路",
+        "word": "autopista"
+    },
+    {
+        "word_id": "535_前进进步",
+        "word": "avance"
+    },
+    {
+        "word_id": "767_前进",
+        "word": "avanzar"
+    },
+    {
+        "word_id": "35",
+        "word": "avenida"
+    },
+    {
+        "word_id": "778_故障损伤",
+        "word": "avería"
+    },
+    {
+        "word_id": "336_飞机",
+        "word": "avión"
+    },
+    {
+        "word_id": "777_通知",
+        "word": "avisar"
+    },
+    {
+        "word_id": "405_帮助",
+        "word": "ayudar"
+    },
+    {
+        "word_id": "122_蓝色的",
+        "word": "azul"
+    },
+    {
+        "word_id": "382_高中阶段",
+        "word": "bachillerato"
+    },
+    {
+        "word_id": "215",
+        "word": "bailar"
+    },
+    {
+        "word_id": "771_下去",
+        "word": "bajar"
+    },
+    {
+        "word_id": "7",
+        "word": "bajo"
+    },
+    {
+        "word_id": "449_篮球",
+        "word": "baloncesto"
+    },
+    {
+        "word_id": "269",
+        "word": "banco"
+    },
+    {
+        "word_id": "254",
+        "word": "baño"
+    },
+    {
+        "word_id": "125",
+        "word": "bar"
+    },
+    {
+        "word_id": "195_络腮胡",
+        "word": "barba"
+    },
+    {
+        "word_id": "152_扫",
+        "word": "barrer"
+    },
+    {
+        "word_id": "739_街区",
+        "word": "barrio"
+    },
+    {
+        "word_id": "149_泥",
+        "word": "barro"
+    },
+    {
+        "word_id": "782_基础",
+        "word": "base"
+    },
+    {
+        "word_id": "448_相当的",
+        "word": "bastante"
+    },
+    {
+        "word_id": "139_足够",
+        "word": "bastar"
+    },
+    {
+        "word_id": "107",
+        "word": "beber"
+    },
+    {
+        "word_id": "624_饮料",
+        "word": "bebida"
+    },
+    {
+        "word_id": "833_奖学金",
+        "word": "beca"
+    },
+    {
+        "word_id": "134",
+        "word": "biblioteca"
+    },
+    {
+        "word_id": "288_自行车",
+        "word": "bicicleta"
+    },
+    {
+        "word_id": "244_好",
+        "word": "bien"
+    },
+    {
+        "word_id": "292",
+        "word": "billete"
+    },
+    {
+        "word_id": "955_嘴",
+        "word": "boca"
+    },
+    {
+        "word_id": "114",
+        "word": "bocadillo"
+    },
+    {
+        "word_id": "167",
+        "word": "bolígrafo"
+    },
+    {
+        "word_id": "826_森林",
+        "word": "bosque"
+    },
+    {
+        "word_id": "600_瓶子",
+        "word": "botella"
+    },
+    {
+        "word_id": "50_胳膊",
+        "word": "brazo"
+    },
+    {
+        "word_id": "452_短暂的",
+        "word": "breve"
+    },
+    {
+        "word_id": "300_寻找",
+        "word": "buscar"
+    },
+    {
+        "word_id": "690_马",
+        "word": "caballo"
+    },
+    {
+        "word_id": "881_头",
+        "word": "cabeza"
+    },
+    {
+        "word_id": "349_每个",
+        "word": "cada"
+    },
+    {
+        "word_id": "249_落下掉下",
+        "word": "caer"
+    },
+    {
+        "word_id": "100",
+        "word": "café"
+    },
+    {
+        "word_id": "552_付款处",
+        "word": "caja"
+    },
+    {
+        "word_id": "556_日历",
+        "word": "calendario"
+    },
+    {
+        "word_id": "526_质量",
+        "word": "calidad"
+    },
+    {
+        "word_id": "827_闭嘴安静",
+        "word": "callar"
+    },
+    {
+        "word_id": "34",
+        "word": "calle"
+    },
+    {
+        "word_id": "1_热",
+        "word": "calor"
+    },
+    {
+        "word_id": "262",
+        "word": "cama"
+    },
+    {
+        "word_id": "435_变化改换",
+        "word": "cambiar"
+    },
+    {
+        "word_id": "910_找零",
+        "word": "cambio"
+    },
+    {
+        "word_id": "879_走路",
+        "word": "caminar"
+    },
+    {
+        "word_id": "964_公共汽车西班牙的卡车",
+        "word": "camión"
+    },
+    {
+        "word_id": "287",
+        "word": "camisa"
+    },
+    {
+        "word_id": "373_农村田野",
+        "word": "campo"
+    },
+    {
+        "word_id": "663_歌歌曲",
+        "word": "canción"
+    },
+    {
+        "word_id": "355",
+        "word": "cantante"
+    },
+    {
+        "word_id": "214",
+        "word": "cantar"
+    },
+    {
+        "word_id": "382_有能力",
+        "word": "capaz"
+    },
+    {
+        "word_id": "344",
+        "word": "capital"
+    },
+    {
+        "word_id": "684_脸",
+        "word": "cara"
+    },
+    {
+        "word_id": "108",
+        "word": "carne"
+    },
+    {
+        "word_id": "355_学业职业",
+        "word": "carrera"
+    },
+    {
+        "word_id": "322",
+        "word": "carretera"
+    },
+    {
+        "word_id": "267",
+        "word": "carta"
+    },
+    {
+        "word_id": "69",
+        "word": "cartera"
+    },
+    {
+        "word_id": "240",
+        "word": "casa"
+    },
+    {
+        "word_id": "464_几乎",
+        "word": "casi"
+    },
+    {
+        "word_id": "530_情况案例",
+        "word": "caso"
+    },
+    {
+        "word_id": "136_十四",
+        "word": "catorce"
+    },
+    {
+        "word_id": "568_引起造成",
+        "word": "causar"
+    },
+    {
+        "word_id": "809_让座位等",
+        "word": "ceder"
+    },
+    {
+        "word_id": "62_庆祝活动",
+        "word": "celebración"
+    },
+    {
+        "word_id": "61_庆祝举行",
+        "word": "celebrar"
+    },
+    {
+        "word_id": "91",
+        "word": "cena"
+    },
+    {
+        "word_id": "95",
+        "word": "cenar"
+    },
+    {
+        "word_id": "963_汽车总站",
+        "word": "central"
+    },
+    {
+        "word_id": "68_中心",
+        "word": "centro"
+    },
+    {
+        "word_id": "936_栅栏",
+        "word": "cerca"
+    },
+    {
+        "word_id": "329_关",
+        "word": "cerrar"
+    },
+    {
+        "word_id": "200_天",
+        "word": "cielo"
+    },
+    {
+        "word_id": "706_科学",
+        "word": "ciencia"
+    },
+    {
+        "word_id": "79_五",
+        "word": "cinco"
+    },
+    {
+        "word_id": "145_五十",
+        "word": "cincuenta"
+    },
+    {
+        "word_id": "348",
+        "word": "cine"
+    },
+    {
+        "word_id": "40",
+        "word": "ciudad"
+    },
+    {
+        "word_id": "566_文明",
+        "word": "civilización"
+    },
+    {
+        "word_id": "133",
+        "word": "clase"
+    },
+    {
+        "word_id": "937_钉进扎进",
+        "word": "clavar"
+    },
+    {
+        "word_id": "861_顾客",
+        "word": "cliente"
+    },
+    {
+        "word_id": "641_收费",
+        "word": "cobrar"
+    },
+    {
+        "word_id": "265_轿车",
+        "word": "coche"
+    },
+    {
+        "word_id": "253",
+        "word": "cocina"
+    },
+    {
+        "word_id": "676_拿起乘坐",
+        "word": "coger"
+    },
+    {
+        "word_id": "785_购物等排的队",
+        "word": "cola"
+    },
+    {
+        "word_id": "378",
+        "word": "colegio"
+    },
+    {
+        "word_id": "576_悬挂",
+        "word": "colgar"
+    },
+    {
+        "word_id": "543_颜色",
+        "word": "color"
+    },
+    {
+        "word_id": "205_评论",
+        "word": "comentar"
+    },
+    {
+        "word_id": "432_开始",
+        "word": "comenzar"
+    },
+    {
+        "word_id": "93",
+        "word": "comer"
+    },
+    {
+        "word_id": "537_商业的",
+        "word": "comercial"
+    },
+    {
+        "word_id": "351_商业",
+        "word": "comercio"
+    },
+    {
+        "word_id": "89",
+        "word": "comida"
+    },
+    {
+        "word_id": "583_开始",
+        "word": "comienzo"
+    },
+    {
+        "word_id": "83_怎么样什么样",
+        "word": "cómo"
+    },
+    {
+        "word_id": "863_舒适",
+        "word": "comodidad"
+    },
+    {
+        "word_id": "321_公司",
+        "word": "compañía"
+    },
+    {
+        "word_id": "851_共享",
+        "word": "compartir"
+    },
+    {
+        "word_id": "120_举止行为",
+        "word": "comportamiento"
+    },
+    {
+        "word_id": "387_作文",
+        "word": "composición"
+    },
+    {
+        "word_id": "331_买",
+        "word": "compra"
+    },
+    {
+        "word_id": "191",
+        "word": "comprar"
+    },
+    {
+        "word_id": "157",
+        "word": "comprender"
+    },
+    {
+        "word_id": "531_通常平常",
+        "word": "común"
+    },
+    {
+        "word_id": "459_交流交际",
+        "word": "comunicación"
+    },
+    {
+        "word_id": "174_和",
+        "word": "con"
+    },
+    {
+        "word_id": "162_给予",
+        "word": "conceder"
+    },
+    {
+        "word_id": "217",
+        "word": "concierto"
+    },
+    {
+        "word_id": "549_条件",
+        "word": "condición"
+    },
+    {
+        "word_id": "651_通向引导驾驶",
+        "word": "conducir"
+    },
+    {
+        "word_id": "720_报告会讲座",
+        "word": "conferencia"
+    },
+    {
+        "word_id": "932_信任",
+        "word": "confianza"
+    },
+    {
+        "word_id": "420_信任",
+        "word": "confiar"
+    },
+    {
+        "word_id": "323_确认",
+        "word": "confirmar"
+    },
+    {
+        "word_id": "733_弄混",
+        "word": "confundir"
+    },
+    {
+        "word_id": "450_和我",
+        "word": "conmigo"
+    },
+    {
+        "word_id": "507_认识了解知道",
+        "word": "conocer"
+    },
+    {
+        "word_id": "789_征服",
+        "word": "conquista"
+    },
+    {
+        "word_id": "708_征服攻克",
+        "word": "conquistar"
+    },
+    {
+        "word_id": "659_后果",
+        "word": "consecuencia"
+    },
+    {
+        "word_id": "878_得到弄到",
+        "word": "conseguir"
+    },
+    {
+        "word_id": "126_劝告忠告",
+        "word": "consejo"
+    },
+    {
+        "word_id": "121_认为",
+        "word": "considerar"
+    },
+    {
+        "word_id": "264_查阅商量",
+        "word": "consultar"
+    },
+    {
+        "word_id": "569_接触",
+        "word": "contacto"
+    },
+    {
+        "word_id": "843_讲述数数",
+        "word": "contar"
+    },
+    {
+        "word_id": "215_回答",
+        "word": "contestar"
+    },
+    {
+        "word_id": "442_和你",
+        "word": "contigo"
+    },
+    {
+        "word_id": "449_大陆",
+        "word": "continente"
+    },
+    {
+        "word_id": "245_继续",
+        "word": "continuar"
+    },
+    {
+        "word_id": "294_反对",
+        "word": "contra"
+    },
+    {
+        "word_id": "556_合同",
+        "word": "contrato"
+    },
+    {
+        "word_id": "275_适宜的",
+        "word": "conveniente"
+    },
+    {
+        "word_id": "743_对某人合适",
+        "word": "convenir"
+    },
+    {
+        "word_id": "41_交谈谈话",
+        "word": "conversación"
+    },
+    {
+        "word_id": "588_谈话交谈",
+        "word": "conversar"
+    },
+    {
+        "word_id": "808_使皈依",
+        "word": "convertir"
+    },
+    {
+        "word_id": "546_酒杯高脚杯",
+        "word": "copa"
+    },
+    {
+        "word_id": "730_批改纠正改正",
+        "word": "corregir"
+    },
+    {
+        "word_id": "218",
+        "word": "correr"
+    },
+    {
+        "word_id": "761_宫廷",
+        "word": "corte"
+    },
+    {
+        "word_id": "325_东西",
+        "word": "cosa"
+    },
+    {
+        "word_id": "847_值钱",
+        "word": "costar"
+    },
+    {
+        "word_id": "490_习惯",
+        "word": "costumbre"
+    },
+    {
+        "word_id": "286_相信",
+        "word": "creer"
+    },
+    {
+        "word_id": "564_奶油润肤膏",
+        "word": "crema"
+    },
+    {
+        "word_id": "946_残忍的",
+        "word": "cruel"
+    },
+    {
+        "word_id": "892_穿过",
+        "word": "cruzar"
+    },
+    {
+        "word_id": "343_哪一个",
+        "word": "cuál"
+    },
+    {
+        "word_id": "673_任何一个",
+        "word": "cualquier"
+    },
+    {
+        "word_id": "365_40",
+        "word": "cuarenta"
+    },
+    {
+        "word_id": "308_一刻钟",
+        "word": "cuarto"
+    },
+    {
+        "word_id": "23_四",
+        "word": "cuatro"
+    },
+    {
+        "word_id": "668_覆盖",
+        "word": "cubrir"
+    },
+    {
+        "word_id": "496_刀",
+        "word": "cuchillo"
+    },
+    {
+        "word_id": "130",
+        "word": "cuenta"
+    },
+    {
+        "word_id": "842_故事",
+        "word": "cuento"
+    },
+    {
+        "word_id": "727_身躯身体",
+        "word": "cuerpo"
+    },
+    {
+        "word_id": "810_小心注意",
+        "word": "cuidado"
+    },
+    {
+        "word_id": "759_照料照管",
+        "word": "cuidar"
+    },
+    {
+        "word_id": "637_过错罪过",
+        "word": "culpa"
+    },
+    {
+        "word_id": "746_文化",
+        "word": "cultura"
+    },
+    {
+        "word_id": "97_文化的",
+        "word": "cultural"
+    },
+    {
+        "word_id": "419_履行完成",
+        "word": "cumplir"
+    },
+    {
+        "word_id": "43_治愈",
+        "word": "curar"
+    },
+    {
+        "word_id": "324_好奇",
+        "word": "curiosidad"
+    },
+    {
+        "word_id": "834_学年课程",
+        "word": "curso"
+    },
+    {
+        "word_id": "239_给",
+        "word": "dar"
+    },
+    {
+        "word_id": "927_资料",
+        "word": "dato"
+    },
+    {
+        "word_id": "29_表示所属",
+        "word": "de"
+    },
+    {
+        "word_id": "421_应该想必",
+        "word": "deber"
+    },
+    {
+        "word_id": "53_弱虚弱",
+        "word": "débil"
+    },
+    {
+        "word_id": "769_决定",
+        "word": "decidir"
+    },
+    {
+        "word_id": "253_说",
+        "word": "decir"
+    },
+    {
+        "word_id": "444_决定",
+        "word": "decisión"
+    },
+    {
+        "word_id": "285_放搁下",
+        "word": "dejar"
+    },
+    {
+        "word_id": "633_前面",
+        "word": "delante"
+    },
+    {
+        "word_id": "782_其他的",
+        "word": "demás"
+    },
+    {
+        "word_id": "583_太过于",
+        "word": "demasiado"
+    },
+    {
+        "word_id": "115_里面",
+        "word": "dentro"
+    },
+    {
+        "word_id": "456_体育活动",
+        "word": "deporte"
+    },
+    {
+        "word_id": "290_右边",
+        "word": "derecha"
+    },
+    {
+        "word_id": "812_权利",
+        "word": "derecho"
+    },
+    {
+        "word_id": "232_消失",
+        "word": "desaparecer"
+    },
+    {
+        "word_id": "778_发展",
+        "word": "desarrollar"
+    },
+    {
+        "word_id": "88",
+        "word": "desayuno"
+    },
+    {
+        "word_id": "180_休息",
+        "word": "descansar"
+    },
+    {
+        "word_id": "355_休息",
+        "word": "descanso"
+    },
+    {
+        "word_id": "734_不了解",
+        "word": "desconocer"
+    },
+    {
+        "word_id": "184_发现",
+        "word": "descubrir"
+    },
+    {
+        "word_id": "723_从起",
+        "word": "desde"
+    },
+    {
+        "word_id": "506_想要希望",
+        "word": "desear"
+    },
+    {
+        "word_id": "661_愿望",
+        "word": "deseo"
+    },
+    {
+        "word_id": "388_叫醒",
+        "word": "despertar"
+    },
+    {
+        "word_id": "211_然后以后",
+        "word": "después"
+    },
+    {
+        "word_id": "786_破坏毁坏",
+        "word": "destruir"
+    },
+    {
+        "word_id": "587_细节小心意",
+        "word": "detalle"
+    },
+    {
+        "word_id": "303_归还",
+        "word": "devolver"
+    },
+    {
+        "word_id": "941_吞食",
+        "word": "devorar"
+    },
+    {
+        "word_id": "236_天",
+        "word": "día"
+    },
+    {
+        "word_id": "719_口述口授",
+        "word": "dictar"
+    },
+    {
+        "word_id": "350_18",
+        "word": "dieciocho"
+    },
+    {
+        "word_id": "157_十六",
+        "word": "dieciséis"
+    },
+    {
+        "word_id": "439_牙齿",
+        "word": "diente"
+    },
+    {
+        "word_id": "110_十",
+        "word": "diez"
+    },
+    {
+        "word_id": "459_区别",
+        "word": "diferencia"
+    },
+    {
+        "word_id": "433_不同有级别的",
+        "word": "diferente"
+    },
+    {
+        "word_id": "217_难的",
+        "word": "difícil"
+    },
+    {
+        "word_id": "732_困难",
+        "word": "dificultad"
+    },
+    {
+        "word_id": "270",
+        "word": "dinero"
+    },
+    {
+        "word_id": "32",
+        "word": "dirección"
+    },
+    {
+        "word_id": "700_引向领向",
+        "word": "dirigir"
+    },
+    {
+        "word_id": "437_讲话",
+        "word": "discurso"
+    },
+    {
+        "word_id": "258_讨论",
+        "word": "discutir"
+    },
+    {
+        "word_id": "73_享用",
+        "word": "disfrutar"
+    },
+    {
+        "word_id": "654_区分辨别",
+        "word": "distinguir"
+    },
+    {
+        "word_id": "670_分布分配布局",
+        "word": "distribución"
+    },
+    {
+        "word_id": "665_分开分为",
+        "word": "dividir"
+    },
+    {
+        "word_id": "918_双人的",
+        "word": "doble"
+    },
+    {
+        "word_id": "112_十二",
+        "word": "doce"
+    },
+    {
+        "word_id": "436_文件证件总称",
+        "word": "documentación"
+    },
+    {
+        "word_id": "435_文件证件",
+        "word": "documento"
+    },
+    {
+        "word_id": "8_某部位疼",
+        "word": "doler"
+    },
+    {
+        "word_id": "52_疼痛",
+        "word": "dolor"
+    },
+    {
+        "word_id": "178_星期天",
+        "word": "domingo"
+    },
+    {
+        "word_id": "49_哪里",
+        "word": "dónde"
+    },
+    {
+        "word_id": "261_睡觉",
+        "word": "dormir"
+    },
+    {
+        "word_id": "252",
+        "word": "dormitorio"
+    },
+    {
+        "word_id": "21_二",
+        "word": "dos"
+    },
+    {
+        "word_id": "380_疑问",
+        "word": "duda"
+    },
+    {
+        "word_id": "707_犹豫怀疑",
+        "word": "dudar"
+    },
+    {
+        "word_id": "527_甜点甜的",
+        "word": "dulce"
+    },
+    {
+        "word_id": "379_在期间",
+        "word": "durante"
+    },
+    {
+        "word_id": "446_持续",
+        "word": "durar"
+    },
+    {
+        "word_id": "636_摔扔抛",
+        "word": "echar"
+    },
+    {
+        "word_id": "857_经济经济学",
+        "word": "economía"
+    },
+    {
+        "word_id": "54",
+        "word": "edad"
+    },
+    {
+        "word_id": "356",
+        "word": "edificio"
+    },
+    {
+        "word_id": "423_开展实行",
+        "word": "efectuar"
+    },
+    {
+        "word_id": "45_有效",
+        "word": "eficaz"
+    },
+    {
+        "word_id": "552_例子",
+        "word": "ejemplo"
+    },
+    {
+        "word_id": "400_从事",
+        "word": "ejercer"
+    },
+    {
+        "word_id": "145",
+        "word": "ejercicio"
+    },
+    {
+        "word_id": "66_阳性单数定冠词",
+        "word": "el"
+    },
+    {
+        "word_id": "4_他",
+        "word": "él"
+    },
+    {
+        "word_id": "743_制定",
+        "word": "elaborar"
+    },
+    {
+        "word_id": "851_优雅的",
+        "word": "elegante"
+    },
+    {
+        "word_id": "9_她",
+        "word": "ella"
+    },
+    {
+        "word_id": "153_激动",
+        "word": "emoción"
+    },
+    {
+        "word_id": "381_开始",
+        "word": "empezar"
+    },
+    {
+        "word_id": "484_工作就业",
+        "word": "empleo"
+    },
+    {
+        "word_id": "184",
+        "word": "empresa"
+    },
+    {
+        "word_id": "55_在里面",
+        "word": "en"
+    },
+    {
+        "word_id": "444_使非常喜欢",
+        "word": "encantar"
+    },
+    {
+        "word_id": "143_点燃",
+        "word": "encender"
+    },
+    {
+        "word_id": "294_找到",
+        "word": "encontrar"
+    },
+    {
+        "word_id": "749_调查问卷民意调查",
+        "word": "encuesta"
+    },
+    {
+        "word_id": "521_一月",
+        "word": "enero"
+    },
+    {
+        "word_id": "36_疾病",
+        "word": "enfermedad"
+    },
+    {
+        "word_id": "394_祝贺",
+        "word": "enhorabuena"
+    },
+    {
+        "word_id": "631_巨大的",
+        "word": "enorme"
+    },
+    {
+        "word_id": "369_教育教学",
+        "word": "enseñanza"
+    },
+    {
+        "word_id": "604_教",
+        "word": "enseñar"
+    },
+    {
+        "word_id": "156",
+        "word": "entender"
+    },
+    {
+        "word_id": "413_于是那么",
+        "word": "entonces"
+    },
+    {
+        "word_id": "279",
+        "word": "entrada"
+    },
+    {
+        "word_id": "380_进入",
+        "word": "entrar"
+    },
+    {
+        "word_id": "314_在之间",
+        "word": "entre"
+    },
+    {
+        "word_id": "281_交给",
+        "word": "entregar"
+    },
+    {
+        "word_id": "201_会见",
+        "word": "entrevista"
+    },
+    {
+        "word_id": "357_寄派",
+        "word": "enviar"
+    },
+    {
+        "word_id": "788_轶事",
+        "word": "episodio"
+    },
+    {
+        "word_id": "774_时代",
+        "word": "época"
+    },
+    {
+        "word_id": "608_队组",
+        "word": "equipo"
+    },
+    {
+        "word_id": "246",
+        "word": "escalera"
+    },
+    {
+        "word_id": "816_挑选",
+        "word": "escoger"
+    },
+    {
+        "word_id": "339_学校的",
+        "word": "escolar"
+    },
+    {
+        "word_id": "155",
+        "word": "escribir"
+    },
+    {
+        "word_id": "591_书写符号",
+        "word": "escritura"
+    },
+    {
+        "word_id": "793_听",
+        "word": "escuchar"
+    },
+    {
+        "word_id": "379",
+        "word": "escuela"
+    },
+    {
+        "word_id": "709_那",
+        "word": "eso"
+    },
+    {
+        "word_id": "648_空间",
+        "word": "espacio"
+    },
+    {
+        "word_id": "48_脊背",
+        "word": "espalda"
+    },
+    {
+        "word_id": "49",
+        "word": "español"
+    },
+    {
+        "word_id": "886_特别的",
+        "word": "especial"
+    },
+    {
+        "word_id": "442_专家",
+        "word": "especialista"
+    },
+    {
+        "word_id": "848_种类",
+        "word": "especie"
+    },
+    {
+        "word_id": "768_等待",
+        "word": "espera"
+    },
+    {
+        "word_id": "249_等待希望",
+        "word": "esperar"
+    },
+    {
+        "word_id": "787_拐角",
+        "word": "esquina"
+    },
+    {
+        "word_id": "436_季节",
+        "word": "estación"
+    },
+    {
+        "word_id": "933_逗留停留",
+        "word": "estancia"
+    },
+    {
+        "word_id": "50_在位于",
+        "word": "estar"
+    },
+    {
+        "word_id": "374",
+        "word": "este"
+    },
+    {
+        "word_id": "869_风格",
+        "word": "estilo"
+    },
+    {
+        "word_id": "169_星星",
+        "word": "estrella"
+    },
+    {
+        "word_id": "136",
+        "word": "estudiante"
+    },
+    {
+        "word_id": "142",
+        "word": "estudiar"
+    },
+    {
+        "word_id": "243",
+        "word": "estudio"
+    },
+    {
+        "word_id": "140",
+        "word": "examen"
+    },
+    {
+        "word_id": "958_检查",
+        "word": "examinar"
+    },
+    {
+        "word_id": "711_极好的优秀的",
+        "word": "excelente"
+    },
+    {
+        "word_id": "536_要求",
+        "word": "exigir"
+    },
+    {
+        "word_id": "746_存在",
+        "word": "existencia"
+    },
+    {
+        "word_id": "593_成绩成就",
+        "word": "éxito"
+    },
+    {
+        "word_id": "891_经验经历",
+        "word": "experiencia"
+    },
+    {
+        "word_id": "209_解释讲解",
+        "word": "explicar"
+    },
+    {
+        "word_id": "353",
+        "word": "exposición"
+    },
+    {
+        "word_id": "353_外部的国外",
+        "word": "exterior"
+    },
+    {
+        "word_id": "666_端极端",
+        "word": "extremo"
+    },
+    {
+        "word_id": "74_工厂",
+        "word": "fábrica"
+    },
+    {
+        "word_id": "359_简单的",
+        "word": "fácil"
+    },
+    {
+        "word_id": "801_容易",
+        "word": "facilidad"
+    },
+    {
+        "word_id": "172_系",
+        "word": "facultad"
+    },
+    {
+        "word_id": "34_缺",
+        "word": "faltar"
+    },
+    {
+        "word_id": "945_名声",
+        "word": "fama"
+    },
+    {
+        "word_id": "72",
+        "word": "familia"
+    },
+    {
+        "word_id": "512_家人",
+        "word": "familiar"
+    },
+    {
+        "word_id": "298",
+        "word": "farmacia"
+    },
+    {
+        "word_id": "483_二月",
+        "word": "febrero"
+    },
+    {
+        "word_id": "929_日期",
+        "word": "fecha"
+    },
+    {
+        "word_id": "447_幸福的快乐的",
+        "word": "feliz"
+    },
+    {
+        "word_id": "538_现象",
+        "word": "fenómeno"
+    },
+    {
+        "word_id": "264_发烧",
+        "word": "fiebre"
+    },
+    {
+        "word_id": "87",
+        "word": "fiesta"
+    },
+    {
+        "word_id": "638_行列",
+        "word": "fila"
+    },
+    {
+        "word_id": "528_哲学",
+        "word": "filosofía"
+    },
+    {
+        "word_id": "518_终结末尾",
+        "word": "fin"
+    },
+    {
+        "word_id": "396_最后的",
+        "word": "final"
+    },
+    {
+        "word_id": "30",
+        "word": "firmar"
+    },
+    {
+        "word_id": "770_坚定的",
+        "word": "firme"
+    },
+    {
+        "word_id": "394",
+        "word": "flor"
+    },
+    {
+        "word_id": "636_深处底部尽头",
+        "word": "fondo"
+    },
+    {
+        "word_id": "735_形状",
+        "word": "forma"
+    },
+    {
+        "word_id": "546_培养训练",
+        "word": "formación"
+    },
+    {
+        "word_id": "607_组成",
+        "word": "formar"
+    },
+    {
+        "word_id": "571_形成",
+        "word": "formular"
+    },
+    {
+        "word_id": "351",
+        "word": "foto"
+    },
+    {
+        "word_id": "273_句子",
+        "word": "frase"
+    },
+    {
+        "word_id": "12_前额",
+        "word": "frente"
+    },
+    {
+        "word_id": "589_冷",
+        "word": "frío"
+    },
+    {
+        "word_id": "110",
+        "word": "fruta"
+    },
+    {
+        "word_id": "647_果实",
+        "word": "fruto"
+    },
+    {
+        "word_id": "269_火",
+        "word": "fuego"
+    },
+    {
+        "word_id": "839_泉水喷泉",
+        "word": "fuente"
+    },
+    {
+        "word_id": "384_在外面",
+        "word": "fuera"
+    },
+    {
+        "word_id": "147_强壮的有力的",
+        "word": "fuerte"
+    },
+    {
+        "word_id": "815_力量",
+        "word": "fuerza"
+    },
+    {
+        "word_id": "435_足球",
+        "word": "fútbol"
+    },
+    {
+        "word_id": "379_将来",
+        "word": "futuro"
+    },
+    {
+        "word_id": "755_赚赢",
+        "word": "ganar"
+    },
+    {
+        "word_id": "926_保障",
+        "word": "garantizar"
+    },
+    {
+        "word_id": "488_煤气",
+        "word": "gas"
+    },
+    {
+        "word_id": "634_花费",
+        "word": "gastar"
+    },
+    {
+        "word_id": "533_一代人",
+        "word": "generación"
+    },
+    {
+        "word_id": "426_人人们",
+        "word": "gente"
+    },
+    {
+        "word_id": "169",
+        "word": "goma"
+    },
+    {
+        "word_id": "23_级度",
+        "word": "grado"
+    },
+    {
+        "word_id": "91_大的",
+        "word": "grande"
+    },
+    {
+        "word_id": "25_严重",
+        "word": "grave"
+    },
+    {
+        "word_id": "546_灰色的",
+        "word": "gris"
+    },
+    {
+        "word_id": "156_喊叫",
+        "word": "gritar"
+    },
+    {
+        "word_id": "298_喊声",
+        "word": "grito"
+    },
+    {
+        "word_id": "223_班组",
+        "word": "grupo"
+    },
+    {
+        "word_id": "243_保存",
+        "word": "guardar"
+    },
+    {
+        "word_id": "702_战争",
+        "word": "guerra"
+    },
+    {
+        "word_id": "907_导游导游手册",
+        "word": "guía"
+    },
+    {
+        "word_id": "512_喜欢爱好",
+        "word": "gustar"
+    },
+    {
+        "word_id": "46_高兴愉快",
+        "word": "gusto"
+    },
+    {
+        "word_id": "53_有",
+        "word": "haber"
+    },
+    {
+        "word_id": "244",
+        "word": "habitación"
+    },
+    {
+        "word_id": "810_居民",
+        "word": "habitante"
+    },
+    {
+        "word_id": "118_习惯",
+        "word": "hábito"
+    },
+    {
+        "word_id": "595_惯常的",
+        "word": "habitual"
+    },
+    {
+        "word_id": "153",
+        "word": "hablar"
+    },
+    {
+        "word_id": "187_做干",
+        "word": "hacer"
+    },
+    {
+        "word_id": "696_向",
+        "word": "hacia"
+    },
+    {
+        "word_id": "462_饿",
+        "word": "hambre"
+    },
+    {
+        "word_id": "394_直到",
+        "word": "hasta"
+    },
+    {
+        "word_id": "495_冰淇淋",
+        "word": "helado"
+    },
+    {
+        "word_id": "660_伤口",
+        "word": "herida"
+    },
+    {
+        "word_id": "346_历史",
+        "word": "historia"
+    },
+    {
+        "word_id": "263_喂你好",
+        "word": "hola"
+    },
+    {
+        "word_id": "60",
+        "word": "hombre"
+    },
+    {
+        "word_id": "307_小时",
+        "word": "hora"
+    },
+    {
+        "word_id": "314",
+        "word": "horario"
+    },
+    {
+        "word_id": "273",
+        "word": "hospital"
+    },
+    {
+        "word_id": "318",
+        "word": "hotel"
+    },
+    {
+        "word_id": "177_今天",
+        "word": "hoy"
+    },
+    {
+        "word_id": "112",
+        "word": "huevo"
+    },
+    {
+        "word_id": "929_逃跑",
+        "word": "huir"
+    },
+    {
+        "word_id": "884_主意想法",
+        "word": "idea"
+    },
+    {
+        "word_id": "850_理想的",
+        "word": "ideal"
+    },
+    {
+        "word_id": "577_语言",
+        "word": "idioma"
+    },
+    {
+        "word_id": "359",
+        "word": "iglesia"
+    },
+    {
+        "word_id": "270_阻挡",
+        "word": "impedir"
+    },
+    {
+        "word_id": "750_帝国",
+        "word": "imperio"
+    },
+    {
+        "word_id": "653_强加",
+        "word": "imponer"
+    },
+    {
+        "word_id": "649_重要性",
+        "word": "importancia"
+    },
+    {
+        "word_id": "744_重要的",
+        "word": "importante"
+    },
+    {
+        "word_id": "735_对某人要紧或有关",
+        "word": "importar"
+    },
+    {
+        "word_id": "588_不可能",
+        "word": "imposible"
+    },
+    {
+        "word_id": "410_印象",
+        "word": "impresión"
+    },
+    {
+        "word_id": "542_给人以深刻印象的",
+        "word": "impresionante"
+    },
+    {
+        "word_id": "284_火灾",
+        "word": "incendio"
+    },
+    {
+        "word_id": "923_包含",
+        "word": "incluir"
+    },
+    {
+        "word_id": "463_甚至",
+        "word": "incluso"
+    },
+    {
+        "word_id": "682_独立的",
+        "word": "independiente"
+    },
+    {
+        "word_id": "415_土著的土著人",
+        "word": "indígena"
+    },
+    {
+        "word_id": "812_童年",
+        "word": "infancia"
+    },
+    {
+        "word_id": "281",
+        "word": "información"
+    },
+    {
+        "word_id": "455_给予信息的",
+        "word": "informar"
+    },
+    {
+        "word_id": "952_才智才能",
+        "word": "ingenio"
+    },
+    {
+        "word_id": "479_加入进入",
+        "word": "ingresar"
+    },
+    {
+        "word_id": "159_坚持",
+        "word": "insistir"
+    },
+    {
+        "word_id": "131",
+        "word": "instituto"
+    },
+    {
+        "word_id": "185_指示说明",
+        "word": "instrucción"
+    },
+    {
+        "word_id": "19",
+        "word": "inteligente"
+    },
+    {
+        "word_id": "787_尝试试图",
+        "word": "intentar"
+    },
+    {
+        "word_id": "230_兴趣利益",
+        "word": "interés"
+    },
+    {
+        "word_id": "102_有趣的",
+        "word": "interesante"
+    },
+    {
+        "word_id": "856_国际的",
+        "word": "internacional"
+    },
+    {
+        "word_id": "383",
+        "word": "invierno"
+    },
+    {
+        "word_id": "569_邀请",
+        "word": "invitar"
+    },
+    {
+        "word_id": "377_去前往",
+        "word": "ir"
+    },
+    {
+        "word_id": "286_左边",
+        "word": "izquierda"
+    },
+    {
+        "word_id": "248",
+        "word": "jardín"
+    },
+    {
+        "word_id": "57",
+        "word": "joven"
+    },
+    {
+        "word_id": "227",
+        "word": "juego"
+    },
+    {
+        "word_id": "193_星期四",
+        "word": "jueves"
+    },
+    {
+        "word_id": "824_玩",
+        "word": "jugar"
+    },
+    {
+        "word_id": "498_玩具",
+        "word": "juguete"
+    },
+    {
+        "word_id": "323_七月",
+        "word": "julio"
+    },
+    {
+        "word_id": "322_六月",
+        "word": "junio"
+    },
+    {
+        "word_id": "51_阴性单数定冠词",
+        "word": "la"
+    },
+    {
+        "word_id": "300_灯",
+        "word": "lámpara"
+    },
+    {
+        "word_id": "667_他她它您与格代词",
+        "word": "le"
+    },
+    {
+        "word_id": "147",
+        "word": "lección"
+    },
+    {
+        "word_id": "98",
+        "word": "leche"
+    },
+    {
+        "word_id": "390_阅读",
+        "word": "lectura"
+    },
+    {
+        "word_id": "154",
+        "word": "leer"
+    },
+    {
+        "word_id": "303_远",
+        "word": "lejos"
+    },
+    {
+        "word_id": "344_语言",
+        "word": "lengua"
+    },
+    {
+        "word_id": "779_建造",
+        "word": "levantar"
+    },
+    {
+        "word_id": "620_使摆脱",
+        "word": "librar"
+    },
+    {
+        "word_id": "502_自由的空的",
+        "word": "libre"
+    },
+    {
+        "word_id": "164",
+        "word": "libro"
+    },
+    {
+        "word_id": "385_打扫清洁",
+        "word": "limpiar"
+    },
+    {
+        "word_id": "749_文学",
+        "word": "literatura"
+    },
+    {
+        "word_id": "68",
+        "word": "llave"
+    },
+    {
+        "word_id": "678_到达",
+        "word": "llegar"
+    },
+    {
+        "word_id": "507_填满",
+        "word": "llenar"
+    },
+    {
+        "word_id": "274_送带",
+        "word": "llevar"
+    },
+    {
+        "word_id": "219_哭",
+        "word": "llorar"
+    },
+    {
+        "word_id": "283_雨",
+        "word": "lluvia"
+    },
+    {
+        "word_id": "620_他它您宾格代词",
+        "word": "lo"
+    },
+    {
+        "word_id": "671_获得",
+        "word": "lograr"
+    },
+    {
+        "word_id": "764_斗争",
+        "word": "luchar"
+    },
+    {
+        "word_id": "24_过后一会儿",
+        "word": "luego"
+    },
+    {
+        "word_id": "371",
+        "word": "lugar"
+    },
+    {
+        "word_id": "190_星期一",
+        "word": "lunes"
+    },
+    {
+        "word_id": "640_光灯电",
+        "word": "luz"
+    },
+    {
+        "word_id": "719_木头",
+        "word": "madera"
+    },
+    {
+        "word_id": "75",
+        "word": "madre"
+    },
+    {
+        "word_id": "699_清晨",
+        "word": "madrugada"
+    },
+    {
+        "word_id": "108_不好不舒服",
+        "word": "mal"
+    },
+    {
+        "word_id": "130_妈妈",
+        "word": "mamá"
+    },
+    {
+        "word_id": "291_上午",
+        "word": "mañana"
+    },
+    {
+        "word_id": "476_方式",
+        "word": "manera"
+    },
+    {
+        "word_id": "534_表现征兆",
+        "word": "manifestación"
+    },
+    {
+        "word_id": "550_维持养活",
+        "word": "mantener"
+    },
+    {
+        "word_id": "176",
+        "word": "mapa"
+    },
+    {
+        "word_id": "496_机器",
+        "word": "máquina"
+    },
+    {
+        "word_id": "742_大海",
+        "word": "mar"
+    },
+    {
+        "word_id": "864_品牌",
+        "word": "marca"
+    },
+    {
+        "word_id": "889_行进",
+        "word": "marchar"
+    },
+    {
+        "word_id": "611_丈夫",
+        "word": "marido"
+    },
+    {
+        "word_id": "191_星期二",
+        "word": "martes"
+    },
+    {
+        "word_id": "522_三月",
+        "word": "marzo"
+    },
+    {
+        "word_id": "318_更更加",
+        "word": "más"
+    },
+    {
+        "word_id": "656_杀",
+        "word": "matar"
+    },
+    {
+        "word_id": "871_材料",
+        "word": "material"
+    },
+    {
+        "word_id": "626_婚姻夫妻",
+        "word": "matrimonio"
+    },
+    {
+        "word_id": "524_五月",
+        "word": "mayo"
+    },
+    {
+        "word_id": "155_老的年龄大的",
+        "word": "mayor"
+    },
+    {
+        "word_id": "532_大多数",
+        "word": "mayoría"
+    },
+    {
+        "word_id": "645_我与格代词",
+        "word": "me"
+    },
+    {
+        "word_id": "309_半",
+        "word": "media"
+    },
+    {
+        "word_id": "289_药",
+        "word": "medicina"
+    },
+    {
+        "word_id": "651_中间正中",
+        "word": "medio"
+    },
+    {
+        "word_id": "335_中午",
+        "word": "mediodía"
+    },
+    {
+        "word_id": "577_更好",
+        "word": "mejor"
+    },
+    {
+        "word_id": "599_改进改善",
+        "word": "mejorar"
+    },
+    {
+        "word_id": "254_年幼的",
+        "word": "menor"
+    },
+    {
+        "word_id": "313_差",
+        "word": "menos"
+    },
+    {
+        "word_id": "660_信息留言",
+        "word": "mensaje"
+    },
+    {
+        "word_id": "278",
+        "word": "mercado"
+    },
+    {
+        "word_id": "304_月",
+        "word": "mes"
+    },
+    {
+        "word_id": "128",
+        "word": "mesa"
+    },
+    {
+        "word_id": "828_放入装入塞入",
+        "word": "meter"
+    },
+    {
+        "word_id": "626_公尺米",
+        "word": "metro"
+    },
+    {
+        "word_id": "54_我的",
+        "word": "mi"
+    },
+    {
+        "word_id": "930_害怕",
+        "word": "miedo"
+    },
+    {
+        "word_id": "840_与同时",
+        "word": "mientras"
+    },
+    {
+        "word_id": "192_星期三",
+        "word": "miércoles"
+    },
+    {
+        "word_id": "393_部委",
+        "word": "ministerio"
+    },
+    {
+        "word_id": "279_分钟",
+        "word": "minuto"
+    },
+    {
+        "word_id": "498_看望",
+        "word": "mirar"
+    },
+    {
+        "word_id": "295_一半",
+        "word": "mitad"
+    },
+    {
+        "word_id": "530_模样样式",
+        "word": "modelo"
+    },
+    {
+        "word_id": "512_现代的",
+        "word": "moderno"
+    },
+    {
+        "word_id": "582_打扰",
+        "word": "molestar"
+    },
+    {
+        "word_id": "699_片刻一会儿时刻时候",
+        "word": "momento"
+    },
+    {
+        "word_id": "335_山",
+        "word": "montaña"
+    },
+    {
+        "word_id": "791_骑",
+        "word": "montar"
+    },
+    {
+        "word_id": "729_大堆大量许多",
+        "word": "montón"
+    },
+    {
+        "word_id": "143_皮肤黑的",
+        "word": "moreno"
+    },
+    {
+        "word_id": "303_死",
+        "word": "morir"
+    },
+    {
+        "word_id": "539_展示拿给看",
+        "word": "mostrar"
+    },
+    {
+        "word_id": "407_原因原由",
+        "word": "motivo"
+    },
+    {
+        "word_id": "947_动",
+        "word": "mover"
+    },
+    {
+        "word_id": "671_家具",
+        "word": "mueble"
+    },
+    {
+        "word_id": "676_死亡",
+        "word": "muerte"
+    },
+    {
+        "word_id": "61",
+        "word": "mujer"
+    },
+    {
+        "word_id": "651_人群",
+        "word": "multitud"
+    },
+    {
+        "word_id": "529_世界",
+        "word": "mundo"
+    },
+    {
+        "word_id": "290_墙",
+        "word": "muro"
+    },
+    {
+        "word_id": "352",
+        "word": "museo"
+    },
+    {
+        "word_id": "350",
+        "word": "música"
+    },
+    {
+        "word_id": "245_很",
+        "word": "muy"
+    },
+    {
+        "word_id": "482_出生",
+        "word": "nacer"
+    },
+    {
+        "word_id": "481_出生",
+        "word": "nacimiento"
+    },
+    {
+        "word_id": "518_国家民族",
+        "word": "nación"
+    },
+    {
+        "word_id": "107_什么都没有",
+        "word": "nada"
+    },
+    {
+        "word_id": "690_没有人谁也不没",
+        "word": "nadie"
+    },
+    {
+        "word_id": "6",
+        "word": "nariz"
+    },
+    {
+        "word_id": "183_自然的",
+        "word": "natural"
+    },
+    {
+        "word_id": "446_需要",
+        "word": "necesidad"
+    },
+    {
+        "word_id": "284_需要",
+        "word": "necesitar"
+    },
+    {
+        "word_id": "158_否定否认",
+        "word": "negar"
+    },
+    {
+        "word_id": "308_生意买卖",
+        "word": "negocio"
+    },
+    {
+        "word_id": "473_也不甚至不",
+        "word": "ni"
+    },
+    {
+        "word_id": "18_不",
+        "word": "no"
+    },
+    {
+        "word_id": "25_晚上",
+        "word": "noche"
+    },
+    {
+        "word_id": "25",
+        "word": "nombre"
+    },
+    {
+        "word_id": "122_正常的",
+        "word": "normal"
+    },
+    {
+        "word_id": "372",
+        "word": "norte"
+    },
+    {
+        "word_id": "632_我们与格代词",
+        "word": "nos"
+    },
+    {
+        "word_id": "689_记号符号分数",
+        "word": "nota"
+    },
+    {
+        "word_id": "478_显著的",
+        "word": "notable"
+    },
+    {
+        "word_id": "68_感到觉察",
+        "word": "notar"
+    },
+    {
+        "word_id": "645_消息",
+        "word": "noticia"
+    },
+    {
+        "word_id": "452_小说",
+        "word": "novela"
+    },
+    {
+        "word_id": "370_90",
+        "word": "noventa"
+    },
+    {
+        "word_id": "674_十一月",
+        "word": "noviembre"
+    },
+    {
+        "word_id": "109_九",
+        "word": "nueve"
+    },
+    {
+        "word_id": "37",
+        "word": "número"
+    },
+    {
+        "word_id": "752_从不从未",
+        "word": "nunca"
+    },
+    {
+        "word_id": "206_或者",
+        "word": "o"
+    },
+    {
+        "word_id": "611_目的目标",
+        "word": "objeto"
+    },
+    {
+        "word_id": "874_作品",
+        "word": "obra"
+    },
+    {
+        "word_id": "225_观察",
+        "word": "observar"
+    },
+    {
+        "word_id": "594_获取",
+        "word": "obtener"
+    },
+    {
+        "word_id": "462_机会",
+        "word": "ocasión"
+    },
+    {
+        "word_id": "491_西方的",
+        "word": "occidental"
+    },
+    {
+        "word_id": "747_大洋",
+        "word": "océano"
+    },
+    {
+        "word_id": "369_80",
+        "word": "ochenta"
+    },
+    {
+        "word_id": "82_八",
+        "word": "ocho"
+    },
+    {
+        "word_id": "568_十月",
+        "word": "octubre"
+    },
+    {
+        "word_id": "705_发生",
+        "word": "ocurrir"
+    },
+    {
+        "word_id": "772_厌恶不喜欢",
+        "word": "odiar"
+    },
+    {
+        "word_id": "185",
+        "word": "oficina"
+    },
+    {
+        "word_id": "965_行当",
+        "word": "oficio"
+    },
+    {
+        "word_id": "740_听觉耳朵",
+        "word": "oído"
+    },
+    {
+        "word_id": "5",
+        "word": "ojo"
+    },
+    {
+        "word_id": "140_忘记",
+        "word": "olvidar"
+    },
+    {
+        "word_id": "111_十一",
+        "word": "once"
+    },
+    {
+        "word_id": "58_手术",
+        "word": "operación"
+    },
+    {
+        "word_id": "860_意见",
+        "word": "opinión"
+    },
+    {
+        "word_id": "99_机会",
+        "word": "oportunidad"
+    },
+    {
+        "word_id": "654_秩序",
+        "word": "orden"
+    },
+    {
+        "word_id": "680_命令整理",
+        "word": "ordenar"
+    },
+    {
+        "word_id": "948_耳朵",
+        "word": "oreja"
+    },
+    {
+        "word_id": "818_岸边",
+        "word": "orilla"
+    },
+    {
+        "word_id": "762_金子",
+        "word": "oro"
+    },
+    {
+        "word_id": "674_你们与格代词",
+        "word": "os"
+    },
+    {
+        "word_id": "371_耐心",
+        "word": "paciencia"
+    },
+    {
+        "word_id": "192_耐心的",
+        "word": "paciente"
+    },
+    {
+        "word_id": "74",
+        "word": "padre"
+    },
+    {
+        "word_id": "551_付款",
+        "word": "pagar"
+    },
+    {
+        "word_id": "149",
+        "word": "página"
+    },
+    {
+        "word_id": "39",
+        "word": "país"
+    },
+    {
+        "word_id": "414_风景",
+        "word": "paisaje"
+    },
+    {
+        "word_id": "210_词",
+        "word": "palabra"
+    },
+    {
+        "word_id": "914_宫殿",
+        "word": "palacio"
+    },
+    {
+        "word_id": "113",
+        "word": "pan"
+    },
+    {
+        "word_id": "284",
+        "word": "pantalón"
+    },
+    {
+        "word_id": "131_爸爸",
+        "word": "papá"
+    },
+    {
+        "word_id": "166",
+        "word": "papel"
+    },
+    {
+        "word_id": "137_包裹",
+        "word": "paquete"
+    },
+    {
+        "word_id": "185_为了",
+        "word": "para"
+    },
+    {
+        "word_id": "553_像是使觉得",
+        "word": "parecer"
+    },
+    {
+        "word_id": "289_墙",
+        "word": "pared"
+    },
+    {
+        "word_id": "83",
+        "word": "pareja"
+    },
+    {
+        "word_id": "868_公园",
+        "word": "parque"
+    },
+    {
+        "word_id": "420_部分地方",
+        "word": "parte"
+    },
+    {
+        "word_id": "310_出发",
+        "word": "partida"
+    },
+    {
+        "word_id": "445_出发",
+        "word": "partir"
+    },
+    {
+        "word_id": "235_过度过",
+        "word": "pasar"
+    },
+    {
+        "word_id": "521_散步",
+        "word": "pasear"
+    },
+    {
+        "word_id": "36",
+        "word": "paseo"
+    },
+    {
+        "word_id": "279_走廊",
+        "word": "pasillo"
+    },
+    {
+        "word_id": "84_激情",
+        "word": "pasión"
+    },
+    {
+        "word_id": "13_步",
+        "word": "paso"
+    },
+    {
+        "word_id": "623_院子",
+        "word": "patio"
+    },
+    {
+        "word_id": "232_和平",
+        "word": "paz"
+    },
+    {
+        "word_id": "47_胸部胸脯",
+        "word": "pecho"
+    },
+    {
+        "word_id": "239_块",
+        "word": "pedazo"
+    },
+    {
+        "word_id": "293_求借",
+        "word": "pedir"
+    },
+    {
+        "word_id": "656_粘贴",
+        "word": "pegar"
+    },
+    {
+        "word_id": "164_打架",
+        "word": "pelear"
+    },
+    {
+        "word_id": "216",
+        "word": "película"
+    },
+    {
+        "word_id": "237_危险",
+        "word": "peligro"
+    },
+    {
+        "word_id": "4",
+        "word": "pelo"
+    },
+    {
+        "word_id": "542_痛苦遗憾",
+        "word": "pena"
+    },
+    {
+        "word_id": "404_想",
+        "word": "pensar"
+    },
+    {
+        "word_id": "592_更糟的",
+        "word": "peor"
+    },
+    {
+        "word_id": "864_失去",
+        "word": "perder"
+    },
+    {
+        "word_id": "180_对不起",
+        "word": "perdón"
+    },
+    {
+        "word_id": "579_原谅",
+        "word": "perdonar"
+    },
+    {
+        "word_id": "105_报纸",
+        "word": "periódico"
+    },
+    {
+        "word_id": "249_记者",
+        "word": "periodista"
+    },
+    {
+        "word_id": "545_阶段",
+        "word": "período"
+    },
+    {
+        "word_id": "794_处在保持",
+        "word": "permanecer"
+    },
+    {
+        "word_id": "590_允许",
+        "word": "permitir"
+    },
+    {
+        "word_id": "126_但是",
+        "word": "pero"
+    },
+    {
+        "word_id": "492_每个人",
+        "word": "persona"
+    },
+    {
+        "word_id": "693_人事个人的",
+        "word": "personal"
+    },
+    {
+        "word_id": "960_脚",
+        "word": "pie"
+    },
+    {
+        "word_id": "51_腿",
+        "word": "pierna"
+    },
+    {
+        "word_id": "104_零件一段件等",
+        "word": "pieza"
+    },
+    {
+        "word_id": "937_画绘画",
+        "word": "pintura"
+    },
+    {
+        "word_id": "241",
+        "word": "piso"
+    },
+    {
+        "word_id": "744_计划",
+        "word": "plan"
+    },
+    {
+        "word_id": "911_行星星球",
+        "word": "planeta"
+    },
+    {
+        "word_id": "917_平面图",
+        "word": "plano"
+    },
+    {
+        "word_id": "393",
+        "word": "planta"
+    },
+    {
+        "word_id": "763_银子",
+        "word": "plata"
+    },
+    {
+        "word_id": "119",
+        "word": "plato"
+    },
+    {
+        "word_id": "740_海滩沙滩",
+        "word": "playa"
+    },
+    {
+        "word_id": "376",
+        "word": "plaza"
+    },
+    {
+        "word_id": "103_钢笔",
+        "word": "pluma"
+    },
+    {
+        "word_id": "218_穷可怜",
+        "word": "pobre"
+    },
+    {
+        "word_id": "207_能够",
+        "word": "poder"
+    },
+    {
+        "word_id": "109_诗",
+        "word": "poesía"
+    },
+    {
+        "word_id": "275",
+        "word": "policía"
+    },
+    {
+        "word_id": "572_鸡肉",
+        "word": "pollo"
+    },
+    {
+        "word_id": "508_放置安放",
+        "word": "poner"
+    },
+    {
+        "word_id": "278_为了因为",
+        "word": "por"
+    },
+    {
+        "word_id": "189_因为",
+        "word": "porque"
+    },
+    {
+        "word_id": "316_可能性",
+        "word": "posibilidad"
+    },
+    {
+        "word_id": "339_可能",
+        "word": "posible"
+    },
+    {
+        "word_id": "368_实践",
+        "word": "práctica"
+    },
+    {
+        "word_id": "160",
+        "word": "practicar"
+    },
+    {
+        "word_id": "291",
+        "word": "precio"
+    },
+    {
+        "word_id": "450_喜欢偏爱",
+        "word": "preferir"
+    },
+    {
+        "word_id": "150",
+        "word": "pregunta"
+    },
+    {
+        "word_id": "535_发问提问题",
+        "word": "preguntar"
+    },
+    {
+        "word_id": "641_奖品奖励",
+        "word": "premio"
+    },
+    {
+        "word_id": "537_培养素养",
+        "word": "preparación"
+    },
+    {
+        "word_id": "382_准备",
+        "word": "preparar"
+    },
+    {
+        "word_id": "591_介绍",
+        "word": "presentar"
+    },
+    {
+        "word_id": "439_眼前的在场的",
+        "word": "presente"
+    },
+    {
+        "word_id": "306_出借",
+        "word": "prestar"
+    },
+    {
+        "word_id": "650_主要的",
+        "word": "principal"
+    },
+    {
+        "word_id": "691_王子",
+        "word": "príncipe"
+    },
+    {
+        "word_id": "918_开始原则",
+        "word": "principio"
+    },
+    {
+        "word_id": "251_急事着急",
+        "word": "prisa"
+    },
+    {
+        "word_id": "802_尝品尝",
+        "word": "probar"
+    },
+    {
+        "word_id": "551_设法获取",
+        "word": "procurar"
+    },
+    {
+        "word_id": "764_发生产生",
+        "word": "producir"
+    },
+    {
+        "word_id": "190",
+        "word": "profesión"
+    },
+    {
+        "word_id": "361_职业的",
+        "word": "profesional"
+    },
+    {
+        "word_id": "145_纲领节目",
+        "word": "programa"
+    },
+    {
+        "word_id": "807_禁止",
+        "word": "prohibir"
+    },
+    {
+        "word_id": "328_早_pronto",
+        "word": "pronto"
+    },
+    {
+        "word_id": "589_发音",
+        "word": "pronunciar"
+    },
+    {
+        "word_id": "624_省份",
+        "word": "provincia"
+    },
+    {
+        "word_id": "330_计划方案",
+        "word": "proyecto"
+    },
+    {
+        "word_id": "309",
+        "word": "publicidad"
+    },
+    {
+        "word_id": "41",
+        "word": "pueblo"
+    },
+    {
+        "word_id": "724_处在两个节假日之间的连带假日",
+        "word": "puente"
+    },
+    {
+        "word_id": "250",
+        "word": "puerta"
+    },
+    {
+        "word_id": "324",
+        "word": "puerto"
+    },
+    {
+        "word_id": "531_那么",
+        "word": "pues"
+    },
+    {
+        "word_id": "876_小摊",
+        "word": "puesto"
+    },
+    {
+        "word_id": "19_脉搏",
+        "word": "pulso"
+    },
+    {
+        "word_id": "238",
+        "word": "punto"
+    },
+    {
+        "word_id": "24_什么",
+        "word": "qué"
+    },
+    {
+        "word_id": "616_保持某种状态",
+        "word": "quedar"
+    },
+    {
+        "word_id": "281_烧起来",
+        "word": "quemar"
+    },
+    {
+        "word_id": "234_想希望",
+        "word": "querer"
+    },
+    {
+        "word_id": "0_谁",
+        "word": "quién"
+    },
+    {
+        "word_id": "137_十五",
+        "word": "quince"
+    },
+    {
+        "word_id": "857_种族人种",
+        "word": "raza"
+    },
+    {
+        "word_id": "956_道理理智",
+        "word": "razón"
+    },
+    {
+        "word_id": "580_王室的",
+        "word": "real"
+    },
+    {
+        "word_id": "487_实现",
+        "word": "realizar"
+    },
+    {
+        "word_id": "277_处方",
+        "word": "receta"
+    },
+    {
+        "word_id": "661_接受接待",
+        "word": "recibir"
+    },
+    {
+        "word_id": "789_新近地",
+        "word": "recién"
+    },
+    {
+        "word_id": "250_拣起",
+        "word": "recoger"
+    },
+    {
+        "word_id": "959_推荐",
+        "word": "recomendar"
+    },
+    {
+        "word_id": "87_认出承认",
+        "word": "reconocer"
+    },
+    {
+        "word_id": "87_认出承认",
+        "word": "reconocer"
+    },
+    {
+        "word_id": "362_走完走过",
+        "word": "recorrer"
+    },
+    {
+        "word_id": "539_礼物",
+        "word": "regalo"
+    },
+    {
+        "word_id": "147_尺子",
+        "word": "regla"
+    },
+    {
+        "word_id": "393_回来返回",
+        "word": "regresar"
+    },
+    {
+        "word_id": "221_一般",
+        "word": "regular"
+    },
+    {
+        "word_id": "347",
+        "word": "reina"
+    },
+    {
+        "word_id": "724_君临统治笼罩",
+        "word": "reinar"
+    },
+    {
+        "word_id": "251_笑",
+        "word": "reír"
+    },
+    {
+        "word_id": "394_关系",
+        "word": "relación"
+    },
+    {
+        "word_id": "362",
+        "word": "religión"
+    },
+    {
+        "word_id": "70",
+        "word": "reloj"
+    },
+    {
+        "word_id": "701_办法药剂",
+        "word": "remedio"
+    },
+    {
+        "word_id": "853_分摊",
+        "word": "repartir"
+    },
+    {
+        "word_id": "159",
+        "word": "repetir"
+    },
+    {
+        "word_id": "601_代表表演",
+        "word": "representar"
+    },
+    {
+        "word_id": "916_预订保留",
+        "word": "reserva"
+    },
+    {
+        "word_id": "912_预订保留",
+        "word": "reservar"
+    },
+    {
+        "word_id": "943_抵抗抗拒",
+        "word": "resistir"
+    },
+    {
+        "word_id": "172_解决",
+        "word": "resolver"
+    },
+    {
+        "word_id": "934_回答",
+        "word": "responder"
+    },
+    {
+        "word_id": "693_认真负责的",
+        "word": "responsable"
+    },
+    {
+        "word_id": "126",
+        "word": "restaurante"
+    },
+    {
+        "word_id": "461_结果",
+        "word": "resultado"
+    },
+    {
+        "word_id": "908_结果是",
+        "word": "resultar"
+    },
+    {
+        "word_id": "706_迟到",
+        "word": "retraso"
+    },
+    {
+        "word_id": "326_会议",
+        "word": "reunión"
+    },
+    {
+        "word_id": "106_杂志",
+        "word": "revista"
+    },
+    {
+        "word_id": "346",
+        "word": "rey"
+    },
+    {
+        "word_id": "819_河",
+        "word": "río"
+    },
+    {
+        "word_id": "82_节奏",
+        "word": "ritmo"
+    },
+    {
+        "word_id": "152_红色的",
+        "word": "rojo"
+    },
+    {
+        "word_id": "527_弄破打破",
+        "word": "romper"
+    },
+    {
+        "word_id": "116_衣服",
+        "word": "ropa"
+    },
+    {
+        "word_id": "141_噪声",
+        "word": "ruido"
+    },
+    {
+        "word_id": "195_星期六",
+        "word": "sábado"
+    },
+    {
+        "word_id": "158",
+        "word": "saber"
+    },
+    {
+        "word_id": "545_取出",
+        "word": "sacar"
+    },
+    {
+        "word_id": "57_厅",
+        "word": "sala"
+    },
+    {
+        "word_id": "128_工资",
+        "word": "salario"
+    },
+    {
+        "word_id": "280",
+        "word": "salida"
+    },
+    {
+        "word_id": "390_离开出去",
+        "word": "salir"
+    },
+    {
+        "word_id": "255",
+        "word": "salón"
+    },
+    {
+        "word_id": "935_跳",
+        "word": "saltar"
+    },
+    {
+        "word_id": "469_身体",
+        "word": "salud"
+    },
+    {
+        "word_id": "5_晒晾干",
+        "word": "secar"
+    },
+    {
+        "word_id": "502_渴",
+        "word": "sed"
+    },
+    {
+        "word_id": "880_丝丝织品",
+        "word": "seda"
+    },
+    {
+        "word_id": "779_继续",
+        "word": "seguir"
+    },
+    {
+        "word_id": "422_根据",
+        "word": "según"
+    },
+    {
+        "word_id": "80_六",
+        "word": "seis"
+    },
+    {
+        "word_id": "222_星期",
+        "word": "semana"
+    },
+    {
+        "word_id": "228_记号迹象",
+        "word": "señal"
+    },
+    {
+        "word_id": "875_指出",
+        "word": "señalar"
+    },
+    {
+        "word_id": "28",
+        "word": "señor"
+    },
+    {
+        "word_id": "29",
+        "word": "señora"
+    },
+    {
+        "word_id": "276_小姐",
+        "word": "señorita"
+    },
+    {
+        "word_id": "820_服饰或颜色等与某人合适相配",
+        "word": "sentar"
+    },
+    {
+        "word_id": "376_含义方向",
+        "word": "sentido"
+    },
+    {
+        "word_id": "555_感觉抱歉",
+        "word": "sentir"
+    },
+    {
+        "word_id": "639_分开",
+        "word": "separar"
+    },
+    {
+        "word_id": "519_九月",
+        "word": "septiembre"
+    },
+    {
+        "word_id": "1_是",
+        "word": "ser"
+    },
+    {
+        "word_id": "919_服务",
+        "word": "servicio"
+    },
+    {
+        "word_id": "797_饭店提供用于",
+        "word": "servir"
+    },
+    {
+        "word_id": "367_60",
+        "word": "sesenta"
+    },
+    {
+        "word_id": "368_70",
+        "word": "setenta"
+    },
+    {
+        "word_id": "600_性性别",
+        "word": "sexo"
+    },
+    {
+        "word_id": "305_如果",
+        "word": "si"
+    },
+    {
+        "word_id": "17_是",
+        "word": "sí"
+    },
+    {
+        "word_id": "399_永远总是",
+        "word": "siempre"
+    },
+    {
+        "word_id": "81_七",
+        "word": "siete"
+    },
+    {
+        "word_id": "733_世纪",
+        "word": "siglo"
+    },
+    {
+        "word_id": "720_含义是",
+        "word": "significar"
+    },
+    {
+        "word_id": "902_下一个",
+        "word": "siguiente"
+    },
+    {
+        "word_id": "662_寂静沉默",
+        "word": "silencio"
+    },
+    {
+        "word_id": "171",
+        "word": "silla"
+    },
+    {
+        "word_id": "364_简单的普通的",
+        "word": "simple"
+    },
+    {
+        "word_id": "468_没有不",
+        "word": "sin"
+    },
+    {
+        "word_id": "262_不同寻常的",
+        "word": "singular"
+    },
+    {
+        "word_id": "704_围困",
+        "word": "sitio"
+    },
+    {
+        "word_id": "206_形势位置",
+        "word": "situación"
+    },
+    {
+        "word_id": "228",
+        "word": "sobre"
+    },
+    {
+        "word_id": "662_社会的",
+        "word": "social"
+    },
+    {
+        "word_id": "356_社会",
+        "word": "sociedad"
+    },
+    {
+        "word_id": "370",
+        "word": "sol"
+    },
+    {
+        "word_id": "712_士兵",
+        "word": "soldado"
+    },
+    {
+        "word_id": "823_惯常做某事",
+        "word": "soler"
+    },
+    {
+        "word_id": "520_解决",
+        "word": "solución"
+    },
+    {
+        "word_id": "78_大沿帽",
+        "word": "sombrero"
+    },
+    {
+        "word_id": "570_响",
+        "word": "sonar"
+    },
+    {
+        "word_id": "587_音",
+        "word": "sonido"
+    },
+    {
+        "word_id": "686_微笑",
+        "word": "sonrisa"
+    },
+    {
+        "word_id": "121",
+        "word": "sopa"
+    },
+    {
+        "word_id": "504_承受",
+        "word": "soportar"
+    },
+    {
+        "word_id": "832_惊喜惊奇",
+        "word": "sorpresa"
+    },
+    {
+        "word_id": "543_猜想",
+        "word": "sospechar"
+    },
+    {
+        "word_id": "43_他的他们的",
+        "word": "su"
+    },
+    {
+        "word_id": "698_上去运上去",
+        "word": "subir"
+    },
+    {
+        "word_id": "429_发生",
+        "word": "suceder"
+    },
+    {
+        "word_id": "164_脏的",
+        "word": "sucio"
+    },
+    {
+        "word_id": "223_地面",
+        "word": "suelo"
+    },
+    {
+        "word_id": "773_运气",
+        "word": "suerte"
+    },
+    {
+        "word_id": "400_及格足够的",
+        "word": "suficiente"
+    },
+    {
+        "word_id": "477_克服超越",
+        "word": "superar"
+    },
+    {
+        "word_id": "741_高级的",
+        "word": "superior"
+    },
+    {
+        "word_id": "785_优势",
+        "word": "superioridad"
+    },
+    {
+        "word_id": "124_设想",
+        "word": "suponer"
+    },
+    {
+        "word_id": "373",
+        "word": "sur"
+    },
+    {
+        "word_id": "231_他的他们的您的",
+        "word": "suyo"
+    },
+    {
+        "word_id": "874_衣物等尺寸",
+        "word": "talla"
+    },
+    {
+        "word_id": "866_尺寸体积",
+        "word": "tamaño"
+    },
+    {
+        "word_id": "154_同样也",
+        "word": "también"
+    },
+    {
+        "word_id": "127_也不",
+        "word": "tampoco"
+    },
+    {
+        "word_id": "309_如此",
+        "word": "tan"
+    },
+    {
+        "word_id": "408_如此这样",
+        "word": "tanto"
+    },
+    {
+        "word_id": "786_耽搁花费时间",
+        "word": "tardar"
+    },
+    {
+        "word_id": "330_晚迟",
+        "word": "tarde"
+    },
+    {
+        "word_id": "99",
+        "word": "té"
+    },
+    {
+        "word_id": "349",
+        "word": "teatro"
+    },
+    {
+        "word_id": "707_科技",
+        "word": "tecnología"
+    },
+    {
+        "word_id": "187",
+        "word": "teléfono"
+    },
+    {
+        "word_id": "397_电视",
+        "word": "televisión"
+    },
+    {
+        "word_id": "722_题目",
+        "word": "tema"
+    },
+    {
+        "word_id": "475_害怕担心",
+        "word": "temer"
+    },
+    {
+        "word_id": "796_害怕",
+        "word": "temor"
+    },
+    {
+        "word_id": "199_庙宇寺院",
+        "word": "templo"
+    },
+    {
+        "word_id": "802_伸开铺开",
+        "word": "tender"
+    },
+    {
+        "word_id": "197_有",
+        "word": "tener"
+    },
+    {
+        "word_id": "455_网球",
+        "word": "tenis"
+    },
+    {
+        "word_id": "725_第三",
+        "word": "tercero"
+    },
+    {
+        "word_id": "561_结束",
+        "word": "terminar"
+    },
+    {
+        "word_id": "765_可怕的",
+        "word": "terrible"
+    },
+    {
+        "word_id": "730_论文",
+        "word": "tesis"
+    },
+    {
+        "word_id": "802_证人",
+        "word": "testigo"
+    },
+    {
+        "word_id": "204_课文",
+        "word": "texto"
+    },
+    {
+        "word_id": "449_时间",
+        "word": "tiempo"
+    },
+    {
+        "word_id": "186",
+        "word": "tienda"
+    },
+    {
+        "word_id": "731_土地地球",
+        "word": "tierra"
+    },
+    {
+        "word_id": "869_品种种类",
+        "word": "tipo"
+    },
+    {
+        "word_id": "295_题目",
+        "word": "título"
+    },
+    {
+        "word_id": "321_还仍然",
+        "word": "todavía"
+    },
+    {
+        "word_id": "68_所有",
+        "word": "todo, da"
+    },
+    {
+        "word_id": "441_拿起此处吃",
+        "word": "tomar"
+    },
+    {
+        "word_id": "667_语调",
+        "word": "tono"
+    },
+    {
+        "word_id": "279_傻瓜笨蛋",
+        "word": "tonto"
+    },
+    {
+        "word_id": "20",
+        "word": "trabajador"
+    },
+    {
+        "word_id": "194",
+        "word": "trabajar"
+    },
+    {
+        "word_id": "189",
+        "word": "trabajo"
+    },
+    {
+        "word_id": "557_传统的",
+        "word": "tradicional"
+    },
+    {
+        "word_id": "375_翻译活动",
+        "word": "traducción"
+    },
+    {
+        "word_id": "301_带来",
+        "word": "traer"
+    },
+    {
+        "word_id": "759_市内交通",
+        "word": "tráfico"
+    },
+    {
+        "word_id": "112_悲剧",
+        "word": "tragedia"
+    },
+    {
+        "word_id": "783_背叛",
+        "word": "traición"
+    },
+    {
+        "word_id": "803_陷阱",
+        "word": "trampa"
+    },
+    {
+        "word_id": "486_在之后",
+        "word": "tras"
+    },
+    {
+        "word_id": "630_迁移调动",
+        "word": "traslado"
+    },
+    {
+        "word_id": "373_交往",
+        "word": "tratar"
+    },
+    {
+        "word_id": "135_十三",
+        "word": "trece"
+    },
+    {
+        "word_id": "161_三十",
+        "word": "treinta"
+    },
+    {
+        "word_id": "684_火车",
+        "word": "tren"
+    },
+    {
+        "word_id": "22_三",
+        "word": "tres"
+    },
+    {
+        "word_id": "404_悲伤忧愁",
+        "word": "triste"
+    },
+    {
+        "word_id": "169_你的",
+        "word": "tu"
+    },
+    {
+        "word_id": "44_你",
+        "word": "tú"
+    },
+    {
+        "word_id": "772_地道",
+        "word": "túnel"
+    },
+    {
+        "word_id": "342_旅游业",
+        "word": "turismo"
+    },
+    {
+        "word_id": "196",
+        "word": "turista"
+    },
+    {
+        "word_id": "56_阳性单数不定冠词",
+        "word": "un"
+    },
+    {
+        "word_id": "148",
+        "word": "unidad"
+    },
+    {
+        "word_id": "840_制服",
+        "word": "uniforme"
+    },
+    {
+        "word_id": "132",
+        "word": "universidad"
+    },
+    {
+        "word_id": "584_紧急的",
+        "word": "urgente"
+    },
+    {
+        "word_id": "590_使用",
+        "word": "usar"
+    },
+    {
+        "word_id": "47_您",
+        "word": "usted"
+    },
+    {
+        "word_id": "528_葡萄",
+        "word": "uva"
+    },
+    {
+        "word_id": "195",
+        "word": "vacaciones"
+    },
+    {
+        "word_id": "716_空的",
+        "word": "vacío"
+    },
+    {
+        "word_id": "582_价值",
+        "word": "valor"
+    },
+    {
+        "word_id": "119_有所不同",
+        "word": "variar"
+    },
+    {
+        "word_id": "465_杯子",
+        "word": "vaso"
+    },
+    {
+        "word_id": "158_二十",
+        "word": "veinte"
+    },
+    {
+        "word_id": "142_二十五",
+        "word": "veinticinco"
+    },
+    {
+        "word_id": "899_速度",
+        "word": "velocidad"
+    },
+    {
+        "word_id": "800_战胜",
+        "word": "vencer"
+    },
+    {
+        "word_id": "192",
+        "word": "vender"
+    },
+    {
+        "word_id": "232_来",
+        "word": "venir"
+    },
+    {
+        "word_id": "249",
+        "word": "ventana"
+    },
+    {
+        "word_id": "219_看看望",
+        "word": "ver"
+    },
+    {
+        "word_id": "381",
+        "word": "verano"
+    },
+    {
+        "word_id": "256_真理事实",
+        "word": "verdad"
+    },
+    {
+        "word_id": "111",
+        "word": "verdura"
+    },
+    {
+        "word_id": "471_次回",
+        "word": "vez"
+    },
+    {
+        "word_id": "198",
+        "word": "viajar"
+    },
+    {
+        "word_id": "175_旅行",
+        "word": "viaje"
+    },
+    {
+        "word_id": "229_生命生活",
+        "word": "vida"
+    },
+    {
+        "word_id": "58",
+        "word": "viejo"
+    },
+    {
+        "word_id": "3_风",
+        "word": "viento"
+    },
+    {
+        "word_id": "194_星期五",
+        "word": "viernes"
+    },
+    {
+        "word_id": "567_拜访来访",
+        "word": "visita"
+    },
+    {
+        "word_id": "890_来访者参观者",
+        "word": "visitante"
+    },
+    {
+        "word_id": "775_访问看望",
+        "word": "visitar"
+    },
+    {
+        "word_id": "568_前夕前夜",
+        "word": "víspera"
+    },
+    {
+        "word_id": "922_视野视线",
+        "word": "vista"
+    },
+    {
+        "word_id": "42",
+        "word": "vivir"
+    },
+    {
+        "word_id": "402_飞",
+        "word": "volar"
+    },
+    {
+        "word_id": "146_音量",
+        "word": "volumen"
+    },
+    {
+        "word_id": "280_回来",
+        "word": "volver"
+    },
+    {
+        "word_id": "423_飞航班",
+        "word": "vuelo"
+    },
+    {
+        "word_id": "865_一圈",
+        "word": "vuelta"
+    },
+    {
+        "word_id": "15_和",
+        "word": "y"
+    },
+    {
+        "word_id": "247_现在已经",
+        "word": "ya"
+    },
+    {
+        "word_id": "40_我",
+        "word": "yo"
+    },
+    {
+        "word_id": "652_区域地区",
+        "word": "zona"
+    }
+]

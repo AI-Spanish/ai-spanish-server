@@ -1,0 +1,55 @@
+[
+  {
+    "id": "Travel",
+    "title": "旅行",
+    "desc": "This is a travel scene",
+    "children": [
+      {
+        "model": "Travel",
+        "id": "ASK_ROAD",
+        "title": "问路",
+        "desc": "This is a ask rote scene",
+        "thumb": "https://spanish-hhw.oss-cn-shanghai.aliyuncs.com/system/travel.png"
+      },
+      {
+        "model": "Travel",
+        "id": "EAT",
+        "title": "用餐饮食",
+        "desc": "This is a ask eat scene",
+        "thumb": "https://spanish-hhw.oss-cn-shanghai.aliyuncs.com/system/eat.png"
+      }
+    ]
+  },
+  {
+    "id": "Culture",
+    "title": "文化",
+    "desc": "This is a culture scene",
+    "children": [
+      {
+        "model": "Culture",
+        "id": "GREET",
+        "title": "问候",
+        "desc": "This is a greet scene",
+        "thumb": "https://spanish-hhw.oss-cn-shanghai.aliyuncs.com/system/greet.png"
+      }
+    ]
+  },
+  {
+    "id": "Geography",
+    "title": "地理",
+    "desc": "This is a culture scene",
+    "children": []
+  },
+  {
+    "id": "Technology",
+    "title": "科技",
+    "desc": "This is a culture scene",
+    "children": []
+  },
+  {
+    "id": "Literature",
+    "title": "文学",
+    "desc": "This is a culture scene",
+    "children": []
+  }
+]

@@ -1,0 +1,426 @@
+[
+    {
+        "id": "759_市内交通",
+        "pos": "m.",
+        "word": "tráfico",
+        "definition": "343页",
+        "translation": "m. （市内）交通",
+        "voiceUrl": "modernSpanish/modernSpanish_121/759_市内交通.mp3"
+    },
+    {
+        "id": "760_前天",
+        "pos": "adv.",
+        "word": "anteayer",
+        "definition": "343页",
+        "translation": "adv. 前天",
+        "voiceUrl": "modernSpanish/modernSpanish_121/760_前天.mp3"
+    },
+    {
+        "id": "761_车库",
+        "pos": "m.",
+        "word": "garaje",
+        "definition": "343页",
+        "translation": "m. 车库",
+        "voiceUrl": "modernSpanish/modernSpanish_121/761_车库.mp3"
+    },
+    {
+        "id": "762_上路",
+        "pos": null,
+        "word": "ponerse en camino",
+        "definition": "343页",
+        "translation": "上路",
+        "voiceUrl": "modernSpanish/modernSpanish_121/762_上路.mp3"
+    },
+    {
+        "id": "763_走了没几米",
+        "pos": null,
+        "word": "a los pocos metros",
+        "definition": "343页",
+        "translation": "（走了）没几米",
+        "voiceUrl": "modernSpanish/modernSpanish_121/763_走了没几米.mp3"
+    },
+    {
+        "id": "764_发生产生",
+        "pos": "tr.",
+        "word": "producir",
+        "definition": "343页",
+        "translation": "tr. 发生，产生",
+        "voiceUrl": "modernSpanish/modernSpanish_121/764_发生产生.mp3"
+    },
+    {
+        "id": "765_可怕的",
+        "pos": "adj.",
+        "word": "terrible",
+        "definition": "343页",
+        "translation": "adj. 可怕的",
+        "voiceUrl": "modernSpanish/modernSpanish_121/765_可怕的.mp3"
+    },
+    {
+        "id": "766_堵塞",
+        "pos": "m.",
+        "word": "atasco",
+        "definition": "343页",
+        "translation": "m. 堵塞",
+        "voiceUrl": "modernSpanish/modernSpanish_121/766_堵塞.mp3"
+    },
+    {
+        "id": "767_前进",
+        "pos": "intr.",
+        "word": "avanzar",
+        "definition": "343页",
+        "translation": "intr. 前进",
+        "voiceUrl": "modernSpanish/modernSpanish_121/767_前进.mp3"
+    },
+    {
+        "id": "768_等待",
+        "pos": "f.",
+        "word": "espera",
+        "definition": "343页",
+        "translation": "f. 等待",
+        "voiceUrl": "modernSpanish/modernSpanish_121/768_等待.mp3"
+    },
+    {
+        "id": "769_决定",
+        "pos": "tr.",
+        "word": "decidir",
+        "definition": "343页",
+        "translation": "tr. 决定",
+        "voiceUrl": "modernSpanish/modernSpanish_121/769_决定.mp3"
+    },
+    {
+        "id": "770_停车",
+        "pos": "tr.",
+        "word": "aparcar",
+        "definition": "343页",
+        "translation": "tr. 停车",
+        "voiceUrl": "modernSpanish/modernSpanish_121/770_停车.mp3"
+    },
+    {
+        "id": "771_下去",
+        "pos": "intr.",
+        "word": "bajar",
+        "definition": "343页",
+        "translation": "intr. 下去",
+        "voiceUrl": "modernSpanish/modernSpanish_121/771_下去.mp3"
+    },
+    {
+        "id": "772_地道",
+        "pos": "m.",
+        "word": "túnel",
+        "definition": "343页",
+        "translation": "m. 地道",
+        "voiceUrl": "modernSpanish/modernSpanish_121/772_地道.mp3"
+    },
+    {
+        "id": "773_运气",
+        "pos": "f.",
+        "word": "suerte",
+        "definition": "343页",
+        "translation": "f. 运气",
+        "voiceUrl": "modernSpanish/modernSpanish_121/773_运气.mp3"
+    },
+    {
+        "id": "774_站台",
+        "pos": "m.",
+        "word": "andén",
+        "definition": "343页",
+        "translation": "m. 站台",
+        "voiceUrl": "modernSpanish/modernSpanish_121/774_站台.mp3"
+    },
+    {
+        "id": "775_市内车站",
+        "pos": "f.",
+        "word": "parada",
+        "definition": "343页",
+        "translation": "f. （市内）车站",
+        "voiceUrl": "modernSpanish/modernSpanish_121/775_市内车站.mp3"
+    },
+    {
+        "id": "776_突然",
+        "pos": null,
+        "word": "de repente",
+        "definition": "343页",
+        "translation": "突然",
+        "voiceUrl": "modernSpanish/modernSpanish_121/776_突然.mp3"
+    },
+    {
+        "id": "777_通知",
+        "pos": "tr.",
+        "word": "avisar",
+        "definition": "343页",
+        "translation": "tr. 通知",
+        "voiceUrl": "modernSpanish/modernSpanish_121/777_通知.mp3"
+    },
+    {
+        "id": "778_故障损伤",
+        "pos": "f.",
+        "word": "avería",
+        "definition": "343页",
+        "translation": "f. 故障，损伤",
+        "voiceUrl": "modernSpanish/modernSpanish_121/778_故障损伤.mp3"
+    },
+    {
+        "id": "779_继续",
+        "pos": "tr.,intr.",
+        "word": "seguir",
+        "definition": "343页",
+        "translation": "tr.,intr. 继续",
+        "voiceUrl": "modernSpanish/modernSpanish_121/779_继续.mp3"
+    },
+    {
+        "id": "780_向前",
+        "pos": "adv.",
+        "word": "adelante",
+        "definition": "343页",
+        "translation": "adv. 向前",
+        "voiceUrl": "modernSpanish/modernSpanish_121/780_向前.mp3"
+    },
+    {
+        "id": "781_必须精确的",
+        "pos": "adj.",
+        "word": "preciso",
+        "definition": "343页",
+        "translation": "adj. 必须；精确的",
+        "voiceUrl": "modernSpanish/modernSpanish_121/781_必须精确的.mp3"
+    },
+    {
+        "id": "782_其他的",
+        "pos": "adj",
+        "word": "demás",
+        "definition": "343页",
+        "translation": "adj 其他的",
+        "voiceUrl": "modernSpanish/modernSpanish_121/782_其他的.mp3"
+    },
+    {
+        "id": "783_乘客",
+        "pos": "m.,f.",
+        "word": "pasajero,ra",
+        "definition": "343页",
+        "translation": "m.,f. 乘客",
+        "voiceUrl": "modernSpanish/modernSpanish_121/783_乘客.mp3"
+    },
+    {
+        "id": "784_走路",
+        "pos": "intr.",
+        "word": "andar",
+        "definition": "343页",
+        "translation": "intr. 走路",
+        "voiceUrl": "modernSpanish/modernSpanish_121/784_走路.mp3"
+    },
+    {
+        "id": "785_购物等排的队",
+        "pos": "f.",
+        "word": "cola",
+        "definition": "343页",
+        "translation": "f. （购物等）排的队",
+        "voiceUrl": "modernSpanish/modernSpanish_121/785_购物等排的队.mp3"
+    },
+    {
+        "id": "786_耽搁花费时间",
+        "pos": "intr.",
+        "word": "tardar",
+        "definition": "343页",
+        "translation": "intr. 耽搁，花费（时间）",
+        "voiceUrl": "modernSpanish/modernSpanish_121/786_耽搁花费时间.mp3"
+    },
+    {
+        "id": "787_拐角",
+        "pos": "f.",
+        "word": "esquina",
+        "definition": "343页",
+        "translation": "f. 拐角",
+        "voiceUrl": "modernSpanish/modernSpanish_121/787_拐角.mp3"
+    },
+    {
+        "id": "788_拥抱",
+        "pos": "tr.",
+        "word": "abrazar",
+        "definition": "343页",
+        "translation": "tr. 拥抱",
+        "voiceUrl": "modernSpanish/modernSpanish_121/788_拥抱.mp3"
+    },
+    {
+        "id": "789_新近地",
+        "pos": "adv.",
+        "word": "recién",
+        "definition": "343页",
+        "translation": "adv. 新近地",
+        "voiceUrl": "modernSpanish/modernSpanish_121/789_新近地.mp3"
+    },
+    {
+        "id": "790_原谅致歉",
+        "pos": "tr.,prnl.",
+        "word": "excusar(se)",
+        "definition": "343页",
+        "translation": "tr.,prnl. 原谅；致歉",
+        "voiceUrl": "modernSpanish/modernSpanish_121/790_原谅致歉.mp3"
+    },
+    {
+        "id": "791_节日庆祝聚会",
+        "pos": "f.",
+        "word": "fiesta",
+        "definition": "343页",
+        "translation": "f. 节日，庆祝聚会",
+        "voiceUrl": "modernSpanish/modernSpanish_121/791_节日庆祝聚会.mp3"
+    },
+    {
+        "id": "792_人民村镇",
+        "pos": "m.",
+        "word": "pueblo",
+        "definition": "343页",
+        "translation": "m. 人民；村镇",
+        "voiceUrl": "modernSpanish/modernSpanish_121/792_人民村镇.mp3"
+    },
+    {
+        "id": "793_听",
+        "pos": "tr.",
+        "word": "escuchar",
+        "definition": "343页",
+        "translation": "tr. 听",
+        "voiceUrl": "modernSpanish/modernSpanish_121/793_听.mp3"
+    },
+    {
+        "id": "794_高速公路",
+        "pos": "f.",
+        "word": "autopista",
+        "definition": "343页",
+        "translation": "f. 高速公路",
+        "voiceUrl": "modernSpanish/modernSpanish_121/794_高速公路.mp3"
+    },
+    {
+        "id": "795_事故",
+        "pos": "m.",
+        "word": "accidente",
+        "definition": "343页",
+        "translation": "m. 事故",
+        "voiceUrl": "modernSpanish/modernSpanish_121/795_事故.mp3"
+    },
+    {
+        "id": "796_恰恰是",
+        "pos": "adv.",
+        "word": "precisamente",
+        "definition": "343页",
+        "translation": "adv. 恰恰是",
+        "voiceUrl": "modernSpanish/modernSpanish_121/796_恰恰是.mp3"
+    },
+    {
+        "id": "797_令人绝望的",
+        "pos": "adj.",
+        "word": "desesperante",
+        "definition": "343页",
+        "translation": "adj. 令人绝望的",
+        "voiceUrl": "modernSpanish/modernSpanish_121/797_令人绝望的.mp3"
+    },
+    {
+        "id": "798_死人",
+        "pos": "p.p.",
+        "word": "muerto",
+        "definition": "343页",
+        "translation": "p.p. 死人",
+        "voiceUrl": "modernSpanish/modernSpanish_121/798_死人.mp3"
+    },
+    {
+        "id": "799_受伤的",
+        "pos": "p.p.",
+        "word": "herido",
+        "definition": "343页",
+        "translation": "p.p. 受伤的",
+        "voiceUrl": "modernSpanish/modernSpanish_121/799_受伤的.mp3"
+    },
+    {
+        "id": "800_警察",
+        "pos": "m.,f.",
+        "word": "policía",
+        "definition": "343页",
+        "translation": "m.,f. 警察",
+        "voiceUrl": "modernSpanish/modernSpanish_121/800_警察.mp3"
+    },
+    {
+        "id": "801_救护车",
+        "pos": "f.",
+        "word": "ambulancia",
+        "definition": "343页",
+        "translation": "f. 救护车",
+        "voiceUrl": "modernSpanish/modernSpanish_121/801_救护车.mp3"
+    },
+    {
+        "id": "802_证人",
+        "pos": "m.",
+        "word": "testigo",
+        "definition": "343页",
+        "translation": "m. 证人",
+        "voiceUrl": "modernSpanish/modernSpanish_121/802_证人.mp3"
+    },
+    {
+        "id": "803_警察局",
+        "pos": "f.",
+        "word": "comisaría",
+        "definition": "343页",
+        "translation": "f. 警察局",
+        "voiceUrl": "modernSpanish/modernSpanish_121/803_警察局.mp3"
+    },
+    {
+        "id": "804_经常",
+        "pos": null,
+        "word": "a menudo",
+        "definition": "344页",
+        "translation": "经常",
+        "voiceUrl": "modernSpanish/modernSpanish_121/804_经常.mp3"
+    },
+    {
+        "id": "805_由于",
+        "pos": null,
+        "word": "a causa de",
+        "definition": "344页",
+        "translation": "由于",
+        "voiceUrl": "modernSpanish/modernSpanish_121/805_由于.mp3"
+    },
+    {
+        "id": "806_慢慢地",
+        "pos": null,
+        "word": "poco a poco",
+        "definition": "344页",
+        "translation": "慢慢地",
+        "voiceUrl": "modernSpanish/modernSpanish_121/806_慢慢地.mp3"
+    },
+    {
+        "id": "807_禁止",
+        "pos": "tr.",
+        "word": "prohibir",
+        "definition": "344页",
+        "translation": "tr. 禁止",
+        "voiceUrl": "modernSpanish/modernSpanish_121/807_禁止.mp3"
+    },
+    {
+        "id": "808_忍耐",
+        "pos": "p.p.",
+        "word": "resignado",
+        "definition": "344页",
+        "translation": "p.p. 忍耐",
+        "voiceUrl": "modernSpanish/modernSpanish_121/808_忍耐.mp3"
+    },
+    {
+        "id": "809_让座位等",
+        "pos": "tr.",
+        "word": "ceder",
+        "definition": "344页",
+        "translation": "tr. 让（座位等）",
+        "voiceUrl": "modernSpanish/modernSpanish_121/809_让座位等.mp3"
+    },
+    {
+        "id": "810_小心注意",
+        "pos": "m.",
+        "word": "cuidado",
+        "definition": "344页",
+        "translation": "m. 小心，注意",
+        "voiceUrl": "modernSpanish/modernSpanish_121/810_小心注意.mp3"
+    },
+    {
+        "id": "811_小广场",
+        "pos": "f.",
+        "word": "plazoleta",
+        "definition": "344页",
+        "translation": "f. 小广场",
+        "voiceUrl": "modernSpanish/modernSpanish_121/811_小广场.mp3"
+    }
+]

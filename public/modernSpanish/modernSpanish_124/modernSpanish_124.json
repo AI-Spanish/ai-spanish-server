@@ -1,0 +1,378 @@
+[
+    {
+        "id": "920_屠夫",
+        "pos": "m.,f.",
+        "word": "carnicero,ra",
+        "definition": "404页",
+        "translation": "m.,f. 屠夫",
+        "voiceUrl": "modernSpanish/modernSpanish_124/920_屠夫.mp3"
+    },
+    {
+        "id": "921_改编节选",
+        "pos": "f.",
+        "word": "adaptación",
+        "definition": "404页",
+        "translation": "f. 改编，节选",
+        "voiceUrl": "modernSpanish/modernSpanish_124/921_改编节选.mp3"
+    },
+    {
+        "id": "922_寓言",
+        "pos": "f.",
+        "word": "fábula",
+        "definition": "404页",
+        "translation": "f. 寓言",
+        "voiceUrl": "modernSpanish/modernSpanish_124/922_寓言.mp3"
+    },
+    {
+        "id": "923_伊索",
+        "pos": null,
+        "word": "Esopo",
+        "definition": "404页",
+        "translation": "伊索",
+        "voiceUrl": "modernSpanish/modernSpanish_124/923_伊索.mp3"
+    },
+    {
+        "id": "924_驴子",
+        "pos": "m.",
+        "word": "asno",
+        "definition": "404页",
+        "translation": "m. 驴子",
+        "voiceUrl": "modernSpanish/modernSpanish_124/924_驴子.mp3"
+    },
+    {
+        "id": "925_放牧牲畜吃草",
+        "pos": "tr.,intr.",
+        "word": "pastar",
+        "definition": "404页",
+        "translation": "tr.,intr. 放牧，（牲畜）吃草",
+        "voiceUrl": "modernSpanish/modernSpanish_124/925_放牧牲畜吃草.mp3"
+    },
+    {
+        "id": "926_安安静静地",
+        "pos": "adv.",
+        "word": "tranquilamente",
+        "definition": "404页",
+        "translation": "adv. 安安静静地",
+        "voiceUrl": "modernSpanish/modernSpanish_124/926_安安静静地.mp3"
+    },
+    {
+        "id": "927_草地",
+        "pos": "m.",
+        "word": "prado",
+        "definition": "404页",
+        "translation": "m. 草地",
+        "voiceUrl": "modernSpanish/modernSpanish_124/927_草地.mp3"
+    },
+    {
+        "id": "928_狼",
+        "pos": "m.",
+        "word": "lobo",
+        "definition": "404页",
+        "translation": "m. 狼",
+        "voiceUrl": "modernSpanish/modernSpanish_124/928_狼.mp3"
+    },
+    {
+        "id": "929_逃跑",
+        "pos": "intr.",
+        "word": "huir",
+        "definition": "404页",
+        "translation": "intr. 逃跑",
+        "voiceUrl": "modernSpanish/modernSpanish_124/929_逃跑.mp3"
+    },
+    {
+        "id": "930_害怕",
+        "pos": "m.",
+        "word": "miedo",
+        "definition": "404页",
+        "translation": "m. 害怕",
+        "voiceUrl": "modernSpanish/modernSpanish_124/930_害怕.mp3"
+    },
+    {
+        "id": "931_雀拐",
+        "pos": "adj.",
+        "word": "cojo",
+        "definition": "405页",
+        "translation": "adj. 雀，拐",
+        "voiceUrl": "modernSpanish/modernSpanish_124/931_雀拐.mp3"
+    },
+    {
+        "id": "932_使靠近靠近",
+        "pos": "tr.,prnl.",
+        "word": "aproximar(se)",
+        "definition": "405页",
+        "translation": "tr.,prnl. 使靠近；靠近",
+        "voiceUrl": "modernSpanish/modernSpanish_124/932_使靠近靠近.mp3"
+    },
+    {
+        "id": "933_一雀一拐",
+        "pos": "intr.",
+        "word": "cojear",
+        "definition": "405页",
+        "translation": "intr. 一雀一拐",
+        "voiceUrl": "modernSpanish/modernSpanish_124/933_一雀一拐.mp3"
+    },
+    {
+        "id": "934_回答",
+        "pos": "tr.",
+        "word": "responder",
+        "definition": "405页",
+        "translation": "tr. 回答",
+        "voiceUrl": "modernSpanish/modernSpanish_124/934_回答.mp3"
+    },
+    {
+        "id": "935_跳",
+        "pos": "intr.",
+        "word": "saltar",
+        "definition": "405页",
+        "translation": "intr. 跳",
+        "voiceUrl": "modernSpanish/modernSpanish_124/935_跳.mp3"
+    },
+    {
+        "id": "936_栅栏",
+        "pos": "f.",
+        "word": "cerca",
+        "definition": "405页",
+        "translation": "f. 栅栏",
+        "voiceUrl": "modernSpanish/modernSpanish_124/936_栅栏.mp3"
+    },
+    {
+        "id": "937_钉进扎进",
+        "pos": "tr.",
+        "word": "clavar",
+        "definition": "405页",
+        "translation": "tr. 钉进，扎进",
+        "voiceUrl": "modernSpanish/modernSpanish_124/937_钉进扎进.mp3"
+    },
+    {
+        "id": "938_刺",
+        "pos": "f.",
+        "word": "espina",
+        "definition": "405页",
+        "translation": "f. 刺",
+        "voiceUrl": "modernSpanish/modernSpanish_124/938_刺.mp3"
+    },
+    {
+        "id": "939_蹄甲",
+        "pos": "m.",
+        "word": "casco",
+        "definition": "405页",
+        "translation": "m. 蹄甲",
+        "voiceUrl": "modernSpanish/modernSpanish_124/939_蹄甲.mp3"
+    },
+    {
+        "id": "940_肿胀",
+        "pos": "p.p.",
+        "word": "hinchado",
+        "definition": "405页",
+        "translation": "p.p. 肿胀",
+        "voiceUrl": "modernSpanish/modernSpanish_124/940_肿胀.mp3"
+    },
+    {
+        "id": "941_吞食",
+        "pos": "tr.",
+        "word": "devorar",
+        "definition": "405页",
+        "translation": "tr. 吞食",
+        "voiceUrl": "modernSpanish/modernSpanish_124/941_吞食.mp3"
+    },
+    {
+        "id": "942_拔除",
+        "pos": "tr.",
+        "word": "arrancar",
+        "definition": "405页",
+        "translation": "tr. 拔除",
+        "voiceUrl": "modernSpanish/modernSpanish_124/942_拔除.mp3"
+    },
+    {
+        "id": "943_抵抗抗拒",
+        "pos": "intr.",
+        "word": "resistir",
+        "definition": "404页",
+        "translation": "intr. 抵抗，抗拒",
+        "voiceUrl": "modernSpanish/modernSpanish_124/943_抵抗抗拒.mp3"
+    },
+    {
+        "id": "944_宽容仁慈",
+        "pos": "f.",
+        "word": "clemencia",
+        "definition": "404页",
+        "translation": "f. 宽容，仁慈",
+        "voiceUrl": "modernSpanish/modernSpanish_124/944_宽容仁慈.mp3"
+    },
+    {
+        "id": "945_名声",
+        "pos": "f.",
+        "word": "fama",
+        "definition": "404页",
+        "translation": "f. 名声",
+        "voiceUrl": "modernSpanish/modernSpanish_124/945_名声.mp3"
+    },
+    {
+        "id": "946_残忍的",
+        "pos": "adj.",
+        "word": "cruel",
+        "definition": "404页",
+        "translation": "adj. 残忍的",
+        "voiceUrl": "modernSpanish/modernSpanish_124/946_残忍的.mp3"
+    },
+    {
+        "id": "947_动",
+        "pos": "tr.",
+        "word": "mover",
+        "definition": "404页",
+        "translation": "tr. 动",
+        "voiceUrl": "modernSpanish/modernSpanish_124/947_动.mp3"
+    },
+    {
+        "id": "948_耳朵",
+        "pos": "f.",
+        "word": "oreja",
+        "definition": "404页",
+        "translation": "f. 耳朵",
+        "voiceUrl": "modernSpanish/modernSpanish_124/948_耳朵.mp3"
+    },
+    {
+        "id": "949_爪子",
+        "pos": "f.",
+        "word": "garra",
+        "definition": "404页",
+        "translation": "f. 爪子",
+        "voiceUrl": "modernSpanish/modernSpanish_124/949_爪子.mp3"
+    },
+    {
+        "id": "950_难处困难处境",
+        "pos": "m.",
+        "word": "apuro",
+        "definition": "404页",
+        "translation": "m. 难处，困难处境",
+        "voiceUrl": "modernSpanish/modernSpanish_124/950_难处困难处境.mp3"
+    },
+    {
+        "id": "951_磨尖使敏锐",
+        "pos": "tr.",
+        "word": "agudizar",
+        "definition": "404页",
+        "translation": "tr. 磨尖；使敏锐",
+        "voiceUrl": "modernSpanish/modernSpanish_124/951_磨尖使敏锐.mp3"
+    },
+    {
+        "id": "952_才智才能",
+        "pos": "tr.",
+        "word": "ingenio",
+        "definition": "404页",
+        "translation": "tr. 才智，才能",
+        "voiceUrl": "modernSpanish/modernSpanish_124/952_才智才能.mp3"
+    },
+    {
+        "id": "953_突发奇想",
+        "pos": null,
+        "word": "ocurrírsele (a uno) algo",
+        "definition": "404页",
+        "translation": "突发奇想",
+        "voiceUrl": "modernSpanish/modernSpanish_124/953_突发奇想.mp3"
+    },
+    {
+        "id": "954_假装",
+        "pos": "tr.,prnl.",
+        "word": "fingir(se)",
+        "definition": "404页",
+        "translation": "tr.,prnl. 假装",
+        "voiceUrl": "modernSpanish/modernSpanish_124/954_假装.mp3"
+    },
+    {
+        "id": "955_嘴",
+        "pos": "f.",
+        "word": "boca",
+        "definition": "405页",
+        "translation": "f. 嘴",
+        "voiceUrl": "modernSpanish/modernSpanish_124/955_嘴.mp3"
+    },
+    {
+        "id": "956_道理理智",
+        "pos": "f.",
+        "word": "razón",
+        "definition": "405页",
+        "translation": "f. 道理，理智",
+        "voiceUrl": "modernSpanish/modernSpanish_124/956_道理理智.mp3"
+    },
+    {
+        "id": "957_蹄子",
+        "pos": "f.",
+        "word": "pata",
+        "definition": "405页",
+        "translation": "f. 蹄子",
+        "voiceUrl": "modernSpanish/modernSpanish_124/957_蹄子.mp3"
+    },
+    {
+        "id": "958_检查",
+        "pos": "tr.",
+        "word": "examinar",
+        "definition": "405页",
+        "translation": "tr. 检查",
+        "voiceUrl": "modernSpanish/modernSpanish_124/958_检查.mp3"
+    },
+    {
+        "id": "959_专心致志",
+        "pos": "adv.",
+        "word": "atentamente",
+        "definition": "405页",
+        "translation": "adv. 专心致志",
+        "voiceUrl": "modernSpanish/modernSpanish_124/959_专心致志.mp3"
+    },
+    {
+        "id": "960_脚",
+        "pos": "m.",
+        "word": "pie",
+        "definition": "405页",
+        "translation": "m. 脚",
+        "voiceUrl": "modernSpanish/modernSpanish_124/960_脚.mp3"
+    },
+    {
+        "id": "961_凶猛的凶狠的",
+        "pos": "adj.",
+        "word": "feroz",
+        "definition": "405页",
+        "translation": "adj. 凶猛的，凶狠的",
+        "voiceUrl": "modernSpanish/modernSpanish_124/961_凶猛的凶狠的.mp3"
+    },
+    {
+        "id": "962_踢一下",
+        "pos": "f.",
+        "word": "coz",
+        "definition": "405页",
+        "translation": "f. 踢（一下）",
+        "voiceUrl": "modernSpanish/modernSpanish_124/962_踢一下.mp3"
+    },
+    {
+        "id": "963_受虐待的",
+        "pos": "p.p.",
+        "word": "maltratado",
+        "definition": "405页",
+        "translation": "p.p. 受虐待的",
+        "voiceUrl": "modernSpanish/modernSpanish_124/963_受虐待的.mp3"
+    },
+    {
+        "id": "964_应该得到",
+        "pos": "tr.,prnl.",
+        "word": "merecer(se)",
+        "definition": "405页",
+        "translation": "tr.,prnl. 应该得到",
+        "voiceUrl": "modernSpanish/modernSpanish_124/964_应该得到.mp3"
+    },
+    {
+        "id": "965_行当",
+        "pos": "m.",
+        "word": "oficio",
+        "definition": "405页",
+        "translation": "m. 行当",
+        "voiceUrl": "modernSpanish/modernSpanish_124/965_行当.mp3"
+    },
+    {
+        "id": "966_滥竽充数干某事",
+        "pos": null,
+        "word": "meterse de",
+        "definition": "405页",
+        "translation": "滥竽充数干某事",
+        "voiceUrl": "modernSpanish/modernSpanish_124/966_滥竽充数干某事.mp3"
+    }
+]

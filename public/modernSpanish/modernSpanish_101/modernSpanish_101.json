@@ -1,0 +1,194 @@
+[
+    {
+        "id": "0_谁",
+        "pos": "pron.",
+        "word": "quién",
+        "definition": "6页",
+        "translation": "pron. 谁",
+        "voiceUrl": "modernSpanish/modernSpanish_101/0_谁.mp3"
+    },
+    {
+        "id": "1_是",
+        "pos": "intr.",
+        "word": "ser",
+        "definition": "6页",
+        "translation": "intr. 是",
+        "voiceUrl": "modernSpanish/modernSpanish_101/1_是.mp3"
+    },
+    {
+        "id": "2_他她它是",
+        "pos": null,
+        "word": "es",
+        "definition": "6页",
+        "translation": "（他，她，它）是",
+        "voiceUrl": "modernSpanish/modernSpanish_101/2_他她它是.mp3"
+    },
+    {
+        "id": "3_他们她们是",
+        "pos": null,
+        "word": "son",
+        "definition": "6页",
+        "translation": "（他们，她们）是",
+        "voiceUrl": "modernSpanish/modernSpanish_101/3_他们她们是.mp3"
+    },
+    {
+        "id": "4_他",
+        "pos": "pron.",
+        "word": "él",
+        "definition": "6页",
+        "translation": "pron. 他",
+        "voiceUrl": "modernSpanish/modernSpanish_101/4_他.mp3"
+    },
+    {
+        "id": "5_巴科男人名",
+        "pos": "m.,f.",
+        "word": "Paco",
+        "definition": "6页",
+        "translation": "m.,f. 巴科（男人名）",
+        "voiceUrl": "modernSpanish/modernSpanish_101/5_巴科男人名.mp3"
+    },
+    {
+        "id": "6_古巴人",
+        "pos": null,
+        "word": "cubano,na",
+        "definition": "6页",
+        "translation": "古巴人",
+        "voiceUrl": "modernSpanish/modernSpanish_101/6_古巴人.mp3"
+    },
+    {
+        "id": "7_贝贝男人名",
+        "pos": null,
+        "word": "Pepe",
+        "definition": "6页",
+        "translation": "贝贝（男人名）",
+        "voiceUrl": "modernSpanish/modernSpanish_101/7_贝贝男人名.mp3"
+    },
+    {
+        "id": "8_智利人",
+        "pos": "m.,f.",
+        "word": "chileno,na",
+        "definition": "6页",
+        "translation": "m.,f. 智利人",
+        "voiceUrl": "modernSpanish/modernSpanish_101/8_智利人.mp3"
+    },
+    {
+        "id": "9_她",
+        "pos": "pron.",
+        "word": "ella",
+        "definition": "6页",
+        "translation": "pron. 她",
+        "voiceUrl": "modernSpanish/modernSpanish_101/9_她.mp3"
+    },
+    {
+        "id": "10_叫名字",
+        "pos": "prnl.",
+        "word": "llamarse",
+        "definition": "6页",
+        "translation": "prnl. 叫……名字",
+        "voiceUrl": "modernSpanish/modernSpanish_101/10_叫名字.mp3"
+    },
+    {
+        "id": "11_他她您叫名字",
+        "pos": null,
+        "word": "se llama",
+        "definition": "6页",
+        "translation": "（他，她，您）叫……名字",
+        "voiceUrl": "modernSpanish/modernSpanish_101/11_他她您叫名字.mp3"
+    },
+    {
+        "id": "12_安娜女人名",
+        "pos": null,
+        "word": "Ana",
+        "definition": "6页",
+        "translation": "安娜（女人名）",
+        "voiceUrl": "modernSpanish/modernSpanish_101/12_安娜女人名.mp3"
+    },
+    {
+        "id": "13_巴拿马人",
+        "pos": "m.,f.",
+        "word": "panameño,ña",
+        "definition": "6页",
+        "translation": "m.,f. 巴拿马人",
+        "voiceUrl": "modernSpanish/modernSpanish_101/13_巴拿马人.mp3"
+    },
+    {
+        "id": "14_中国人",
+        "pos": "m.,f.",
+        "word": "chino,na",
+        "definition": "6页",
+        "translation": "m.,f. 中国人",
+        "voiceUrl": "modernSpanish/modernSpanish_101/14_中国人.mp3"
+    },
+    {
+        "id": "15_和",
+        "pos": "conj.",
+        "word": "y",
+        "definition": "6页",
+        "translation": "conj. 和",
+        "voiceUrl": "modernSpanish/modernSpanish_101/15_和.mp3"
+    },
+    {
+        "id": "16_朋友",
+        "pos": "m.,f.",
+        "word": "amigo,ga",
+        "definition": "6页",
+        "translation": "m.,f. 朋友",
+        "voiceUrl": "modernSpanish/modernSpanish_101/16_朋友.mp3"
+    },
+    {
+        "id": "17_是",
+        "pos": "adv.",
+        "word": "sí",
+        "definition": "6页",
+        "translation": "adv. 是",
+        "voiceUrl": "modernSpanish/modernSpanish_101/17_是.mp3"
+    },
+    {
+        "id": "18_不",
+        "pos": "adv.",
+        "word": "no",
+        "definition": "6页",
+        "translation": "adv. 不",
+        "voiceUrl": "modernSpanish/modernSpanish_101/18_不.mp3"
+    },
+    {
+        "id": "19_他们她们",
+        "pos": "pron.",
+        "word": "ellos,ellas",
+        "definition": "6页",
+        "translation": "pron. 他们，她们",
+        "voiceUrl": "modernSpanish/modernSpanish_101/19_他们她们.mp3"
+    },
+    {
+        "id": "20_一",
+        "pos": "num.",
+        "word": "uno,na",
+        "definition": "7页",
+        "translation": "num. 一",
+        "voiceUrl": "modernSpanish/modernSpanish_101/20_一.mp3"
+    },
+    {
+        "id": "21_二",
+        "pos": "num.",
+        "word": "dos",
+        "definition": "7页",
+        "translation": "num. 二",
+        "voiceUrl": "modernSpanish/modernSpanish_101/21_二.mp3"
+    },
+    {
+        "id": "22_三",
+        "pos": "num.",
+        "word": "tres",
+        "definition": "7页",
+        "translation": "num. 三",
+        "voiceUrl": "modernSpanish/modernSpanish_101/22_三.mp3"
+    },
+    {
+        "id": "23_四",
+        "pos": "num.",
+        "word": "cuatro",
+        "definition": "7页",
+        "translation": "num. 四",
+        "voiceUrl": "modernSpanish/modernSpanish_101/23_四.mp3"
+    }
+]

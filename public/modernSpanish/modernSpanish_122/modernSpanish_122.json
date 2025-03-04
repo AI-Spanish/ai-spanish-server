@@ -1,0 +1,426 @@
+[
+    {
+        "id": "812_童年",
+        "pos": "f.",
+        "word": "infancia",
+        "definition": "364页",
+        "translation": "f. 童年",
+        "voiceUrl": "modernSpanish/modernSpanish_122/812_童年.mp3"
+    },
+    {
+        "id": "813_典型的",
+        "pos": "adj.",
+        "word": "tipico",
+        "definition": "364页",
+        "translation": "adj. 典型的",
+        "voiceUrl": "modernSpanish/modernSpanish_122/813_典型的.mp3"
+    },
+    {
+        "id": "814_农民",
+        "pos": "m.,f.",
+        "word": "campesino,na",
+        "definition": "364页",
+        "translation": "m.,f. 农民",
+        "voiceUrl": "modernSpanish/modernSpanish_122/814_农民.mp3"
+    },
+    {
+        "id": "815_园子",
+        "pos": "m.",
+        "word": "huerto",
+        "definition": "364页",
+        "translation": "m. 园子",
+        "voiceUrl": "modernSpanish/modernSpanish_122/815_园子.mp3"
+    },
+    {
+        "id": "816_种植",
+        "pos": "tr.",
+        "word": "cultivar",
+        "definition": "364页",
+        "translation": "tr. 种植",
+        "voiceUrl": "modernSpanish/modernSpanish_122/816_种植.mp3"
+    },
+    {
+        "id": "817_种在园子里的蔬菜",
+        "pos": "f.",
+        "word": "hortaliza",
+        "definition": "364页",
+        "translation": "f. （种在园子里的）蔬菜",
+        "voiceUrl": "modernSpanish/modernSpanish_122/817_种在园子里的蔬菜.mp3"
+    },
+    {
+        "id": "818_岸边",
+        "pos": "f.",
+        "word": "orilla",
+        "definition": "364页",
+        "translation": "f. 岸边",
+        "voiceUrl": "modernSpanish/modernSpanish_122/818_岸边.mp3"
+    },
+    {
+        "id": "819_河",
+        "pos": "m.",
+        "word": "río",
+        "definition": "364页",
+        "translation": "m. 河",
+        "voiceUrl": "modernSpanish/modernSpanish_122/819_河.mp3"
+    },
+    {
+        "id": "820_一小块田地",
+        "pos": "f.",
+        "word": "parcela",
+        "definition": "364页",
+        "translation": "f. （一小块）田地",
+        "voiceUrl": "modernSpanish/modernSpanish_122/820_一小块田地.mp3"
+    },
+    {
+        "id": "821_麦田",
+        "pos": "m.",
+        "word": "trigal",
+        "definition": "364页",
+        "translation": "m. 麦田",
+        "voiceUrl": "modernSpanish/modernSpanish_122/821_麦田.mp3"
+    },
+    {
+        "id": "822_穿过",
+        "pos": "tr.",
+        "word": "atravesar",
+        "definition": "364页",
+        "translation": "tr. 穿过",
+        "voiceUrl": "modernSpanish/modernSpanish_122/822_穿过.mp3"
+    },
+    {
+        "id": "823_惯常做某事",
+        "pos": "tr.",
+        "word": "soler",
+        "definition": "364页",
+        "translation": "tr. 惯常（做某事）",
+        "voiceUrl": "modernSpanish/modernSpanish_122/823_惯常做某事.mp3"
+    },
+    {
+        "id": "824_玩",
+        "pos": "intr.",
+        "word": "jugar",
+        "definition": "364页",
+        "translation": "intr. 玩",
+        "voiceUrl": "modernSpanish/modernSpanish_122/824_玩.mp3"
+    },
+    {
+        "id": "825_游泳",
+        "pos": "intr.",
+        "word": "nadar",
+        "definition": "364页",
+        "translation": "intr. 游泳",
+        "voiceUrl": "modernSpanish/modernSpanish_122/825_游泳.mp3"
+    },
+    {
+        "id": "826_森林",
+        "pos": "m.",
+        "word": "bosque",
+        "definition": "364页",
+        "translation": "m. 森林",
+        "voiceUrl": "modernSpanish/modernSpanish_122/826_森林.mp3"
+    },
+    {
+        "id": "827_娱乐消遣",
+        "pos": "prnl.",
+        "word": "divertirse",
+        "definition": "364页",
+        "translation": "prnl. 娱乐，消遣",
+        "voiceUrl": "modernSpanish/modernSpanish_122/827_娱乐消遣.mp3"
+    },
+    {
+        "id": "828_黄昏降临黄昏",
+        "pos": "intr.;m.",
+        "word": "atardecer",
+        "definition": "364页",
+        "translation": "intr.;m. 黄昏降临，黄昏",
+        "voiceUrl": "modernSpanish/modernSpanish_122/828_黄昏降临黄昏.mp3"
+    },
+    {
+        "id": "829_安静的",
+        "pos": "adj.",
+        "word": "tranquilo",
+        "definition": "364页",
+        "translation": "adj. 安静的",
+        "voiceUrl": "modernSpanish/modernSpanish_122/829_安静的.mp3"
+    },
+    {
+        "id": "830_每次",
+        "pos": null,
+        "word": "cada vez que",
+        "definition": "364页",
+        "translation": "每次",
+        "voiceUrl": "modernSpanish/modernSpanish_122/830_每次.mp3"
+    },
+    {
+        "id": "831_健康的",
+        "pos": "adj.",
+        "word": "saludable",
+        "definition": "364页",
+        "translation": "adj. 健康的",
+        "voiceUrl": "modernSpanish/modernSpanish_122/831_健康的.mp3"
+    },
+    {
+        "id": "832_惊喜惊奇",
+        "pos": "f.",
+        "word": "sorpresa",
+        "definition": "364页",
+        "translation": "f. 惊喜，惊奇",
+        "voiceUrl": "modernSpanish/modernSpanish_122/832_惊喜惊奇.mp3"
+    },
+    {
+        "id": "833_奖学金",
+        "pos": "f.",
+        "word": "beca",
+        "definition": "364页",
+        "translation": "f. 奖学金",
+        "voiceUrl": "modernSpanish/modernSpanish_122/833_奖学金.mp3"
+    },
+    {
+        "id": "834_学年课程",
+        "pos": "m.",
+        "word": "curso",
+        "definition": "364页",
+        "translation": "m. 学年，课程",
+        "voiceUrl": "modernSpanish/modernSpanish_122/834_学年课程.mp3"
+    },
+    {
+        "id": "835_延长",
+        "pos": "f.",
+        "word": "prórroga",
+        "definition": "364页",
+        "translation": "f. 延长",
+        "voiceUrl": "modernSpanish/modernSpanish_122/835_延长.mp3"
+    },
+    {
+        "id": "836_因此",
+        "pos": null,
+        "word": "de modo que",
+        "definition": "364页",
+        "translation": "因此",
+        "voiceUrl": "modernSpanish/modernSpanish_122/836_因此.mp3"
+    },
+    {
+        "id": "837_整个的",
+        "pos": "adj.",
+        "word": "entero",
+        "definition": "364页",
+        "translation": "adj. 整个的",
+        "voiceUrl": "modernSpanish/modernSpanish_122/837_整个的.mp3"
+    },
+    {
+        "id": "838_太阳",
+        "pos": "m.",
+        "word": "sol",
+        "definition": "364页",
+        "translation": "m. 太阳",
+        "voiceUrl": "modernSpanish/modernSpanish_122/838_太阳.mp3"
+    },
+    {
+        "id": "839_泉水喷泉",
+        "pos": "f.",
+        "word": "fuente",
+        "definition": "364页",
+        "translation": "f. 泉水，喷泉",
+        "voiceUrl": "modernSpanish/modernSpanish_122/839_泉水喷泉.mp3"
+    },
+    {
+        "id": "840_与同时",
+        "pos": "conj.",
+        "word": "mientras",
+        "definition": "364页",
+        "translation": "conj. 与……同时",
+        "voiceUrl": "modernSpanish/modernSpanish_122/840_与同时.mp3"
+    },
+    {
+        "id": "841_慢慢地",
+        "pos": "adv.",
+        "word": "lentamente",
+        "definition": "364页",
+        "translation": "adv. 慢慢地",
+        "voiceUrl": "modernSpanish/modernSpanish_122/841_慢慢地.mp3"
+    },
+    {
+        "id": "842_故事",
+        "pos": "m.",
+        "word": "cuento",
+        "definition": "364页",
+        "translation": "m. 故事",
+        "voiceUrl": "modernSpanish/modernSpanish_122/842_故事.mp3"
+    },
+    {
+        "id": "843_讲述数数",
+        "pos": "tr.",
+        "word": "contar",
+        "definition": "364页",
+        "translation": "tr. 讲述；数数",
+        "voiceUrl": "modernSpanish/modernSpanish_122/843_讲述数数.mp3"
+    },
+    {
+        "id": "844_笑话",
+        "pos": "m.",
+        "word": "chiste",
+        "definition": "364页",
+        "translation": "m. 笑话",
+        "voiceUrl": "modernSpanish/modernSpanish_122/844_笑话.mp3"
+    },
+    {
+        "id": "845_住宿",
+        "pos": "prnl.",
+        "word": "alojarse",
+        "definition": "364页",
+        "translation": "prnl. 住宿",
+        "voiceUrl": "modernSpanish/modernSpanish_122/845_住宿.mp3"
+    },
+    {
+        "id": "846_住宿",
+        "pos": "m.",
+        "word": "alojamiento",
+        "definition": "364页",
+        "translation": "m. 住宿",
+        "voiceUrl": "modernSpanish/modernSpanish_122/846_住宿.mp3"
+    },
+    {
+        "id": "847_学生公寓",
+        "pos": null,
+        "word": "colegio mayor",
+        "definition": "364页",
+        "translation": "学生公寓",
+        "voiceUrl": "modernSpanish/modernSpanish_122/847_学生公寓.mp3"
+    },
+    {
+        "id": "848_种类",
+        "pos": "f.",
+        "word": "especie",
+        "definition": "364页",
+        "translation": "f. 种类",
+        "voiceUrl": "modernSpanish/modernSpanish_122/848_种类.mp3"
+    },
+    {
+        "id": "849_旅馆饭店",
+        "pos": "m.",
+        "word": "hotel",
+        "definition": "364页",
+        "translation": "m. 旅馆，饭店",
+        "voiceUrl": "modernSpanish/modernSpanish_122/849_旅馆饭店.mp3"
+    },
+    {
+        "id": "850_客店",
+        "pos": "m.",
+        "word": "hostal",
+        "definition": "364页",
+        "translation": "m. 客店",
+        "voiceUrl": "modernSpanish/modernSpanish_122/850_客店.mp3"
+    },
+    {
+        "id": "851_共享",
+        "pos": "tr.",
+        "word": "compartir",
+        "definition": "364页",
+        "translation": "tr. 共享",
+        "voiceUrl": "modernSpanish/modernSpanish_122/851_共享.mp3"
+    },
+    {
+        "id": "852_房租",
+        "pos": "m.",
+        "word": "alquiler",
+        "definition": "364页",
+        "translation": "m. 房租",
+        "voiceUrl": "modernSpanish/modernSpanish_122/852_房租.mp3"
+    },
+    {
+        "id": "853_分摊",
+        "pos": "tr.",
+        "word": "repartir",
+        "definition": "364页",
+        "translation": "tr. 分摊",
+        "voiceUrl": "modernSpanish/modernSpanish_122/853_分摊.mp3"
+    },
+    {
+        "id": "854_作饭烹饪",
+        "pos": "tr.",
+        "word": "cocinar",
+        "definition": "364页",
+        "translation": "tr. 作饭，烹饪",
+        "voiceUrl": "modernSpanish/modernSpanish_122/854_作饭烹饪.mp3"
+    },
+    {
+        "id": "855_气氛氛围",
+        "pos": "m.",
+        "word": "ambiente",
+        "definition": "364页",
+        "translation": "m. 气氛，氛围",
+        "voiceUrl": "modernSpanish/modernSpanish_122/855_气氛氛围.mp3"
+    },
+    {
+        "id": "856_国际的",
+        "pos": "adj.",
+        "word": "internacional",
+        "definition": "364页",
+        "translation": "adj. 国际的",
+        "voiceUrl": "modernSpanish/modernSpanish_122/856_国际的.mp3"
+    },
+    {
+        "id": "857_种族人种",
+        "pos": "f.",
+        "word": "raza",
+        "definition": "364页",
+        "translation": "f. 种族，人种",
+        "voiceUrl": "modernSpanish/modernSpanish_122/857_种族人种.mp3"
+    },
+    {
+        "id": "858_白人",
+        "pos": "m.,f.",
+        "word": "blanco,a",
+        "definition": "364页",
+        "translation": "m.,f. 白人",
+        "voiceUrl": "modernSpanish/modernSpanish_122/858_白人.mp3"
+    },
+    {
+        "id": "859_黑人",
+        "pos": "m.,f.",
+        "word": "negro,a",
+        "definition": "364页",
+        "translation": "m.,f. 黑人",
+        "voiceUrl": "modernSpanish/modernSpanish_122/859_黑人.mp3"
+    },
+    {
+        "id": "860_印欧混血种",
+        "pos": "m.,f.",
+        "word": "mestizo,a",
+        "definition": "364页",
+        "translation": "m.,f. 印欧混血种",
+        "voiceUrl": "modernSpanish/modernSpanish_122/860_印欧混血种.mp3"
+    },
+    {
+        "id": "861_黑白混血种",
+        "pos": "m.,f.",
+        "word": "mulato,a",
+        "definition": "364页",
+        "translation": "m.,f. 黑白混血种",
+        "voiceUrl": "modernSpanish/modernSpanish_122/861_黑白混血种.mp3"
+    },
+    {
+        "id": "862_亚洲人亚洲的",
+        "pos": "m.,f.",
+        "word": "asiático,ca",
+        "definition": "364页",
+        "translation": "m.,f. 亚洲人；亚洲的",
+        "voiceUrl": "modernSpanish/modernSpanish_122/862_亚洲人亚洲的.mp3"
+    },
+    {
+        "id": "863_僵硬的严格的",
+        "pos": "adj.",
+        "word": "rígido",
+        "definition": "364页",
+        "translation": "adj. 僵硬的，严格的",
+        "voiceUrl": "modernSpanish/modernSpanish_122/863_僵硬的严格的.mp3"
+    },
+    {
+        "id": "864_失去",
+        "pos": "tr.",
+        "word": "perder",
+        "definition": "364页",
+        "translation": "tr. 失去",
+        "voiceUrl": "modernSpanish/modernSpanish_122/864_失去.mp3"
+    }
+]

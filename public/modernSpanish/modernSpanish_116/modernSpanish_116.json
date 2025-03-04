@@ -1,0 +1,402 @@
+[
+    {
+        "id": "517_购物买东西",
+        "pos": null,
+        "word": "de compras",
+        "definition": "248页",
+        "translation": "购物，买东西",
+        "voiceUrl": "modernSpanish/modernSpanish_116/517_购物买东西.mp3"
+    },
+    {
+        "id": "518_终结末尾",
+        "pos": "m.",
+        "word": "fin",
+        "definition": "248页",
+        "translation": "m. 终结；末尾",
+        "voiceUrl": "modernSpanish/modernSpanish_116/518_终结末尾.mp3"
+    },
+    {
+        "id": "519_九月",
+        "pos": "m.",
+        "word": "septiembre",
+        "definition": "248页",
+        "translation": "m. 九月",
+        "voiceUrl": "modernSpanish/modernSpanish_116/519_九月.mp3"
+    },
+    {
+        "id": "520_忙被占用",
+        "pos": "p.p.",
+        "word": "ocupado",
+        "definition": "248页",
+        "translation": "p.p. 忙；被占用",
+        "voiceUrl": "modernSpanish/modernSpanish_116/520_忙被占用.mp3"
+    },
+    {
+        "id": "521_散步",
+        "pos": "intr.",
+        "word": "pasear",
+        "definition": "248页",
+        "translation": "intr. 散步",
+        "voiceUrl": "modernSpanish/modernSpanish_116/521_散步.mp3"
+    },
+    {
+        "id": "522_街道",
+        "pos": "f.",
+        "word": "calle",
+        "definition": "248页",
+        "translation": "f. 街道",
+        "voiceUrl": "modernSpanish/modernSpanish_116/522_街道.mp3"
+    },
+    {
+        "id": "523_走近靠近",
+        "pos": "prnl.",
+        "word": "acercarse",
+        "definition": "248页",
+        "translation": "prnl. 走近，靠近",
+        "voiceUrl": "modernSpanish/modernSpanish_116/523_走近靠近.mp3"
+    },
+    {
+        "id": "524_橱窗",
+        "pos": "m.",
+        "word": "escaparate",
+        "definition": "248页",
+        "translation": "m. 橱窗",
+        "voiceUrl": "modernSpanish/modernSpanish_116/524_橱窗.mp3"
+    },
+    {
+        "id": "525_想望渴望",
+        "pos": "tr.",
+        "word": "apetecer",
+        "definition": "248页",
+        "translation": "tr. 想望，渴望",
+        "voiceUrl": "modernSpanish/modernSpanish_116/525_想望渴望.mp3"
+    },
+    {
+        "id": "526_质量",
+        "pos": "f.",
+        "word": "calidad",
+        "definition": "248页",
+        "translation": "f. 质量",
+        "voiceUrl": "modernSpanish/modernSpanish_116/526_质量.mp3"
+    },
+    {
+        "id": "527_弄破打破",
+        "pos": "tr.",
+        "word": "romper",
+        "definition": "248页",
+        "translation": "tr. 弄破，打破",
+        "voiceUrl": "modernSpanish/modernSpanish_116/527_弄破打破.mp3"
+    },
+    {
+        "id": "528_容易地",
+        "pos": "adv.",
+        "word": "fácilmente",
+        "definition": "248页",
+        "translation": "adv. 容易地",
+        "voiceUrl": "modernSpanish/modernSpanish_116/528_容易地.mp3"
+    },
+    {
+        "id": "529_尤其特别是",
+        "pos": null,
+        "word": "sobre todo",
+        "definition": "248页",
+        "translation": "尤其，特别是",
+        "voiceUrl": "modernSpanish/modernSpanish_116/529_尤其特别是.mp3"
+    },
+    {
+        "id": "530_模样样式",
+        "pos": "m.",
+        "word": "modelo",
+        "definition": "248页",
+        "translation": "m. 模样，样式",
+        "voiceUrl": "modernSpanish/modernSpanish_116/530_模样样式.mp3"
+    },
+    {
+        "id": "531_那么",
+        "pos": "adv.",
+        "word": "pues",
+        "definition": "248页",
+        "translation": "adv. 那么",
+        "voiceUrl": "modernSpanish/modernSpanish_116/531_那么.mp3"
+    },
+    {
+        "id": "532_男女孩青少年",
+        "pos": "m.,f.",
+        "word": "chico,ca",
+        "definition": "248页",
+        "translation": "m.,f. 男（女）孩（青少年）",
+        "voiceUrl": "modernSpanish/modernSpanish_116/532_男女孩青少年.mp3"
+    },
+    {
+        "id": "533_鞋店",
+        "pos": "f.",
+        "word": "zapatería",
+        "definition": "248页",
+        "translation": "f. 鞋店",
+        "voiceUrl": "modernSpanish/modernSpanish_116/533_鞋店.mp3"
+    },
+    {
+        "id": "534_柜台",
+        "pos": "m.",
+        "word": "mostrador",
+        "definition": "248页",
+        "translation": "m. 柜台",
+        "voiceUrl": "modernSpanish/modernSpanish_116/534_柜台.mp3"
+    },
+    {
+        "id": "535_发问提问题",
+        "pos": "tr.",
+        "word": "preguntar",
+        "definition": "248页",
+        "translation": "tr. 发问，提问题",
+        "voiceUrl": "modernSpanish/modernSpanish_116/535_发问提问题.mp3"
+    },
+    {
+        "id": "536_售货员",
+        "pos": "m.,f.",
+        "word": "dependiente",
+        "definition": "248页",
+        "translation": "m.,f. 售货员",
+        "voiceUrl": "modernSpanish/modernSpanish_116/536_售货员.mp3"
+    },
+    {
+        "id": "537_价钱",
+        "pos": "m.",
+        "word": "precio",
+        "definition": "248页",
+        "translation": "m. 价钱",
+        "voiceUrl": "modernSpanish/modernSpanish_116/537_价钱.mp3"
+    },
+    {
+        "id": "538_黄颜色的",
+        "pos": "adj.",
+        "word": "amarillo",
+        "definition": "248页",
+        "translation": "adj. 黄颜色的",
+        "voiceUrl": "modernSpanish/modernSpanish_116/538_黄颜色的.mp3"
+    },
+    {
+        "id": "539_展示拿给看",
+        "pos": "tr.",
+        "word": "mostrar",
+        "definition": "248页",
+        "translation": "tr. 展示，拿给……看",
+        "voiceUrl": "modernSpanish/modernSpanish_116/539_展示拿给看.mp3"
+    },
+    {
+        "id": "540_穿鞋",
+        "pos": "tr.",
+        "word": "calzar",
+        "definition": "248页",
+        "translation": "tr. 穿（鞋）",
+        "voiceUrl": "modernSpanish/modernSpanish_116/540_穿鞋.mp3"
+    },
+    {
+        "id": "541_留下剩下",
+        "pos": "prnl.",
+        "word": "quedarse",
+        "definition": "248页",
+        "translation": "prnl. 留下，剩下",
+        "voiceUrl": "modernSpanish/modernSpanish_116/541_留下剩下.mp3"
+    },
+    {
+        "id": "542_痛苦遗憾",
+        "pos": "f.",
+        "word": "pena",
+        "definition": "248页",
+        "translation": "f. 痛苦，遗憾",
+        "voiceUrl": "modernSpanish/modernSpanish_116/542_痛苦遗憾.mp3"
+    },
+    {
+        "id": "543_颜色",
+        "pos": "m.",
+        "word": "color",
+        "definition": "248页",
+        "translation": "m. 颜色",
+        "voiceUrl": "modernSpanish/modernSpanish_116/543_颜色.mp3"
+    },
+    {
+        "id": "544_暗的深色的",
+        "pos": "adj.",
+        "word": "oscuro",
+        "definition": "248页",
+        "translation": "adj. 暗的，深（色）的",
+        "voiceUrl": "modernSpanish/modernSpanish_116/544_暗的深色的.mp3"
+    },
+    {
+        "id": "545_取出",
+        "pos": "tr.",
+        "word": "sacar",
+        "definition": "248页",
+        "translation": "tr. 取出",
+        "voiceUrl": "modernSpanish/modernSpanish_116/545_取出.mp3"
+    },
+    {
+        "id": "546_灰色的",
+        "pos": "adj.",
+        "word": "gris",
+        "definition": "248页",
+        "translation": "adj. 灰色的",
+        "voiceUrl": "modernSpanish/modernSpanish_116/546_灰色的.mp3"
+    },
+    {
+        "id": "547_试试衣物",
+        "pos": "tr.,prnl.",
+        "word": "probar(se)",
+        "definition": "248页",
+        "translation": "tr.,prnl. 试，试（衣物）",
+        "voiceUrl": "modernSpanish/modernSpanish_116/547_试试衣物.mp3"
+    },
+    {
+        "id": "548_鞋跟",
+        "pos": "m.",
+        "word": "tacón",
+        "definition": "248页",
+        "translation": "m. 鞋跟",
+        "voiceUrl": "modernSpanish/modernSpanish_116/548_鞋跟.mp3"
+    },
+    {
+        "id": "549_贵的",
+        "pos": "adj.",
+        "word": "caro",
+        "definition": "248页",
+        "translation": "adj. 贵的",
+        "voiceUrl": "modernSpanish/modernSpanish_116/549_贵的.mp3"
+    },
+    {
+        "id": "550_舒适的",
+        "pos": "adj.",
+        "word": "cómodo",
+        "definition": "248页",
+        "translation": "adj. 舒适的",
+        "voiceUrl": "modernSpanish/modernSpanish_116/550_舒适的.mp3"
+    },
+    {
+        "id": "551_付款",
+        "pos": "tr.",
+        "word": "pagar",
+        "definition": "248页",
+        "translation": "tr. 付款",
+        "voiceUrl": "modernSpanish/modernSpanish_116/551_付款.mp3"
+    },
+    {
+        "id": "552_付款处",
+        "pos": "f.",
+        "word": "caja",
+        "definition": "248页",
+        "translation": "f. 付款处",
+        "voiceUrl": "modernSpanish/modernSpanish_116/552_付款处.mp3"
+    },
+    {
+        "id": "553_像是使觉得",
+        "pos": "intr.",
+        "word": "parecer",
+        "definition": "248页",
+        "translation": "intr. 像是；使觉得",
+        "voiceUrl": "modernSpanish/modernSpanish_116/553_像是使觉得.mp3"
+    },
+    {
+        "id": "554_咖啡色的",
+        "pos": "m.;adj.",
+        "word": "café",
+        "definition": "248页",
+        "translation": "m.;adj. 咖啡色（的）",
+        "voiceUrl": "modernSpanish/modernSpanish_116/554_咖啡色的.mp3"
+    },
+    {
+        "id": "555_感觉抱歉",
+        "pos": "tr.",
+        "word": "sentir",
+        "definition": "248页",
+        "translation": "tr. 感觉；抱歉",
+        "voiceUrl": "modernSpanish/modernSpanish_116/555_感觉抱歉.mp3"
+    },
+    {
+        "id": "556_此外",
+        "pos": "adv.",
+        "word": "además",
+        "definition": "248页",
+        "translation": "adv. 此外",
+        "voiceUrl": "modernSpanish/modernSpanish_116/556_此外.mp3"
+    },
+    {
+        "id": "557_请劳驾",
+        "pos": null,
+        "word": "hacer el favor",
+        "definition": "248页",
+        "translation": "请，劳驾",
+        "voiceUrl": "modernSpanish/modernSpanish_116/557_请劳驾.mp3"
+    },
+    {
+        "id": "558_该欠",
+        "pos": "tr.",
+        "word": "deber",
+        "definition": "248页",
+        "translation": "tr. 该，欠",
+        "voiceUrl": "modernSpanish/modernSpanish_116/558_该欠.mp3"
+    },
+    {
+        "id": "559_粮食",
+        "pos": "m.",
+        "word": "cereal",
+        "definition": "249页",
+        "translation": "m. 粮食",
+        "voiceUrl": "modernSpanish/modernSpanish_116/559_粮食.mp3"
+    },
+    {
+        "id": "560_棉花",
+        "pos": "m.",
+        "word": "algodón",
+        "definition": "249页",
+        "translation": "m. 棉花",
+        "voiceUrl": "modernSpanish/modernSpanish_116/560_棉花.mp3"
+    },
+    {
+        "id": "561_肥皂一块",
+        "pos": "m.",
+        "word": "jabón (una pastilla de)",
+        "definition": "249页",
+        "translation": "m. 肥皂（一块）",
+        "voiceUrl": "modernSpanish/modernSpanish_116/561_肥皂一块.mp3"
+    },
+    {
+        "id": "562_牙膏一筒",
+        "pos": null,
+        "word": "pasta de dientes (un tubo de)",
+        "definition": "249页",
+        "translation": "牙膏（一筒）",
+        "voiceUrl": "modernSpanish/modernSpanish_116/562_牙膏一筒.mp3"
+    },
+    {
+        "id": "563_小瓶",
+        "pos": "m.",
+        "word": "frasco",
+        "definition": "249页",
+        "translation": "m. 小瓶",
+        "voiceUrl": "modernSpanish/modernSpanish_116/563_小瓶.mp3"
+    },
+    {
+        "id": "564_奶油润肤膏",
+        "pos": "f.",
+        "word": "crema",
+        "definition": "249页",
+        "translation": "f. 奶油，润肤膏",
+        "voiceUrl": "modernSpanish/modernSpanish_116/564_奶油润肤膏.mp3"
+    },
+    {
+        "id": "565_洗头膏香波",
+        "pos": "m.",
+        "word": "champú",
+        "definition": "249页",
+        "translation": "m. 洗头膏，香波",
+        "voiceUrl": "modernSpanish/modernSpanish_116/565_洗头膏香波.mp3"
+    },
+    {
+        "id": "566_梳子",
+        "pos": "m.",
+        "word": "peine",
+        "definition": "249页",
+        "translation": "m. 梳子",
+        "voiceUrl": "modernSpanish/modernSpanish_116/566_梳子.mp3"
+    }
+]

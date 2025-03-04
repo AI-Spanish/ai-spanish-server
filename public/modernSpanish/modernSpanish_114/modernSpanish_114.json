@@ -1,0 +1,370 @@
+[
+    {
+        "id": "418_关于",
+        "pos": null,
+        "word": "acerca de",
+        "definition": "213页",
+        "translation": "关于",
+        "voiceUrl": "modernSpanish/modernSpanish_114/418_关于.mp3"
+    },
+    {
+        "id": "419_作息时间时刻表",
+        "pos": "m.",
+        "word": "horario",
+        "definition": "213页",
+        "translation": "m. 作息时间，时刻表",
+        "voiceUrl": "modernSpanish/modernSpanish_114/419_作息时间时刻表.mp3"
+    },
+    {
+        "id": "420_部分地方",
+        "pos": "f.",
+        "word": "parte",
+        "definition": "213页",
+        "translation": "f. 部分，地方",
+        "voiceUrl": "modernSpanish/modernSpanish_114/420_部分地方.mp3"
+    },
+    {
+        "id": "421_应该想必",
+        "pos": "tr.",
+        "word": "deber",
+        "definition": "213页",
+        "translation": "tr. 应该，想必",
+        "voiceUrl": "modernSpanish/modernSpanish_114/421_应该想必.mp3"
+    },
+    {
+        "id": "422_根据",
+        "pos": "prep.",
+        "word": "según",
+        "definition": "213页",
+        "translation": "prep. 根据",
+        "voiceUrl": "modernSpanish/modernSpanish_114/422_根据.mp3"
+    },
+    {
+        "id": "423_开展实行",
+        "pos": "tr.",
+        "word": "efectuar",
+        "definition": "213页",
+        "translation": "tr. 开展，实行",
+        "voiceUrl": "modernSpanish/modernSpanish_114/423_开展实行.mp3"
+    },
+    {
+        "id": "424_活动",
+        "pos": "f.",
+        "word": "actividad",
+        "definition": "213页",
+        "translation": "f. 活动",
+        "voiceUrl": "modernSpanish/modernSpanish_114/424_活动.mp3"
+    },
+    {
+        "id": "425_比如",
+        "pos": null,
+        "word": "por ejemplo",
+        "definition": "213页",
+        "translation": "比如",
+        "voiceUrl": "modernSpanish/modernSpanish_114/425_比如.mp3"
+    },
+    {
+        "id": "426_人人们",
+        "pos": "f.",
+        "word": "gente",
+        "definition": "213页",
+        "translation": "f. 人，人们",
+        "voiceUrl": "modernSpanish/modernSpanish_114/426_人人们.mp3"
+    },
+    {
+        "id": "427_以前之前",
+        "pos": "adv.",
+        "word": "antes",
+        "definition": "213页",
+        "translation": "adv. 以前，之前",
+        "voiceUrl": "modernSpanish/modernSpanish_114/427_以前之前.mp3"
+    },
+    {
+        "id": "428_较多一点",
+        "pos": null,
+        "word": "un poco más",
+        "definition": "213页",
+        "translation": "较……多一点",
+        "voiceUrl": "modernSpanish/modernSpanish_114/428_较多一点.mp3"
+    },
+    {
+        "id": "429_记忆记住",
+        "pos": "tr.",
+        "word": "recordar",
+        "definition": "213页",
+        "translation": "tr. 记忆，记住",
+        "voiceUrl": "modernSpanish/modernSpanish_114/429_记忆记住.mp3"
+    },
+    {
+        "id": "430_工作",
+        "pos": "m.",
+        "word": "trabajo",
+        "definition": "213页",
+        "translation": "m. 工作",
+        "voiceUrl": "modernSpanish/modernSpanish_114/430_工作.mp3"
+    },
+    {
+        "id": "431_课课时",
+        "pos": "f.",
+        "word": "clase",
+        "definition": "213页",
+        "translation": "f. 课，课时",
+        "voiceUrl": "modernSpanish/modernSpanish_114/431_课课时.mp3"
+    },
+    {
+        "id": "432_开始",
+        "pos": "tr.",
+        "word": "comenzar",
+        "definition": "213页",
+        "translation": "tr. 开始",
+        "voiceUrl": "modernSpanish/modernSpanish_114/432_开始.mp3"
+    },
+    {
+        "id": "433_不同有级别的",
+        "pos": "adj.",
+        "word": "diferente",
+        "definition": "213页",
+        "translation": "adj. 不同，有级别的",
+        "voiceUrl": "modernSpanish/modernSpanish_114/433_不同有级别的.mp3"
+    },
+    {
+        "id": "434_国度国家",
+        "pos": "m.",
+        "word": "país",
+        "definition": "213页",
+        "translation": "m. 国度，国家",
+        "voiceUrl": "modernSpanish/modernSpanish_114/434_国度国家.mp3"
+    },
+    {
+        "id": "435_变化改换",
+        "pos": "intr.",
+        "word": "cambiar",
+        "definition": "213页",
+        "translation": "intr. 变化，改换",
+        "voiceUrl": "modernSpanish/modernSpanish_114/435_变化改换.mp3"
+    },
+    {
+        "id": "436_季节",
+        "pos": "f.",
+        "word": "estación",
+        "definition": "213页",
+        "translation": "f. 季节",
+        "voiceUrl": "modernSpanish/modernSpanish_114/436_季节.mp3"
+    },
+    {
+        "id": "437_洗脸",
+        "pos": "prnl.",
+        "word": "lavarse",
+        "definition": "213页",
+        "translation": "prnl. 洗脸",
+        "voiceUrl": "modernSpanish/modernSpanish_114/437_洗脸.mp3"
+    },
+    {
+        "id": "438_刷",
+        "pos": "tr.",
+        "word": "cepillar",
+        "definition": "213页",
+        "translation": "tr. 刷",
+        "voiceUrl": "modernSpanish/modernSpanish_114/438_刷.mp3"
+    },
+    {
+        "id": "439_牙齿",
+        "pos": "m.",
+        "word": "diente",
+        "definition": "213页",
+        "translation": "m. 牙齿",
+        "voiceUrl": "modernSpanish/modernSpanish_114/439_牙齿.mp3"
+    },
+    {
+        "id": "440_梳头",
+        "pos": "prnl.",
+        "word": "peinarse",
+        "definition": "213页",
+        "translation": "prnl. 梳头",
+        "voiceUrl": "modernSpanish/modernSpanish_114/440_梳头.mp3"
+    },
+    {
+        "id": "441_拿起此处吃",
+        "pos": "tr.",
+        "word": "tomar",
+        "definition": "213页",
+        "translation": "tr. 拿起；（此处）吃",
+        "voiceUrl": "modernSpanish/modernSpanish_114/441_拿起此处吃.mp3"
+    },
+    {
+        "id": "442_上午",
+        "pos": null,
+        "word": "por la mañana",
+        "definition": "214页",
+        "translation": "上午",
+        "voiceUrl": "modernSpanish/modernSpanish_114/442_上午.mp3"
+    },
+    {
+        "id": "443_休憩",
+        "pos": "m.",
+        "word": "recreo",
+        "definition": "214页",
+        "translation": "m. 休憩",
+        "voiceUrl": "modernSpanish/modernSpanish_114/443_休憩.mp3"
+    },
+    {
+        "id": "444_第一",
+        "pos": "adj.",
+        "word": "primero",
+        "definition": "214页",
+        "translation": "adj. 第一",
+        "voiceUrl": "modernSpanish/modernSpanish_114/444_第一.mp3"
+    },
+    {
+        "id": "445_最后的",
+        "pos": "adj.",
+        "word": "último",
+        "definition": "214页",
+        "translation": "adj. 最后的",
+        "voiceUrl": "modernSpanish/modernSpanish_114/445_最后的.mp3"
+    },
+    {
+        "id": "446_持续",
+        "pos": "intr.",
+        "word": "durar",
+        "definition": "214页",
+        "translation": "intr. 持续",
+        "voiceUrl": "modernSpanish/modernSpanish_114/446_持续.mp3"
+    },
+    {
+        "id": "447_中午",
+        "pos": null,
+        "word": "al mediodía",
+        "definition": "214页",
+        "translation": "中午",
+        "voiceUrl": "modernSpanish/modernSpanish_114/447_中午.mp3"
+    },
+    {
+        "id": "448_相当的",
+        "pos": "adj.",
+        "word": "bastante",
+        "definition": "214页",
+        "translation": "adj. 相当的",
+        "voiceUrl": "modernSpanish/modernSpanish_114/448_相当的.mp3"
+    },
+    {
+        "id": "449_时间",
+        "pos": "m.",
+        "word": "tiempo",
+        "definition": "214页",
+        "translation": "m. 时间",
+        "voiceUrl": "modernSpanish/modernSpanish_114/449_时间.mp3"
+    },
+    {
+        "id": "450_喜欢偏爱",
+        "pos": "tr.",
+        "word": "preferir",
+        "definition": "214页",
+        "translation": "tr. 喜欢，偏爱",
+        "voiceUrl": "modernSpanish/modernSpanish_114/450_喜欢偏爱.mp3"
+    },
+    {
+        "id": "451_睡午觉",
+        "pos": null,
+        "word": "echar siesta",
+        "definition": "214页",
+        "translation": "睡午觉",
+        "voiceUrl": "modernSpanish/modernSpanish_114/451_睡午觉.mp3"
+    },
+    {
+        "id": "452_短暂的",
+        "pos": "adj.",
+        "word": "breve",
+        "definition": "214页",
+        "translation": "adj. 短暂的",
+        "voiceUrl": "modernSpanish/modernSpanish_114/452_短暂的.mp3"
+    },
+    {
+        "id": "453_重新做某事",
+        "pos": null,
+        "word": "volver + inf.",
+        "definition": "214页",
+        "translation": "重新（做某事）",
+        "voiceUrl": "modernSpanish/modernSpanish_114/453_重新做某事.mp3"
+    },
+    {
+        "id": "454_下午",
+        "pos": "f.",
+        "word": "tarde",
+        "definition": "214页",
+        "translation": "f. 下午",
+        "voiceUrl": "modernSpanish/modernSpanish_114/454_下午.mp3"
+    },
+    {
+        "id": "455_从起",
+        "pos": null,
+        "word": "a partir de",
+        "definition": "214页",
+        "translation": "从……起",
+        "voiceUrl": "modernSpanish/modernSpanish_114/455_从起.mp3"
+    },
+    {
+        "id": "456_体育活动",
+        "pos": "m.",
+        "word": "deporte",
+        "definition": "214页",
+        "translation": "m. 体育活动",
+        "voiceUrl": "modernSpanish/modernSpanish_114/456_体育活动.mp3"
+    },
+    {
+        "id": "457_晚饭",
+        "pos": "f.",
+        "word": "cena",
+        "definition": "214页",
+        "translation": "f. 晚饭",
+        "voiceUrl": "modernSpanish/modernSpanish_114/457_晚饭.mp3"
+    },
+    {
+        "id": "458_跟一样",
+        "pos": null,
+        "word": "igual que",
+        "definition": "214页",
+        "translation": "跟……一样",
+        "voiceUrl": "modernSpanish/modernSpanish_114/458_跟一样.mp3"
+    },
+    {
+        "id": "459_区别",
+        "pos": "f.",
+        "word": "diferencia",
+        "definition": "214页",
+        "translation": "f. 区别",
+        "voiceUrl": "modernSpanish/modernSpanish_114/459_区别.mp3"
+    },
+    {
+        "id": "460_一些一点",
+        "pos": "pron,;adv.",
+        "word": "algo",
+        "definition": "214页",
+        "translation": "pron,;adv. 一些；一点",
+        "voiceUrl": "modernSpanish/modernSpanish_114/460_一些一点.mp3"
+    },
+    {
+        "id": "461_跟一样",
+        "pos": null,
+        "word": "tan ... como",
+        "definition": "214页",
+        "translation": "跟……一样",
+        "voiceUrl": "modernSpanish/modernSpanish_114/461_跟一样.mp3"
+    },
+    {
+        "id": "462_午饭",
+        "pos": "m.",
+        "word": "almuerzo",
+        "definition": "214页",
+        "translation": "m. 午饭",
+        "voiceUrl": "modernSpanish/modernSpanish_114/462_午饭.mp3"
+    },
+    {
+        "id": "463_甚至",
+        "pos": "adv.",
+        "word": "incluso",
+        "definition": "214页",
+        "translation": "adv. 甚至",
+        "voiceUrl": "modernSpanish/modernSpanish_114/463_甚至.mp3"
+    }
+]

@@ -1,0 +1,330 @@
+[
+    {
+        "id": "690_马",
+        "pos": "m.",
+        "word": "caballo",
+        "definition": "348页",
+        "translation": "m. 马",
+        "voiceUrl": "modernSpanish/modernSpanish_216/690_马.mp3"
+    },
+    {
+        "id": "691_王子",
+        "pos": "m.",
+        "word": "príncipe",
+        "definition": "348页",
+        "translation": "m. 王子",
+        "voiceUrl": "modernSpanish/modernSpanish_216/691_王子.mp3"
+    },
+    {
+        "id": "692_国王",
+        "pos": "m.",
+        "word": "rey",
+        "definition": "348页",
+        "translation": "m. 国王",
+        "voiceUrl": "modernSpanish/modernSpanish_216/692_国王.mp3"
+    },
+    {
+        "id": "693_美丽漂亮",
+        "pos": "adj.",
+        "word": "hermoso",
+        "definition": "348页",
+        "translation": "adj. 美丽，漂亮",
+        "voiceUrl": "modernSpanish/modernSpanish_216/693_美丽漂亮.mp3"
+    },
+    {
+        "id": "694_使爱上爱上",
+        "pos": "tr.,prnl.",
+        "word": "enamorar(se)",
+        "definition": "348页",
+        "translation": "tr.,prnl. 使爱上；爱上",
+        "voiceUrl": "modernSpanish/modernSpanish_216/694_使爱上爱上.mp3"
+    },
+    {
+        "id": "695_劫持",
+        "pos": "tr.",
+        "word": "raptar",
+        "definition": "348页",
+        "translation": "tr. 劫持",
+        "voiceUrl": "modernSpanish/modernSpanish_216/695_劫持.mp3"
+    },
+    {
+        "id": "696_希腊的希腊人",
+        "pos": "adj. -s",
+        "word": "griego",
+        "definition": "348页",
+        "translation": "adj. -s 希腊的，希腊人",
+        "voiceUrl": "modernSpanish/modernSpanish_216/696_希腊的希腊人.mp3"
+    },
+    {
+        "id": "697_凌辱伤害",
+        "pos": "f.",
+        "word": "ofensa",
+        "definition": "348页",
+        "translation": "f. 凌辱，伤害",
+        "voiceUrl": "modernSpanish/modernSpanish_216/697_凌辱伤害.mp3"
+    },
+    {
+        "id": "698_为报仇报仇",
+        "pos": "tr.,prnl.",
+        "word": "vengar(se)",
+        "definition": "348页",
+        "translation": "tr.,prnl. 为报仇；报仇",
+        "voiceUrl": "modernSpanish/modernSpanish_216/698_为报仇报仇.mp3"
+    },
+    {
+        "id": "699_军队",
+        "pos": "m.",
+        "word": "ejécito",
+        "definition": "348页",
+        "translation": "m. 军队",
+        "voiceUrl": "modernSpanish/modernSpanish_216/699_军队.mp3"
+    },
+    {
+        "id": "700_引向领向",
+        "pos": "tr.",
+        "word": "dirigir",
+        "definition": "348页",
+        "translation": "tr. 引向，领向",
+        "voiceUrl": "modernSpanish/modernSpanish_216/700_引向领向.mp3"
+    },
+    {
+        "id": "701_围困",
+        "pos": "tr.",
+        "word": "sitiar",
+        "definition": "348页",
+        "translation": "tr. 围困",
+        "voiceUrl": "modernSpanish/modernSpanish_216/701_围困.mp3"
+    },
+    {
+        "id": "702_战争",
+        "pos": "f.",
+        "word": "guerra",
+        "definition": "348页",
+        "translation": "f. 战争",
+        "voiceUrl": "modernSpanish/modernSpanish_216/702_战争.mp3"
+    },
+    {
+        "id": "703_著名的",
+        "pos": "adj.",
+        "word": "famoso",
+        "definition": "348页",
+        "translation": "adj. 著名的",
+        "voiceUrl": "modernSpanish/modernSpanish_216/703_著名的.mp3"
+    },
+    {
+        "id": "704_围困",
+        "pos": "m.",
+        "word": "sitio",
+        "definition": "348页",
+        "translation": "m. 围困",
+        "voiceUrl": "modernSpanish/modernSpanish_216/704_围困.mp3"
+    },
+    {
+        "id": "705_站立着",
+        "pos": null,
+        "word": "en pie",
+        "definition": "348页",
+        "translation": "站立着",
+        "voiceUrl": "modernSpanish/modernSpanish_216/705_站立着.mp3"
+    },
+    {
+        "id": "706_侵略者",
+        "pos": "adj. -s",
+        "word": "invasor",
+        "definition": "348页",
+        "translation": "adj. -s 侵略者",
+        "voiceUrl": "modernSpanish/modernSpanish_216/706_侵略者.mp3"
+    },
+    {
+        "id": "707_犹豫怀疑",
+        "pos": "tr.",
+        "word": "dudar",
+        "definition": "348页",
+        "translation": "tr. 犹豫，怀疑",
+        "voiceUrl": "modernSpanish/modernSpanish_216/707_犹豫怀疑.mp3"
+    },
+    {
+        "id": "708_征服攻克",
+        "pos": "tr.",
+        "word": "conquistar",
+        "definition": "348页",
+        "translation": "tr. 征服，攻克",
+        "voiceUrl": "modernSpanish/modernSpanish_216/708_征服攻克.mp3"
+    },
+    {
+        "id": "709_城墙",
+        "pos": "f.",
+        "word": "muralla",
+        "definition": "348页",
+        "translation": "f. 城墙",
+        "voiceUrl": "modernSpanish/modernSpanish_216/709_城墙.mp3"
+    },
+    {
+        "id": "710_特洛伊的特洛伊人",
+        "pos": "adj. -s",
+        "word": "troyano",
+        "definition": "348页",
+        "translation": "adj. -s 特洛伊的，特洛伊人",
+        "voiceUrl": "modernSpanish/modernSpanish_216/710_特洛伊的特洛伊人.mp3"
+    },
+    {
+        "id": "711_撤退",
+        "pos": "prnl.",
+        "word": "retirarse",
+        "definition": "348页",
+        "translation": "prnl. 撤退",
+        "voiceUrl": "modernSpanish/modernSpanish_216/711_撤退.mp3"
+    },
+    {
+        "id": "712_士兵",
+        "pos": "m.",
+        "word": "soldado",
+        "definition": "348页",
+        "translation": "m. 士兵",
+        "voiceUrl": "modernSpanish/modernSpanish_216/712_士兵.mp3"
+    },
+    {
+        "id": "713_敌对的敌人",
+        "pos": "adj. -s",
+        "word": "enemigo,ga",
+        "definition": "348页",
+        "translation": "adj. -s 敌对的，敌人",
+        "voiceUrl": "modernSpanish/modernSpanish_216/713_敌对的敌人.mp3"
+    },
+    {
+        "id": "714_四周",
+        "pos": "m.",
+        "word": "alrededor",
+        "definition": "348页",
+        "translation": "m. 四周",
+        "voiceUrl": "modernSpanish/modernSpanish_216/714_四周.mp3"
+    },
+    {
+        "id": "715_军营",
+        "pos": "m.",
+        "word": "campamento",
+        "definition": "348页",
+        "translation": "m. 军营",
+        "voiceUrl": "modernSpanish/modernSpanish_216/715_军营.mp3"
+    },
+    {
+        "id": "716_空的",
+        "pos": "adj.",
+        "word": "vacío",
+        "definition": "348页",
+        "translation": "adj. 空的",
+        "voiceUrl": "modernSpanish/modernSpanish_216/716_空的.mp3"
+    },
+    {
+        "id": "717_荒凉荒漠",
+        "pos": "adj. -s",
+        "word": "desierto",
+        "definition": "348页",
+        "translation": "adj. -s 荒凉；荒漠",
+        "voiceUrl": "modernSpanish/modernSpanish_216/717_荒凉荒漠.mp3"
+    },
+    {
+        "id": "718_抛扔扑向",
+        "pos": "tr.,prnl.",
+        "word": "lanzar(se)",
+        "definition": "348页",
+        "translation": "tr.,prnl. 抛，扔；扑向",
+        "voiceUrl": "modernSpanish/modernSpanish_216/718_抛扔扑向.mp3"
+    },
+    {
+        "id": "719_木头",
+        "pos": "f.",
+        "word": "madera",
+        "definition": "348页",
+        "translation": "f. 木头",
+        "voiceUrl": "modernSpanish/modernSpanish_216/719_木头.mp3"
+    },
+    {
+        "id": "720_含义是",
+        "pos": "tr.",
+        "word": "significar",
+        "definition": "348页",
+        "translation": "tr. 含义是",
+        "voiceUrl": "modernSpanish/modernSpanish_216/720_含义是.mp3"
+    },
+    {
+        "id": "721_战俘俘虏",
+        "pos": "m.,f.",
+        "word": "prisionero,ra",
+        "definition": "348页",
+        "translation": "m.,f. 战俘，俘虏",
+        "voiceUrl": "modernSpanish/modernSpanish_216/721_战俘俘虏.mp3"
+    },
+    {
+        "id": "722_祭品",
+        "pos": "f.",
+        "word": "ofrenda",
+        "definition": "348页",
+        "translation": "f. 祭品",
+        "voiceUrl": "modernSpanish/modernSpanish_216/722_祭品.mp3"
+    },
+    {
+        "id": "723_神女神",
+        "pos": "m.,f.",
+        "word": "dios,sa",
+        "definition": "348页",
+        "translation": "m.,f. 神，女神",
+        "voiceUrl": "modernSpanish/modernSpanish_216/723_神女神.mp3"
+    },
+    {
+        "id": "724_君临统治笼罩",
+        "pos": "intr.",
+        "word": "reinar",
+        "definition": "348页",
+        "translation": "intr. 君临，统治，笼罩",
+        "voiceUrl": "modernSpanish/modernSpanish_216/724_君临统治笼罩.mp3"
+    },
+    {
+        "id": "725_深的",
+        "pos": "adj.",
+        "word": "profundo",
+        "definition": "348页",
+        "translation": "adj. 深的",
+        "voiceUrl": "modernSpanish/modernSpanish_216/725_深的.mp3"
+    },
+    {
+        "id": "726_不一会儿后",
+        "pos": null,
+        "word": "al poco rato",
+        "definition": "348页",
+        "translation": "不一会儿后",
+        "voiceUrl": "modernSpanish/modernSpanish_216/726_不一会儿后.mp3"
+    },
+    {
+        "id": "727_身躯身体",
+        "pos": "m.",
+        "word": "cuerpo",
+        "definition": "348页",
+        "translation": "m. 身躯，身体",
+        "voiceUrl": "modernSpanish/modernSpanish_216/727_身躯身体.mp3"
+    },
+    {
+        "id": "728_武装起来的",
+        "pos": "p.p.",
+        "word": "armado",
+        "definition": "348页",
+        "translation": "p.p. 武装起来的",
+        "voiceUrl": "modernSpanish/modernSpanish_216/728_武装起来的.mp3"
+    },
+    {
+        "id": "729_藏起来的",
+        "pos": "p.p.",
+        "word": "escondido",
+        "definition": "348页",
+        "translation": "p.p. 藏起来的",
+        "voiceUrl": "modernSpanish/modernSpanish_216/729_藏起来的.mp3"
+    },
+    {
+        "id": "730_论文",
+        "pos": "f.",
+        "word": "tesis",
+        "definition": "348页",
+        "translation": "f. 论文",
+        "voiceUrl": "modernSpanish/modernSpanish_216/730_论文.mp3"
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "id": "196_课堂上课",
+        "pos": "f.",
+        "word": "clase",
+        "definition": "119页",
+        "translation": "f. 课堂，上课",
+        "voiceUrl": "modernSpanish/modernSpanish_108/196_课堂上课.mp3"
+    },
+    {
+        "id": "197_有",
+        "pos": "tr.",
+        "word": "tener",
+        "definition": "119页",
+        "translation": "tr. 有",
+        "voiceUrl": "modernSpanish/modernSpanish_108/197_有.mp3"
+    },
+    {
+        "id": "198_必须应该",
+        "pos": null,
+        "word": "tener que",
+        "definition": "119页",
+        "translation": "必须，应该",
+        "voiceUrl": "modernSpanish/modernSpanish_108/198_必须应该.mp3"
+    },
+    {
+        "id": "199_西班牙语西班牙人",
+        "pos": "m.;m.,f.",
+        "word": "español",
+        "definition": "119页",
+        "translation": "m.;m.,f. 西班牙语；西班牙人",
+        "voiceUrl": "modernSpanish/modernSpanish_108/199_西班牙语西班牙人.mp3"
+    },
+    {
+        "id": "200_学学习",
+        "pos": "tr.",
+        "word": "aprender",
+        "definition": "119页",
+        "translation": "tr. 学，学习",
+        "voiceUrl": "modernSpanish/modernSpanish_108/200_学学习.mp3"
+    },
+    {
+        "id": "201_课",
+        "pos": "f.",
+        "word": "lección",
+        "definition": "119页",
+        "translation": "f. 课",
+        "voiceUrl": "modernSpanish/modernSpanish_108/201_课.mp3"
+    },
+    {
+        "id": "202_首先",
+        "pos": "adv.",
+        "word": "primero",
+        "definition": "119页",
+        "translation": "adv. 首先",
+        "voiceUrl": "modernSpanish/modernSpanish_108/202_首先.mp3"
+    },
+    {
+        "id": "203_念读",
+        "pos": "tr.",
+        "word": "leer",
+        "definition": "119页",
+        "translation": "tr. 念，读",
+        "voiceUrl": "modernSpanish/modernSpanish_108/203_念读.mp3"
+    },
+    {
+        "id": "204_课文",
+        "pos": "m.",
+        "word": "texto",
+        "definition": "119页",
+        "translation": "m. 课文",
+        "voiceUrl": "modernSpanish/modernSpanish_108/204_课文.mp3"
+    },
+    {
+        "id": "205_评论",
+        "pos": "tr.",
+        "word": "comentar",
+        "definition": "119页",
+        "translation": "tr. 评论",
+        "voiceUrl": "modernSpanish/modernSpanish_108/205_评论.mp3"
+    },
+    {
+        "id": "206_或者",
+        "pos": "conj.",
+        "word": "o",
+        "definition": "119页",
+        "translation": "conj. 或者",
+        "voiceUrl": "modernSpanish/modernSpanish_108/206_或者.mp3"
+    },
+    {
+        "id": "207_能够",
+        "pos": "tr.",
+        "word": "poder",
+        "definition": "119页",
+        "translation": "tr. 能够",
+        "voiceUrl": "modernSpanish/modernSpanish_108/207_能够.mp3"
+    },
+    {
+        "id": "208_中文",
+        "pos": "m.",
+        "word": "chino",
+        "definition": "119页",
+        "translation": "m. 中文",
+        "voiceUrl": "modernSpanish/modernSpanish_108/208_中文.mp3"
+    },
+    {
+        "id": "209_解释讲解",
+        "pos": "tr.",
+        "word": "explicar",
+        "definition": "119页",
+        "translation": "tr. 解释，讲解",
+        "voiceUrl": "modernSpanish/modernSpanish_108/209_解释讲解.mp3"
+    },
+    {
+        "id": "210_词",
+        "pos": "f.",
+        "word": "palabra",
+        "definition": "119页",
+        "translation": "f. 词",
+        "voiceUrl": "modernSpanish/modernSpanish_108/210_词.mp3"
+    },
+    {
+        "id": "211_然后以后",
+        "pos": "adv.",
+        "word": "después",
+        "definition": "119页",
+        "translation": "adv. 然后，以后",
+        "voiceUrl": "modernSpanish/modernSpanish_108/211_然后以后.mp3"
+    },
+    {
+        "id": "212_问题",
+        "pos": "f.",
+        "word": "pregunta",
+        "definition": "119页",
+        "translation": "f. 问题",
+        "voiceUrl": "modernSpanish/modernSpanish_108/212_问题.mp3"
+    },
+    {
+        "id": "213_提问题",
+        "pos": null,
+        "word": "hacer pregunta",
+        "definition": "119页",
+        "translation": "提问题",
+        "voiceUrl": "modernSpanish/modernSpanish_108/213_提问题.mp3"
+    },
+    {
+        "id": "214_同伴同学",
+        "pos": "m.,f.",
+        "word": "compañero,ra",
+        "definition": "119页",
+        "translation": "m.,f. 同伴，同学",
+        "voiceUrl": "modernSpanish/modernSpanish_108/214_同伴同学.mp3"
+    },
+    {
+        "id": "215_回答",
+        "pos": "tr.",
+        "word": "contestar",
+        "definition": "119页",
+        "translation": "tr. 回答",
+        "voiceUrl": "modernSpanish/modernSpanish_108/215_回答.mp3"
+    },
+    {
+        "id": "216_一些",
+        "pos": "adj.",
+        "word": "alguno",
+        "definition": "119页",
+        "translation": "adj. 一些",
+        "voiceUrl": "modernSpanish/modernSpanish_108/216_一些.mp3"
+    },
+    {
+        "id": "217_难的",
+        "pos": "adj.",
+        "word": "difícil",
+        "definition": "119页",
+        "translation": "adj. 难的",
+        "voiceUrl": "modernSpanish/modernSpanish_108/217_难的.mp3"
+    },
+    {
+        "id": "218_下午",
+        "pos": null,
+        "word": "por la tarde",
+        "definition": "119页",
+        "translation": "下午",
+        "voiceUrl": "modernSpanish/modernSpanish_108/218_下午.mp3"
+    },
+    {
+        "id": "219_看看望",
+        "pos": "tr.",
+        "word": "ver",
+        "definition": "119页",
+        "translation": "tr. 看，看望",
+        "voiceUrl": "modernSpanish/modernSpanish_108/219_看看望.mp3"
+    },
+    {
+        "id": "220_病了",
+        "pos": "adj.",
+        "word": "enfermo",
+        "definition": "119页",
+        "translation": "adj. 病了",
+        "voiceUrl": "modernSpanish/modernSpanish_108/220_病了.mp3"
+    },
+    {
+        "id": "221_应该必须",
+        "pos": null,
+        "word": "hay que",
+        "definition": "119页",
+        "translation": "应该，必须",
+        "voiceUrl": "modernSpanish/modernSpanish_108/221_应该必须.mp3"
+    },
+    {
+        "id": "222_星期",
+        "pos": "f.",
+        "word": "semana",
+        "definition": "119页",
+        "translation": "f. 星期",
+        "voiceUrl": "modernSpanish/modernSpanish_108/222_星期.mp3"
+    },
+    {
+        "id": "223_班组",
+        "pos": "m.",
+        "word": "grupo",
+        "definition": "119页",
+        "translation": "m. 班，组",
+        "voiceUrl": "modernSpanish/modernSpanish_108/223_班组.mp3"
+    },
+    {
+        "id": "224_男孩女孩",
+        "pos": "m.,f.",
+        "word": "muchacho,cha",
+        "definition": "119页",
+        "translation": "m.,f. 男孩，女孩",
+        "voiceUrl": "modernSpanish/modernSpanish_108/224_男孩女孩.mp3"
+    },
+    {
+        "id": "225_英语英国人",
+        "pos": "m.;m.,f.",
+        "word": "inglés",
+        "definition": "119页",
+        "translation": "m.;m.,f. 英语；英国人",
+        "voiceUrl": "modernSpanish/modernSpanish_108/225_英语英国人.mp3"
+    },
+    {
+        "id": "226_法语法国人",
+        "pos": "m.;m.,f.",
+        "word": "francés",
+        "definition": "119页",
+        "translation": "m.;m.,f. 法语；法国人",
+        "voiceUrl": "modernSpanish/modernSpanish_108/226_法语法国人.mp3"
+    },
+    {
+        "id": "227_德语德国人",
+        "pos": "m.;m.,f.",
+        "word": "alemán",
+        "definition": "119页",
+        "translation": "m.;m.,f. 德语；德国人",
+        "voiceUrl": "modernSpanish/modernSpanish_108/227_德语德国人.mp3"
+    }
+]

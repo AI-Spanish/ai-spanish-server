@@ -1,0 +1,3162 @@
+[
+  {
+    "id": "1",
+    "pos": "adj.",
+    "word": "gordo",
+    "definition": "definition",
+    "translation": "adj. 胖的",
+    "voiceUrl": "DELE_A1/1_adj._gordo_es-es.mp3"
+  },
+  {
+    "id": "2",
+    "pos": "adj.",
+    "word": "delgado",
+    "definition": "definition",
+    "translation": "adj. 瘦的",
+    "voiceUrl": "DELE_A1/2_adj._delgado_es-es.mp3"
+  },
+  {
+    "id": "3",
+    "pos": "adj.",
+    "word": "alto",
+    "definition": "definition",
+    "translation": "adj. 高的",
+    "voiceUrl": "DELE_A1/3_adj._alto_es-es.mp3"
+  },
+  {
+    "id": "4",
+    "pos": "m.",
+    "word": "pelo",
+    "definition": "definition",
+    "translation": "m. 头发, 毛发",
+    "voiceUrl": "DELE_A1/4_m._pelo_es-es.mp3"
+  },
+  {
+    "id": "5",
+    "pos": "m.",
+    "word": "ojo",
+    "definition": "definition",
+    "translation": "m. 眼睛",
+    "voiceUrl": "DELE_A1/5_m._ojo_es-es.mp3"
+  },
+  {
+    "id": "6",
+    "pos": "f.",
+    "word": "nariz",
+    "definition": "definition",
+    "translation": "f. 鼻子",
+    "voiceUrl": "DELE_A1/6_f._nariz_es-es.mp3"
+  },
+  {
+    "id": "7",
+    "pos": "adj.",
+    "word": "bajo",
+    "definition": "definition",
+    "translation": "adj. 矮的，低的",
+    "voiceUrl": "DELE_A1/7_adj._bajo_es-es.mp3"
+  },
+  {
+    "id": "8",
+    "pos": "adj.,m.,f.",
+    "word": "guapo",
+    "definition": "definition",
+    "translation": "adj.,m.,f. 漂亮的, 帅哥，美女",
+    "voiceUrl": "DELE_A1/8_adj.,f.,m._guapo_es-es.mp3"
+  },
+  {
+    "id": "9",
+    "pos": "adj.",
+    "word": "feo",
+    "definition": "definition",
+    "translation": "adj. 丑的",
+    "voiceUrl": "DELE_A1/9_adj._feo_es-es.mp3"
+  },
+  {
+    "id": "10",
+    "pos": "n/a",
+    "word": "pelo rubio",
+    "definition": "definition",
+    "translation": "n/a 金头发",
+    "voiceUrl": "DELE_A1/10_n_a_pelo rubio_es-es.mp3"
+  },
+  {
+    "id": "11",
+    "pos": "n/a",
+    "word": "tener barba",
+    "definition": "definition",
+    "translation": "n/a 有胡须",
+    "voiceUrl": "DELE_A1/11_None_tener barba_es-es.mp3"
+  },
+  {
+    "id": "12",
+    "pos": "n/a",
+    "word": "tener bigote",
+    "definition": "definition",
+    "translation": "n/a 有髭（上唇至人中部位的胡子）",
+    "voiceUrl": "DELE_A1/12_None_tener bigote_es-es.mp3"
+  },
+  {
+    "id": "13",
+    "pos": "n/a",
+    "word": "llevar gafas",
+    "definition": "definition",
+    "translation": "n/a 戴眼镜",
+    "voiceUrl": "DELE_A1/13_None_llevar gafas_es-es.mp3"
+  },
+  {
+    "id": "14",
+    "pos": "n/a",
+    "word": "tener los ojos grandes",
+    "definition": "definition",
+    "translation": "n/a 有大眼睛",
+    "voiceUrl": null
+  },
+  {
+    "id": "15",
+    "pos": "n/a",
+    "word": "tener los ojos pequeños",
+    "definition": "definition",
+    "translation": "n/a 有小眼睛",
+    "voiceUrl": null
+  },
+  {
+    "id": "16",
+    "pos": "prnl.",
+    "word": "levantarse",
+    "definition": "definition",
+    "translation": "prnl. 起床，起身",
+    "voiceUrl": "DELE_A1/16_prnl._levantarse_es-es.mp3"
+  },
+  {
+    "id": "17",
+    "pos": "adj.",
+    "word": "simpático",
+    "definition": "definition",
+    "translation": "adj. 和蔼可亲的",
+    "voiceUrl": "DELE_A1/17_adj._simpático_es-es.mp3"
+  },
+  {
+    "id": "18",
+    "pos": "adj.",
+    "word": "antipático",
+    "definition": "definition",
+    "translation": "adj. 令人厌恶的",
+    "voiceUrl": "DELE_A1/18_adj._antipático_es-es.mp3"
+  },
+  {
+    "id": "19",
+    "pos": "adj.",
+    "word": "inteligente",
+    "definition": "definition",
+    "translation": "adj. 聪明的",
+    "voiceUrl": "DELE_A1/19_adj._inteligente_es-es.mp3"
+  },
+  {
+    "id": "20",
+    "pos": "adj.",
+    "word": "trabajador",
+    "definition": "definition",
+    "translation": "adj. 勤劳的",
+    "voiceUrl": "DELE_A1/20_adj._trabajador_es-es.mp3"
+  },
+  {
+    "id": "21",
+    "pos": "adj.",
+    "word": "alegre",
+    "definition": "definition",
+    "translation": "adj. 高兴的，愉悦的，开朗的",
+    "voiceUrl": "DELE_A1/21_adj._alegre_es-es.mp3"
+  },
+  {
+    "id": "22",
+    "pos": "adj.",
+    "word": "serio",
+    "definition": "definition",
+    "translation": "adj. 严肃的",
+    "voiceUrl": "DELE_A1/22_adj._serio_es-es.mp3"
+  },
+  {
+    "id": "23",
+    "pos": "adj.",
+    "word": "tímido",
+    "definition": "definition",
+    "translation": "adj. 害羞的，胆怯的",
+    "voiceUrl": "DELE_A1/23_adj._tímido_es-es.mp3"
+  },
+  {
+    "id": "24",
+    "pos": "adj.",
+    "word": "sociable",
+    "definition": "definition",
+    "translation": "adj. 爱社交的",
+    "voiceUrl": "DELE_A1/24_adj._sociable_es-es.mp3"
+  },
+  {
+    "id": "25",
+    "pos": "m.",
+    "word": "nombre",
+    "definition": "definition",
+    "translation": "m. 名字",
+    "voiceUrl": "DELE_A1/25_m._nombre_es-es.mp3"
+  },
+  {
+    "id": "26",
+    "pos": "n/a",
+    "word": "primer apellido",
+    "definition": "definition",
+    "translation": "n/a 第一姓氏",
+    "voiceUrl": "DELE_A1/26_None_primer apellido_es-es.mp3"
+  },
+  {
+    "id": "27",
+    "pos": "n/a",
+    "word": "segundo apellido",
+    "definition": "definition",
+    "translation": "n/a 第二姓氏",
+    "voiceUrl": "DELE_A1/27_None_segundo apellido_es-es.mp3"
+  },
+  {
+    "id": "28",
+    "pos": "m.",
+    "word": "señor",
+    "definition": "definition",
+    "translation": "m. 先生",
+    "voiceUrl": "DELE_A1/28_m._señor_es-es.mp3"
+  },
+  {
+    "id": "29",
+    "pos": "f.",
+    "word": "señora",
+    "definition": "definition",
+    "translation": "f. 女士",
+    "voiceUrl": "DELE_A1/29_f._señora_es-es.mp3"
+  },
+  {
+    "id": "30",
+    "pos": "tr.",
+    "word": "firmar",
+    "definition": "definition",
+    "translation": "tr. 签字",
+    "voiceUrl": "DELE_A1/30_tr._firmar_es-es.mp3"
+  },
+  {
+    "id": "31",
+    "pos": "prnl.",
+    "word": "llamarse",
+    "definition": "definition",
+    "translation": "prnl. 叫…名字",
+    "voiceUrl": "DELE_A1/31_prnl._llamarse_es-es.mp3"
+  },
+  {
+    "id": "32",
+    "pos": "f.",
+    "word": "dirección",
+    "definition": "definition",
+    "translation": "f. 地址",
+    "voiceUrl": "DELE_A1/32_f._dirección_es-es.mp3"
+  },
+  {
+    "id": "33",
+    "pos": "n/a",
+    "word": "correo electrónico",
+    "definition": "definition",
+    "translation": "n/a 电子邮件",
+    "voiceUrl": "DELE_A1/33_None_correo electrónico_es-es.mp3"
+  },
+  {
+    "id": "34",
+    "pos": "f.",
+    "word": "calle",
+    "definition": "definition",
+    "translation": "f. 街",
+    "voiceUrl": "DELE_A1/34_f._calle_es-es.mp3"
+  },
+  {
+    "id": "35",
+    "pos": "f.",
+    "word": "avenida",
+    "definition": "definition",
+    "translation": "f. 大道",
+    "voiceUrl": "DELE_A1/35_f._avenida_es-es.mp3"
+  },
+  {
+    "id": "36",
+    "pos": "m.",
+    "word": "paseo",
+    "definition": "definition",
+    "translation": "m. 步行道，散步",
+    "voiceUrl": "DELE_A1/36_m._paseo_es-es.mp3"
+  },
+  {
+    "id": "37",
+    "pos": "m.",
+    "word": "número",
+    "definition": "definition",
+    "translation": "m. 数字，号码",
+    "voiceUrl": "DELE_A1/37_m._número_es-es.mp3"
+  },
+  {
+    "id": "38",
+    "pos": "n/a",
+    "word": "código postal",
+    "definition": "definition",
+    "translation": "n/a 邮政编码",
+    "voiceUrl": "DELE_A1/38_None_código postal_es-es.mp3"
+  },
+  {
+    "id": "39",
+    "pos": "m.",
+    "word": "país",
+    "definition": "definition",
+    "translation": "m. 国家",
+    "voiceUrl": "DELE_A1/39_m._país_es-es.mp3"
+  },
+  {
+    "id": "40",
+    "pos": "f.",
+    "word": "ciudad",
+    "definition": "definition",
+    "translation": "f. 城市",
+    "voiceUrl": "DELE_A1/40_f._ciudad_es-es.mp3"
+  },
+  {
+    "id": "41",
+    "pos": "m.",
+    "word": "pueblo",
+    "definition": "definition",
+    "translation": "m. 村子",
+    "voiceUrl": "DELE_A1/41_m._pueblo_es-es.mp3"
+  },
+  {
+    "id": "42",
+    "pos": "intr.",
+    "word": "vivir",
+    "definition": "definition",
+    "translation": "intr. 生活 生存",
+    "voiceUrl": "DELE_A1/42_intr._vivir_es-es.mp3"
+  },
+  {
+    "id": "43",
+    "pos": "n/a",
+    "word": "número de teléfono",
+    "definition": "definition",
+    "translation": "n/a 电话号码",
+    "voiceUrl": null
+  },
+  {
+    "id": "44",
+    "pos": "m.",
+    "word": "móvil",
+    "definition": "definition",
+    "translation": "m. 手机",
+    "voiceUrl": "DELE_A1/44_m._móvil_es-es.mp3"
+  },
+  {
+    "id": "45",
+    "pos": "n/a",
+    "word": "lugar de nacimiento",
+    "definition": "definition",
+    "translation": "n/a 出生地",
+    "voiceUrl": null
+  },
+  {
+    "id": "46",
+    "pos": "n/a",
+    "word": "fecha de nacimiento",
+    "definition": "definition",
+    "translation": "n/a 出生日期",
+    "voiceUrl": "DELE_A1/46_None_fecha de nacimiento_es-es.mp3"
+  },
+  {
+    "id": "47",
+    "pos": "f.",
+    "word": "nacionalidad",
+    "definition": "definition",
+    "translation": "f. 国籍",
+    "voiceUrl": "DELE_A1/47_f._nacionalidad_es-es.mp3"
+  },
+  {
+    "id": "48",
+    "pos": "adj.,m.,f.,m.",
+    "word": "extranjero",
+    "definition": "definition",
+    "translation": "adj.,m.,f.,m. 外国的, 外国人 外国",
+    "voiceUrl": "DELE_A1/48_adj.,f.,m._extranjero_es-es.mp3"
+  },
+  {
+    "id": "49",
+    "pos": "adj.,m.,f.,m.",
+    "word": "español",
+    "definition": "definition",
+    "translation": "adj.,m.,f.,m. 西班牙的,  西班牙人  西班牙语",
+    "voiceUrl": "DELE_A1/49_adj.,f.,m._español_es-es.mp3"
+  },
+  {
+    "id": "50",
+    "pos": "adj.,m.,f.,m.",
+    "word": "alemán",
+    "definition": "definition",
+    "translation": "adj.,m.,f.,m. 德国的,  德国人  德语",
+    "voiceUrl": "DELE_A1/50_adj.,f.,m._alemán_es-es.mp3"
+  },
+  {
+    "id": "51",
+    "pos": "adj.,m.,f.",
+    "word": "mexicano",
+    "definition": "definition",
+    "translation": "adj.,m.,f. 墨西哥的,  墨西哥人",
+    "voiceUrl": "DELE_A1/51_adj.,f.,m._mexicano_es-es.mp3"
+  },
+  {
+    "id": "52",
+    "pos": "adj.,m.,f.,m.",
+    "word": "japonés",
+    "definition": "definition",
+    "translation": "adj.,m.,f.,m. 日本的,  日本人  日语",
+    "voiceUrl": "DELE_A1/52_adj.,f.,m._japonés_es-es.mp3"
+  },
+  {
+    "id": "53",
+    "pos": "n/a",
+    "word": "ser de Laos",
+    "definition": "definition",
+    "translation": "n/a 是老挝人",
+    "voiceUrl": "DELE_A1/53_None_ser de Laos_es-es.mp3"
+  },
+  {
+    "id": "54",
+    "pos": "f.",
+    "word": "edad",
+    "definition": "definition",
+    "translation": "f. 年龄",
+    "voiceUrl": "DELE_A1/54_f._edad_es-es.mp3"
+  },
+  {
+    "id": "55",
+    "pos": "m.,f.",
+    "word": "niño",
+    "definition": "definition",
+    "translation": "m.,f. 儿童，孩子",
+    "voiceUrl": "DELE_A1/55_f.,m._niño_es-es.mp3"
+  },
+  {
+    "id": "56",
+    "pos": "m.,f.,adj.",
+    "word": "chico",
+    "definition": "definition",
+    "translation": "m.,f.,adj. 小孩   小的，年幼的",
+    "voiceUrl": "DELE_A1/56_adj.,f.,m._chico_es-es.mp3"
+  },
+  {
+    "id": "57",
+    "pos": "adj.,m.,f.",
+    "word": "joven",
+    "definition": "definition",
+    "translation": "adj.,m.,f. 年轻的, 年轻人",
+    "voiceUrl": "DELE_A1/57_adj.,f.,m._joven_es-es.mp3"
+  },
+  {
+    "id": "58",
+    "pos": "adj.,m.,f.",
+    "word": "viejo",
+    "definition": "definition",
+    "translation": "adj.,m.,f. 老的，旧的, 老人",
+    "voiceUrl": "DELE_A1/58_adj.,f.,m._viejo_es-es.mp3"
+  },
+  {
+    "id": "59",
+    "pos": "n/a",
+    "word": "tener 18 años",
+    "definition": "definition",
+    "translation": "n/a 18岁",
+    "voiceUrl": "DELE_A1/59_None_tener 18 años_es-es.mp3"
+  },
+  {
+    "id": "60",
+    "pos": "m.",
+    "word": "hombre",
+    "definition": "definition",
+    "translation": "m. 男人",
+    "voiceUrl": "DELE_A1/60_m._hombre_es-es.mp3"
+  },
+  {
+    "id": "61",
+    "pos": "f.",
+    "word": "mujer",
+    "definition": "definition",
+    "translation": "f. 女人",
+    "voiceUrl": "DELE_A1/61_f._mujer_es-es.mp3"
+  },
+  {
+    "id": "62",
+    "pos": "n/a",
+    "word": "estado civil",
+    "definition": "definition",
+    "translation": "n/a 婚姻状况",
+    "voiceUrl": "DELE_A1/62_None_estado civil_es-es.mp3"
+  },
+  {
+    "id": "63",
+    "pos": "adj.",
+    "word": "soltero",
+    "definition": "definition",
+    "translation": "adj. 单身的",
+    "voiceUrl": "DELE_A1/63_adj._soltero_es-es.mp3"
+  },
+  {
+    "id": "64",
+    "pos": "adj.",
+    "word": "casado",
+    "definition": "definition",
+    "translation": "adj. 已婚的",
+    "voiceUrl": "DELE_A1/64_adj._casado_es-es.mp3"
+  },
+  {
+    "id": "65",
+    "pos": "adj.",
+    "word": "viudo",
+    "definition": "definition",
+    "translation": "adj. 丧偶的",
+    "voiceUrl": "DELE_A1/65_adj._viudo_es-es.mp3"
+  },
+  {
+    "id": "66",
+    "pos": "adj.",
+    "word": "separado",
+    "definition": "definition",
+    "translation": "adj. 分开的",
+    "voiceUrl": "DELE_A1/66_adj._separado_es-es.mp3"
+  },
+  {
+    "id": "67",
+    "pos": "adj.",
+    "word": "divorciado",
+    "definition": "definition",
+    "translation": "adj. 离婚的",
+    "voiceUrl": "DELE_A1/67_adj._divorciado_es-es.mp3"
+  },
+  {
+    "id": "68",
+    "pos": "f.",
+    "word": "llave",
+    "definition": "definition",
+    "translation": "f. 钥匙",
+    "voiceUrl": "DELE_A1/68_f._llave_es-es.mp3"
+  },
+  {
+    "id": "69",
+    "pos": "f.",
+    "word": "cartera",
+    "definition": "definition",
+    "translation": "f. 钱包",
+    "voiceUrl": "DELE_A1/69_f._cartera_es-es.mp3"
+  },
+  {
+    "id": "70",
+    "pos": "m.",
+    "word": "reloj",
+    "definition": "definition",
+    "translation": "m. 手表，时钟",
+    "voiceUrl": "DELE_A1/70_m._reloj_es-es.mp3"
+  },
+  {
+    "id": "71",
+    "pos": "f.",
+    "word": "gafas",
+    "definition": "definition",
+    "translation": "f. [pl.] 眼镜",
+    "voiceUrl": "DELE_A1/71_f._gafas_es-es.mp3"
+  },
+  {
+    "id": "72",
+    "pos": "f.",
+    "word": "familia",
+    "definition": "definition",
+    "translation": "f. 家庭，家人",
+    "voiceUrl": "DELE_A1/72_f._familia_es-es.mp3"
+  },
+  {
+    "id": "73",
+    "pos": "m.",
+    "word": "padres",
+    "definition": "definition",
+    "translation": "m. [pl.] 父母",
+    "voiceUrl": "DELE_A1/73_m._padres_es-es.mp3"
+  },
+  {
+    "id": "74",
+    "pos": "m.",
+    "word": "padre",
+    "definition": "definition",
+    "translation": "m. 父亲",
+    "voiceUrl": "DELE_A1/74_m._padre_es-es.mp3"
+  },
+  {
+    "id": "75",
+    "pos": "f.",
+    "word": "madre",
+    "definition": "definition",
+    "translation": "f. 母亲",
+    "voiceUrl": "DELE_A1/75_f._madre_es-es.mp3"
+  },
+  {
+    "id": "76",
+    "pos": "m.f",
+    "word": "hijo",
+    "definition": "definition",
+    "translation": "m.f 子，女",
+    "voiceUrl": "DELE_A1/76_m._hijo_es-es.mp3"
+  },
+  {
+    "id": "77",
+    "pos": "m.f",
+    "word": "hermano",
+    "definition": "definition",
+    "translation": "m.f 兄弟，姐妹",
+    "voiceUrl": "DELE_A1/77_m._hermano_es-es.mp3"
+  },
+  {
+    "id": "78",
+    "pos": "m.f",
+    "word": "tío",
+    "definition": "definition",
+    "translation": "m.f 伯父, 叔父, 姑父, 舅父，姨父伯母， 婶母， 姑母， 舅母， 姨母",
+    "voiceUrl": "DELE_A1/78_m._tío_es-es.mp3"
+  },
+  {
+    "id": "79",
+    "pos": "m.f",
+    "word": "sobrino",
+    "definition": "definition",
+    "translation": "m.f 侄子，外甥，侄女, 外甥女",
+    "voiceUrl": "DELE_A1/79_m._sobrino_es-es.mp3"
+  },
+  {
+    "id": "80",
+    "pos": "m.,f.",
+    "word": "abuelo",
+    "definition": "definition",
+    "translation": "m.,f. 爷爷，奶奶，姥爷，姥爷",
+    "voiceUrl": "DELE_A1/80_f.,m._abuelo_es-es.mp3"
+  },
+  {
+    "id": "81",
+    "pos": "m.,f.",
+    "word": "nieto",
+    "definition": "definition",
+    "translation": "m.,f. 孙子，孙女，外孙，外孙女",
+    "voiceUrl": "DELE_A1/81_f.,m._nieto_es-es.mp3"
+  },
+  {
+    "id": "82",
+    "pos": "m.,f.",
+    "word": "primo",
+    "definition": "definition",
+    "translation": "m.,f. 表兄弟，表姐妹",
+    "voiceUrl": "DELE_A1/82_f.,m._primo_es-es.mp3"
+  },
+  {
+    "id": "83",
+    "pos": "f.",
+    "word": "pareja",
+    "definition": "definition",
+    "translation": "f. 伴侣",
+    "voiceUrl": "DELE_A1/83_f._pareja_es-es.mp3"
+  },
+  {
+    "id": "84",
+    "pos": "m.,f.",
+    "word": "novio",
+    "definition": "definition",
+    "translation": "m.,f. 男朋友，女朋友",
+    "voiceUrl": "DELE_A1/84_f.,m._novio_es-es.mp3"
+  },
+  {
+    "id": "85",
+    "pos": "m.,f.",
+    "word": "amigo",
+    "definition": "definition",
+    "translation": "m.,f. 朋友",
+    "voiceUrl": "DELE_A1/85_f.,m._amigo_es-es.mp3"
+  },
+  {
+    "id": "86",
+    "pos": "m.,f.",
+    "word": "jefe",
+    "definition": "definition",
+    "translation": "m.,f. 老板，首领",
+    "voiceUrl": "DELE_A1/86_f.,m._jefe_es-es.mp3"
+  },
+  {
+    "id": "87",
+    "pos": "f.",
+    "word": "fiesta",
+    "definition": "definition",
+    "translation": "f. 聚会",
+    "voiceUrl": "DELE_A1/87_f._fiesta_es-es.mp3"
+  },
+  {
+    "id": "88",
+    "pos": "m.",
+    "word": "desayuno",
+    "definition": "definition",
+    "translation": "m. 早饭",
+    "voiceUrl": "DELE_A1/88_m._desayuno_es-es.mp3"
+  },
+  {
+    "id": "89",
+    "pos": "f.",
+    "word": "comida",
+    "definition": "definition",
+    "translation": "f. 午饭，食物",
+    "voiceUrl": "DELE_A1/89_f._comida_es-es.mp3"
+  },
+  {
+    "id": "90",
+    "pos": "f.",
+    "word": "merienda",
+    "definition": "definition",
+    "translation": "f. 午后小吃",
+    "voiceUrl": "DELE_A1/90_f._merienda_es-es.mp3"
+  },
+  {
+    "id": "91",
+    "pos": "f.",
+    "word": "cena",
+    "definition": "definition",
+    "translation": "f. 晚饭",
+    "voiceUrl": "DELE_A1/91_f._cena_es-es.mp3"
+  },
+  {
+    "id": "92",
+    "pos": "intr.,tr.",
+    "word": "desayunar",
+    "definition": "definition",
+    "translation": "intr.,tr. 吃早饭吃…作为早饭",
+    "voiceUrl": null
+  },
+  {
+    "id": "93",
+    "pos": "tr.,intr.",
+    "word": "comer",
+    "definition": "definition",
+    "translation": "tr.,intr. - 吃饭，吃午饭",
+    "voiceUrl": "DELE_A1/93_intr.,tr._comer_es-es.mp3"
+  },
+  {
+    "id": "94",
+    "pos": "intr.,tr.",
+    "word": "merendar",
+    "definition": "definition",
+    "translation": "intr.,tr. 吃午后点心吃…作为午后点心",
+    "voiceUrl": "DELE_A1/94_intr. _merendar_es-es.mp3"
+  },
+  {
+    "id": "95",
+    "pos": "tr.,intr.",
+    "word": "cenar",
+    "definition": "definition",
+    "translation": "tr.,intr. - 吃晚饭",
+    "voiceUrl": "DELE_A1/95_intr.,tr._cenar_es-es.mp3"
+  },
+  {
+    "id": "96",
+    "pos": "f.",
+    "word": "agua",
+    "definition": "definition",
+    "translation": "f. 水",
+    "voiceUrl": "DELE_A1/96_f._agua_es-es.mp3"
+  },
+  {
+    "id": "97",
+    "pos": "n/a",
+    "word": "agua mineral",
+    "definition": "definition",
+    "translation": "n/a 矿泉水",
+    "voiceUrl": null
+  },
+  {
+    "id": "98",
+    "pos": "f.",
+    "word": "leche",
+    "definition": "definition",
+    "translation": "f. 牛奶",
+    "voiceUrl": "DELE_A1/98_f._leche_es-es.mp3"
+  },
+  {
+    "id": "99",
+    "pos": "m.",
+    "word": "té",
+    "definition": "definition",
+    "translation": "m. 茶",
+    "voiceUrl": "DELE_A1/99_m._té_es-es.mp3"
+  },
+  {
+    "id": "100",
+    "pos": "m.",
+    "word": "café",
+    "definition": "definition",
+    "translation": "m. 咖啡",
+    "voiceUrl": "DELE_A1/100_m._café_es-es.mp3"
+  },
+  {
+    "id": "101",
+    "pos": "n/a",
+    "word": "café solo",
+    "definition": "definition",
+    "translation": "n/a 纯咖啡",
+    "voiceUrl": null
+  },
+  {
+    "id": "102",
+    "pos": "n/a",
+    "word": "café con leche",
+    "definition": "definition",
+    "translation": "n/a 牛奶咖啡",
+    "voiceUrl": null
+  },
+  {
+    "id": "103",
+    "pos": "n/a",
+    "word": "café cortado",
+    "definition": "definition",
+    "translation": "n/a 牛奶咖啡（多咖少奶）",
+    "voiceUrl": null
+  },
+  {
+    "id": "104",
+    "pos": "f.",
+    "word": "cerveza",
+    "definition": "definition",
+    "translation": "f. 啤酒",
+    "voiceUrl": "DELE_A1/104_f._cerveza_es-es.mp3"
+  },
+  {
+    "id": "105",
+    "pos": "n/a",
+    "word": "vino blanco",
+    "definition": "definition",
+    "translation": "n/a 白葡萄酒",
+    "voiceUrl": "DELE_A1/105_None_vino blanco_es-es.mp3"
+  },
+  {
+    "id": "106",
+    "pos": "n/a",
+    "word": "vino tinto",
+    "definition": "definition",
+    "translation": "n/a 红葡萄酒",
+    "voiceUrl": "DELE_A1/106_None_vino tinto_es-es.mp3"
+  },
+  {
+    "id": "107",
+    "pos": "intr.,tr.",
+    "word": "beber",
+    "definition": "definition",
+    "translation": "intr.,tr. - 喝",
+    "voiceUrl": "DELE_A1/107_intr.,tr._beber_es-es.mp3"
+  },
+  {
+    "id": "108",
+    "pos": "f.",
+    "word": "carne",
+    "definition": "definition",
+    "translation": "f. 肉",
+    "voiceUrl": "DELE_A1/108_f._carne_es-es.mp3"
+  },
+  {
+    "id": "109",
+    "pos": "m.",
+    "word": "pescado",
+    "definition": "definition",
+    "translation": "m. 鱼",
+    "voiceUrl": "DELE_A1/109_m._pescado_es-es.mp3"
+  },
+  {
+    "id": "110",
+    "pos": "f.",
+    "word": "fruta",
+    "definition": "definition",
+    "translation": "f. 水果",
+    "voiceUrl": null
+  },
+  {
+    "id": "111",
+    "pos": "f.",
+    "word": "verdura",
+    "definition": "definition",
+    "translation": "f. 蔬菜",
+    "voiceUrl": "DELE_A1/111_f._verdura_es-es.mp3"
+  },
+  {
+    "id": "112",
+    "pos": "m.",
+    "word": "huevo",
+    "definition": "definition",
+    "translation": "m. 鸡蛋",
+    "voiceUrl": "DELE_A1/112_m._huevo_es-es.mp3"
+  },
+  {
+    "id": "113",
+    "pos": "m.",
+    "word": "pan",
+    "definition": "definition",
+    "translation": "m. 面包",
+    "voiceUrl": "DELE_A1/113_m._pan_es-es.mp3"
+  },
+  {
+    "id": "114",
+    "pos": "m.",
+    "word": "bocadillo",
+    "definition": "definition",
+    "translation": "m. 西班牙三明治",
+    "voiceUrl": "DELE_A1/114_m._bocadillo_es-es.mp3"
+  },
+  {
+    "id": "115",
+    "pos": "m.",
+    "word": "sándwich",
+    "definition": "definition",
+    "translation": "m. 三明治",
+    "voiceUrl": "DELE_A1/115_m._sándwich_es-es.mp3"
+  },
+  {
+    "id": "116",
+    "pos": "f.",
+    "word": "hamburguesa",
+    "definition": "definition",
+    "translation": "f. 汉堡包",
+    "voiceUrl": "DELE_A1/116_f._hamburguesa_es-es.mp3"
+  },
+  {
+    "id": "117",
+    "pos": "n/a",
+    "word": "primer plato",
+    "definition": "definition",
+    "translation": "n/a 第一道菜",
+    "voiceUrl": "DELE_A1/117_None_primer plato_es-es.mp3"
+  },
+  {
+    "id": "118",
+    "pos": "n/a",
+    "word": "segundo plato",
+    "definition": "definition",
+    "translation": "n/a 第二道菜",
+    "voiceUrl": "DELE_A1/118_None_segundo plato_es-es.mp3"
+  },
+  {
+    "id": "119",
+    "pos": "m.",
+    "word": "plato",
+    "definition": "definition",
+    "translation": "m. 菜，盘子",
+    "voiceUrl": "DELE_A1/119_m._plato_es-es.mp3"
+  },
+  {
+    "id": "120",
+    "pos": "m.",
+    "word": "postre",
+    "definition": "definition",
+    "translation": "m. 甜品",
+    "voiceUrl": "DELE_A1/120_m._postre_es-es.mp3"
+  },
+  {
+    "id": "121",
+    "pos": "f.",
+    "word": "sopa",
+    "definition": "definition",
+    "translation": "f. 汤",
+    "voiceUrl": "DELE_A1/121_f._sopa_es-es.mp3"
+  },
+  {
+    "id": "122",
+    "pos": "f.",
+    "word": "ensalada",
+    "definition": "definition",
+    "translation": "f. 沙拉",
+    "voiceUrl": "DELE_A1/122_f._ensalada_es-es.mp3"
+  },
+  {
+    "id": "123",
+    "pos": "f.",
+    "word": "paella",
+    "definition": "definition",
+    "translation": "f. 海鲜饭",
+    "voiceUrl": "DELE_A1/123_f._paella_es-es.mp3"
+  },
+  {
+    "id": "124",
+    "pos": "f.",
+    "word": "tortilla",
+    "definition": "definition",
+    "translation": "f. 鸡蛋饼，玉米饼[拉美]",
+    "voiceUrl": "DELE_A1/124_f._tortilla_es-es.mp3"
+  },
+  {
+    "id": "125",
+    "pos": "m.",
+    "word": "bar",
+    "definition": "definition",
+    "translation": "m. 酒吧",
+    "voiceUrl": "DELE_A1/125_m._bar_es-es.mp3"
+  },
+  {
+    "id": "126",
+    "pos": "m.",
+    "word": "restaurante",
+    "definition": "definition",
+    "translation": "m. 餐厅",
+    "voiceUrl": "DELE_A1/126_m._restaurante_es-es.mp3"
+  },
+  {
+    "id": "127",
+    "pos": "m.,f.",
+    "word": "camarero",
+    "definition": "definition",
+    "translation": "m.,f. 服务员  [拉美] mesero",
+    "voiceUrl": "DELE_A1/127_f.,m._camarero_es-es.mp3"
+  },
+  {
+    "id": "128",
+    "pos": "f.",
+    "word": "mesa",
+    "definition": "definition",
+    "translation": "f. 桌子",
+    "voiceUrl": "DELE_A1/128_f._mesa_es-es.mp3"
+  },
+  {
+    "id": "129",
+    "pos": "m.",
+    "word": "menú",
+    "definition": "definition",
+    "translation": "m. 菜单",
+    "voiceUrl": "DELE_A1/129_m._menú_es-es.mp3"
+  },
+  {
+    "id": "130",
+    "pos": "f.",
+    "word": "cuenta",
+    "definition": "definition",
+    "translation": "f. 账单",
+    "voiceUrl": "DELE_A1/130_f._cuenta_es-es.mp3"
+  },
+  {
+    "id": "131",
+    "pos": "m.",
+    "word": "instituto",
+    "definition": "definition",
+    "translation": "m. 学院，协会",
+    "voiceUrl": "DELE_A1/131_m._instituto_es-es.mp3"
+  },
+  {
+    "id": "132",
+    "pos": "f.",
+    "word": "universidad",
+    "definition": "definition",
+    "translation": "f. 大学",
+    "voiceUrl": "DELE_A1/132_f._universidad_es-es.mp3"
+  },
+  {
+    "id": "133",
+    "pos": "f.",
+    "word": "clase",
+    "definition": "definition",
+    "translation": "f. 课程",
+    "voiceUrl": "DELE_A1/133_f._clase_es-es.mp3"
+  },
+  {
+    "id": "134",
+    "pos": "f.",
+    "word": "biblioteca",
+    "definition": "definition",
+    "translation": "f. 图书馆",
+    "voiceUrl": "DELE_A1/134_f._biblioteca_es-es.mp3"
+  },
+  {
+    "id": "135",
+    "pos": "m.,f.",
+    "word": "profesor",
+    "definition": "definition",
+    "translation": "m.,f. 教师，教授",
+    "voiceUrl": "DELE_A1/135_f.,m._profesor_es-es.mp3"
+  },
+  {
+    "id": "136",
+    "pos": "m.,f.",
+    "word": "estudiante",
+    "definition": "definition",
+    "translation": "m.,f. 学生",
+    "voiceUrl": "DELE_A1/136_f.,m._estudiante_es-es.mp3"
+  },
+  {
+    "id": "137",
+    "pos": "m.,f.",
+    "word": "director",
+    "definition": "definition",
+    "translation": "m.,f. 领导者，负责人",
+    "voiceUrl": "DELE_A1/137_f.,m._director_es-es.mp3"
+  },
+  {
+    "id": "138",
+    "pos": "m.,f.",
+    "word": "compañero",
+    "definition": "definition",
+    "translation": "m.,f. 同伴，同学",
+    "voiceUrl": "DELE_A1/138_f.,m._compañero_es-es.mp3"
+  },
+  {
+    "id": "139",
+    "pos": "n/a",
+    "word": "clase de español",
+    "definition": "definition",
+    "translation": "n/a 西班牙语课",
+    "voiceUrl": null
+  },
+  {
+    "id": "140",
+    "pos": "m.",
+    "word": "examen",
+    "definition": "definition",
+    "translation": "m. 考试",
+    "voiceUrl": "DELE_A1/140_m._examen_es-es.mp3"
+  },
+  {
+    "id": "141",
+    "pos": "tr.",
+    "word": "aprender",
+    "definition": "definition",
+    "translation": "tr. 学习，掌握",
+    "voiceUrl": "DELE_A1/141_tr._aprender_es-es.mp3"
+  },
+  {
+    "id": "142",
+    "pos": "tr.",
+    "word": "estudiar",
+    "definition": "definition",
+    "translation": "tr. 学",
+    "voiceUrl": "DELE_A1/142_tr._estudiar_es-es.mp3"
+  },
+  {
+    "id": "143",
+    "pos": "n/a",
+    "word": "ir a clase",
+    "definition": "definition",
+    "translation": "n/a 去上课",
+    "voiceUrl": null
+  },
+  {
+    "id": "144",
+    "pos": "n/a",
+    "word": "hacer un examen",
+    "definition": "definition",
+    "translation": "n/a 参加一个考试",
+    "voiceUrl": null
+  },
+  {
+    "id": "145",
+    "pos": "m.",
+    "word": "ejercicio",
+    "definition": "definition",
+    "translation": "m. 练习",
+    "voiceUrl": "DELE_A1/145_m._ejercicio_es-es.mp3"
+  },
+  {
+    "id": "146",
+    "pos": "f.",
+    "word": "actividad",
+    "definition": "definition",
+    "translation": "f. 活动",
+    "voiceUrl": "DELE_A1/146_f._actividad_es-es.mp3"
+  },
+  {
+    "id": "147",
+    "pos": "f.",
+    "word": "lección",
+    "definition": "definition",
+    "translation": "f. 课",
+    "voiceUrl": "DELE_A1/147_f._lección_es-es.mp3"
+  },
+  {
+    "id": "148",
+    "pos": "f.",
+    "word": "unidad",
+    "definition": "definition",
+    "translation": "f. 单元",
+    "voiceUrl": "DELE_A1/148_f._unidad_es-es.mp3"
+  },
+  {
+    "id": "149",
+    "pos": "f.",
+    "word": "página",
+    "definition": "definition",
+    "translation": "f. 页",
+    "voiceUrl": "DELE_A1/149_f._página_es-es.mp3"
+  },
+  {
+    "id": "150",
+    "pos": "f.",
+    "word": "pregunta",
+    "definition": "definition",
+    "translation": "f. 问题",
+    "voiceUrl": "DELE_A1/150_f._pregunta_es-es.mp3"
+  },
+  {
+    "id": "151",
+    "pos": "n/a",
+    "word": "en parejas",
+    "definition": "definition",
+    "translation": "n/a 按两人一组，成对的",
+    "voiceUrl": "DELE_A1/151_None_en parejas_es-es.mp3"
+  },
+  {
+    "id": "152",
+    "pos": "n/a",
+    "word": "en grupos",
+    "definition": "definition",
+    "translation": "n/a 按组",
+    "voiceUrl": "DELE_A1/152_None_en grupos_es-es.mp3"
+  },
+  {
+    "id": "153",
+    "pos": "intr.,tr.",
+    "word": "hablar",
+    "definition": "definition",
+    "translation": "intr.,tr. 说话  会讲某种语言",
+    "voiceUrl": "DELE_A1/153_intr.,tr._hablar_es-es.mp3"
+  },
+  {
+    "id": "154",
+    "pos": "tr.",
+    "word": "leer",
+    "definition": "definition",
+    "translation": "tr. 阅读",
+    "voiceUrl": "DELE_A1/154_tr._leer_es-es.mp3"
+  },
+  {
+    "id": "155",
+    "pos": "tr.",
+    "word": "escribir",
+    "definition": "definition",
+    "translation": "tr. 写",
+    "voiceUrl": "DELE_A1/155_tr._escribir_es-es.mp3"
+  },
+  {
+    "id": "156",
+    "pos": "tr.,intr.",
+    "word": "entender",
+    "definition": "definition",
+    "translation": "tr.,intr. 明白   懂得",
+    "voiceUrl": "DELE_A1/156_intr.,tr._entender_es-es.mp3"
+  },
+  {
+    "id": "157",
+    "pos": "tr.",
+    "word": "comprender",
+    "definition": "definition",
+    "translation": "tr. 明白，理解",
+    "voiceUrl": "DELE_A1/157_tr._comprender_es-es.mp3"
+  },
+  {
+    "id": "158",
+    "pos": "tr.",
+    "word": "saber",
+    "definition": "definition",
+    "translation": "tr. 知道",
+    "voiceUrl": "DELE_A1/158_tr._saber_es-es.mp3"
+  },
+  {
+    "id": "159",
+    "pos": "tr.",
+    "word": "repetir",
+    "definition": "definition",
+    "translation": "tr. 重复",
+    "voiceUrl": "DELE_A1/159_tr._repetir_es-es.mp3"
+  },
+  {
+    "id": "160",
+    "pos": "tr.",
+    "word": "practicar",
+    "definition": "definition",
+    "translation": "tr. 练习",
+    "voiceUrl": "DELE_A1/160_tr._practicar_es-es.mp3"
+  },
+  {
+    "id": "161",
+    "pos": "n/a",
+    "word": "hacer los deberes",
+    "definition": "definition",
+    "translation": "n/a 写作业",
+    "voiceUrl": null
+  },
+  {
+    "id": "162",
+    "pos": "n/a",
+    "word": "hacer un ejercicio",
+    "definition": "definition",
+    "translation": "n/a 做个练习",
+    "voiceUrl": null
+  },
+  {
+    "id": "163",
+    "pos": "m.",
+    "word": "internet",
+    "definition": "definition",
+    "translation": "m. 互联网",
+    "voiceUrl": "DELE_A1/163_m._internet_es-es.mp3"
+  },
+  {
+    "id": "164",
+    "pos": "m.",
+    "word": "libro",
+    "definition": "definition",
+    "translation": "m. 书",
+    "voiceUrl": "DELE_A1/164_m._libro_es-es.mp3"
+  },
+  {
+    "id": "165",
+    "pos": "m.",
+    "word": "diccionario",
+    "definition": "definition",
+    "translation": "m. 字典",
+    "voiceUrl": "DELE_A1/165_m._diccionario_es-es.mp3"
+  },
+  {
+    "id": "166",
+    "pos": "m.",
+    "word": "papel",
+    "definition": "definition",
+    "translation": "m. 纸",
+    "voiceUrl": "DELE_A1/166_m._papel_es-es.mp3"
+  },
+  {
+    "id": "167",
+    "pos": "m.",
+    "word": "bolígrafo",
+    "definition": "definition",
+    "translation": "m. 圆珠笔  [墨西哥] lapicero",
+    "voiceUrl": "DELE_A1/167_m._bolígrafo_es-es.mp3"
+  },
+  {
+    "id": "168",
+    "pos": "m.",
+    "word": "lápiz",
+    "definition": "definition",
+    "translation": "m. 铅笔",
+    "voiceUrl": "DELE_A1/168_m._lápiz_es-es.mp3"
+  },
+  {
+    "id": "169",
+    "pos": "f.",
+    "word": "goma",
+    "definition": "definition",
+    "translation": "f. 橡皮",
+    "voiceUrl": "DELE_A1/169_f._goma_es-es.mp3"
+  },
+  {
+    "id": "170",
+    "pos": "f.",
+    "word": "fotocopia",
+    "definition": "definition",
+    "translation": "f. 复印件",
+    "voiceUrl": "DELE_A1/170_f._fotocopia_es-es.mp3"
+  },
+  {
+    "id": "171",
+    "pos": "f.",
+    "word": "silla",
+    "definition": "definition",
+    "translation": "f. 椅子",
+    "voiceUrl": "DELE_A1/171_f._silla_es-es.mp3"
+  },
+  {
+    "id": "172",
+    "pos": "m.",
+    "word": "armario",
+    "definition": "definition",
+    "translation": "m. 柜子",
+    "voiceUrl": "DELE_A1/172_m._armario_es-es.mp3"
+  },
+  {
+    "id": "173",
+    "pos": "f.",
+    "word": "estantería",
+    "definition": "definition",
+    "translation": "f. 带隔板的家具",
+    "voiceUrl": "DELE_A1/173_f._estantería_es-es.mp3"
+  },
+  {
+    "id": "174",
+    "pos": "f.",
+    "word": "pizarra",
+    "definition": "definition",
+    "translation": "f. 黑板",
+    "voiceUrl": "DELE_A1/174_f._pizarra_es-es.mp3"
+  },
+  {
+    "id": "175",
+    "pos": "m.",
+    "word": "ordenador",
+    "definition": "definition",
+    "translation": "m. 电脑  [拉美] computadora",
+    "voiceUrl": "DELE_A1/175_m._ordenador_es-es.mp3"
+  },
+  {
+    "id": "176",
+    "pos": "m.",
+    "word": "mapa",
+    "definition": "definition",
+    "translation": "m. 地图",
+    "voiceUrl": "DELE_A1/176_m._mapa_es-es.mp3"
+  },
+  {
+    "id": "177",
+    "pos": "m.,f.",
+    "word": "abogado",
+    "definition": "definition",
+    "translation": "m.,f. 律师",
+    "voiceUrl": "DELE_A1/177_f.,m._abogado_es-es.mp3"
+  },
+  {
+    "id": "178",
+    "pos": "m.,f.",
+    "word": "médico",
+    "definition": "definition",
+    "translation": "m.,f. 医生",
+    "voiceUrl": "DELE_A1/178_f.,m._médico_es-es.mp3"
+  },
+  {
+    "id": "179",
+    "pos": "m.,f.",
+    "word": "taxista",
+    "definition": "definition",
+    "translation": "m.,f. 出租车司机",
+    "voiceUrl": "DELE_A1/179_f.,m._taxista_es-es.mp3"
+  },
+  {
+    "id": "180",
+    "pos": "n/a",
+    "word": "ama de casa",
+    "definition": "definition",
+    "translation": "n/a 家庭主妇",
+    "voiceUrl": null
+  },
+  {
+    "id": "181",
+    "pos": "m.,f.",
+    "word": "ingeniero",
+    "definition": "definition",
+    "translation": "m.,f. 工程师",
+    "voiceUrl": "DELE_A1/181_f.,m._ingeniero_es-es.mp3"
+  },
+  {
+    "id": "182",
+    "pos": "n/a",
+    "word": "dedicarse a",
+    "definition": "definition",
+    "translation": "n/a 从事…工作",
+    "voiceUrl": null
+  },
+  {
+    "id": "183",
+    "pos": "n/a",
+    "word": "lugar de trabajo",
+    "definition": "definition",
+    "translation": "n/a 工作地点",
+    "voiceUrl": null
+  },
+  {
+    "id": "184",
+    "pos": "f.",
+    "word": "empresa",
+    "definition": "definition",
+    "translation": "f. 公司",
+    "voiceUrl": "DELE_A1/184_f._empresa_es-es.mp3"
+  },
+  {
+    "id": "185",
+    "pos": "f.",
+    "word": "oficina",
+    "definition": "definition",
+    "translation": "f. 办公室",
+    "voiceUrl": "DELE_A1/185_f._oficina_es-es.mp3"
+  },
+  {
+    "id": "186",
+    "pos": "f.",
+    "word": "tienda",
+    "definition": "definition",
+    "translation": "f. 商店",
+    "voiceUrl": "DELE_A1/186_f._tienda_es-es.mp3"
+  },
+  {
+    "id": "187",
+    "pos": "m.",
+    "word": "teléfono",
+    "definition": "definition",
+    "translation": "m. 电话",
+    "voiceUrl": "DELE_A1/187_m._teléfono_es-es.mp3"
+  },
+  {
+    "id": "188",
+    "pos": "m.",
+    "word": "fax",
+    "definition": "definition",
+    "translation": "m. 传真",
+    "voiceUrl": "DELE_A1/188_m._fax_es-es.mp3"
+  },
+  {
+    "id": "189",
+    "pos": "m.",
+    "word": "trabajo",
+    "definition": "definition",
+    "translation": "m. 工作",
+    "voiceUrl": "DELE_A1/189_m._trabajo_es-es.mp3"
+  },
+  {
+    "id": "190",
+    "pos": "f.",
+    "word": "profesión",
+    "definition": "definition",
+    "translation": "f. 职业",
+    "voiceUrl": "DELE_A1/190_f._profesión_es-es.mp3"
+  },
+  {
+    "id": "191",
+    "pos": "tr.",
+    "word": "comprar",
+    "definition": "definition",
+    "translation": "tr. 买",
+    "voiceUrl": "DELE_A1/191_tr._comprar_es-es.mp3"
+  },
+  {
+    "id": "192",
+    "pos": "tr.",
+    "word": "vender",
+    "definition": "definition",
+    "translation": "tr. 卖",
+    "voiceUrl": "DELE_A1/192_tr._vender_es-es.mp3"
+  },
+  {
+    "id": "193",
+    "pos": "n/a",
+    "word": "estar en paro",
+    "definition": "definition",
+    "translation": "n/a 失业",
+    "voiceUrl": "DELE_A1/193_None_estar en paro_es-es.mp3"
+  },
+  {
+    "id": "194",
+    "pos": "intr.",
+    "word": "trabajar",
+    "definition": "definition",
+    "translation": "intr. 工作",
+    "voiceUrl": "DELE_A1/194_intr._trabajar_es-es.mp3"
+  },
+  {
+    "id": "195",
+    "pos": "f.",
+    "word": "vacaciones",
+    "definition": "definition",
+    "translation": "f. [pl.]假期",
+    "voiceUrl": "DELE_A1/195_f._vacaciones_es-es.mp3"
+  },
+  {
+    "id": "196",
+    "pos": "m.,f.",
+    "word": "turista",
+    "definition": "definition",
+    "translation": "m.,f. 游客",
+    "voiceUrl": "DELE_A1/196_f.,m._turista_es-es.mp3"
+  },
+  {
+    "id": "197",
+    "pos": "n/a",
+    "word": "oficina de información",
+    "definition": "definition",
+    "translation": "n/a 信息咨询处",
+    "voiceUrl": null
+  },
+  {
+    "id": "198",
+    "pos": "intr.",
+    "word": "viajar",
+    "definition": "definition",
+    "translation": "intr. 旅游",
+    "voiceUrl": "DELE_A1/198_intr._viajar_es-es.mp3"
+  },
+  {
+    "id": "199",
+    "pos": "n/a",
+    "word": "leer el periódico",
+    "definition": "definition",
+    "translation": "n/a 读报纸",
+    "voiceUrl": null
+  },
+  {
+    "id": "200",
+    "pos": "n/a",
+    "word": "leer un libro",
+    "definition": "definition",
+    "translation": "n/a 读本书",
+    "voiceUrl": null
+  },
+  {
+    "id": "201",
+    "pos": "n/a",
+    "word": "leer una revista",
+    "definition": "definition",
+    "translation": "n/a 读本杂志",
+    "voiceUrl": "DELE_A1/201_None_leer una revista_es-es.mp3"
+  },
+  {
+    "id": "202",
+    "pos": "n/a",
+    "word": "ver la televisión",
+    "definition": "definition",
+    "translation": "n/a 看电视",
+    "voiceUrl": "DELE_A1/202_None_ver la televisión_es-es.mp3"
+  },
+  {
+    "id": "203",
+    "pos": "n/a",
+    "word": "ver una película",
+    "definition": "definition",
+    "translation": "n/a 看一部电影",
+    "voiceUrl": null
+  },
+  {
+    "id": "204",
+    "pos": "n/a",
+    "word": "escuchar música",
+    "definition": "definition",
+    "translation": "n/a 听音乐",
+    "voiceUrl": null
+  },
+  {
+    "id": "205",
+    "pos": "n/a",
+    "word": "escuchar la radio",
+    "definition": "definition",
+    "translation": "n/a 听广播",
+    "voiceUrl": "DELE_A1/205_None_escuchar la radio_es-es.mp3"
+  },
+  {
+    "id": "206",
+    "pos": "n/a",
+    "word": "escuchar una canción",
+    "definition": "definition",
+    "translation": "n/a 听首歌",
+    "voiceUrl": "DELE_A1/206_None_escuchar una canción_es-es.mp3"
+  },
+  {
+    "id": "207",
+    "pos": "n/a",
+    "word": "ir a un café",
+    "definition": "definition",
+    "translation": "n/a 去家咖啡厅",
+    "voiceUrl": null
+  },
+  {
+    "id": "208",
+    "pos": "n/a",
+    "word": "ir a un restaurante",
+    "definition": "definition",
+    "translation": "n/a 去家餐厅",
+    "voiceUrl": null
+  },
+  {
+    "id": "209",
+    "pos": "n/a",
+    "word": "ir a un museo",
+    "definition": "definition",
+    "translation": "n/a 去家博物馆",
+    "voiceUrl": null
+  },
+  {
+    "id": "210",
+    "pos": "n/a",
+    "word": "ir al cine",
+    "definition": "definition",
+    "translation": "n/a 去电影院",
+    "voiceUrl": null
+  },
+  {
+    "id": "211",
+    "pos": "n/a",
+    "word": "ir al teatro",
+    "definition": "definition",
+    "translation": "n/a 去剧院",
+    "voiceUrl": null
+  },
+  {
+    "id": "212",
+    "pos": "n/a",
+    "word": "ir al parque",
+    "definition": "definition",
+    "translation": "n/a 去公园",
+    "voiceUrl": "DELE_A1/212_None_ir al parque_es-es.mp3"
+  },
+  {
+    "id": "213",
+    "pos": "n/a",
+    "word": "ir al circo",
+    "definition": "definition",
+    "translation": "n/a 去看马戏",
+    "voiceUrl": "DELE_A1/213_None_ir al circo_es-es.mp3"
+  },
+  {
+    "id": "214",
+    "pos": "intr.",
+    "word": "cantar",
+    "definition": "definition",
+    "translation": "intr. 唱歌",
+    "voiceUrl": "DELE_A1/214_intr._cantar_es-es.mp3"
+  },
+  {
+    "id": "215",
+    "pos": "intr.",
+    "word": "bailar",
+    "definition": "definition",
+    "translation": "intr. 跳舞",
+    "voiceUrl": "DELE_A1/215_intr._bailar_es-es.mp3"
+  },
+  {
+    "id": "216",
+    "pos": "f.",
+    "word": "película",
+    "definition": "definition",
+    "translation": "f. 电影",
+    "voiceUrl": "DELE_A1/216_f._película_es-es.mp3"
+  },
+  {
+    "id": "217",
+    "pos": "m.",
+    "word": "concierto",
+    "definition": "definition",
+    "translation": "m. 音乐会",
+    "voiceUrl": "DELE_A1/217_m._concierto_es-es.mp3"
+  },
+  {
+    "id": "218",
+    "pos": "intr.",
+    "word": "correr",
+    "definition": "definition",
+    "translation": "intr. 跑步",
+    "voiceUrl": "DELE_A1/218_intr._correr_es-es.mp3"
+  },
+  {
+    "id": "219",
+    "pos": "intr.",
+    "word": "nadar",
+    "definition": "definition",
+    "translation": "intr. 游泳",
+    "voiceUrl": "DELE_A1/219_intr._nadar_es-es.mp3"
+  },
+  {
+    "id": "220",
+    "pos": "intr.",
+    "word": "esquiar",
+    "definition": "definition",
+    "translation": "intr. 滑雪",
+    "voiceUrl": "DELE_A1/220_intr._esquiar_es-es.mp3"
+  },
+  {
+    "id": "221",
+    "pos": "n/a",
+    "word": "hacer deporte",
+    "definition": "definition",
+    "translation": "n/a 做体育运动",
+    "voiceUrl": "DELE_A1/221_None_hacer deporte_es-es.mp3"
+  },
+  {
+    "id": "222",
+    "pos": "n/a",
+    "word": "hacer ejercicio",
+    "definition": "definition",
+    "translation": "n/a 做运动",
+    "voiceUrl": "DELE_A1/222_None_hacer ejercicio_es-es.mp3"
+  },
+  {
+    "id": "223",
+    "pos": "n/a",
+    "word": "hacer gimnasia",
+    "definition": "definition",
+    "translation": "n/a 做体操",
+    "voiceUrl": "DELE_A1/223_None_hacer gimnasia_es-es.mp3"
+  },
+  {
+    "id": "224",
+    "pos": "n/a",
+    "word": "jugar al fútbol",
+    "definition": "definition",
+    "translation": "n/a 踢足球",
+    "voiceUrl": "DELE_A1/224_None_jugar al fútbol_es-es.mp3"
+  },
+  {
+    "id": "225",
+    "pos": "n/a",
+    "word": "jugar al baloncesto",
+    "definition": "definition",
+    "translation": "n/a 打篮球",
+    "voiceUrl": "DELE_A1/225_None_jugar al baloncesto_es-es.mp3"
+  },
+  {
+    "id": "226",
+    "pos": "n/a",
+    "word": "jugar al tenis",
+    "definition": "definition",
+    "translation": "n/a 打网球",
+    "voiceUrl": "DELE_A1/226_None_jugar al tenis_es-es.mp3"
+  },
+  {
+    "id": "227",
+    "pos": "m.",
+    "word": "juego",
+    "definition": "definition",
+    "translation": "m. 游戏",
+    "voiceUrl": "DELE_A1/227_m._juego_es-es.mp3"
+  },
+  {
+    "id": "228",
+    "pos": "m.",
+    "word": "sobre",
+    "definition": "definition",
+    "translation": "m. 信封",
+    "voiceUrl": "DELE_A1/228_m._sobre_es-es.mp3"
+  },
+  {
+    "id": "229",
+    "pos": "m.",
+    "word": "sello",
+    "definition": "definition",
+    "translation": "m. 印章",
+    "voiceUrl": "DELE_A1/229_m._sello_es-es.mp3"
+  },
+  {
+    "id": "230",
+    "pos": "n/a",
+    "word": "escribir una postal",
+    "definition": "definition",
+    "translation": "n/a 写张明信片",
+    "voiceUrl": null
+  },
+  {
+    "id": "231",
+    "pos": "n/a",
+    "word": "escribir una carta",
+    "definition": "definition",
+    "translation": "n/a 写封信",
+    "voiceUrl": null
+  },
+  {
+    "id": "232",
+    "pos": "n/a",
+    "word": "escribir un correo electrónico",
+    "definition": "definition",
+    "translation": "n/a 写封电子邮件",
+    "voiceUrl": null
+  },
+  {
+    "id": "233",
+    "pos": "n/a",
+    "word": "teléfono fijo",
+    "definition": "definition",
+    "translation": "n/a 固定电话",
+    "voiceUrl": null
+  },
+  {
+    "id": "234",
+    "pos": "m.",
+    "word": "quiosco",
+    "definition": "definition",
+    "translation": "m. 报亭",
+    "voiceUrl": "DELE_A1/234_m._quiosco_es-es.mp3"
+  },
+  {
+    "id": "235",
+    "pos": "f.",
+    "word": "arroba",
+    "definition": "definition",
+    "translation": "f. @（艾特）",
+    "voiceUrl": "DELE_A1/235_f._arroba_es-es.mp3"
+  },
+  {
+    "id": "236",
+    "pos": "m.",
+    "word": "guión",
+    "definition": "definition",
+    "translation": "m. 连字符号[-]",
+    "voiceUrl": "DELE_A1/236_m._guión_es-es.mp3"
+  },
+  {
+    "id": "237",
+    "pos": "n/a",
+    "word": "guión bajo",
+    "definition": "definition",
+    "translation": "n/a 下划线",
+    "voiceUrl": "DELE_A1/237_None_guión bajo_es-es.mp3"
+  },
+  {
+    "id": "238",
+    "pos": "m.",
+    "word": "punto",
+    "definition": "definition",
+    "translation": "m. 句号，点",
+    "voiceUrl": "DELE_A1/238_m._punto_es-es.mp3"
+  },
+  {
+    "id": "239",
+    "pos": "n/a",
+    "word": "página web",
+    "definition": "definition",
+    "translation": "n/a 网页",
+    "voiceUrl": null
+  },
+  {
+    "id": "240",
+    "pos": "f.",
+    "word": "casa",
+    "definition": "definition",
+    "translation": "f. 家",
+    "voiceUrl": "DELE_A1/240_f._casa_es-es.mp3"
+  },
+  {
+    "id": "241",
+    "pos": "m.",
+    "word": "piso",
+    "definition": "definition",
+    "translation": "m. 公寓，地面，层",
+    "voiceUrl": "DELE_A1/241_m._piso_es-es.mp3"
+  },
+  {
+    "id": "242",
+    "pos": "m.",
+    "word": "apartamento",
+    "definition": "definition",
+    "translation": "m. 公寓",
+    "voiceUrl": "DELE_A1/242_m._apartamento_es-es.mp3"
+  },
+  {
+    "id": "243",
+    "pos": "m.",
+    "word": "estudio",
+    "definition": "definition",
+    "translation": "m. 单身公寓，工作室",
+    "voiceUrl": "DELE_A1/243_m._estudio_es-es.mp3"
+  },
+  {
+    "id": "244",
+    "pos": "f.",
+    "word": "habitación",
+    "definition": "definition",
+    "translation": "f. 房间",
+    "voiceUrl": "DELE_A1/244_f._habitación_es-es.mp3"
+  },
+  {
+    "id": "245",
+    "pos": "m.",
+    "word": "ascensor",
+    "definition": "definition",
+    "translation": "m. 电梯",
+    "voiceUrl": "DELE_A1/245_m._ascensor_es-es.mp3"
+  },
+  {
+    "id": "246",
+    "pos": "f.",
+    "word": "escalera",
+    "definition": "definition",
+    "translation": "f. 楼梯",
+    "voiceUrl": "DELE_A1/246_f._escalera_es-es.mp3"
+  },
+  {
+    "id": "247",
+    "pos": "f.",
+    "word": "terraza",
+    "definition": "definition",
+    "translation": "f. 露台",
+    "voiceUrl": "DELE_A1/247_f._terraza_es-es.mp3"
+  },
+  {
+    "id": "248",
+    "pos": "m.",
+    "word": "jardín",
+    "definition": "definition",
+    "translation": "m. 花园",
+    "voiceUrl": "DELE_A1/248_m._jardín_es-es.mp3"
+  },
+  {
+    "id": "249",
+    "pos": "f.",
+    "word": "ventana",
+    "definition": "definition",
+    "translation": "f. 窗户",
+    "voiceUrl": "DELE_A1/249_f._ventana_es-es.mp3"
+  },
+  {
+    "id": "250",
+    "pos": "f.",
+    "word": "puerta",
+    "definition": "definition",
+    "translation": "f. 门",
+    "voiceUrl": "DELE_A1/250_f._puerta_es-es.mp3"
+  },
+  {
+    "id": "251",
+    "pos": "n/a",
+    "word": "sala de estar",
+    "definition": "definition",
+    "translation": "n/a 客厅",
+    "voiceUrl": "DELE_A1/251_None_sala de estar_es-es.mp3"
+  },
+  {
+    "id": "252",
+    "pos": "m.",
+    "word": "dormitorio",
+    "definition": "definition",
+    "translation": "m. 寝室，宿舍",
+    "voiceUrl": "DELE_A1/252_m._dormitorio_es-es.mp3"
+  },
+  {
+    "id": "253",
+    "pos": "f.",
+    "word": "cocina",
+    "definition": "definition",
+    "translation": "f. 厨房",
+    "voiceUrl": "DELE_A1/253_f._cocina_es-es.mp3"
+  },
+  {
+    "id": "254",
+    "pos": "m.",
+    "word": "baño",
+    "definition": "definition",
+    "translation": "m. 卫生间",
+    "voiceUrl": "DELE_A1/254_m._baño_es-es.mp3"
+  },
+  {
+    "id": "255",
+    "pos": "m.",
+    "word": "salón",
+    "definition": "definition",
+    "translation": "m. 大厅, 沙龙，展厅",
+    "voiceUrl": "DELE_A1/255_m._salón_es-es.mp3"
+  },
+  {
+    "id": "256",
+    "pos": "m.",
+    "word": "garaje",
+    "definition": "definition",
+    "translation": "m. 车库",
+    "voiceUrl": "DELE_A1/256_m._garaje_es-es.mp3"
+  },
+  {
+    "id": "257",
+    "pos": "n/a",
+    "word": "bien comunicado",
+    "definition": "definition",
+    "translation": "n/a 交通便利的",
+    "voiceUrl": "DELE_A1/257_None_bien comunicado_es-es.mp3"
+  },
+  {
+    "id": "258",
+    "pos": "n/a",
+    "word": "mal comunicado",
+    "definition": "definition",
+    "translation": "n/a 交通不便的",
+    "voiceUrl": "DELE_A1/258_None_mal comunicado_es-es.mp3"
+  },
+  {
+    "id": "259",
+    "pos": "n/a",
+    "word": "tener ascensor",
+    "definition": "definition",
+    "translation": "n/a 配有电梯",
+    "voiceUrl": null
+  },
+  {
+    "id": "260",
+    "pos": "n/a",
+    "word": "aire acondicionado",
+    "definition": "definition",
+    "translation": "n/a 空调",
+    "voiceUrl": "DELE_A1/260_None_aire acondicionado_es-es.mp3"
+  },
+  {
+    "id": "261",
+    "pos": "f.",
+    "word": "calefacción",
+    "definition": "definition",
+    "translation": "f. 暖气",
+    "voiceUrl": "DELE_A1/261_f._calefacción_es-es.mp3"
+  },
+  {
+    "id": "262",
+    "pos": "f.",
+    "word": "cama",
+    "definition": "definition",
+    "translation": "f. 床",
+    "voiceUrl": "DELE_A1/262_f._cama_es-es.mp3"
+  },
+  {
+    "id": "263",
+    "pos": "m.",
+    "word": "sofá",
+    "definition": "definition",
+    "translation": "m. 沙发",
+    "voiceUrl": "DELE_A1/263_m._sofá_es-es.mp3"
+  },
+  {
+    "id": "264",
+    "pos": "m.",
+    "word": "sillón",
+    "definition": "definition",
+    "translation": "m. 大扶手椅",
+    "voiceUrl": "DELE_A1/264_m._sillón_es-es.mp3"
+  },
+  {
+    "id": "265",
+    "pos": "m.",
+    "word": "lavabo",
+    "definition": "definition",
+    "translation": "m. 洗手间",
+    "voiceUrl": "DELE_A1/265_m._lavabo_es-es.mp3"
+  },
+  {
+    "id": "266",
+    "pos": "m.",
+    "word": "vídeo",
+    "definition": "definition",
+    "translation": "m. 视频   [拉美]  video",
+    "voiceUrl": "DELE_A1/266_m._vídeo_es-es.mp3"
+  },
+  {
+    "id": "267",
+    "pos": "f.",
+    "word": "carta",
+    "definition": "definition",
+    "translation": "f. 信",
+    "voiceUrl": "DELE_A1/267_f._carta_es-es.mp3"
+  },
+  {
+    "id": "268",
+    "pos": "f.",
+    "word": "postal",
+    "definition": "definition",
+    "translation": "f. 明信片",
+    "voiceUrl": "DELE_A1/268_f._postal_es-es.mp3"
+  },
+  {
+    "id": "269",
+    "pos": "m.",
+    "word": "banco",
+    "definition": "definition",
+    "translation": "m. 银行",
+    "voiceUrl": "DELE_A1/269_m._banco_es-es.mp3"
+  },
+  {
+    "id": "270",
+    "pos": "m.",
+    "word": "dinero",
+    "definition": "definition",
+    "translation": "m. 钱",
+    "voiceUrl": "DELE_A1/270_m._dinero_es-es.mp3"
+  },
+  {
+    "id": "271",
+    "pos": "m.",
+    "word": "euro",
+    "definition": "definition",
+    "translation": "m. 欧元",
+    "voiceUrl": "DELE_A1/271_m._euro_es-es.mp3"
+  },
+  {
+    "id": "272",
+    "pos": "n/a",
+    "word": "cambiar dinero",
+    "definition": "definition",
+    "translation": "n/a 换钱",
+    "voiceUrl": null
+  },
+  {
+    "id": "273",
+    "pos": "m.",
+    "word": "hospital",
+    "definition": "definition",
+    "translation": "m. 医院",
+    "voiceUrl": "DELE_A1/273_m._hospital_es-es.mp3"
+  },
+  {
+    "id": "274",
+    "pos": "m.,f.",
+    "word": "enfermera",
+    "definition": "definition",
+    "translation": "m.,f. 护士",
+    "voiceUrl": "DELE_A1/274_f.,m._enfermera_es-es.mp3"
+  },
+  {
+    "id": "275",
+    "pos": "m.,f.",
+    "word": "policía",
+    "definition": "definition",
+    "translation": "m.,f. 警察",
+    "voiceUrl": "DELE_A1/275_f.,m._policía_es-es.mp3"
+  },
+  {
+    "id": "276",
+    "pos": "m.,f.",
+    "word": "bombero",
+    "definition": "definition",
+    "translation": "m.,f. 消防员",
+    "voiceUrl": "DELE_A1/276_f.,m._bombero_es-es.mp3"
+  },
+  {
+    "id": "277",
+    "pos": "m.",
+    "word": "supermercado",
+    "definition": "definition",
+    "translation": "m. 超市",
+    "voiceUrl": "DELE_A1/277_m._supermercado_es-es.mp3"
+  },
+  {
+    "id": "278",
+    "pos": "m.",
+    "word": "mercado",
+    "definition": "definition",
+    "translation": "m. 市场",
+    "voiceUrl": "DELE_A1/278_m._mercado_es-es.mp3"
+  },
+  {
+    "id": "279",
+    "pos": "f.",
+    "word": "entrada",
+    "definition": "definition",
+    "translation": "f. 入口",
+    "voiceUrl": "DELE_A1/279_f._entrada_es-es.mp3"
+  },
+  {
+    "id": "280",
+    "pos": "f.",
+    "word": "salida",
+    "definition": "definition",
+    "translation": "f. 出口",
+    "voiceUrl": "DELE_A1/280_f._salida_es-es.mp3"
+  },
+  {
+    "id": "281",
+    "pos": "f.",
+    "word": "información",
+    "definition": "definition",
+    "translation": "f. 信息",
+    "voiceUrl": "DELE_A1/281_f._información_es-es.mp3"
+  },
+  {
+    "id": "282",
+    "pos": "m.,f.",
+    "word": "comprador",
+    "definition": "definition",
+    "translation": "m.,f. 买家",
+    "voiceUrl": "DELE_A1/282_f.,m._comprador_es-es.mp3"
+  },
+  {
+    "id": "283",
+    "pos": "m.,f.",
+    "word": "vendedor",
+    "definition": "definition",
+    "translation": "m.,f. 卖家",
+    "voiceUrl": "DELE_A1/283_f.,m._vendedor_es-es.mp3"
+  },
+  {
+    "id": "284",
+    "pos": "m.",
+    "word": "pantalón",
+    "definition": "definition",
+    "translation": "m. 裤子",
+    "voiceUrl": "DELE_A1/284_m._pantalón_es-es.mp3"
+  },
+  {
+    "id": "285",
+    "pos": "m.",
+    "word": "vaqueros",
+    "definition": "definition",
+    "translation": "m. [pl.]牛仔裤  [墨西哥] pantalónes de mezclilla",
+    "voiceUrl": "DELE_A1/285_m._vaqueros_es-es.mp3"
+  },
+  {
+    "id": "286",
+    "pos": "f.",
+    "word": "falda",
+    "definition": "definition",
+    "translation": "f. 半身裙",
+    "voiceUrl": "DELE_A1/286_f._falda_es-es.mp3"
+  },
+  {
+    "id": "287",
+    "pos": "f.",
+    "word": "camisa",
+    "definition": "definition",
+    "translation": "f. 衬衫",
+    "voiceUrl": "DELE_A1/287_f._camisa_es-es.mp3"
+  },
+  {
+    "id": "288",
+    "pos": "m.",
+    "word": "jersey",
+    "definition": "definition",
+    "translation": "m. 针织衫，运动衫  [墨西哥] suéter",
+    "voiceUrl": "DELE_A1/288_m._jersey_es-es.mp3"
+  },
+  {
+    "id": "289",
+    "pos": "m.",
+    "word": "zapatos",
+    "definition": "definition",
+    "translation": "m. [pl.] 鞋子",
+    "voiceUrl": "DELE_A1/289_m._zapatos_es-es.mp3"
+  },
+  {
+    "id": "290",
+    "pos": "m.",
+    "word": "bolso",
+    "definition": "definition",
+    "translation": "m. 手提包",
+    "voiceUrl": "DELE_A1/290_m._bolso_es-es.mp3"
+  },
+  {
+    "id": "291",
+    "pos": "m.",
+    "word": "precio",
+    "definition": "definition",
+    "translation": "m. 价钱",
+    "voiceUrl": "DELE_A1/291_m._precio_es-es.mp3"
+  },
+  {
+    "id": "292",
+    "pos": "m.",
+    "word": "billete",
+    "definition": "definition",
+    "translation": "m. 票，钱币  在[拉美]billete表示钱币，票则用boleto",
+    "voiceUrl": "DELE_A1/292_m._billete_es-es.mp3"
+  },
+  {
+    "id": "293",
+    "pos": "n/a",
+    "word": "pagar con tarjeta",
+    "definition": "definition",
+    "translation": "n/a 刷卡付款",
+    "voiceUrl": "DELE_A1/293_None_pagar con tarjeta_es-es.mp3"
+  },
+  {
+    "id": "294",
+    "pos": "n/a",
+    "word": "tarjeta de crédito",
+    "definition": "definition",
+    "translation": "n/a 信用卡",
+    "voiceUrl": null
+  },
+  {
+    "id": "295",
+    "pos": "n/a",
+    "word": "estar enfermo",
+    "definition": "definition",
+    "translation": "n/a 生病",
+    "voiceUrl": "DELE_A1/295_None_estar enfermo_es-es.mp3"
+  },
+  {
+    "id": "296",
+    "pos": "n/a",
+    "word": "ir al hospital",
+    "definition": "definition",
+    "translation": "n/a 去医院",
+    "voiceUrl": null
+  },
+  {
+    "id": "297",
+    "pos": "n/a",
+    "word": "ir al médico",
+    "definition": "definition",
+    "translation": "n/a 去看医生",
+    "voiceUrl": null
+  },
+  {
+    "id": "298",
+    "pos": "f.",
+    "word": "farmacia",
+    "definition": "definition",
+    "translation": "f. 药店",
+    "voiceUrl": "DELE_A1/298_f._farmacia_es-es.mp3"
+  },
+  {
+    "id": "299",
+    "pos": "m.",
+    "word": "jabón",
+    "definition": "definition",
+    "translation": "m. 肥皂",
+    "voiceUrl": "DELE_A1/299_m._jabón_es-es.mp3"
+  },
+  {
+    "id": "300",
+    "pos": "n/a",
+    "word": "lavarse la cara",
+    "definition": "definition",
+    "translation": "n/a 洗脸",
+    "voiceUrl": "DELE_A1/300_None_lavarse la cara_es-es.mp3"
+  },
+  {
+    "id": "301",
+    "pos": "n/a",
+    "word": "lavarse las manos",
+    "definition": "definition",
+    "translation": "n/a 洗手",
+    "voiceUrl": "DELE_A1/301_None_lavarse las manos_es-es.mp3"
+  },
+  {
+    "id": "302",
+    "pos": "n/a",
+    "word": "lavarse el pelo",
+    "definition": "definition",
+    "translation": "n/a 洗头",
+    "voiceUrl": "DELE_A1/302_None_lavarse el pelo_es-es.mp3"
+  },
+  {
+    "id": "303",
+    "pos": "n/a",
+    "word": "lavarse los dientes",
+    "definition": "definition",
+    "translation": "n/a 刷牙",
+    "voiceUrl": "DELE_A1/303_None_lavarse los dientes_es-es.mp3"
+  },
+  {
+    "id": "304",
+    "pos": "prnl.",
+    "word": "ducharse",
+    "definition": "definition",
+    "translation": "prnl. 淋浴，洗澡",
+    "voiceUrl": "DELE_A1/304_prnl._ducharse_es-es.mp3"
+  },
+  {
+    "id": "305",
+    "pos": "prnl.",
+    "word": "bañarse",
+    "definition": "definition",
+    "translation": "prnl. 沐浴，洗澡",
+    "voiceUrl": "DELE_A1/305_prnl._bañarse_es-es.mp3"
+  },
+  {
+    "id": "306",
+    "pos": "n/a",
+    "word": "carné de identidad",
+    "definition": "definition",
+    "translation": "n/a 身份证",
+    "voiceUrl": "DELE_A1/306_None_carné de identidad_es-es.mp3"
+  },
+  {
+    "id": "307",
+    "pos": "m.",
+    "word": "pasaporte",
+    "definition": "definition",
+    "translation": "m. 护照",
+    "voiceUrl": "DELE_A1/307_m._pasaporte_es-es.mp3"
+  },
+  {
+    "id": "308",
+    "pos": "n/a",
+    "word": "carné de conducir",
+    "definition": "definition",
+    "translation": "n/a 驾照  [墨西哥] licencia de manejo",
+    "voiceUrl": "DELE_A1/308_None_carné de conducir_es-es.mp3"
+  },
+  {
+    "id": "309",
+    "pos": "f.",
+    "word": "publicidad",
+    "definition": "definition",
+    "translation": "f. 广告",
+    "voiceUrl": "DELE_A1/309_f._publicidad_es-es.mp3"
+  },
+  {
+    "id": "310",
+    "pos": "f.",
+    "word": "maleta",
+    "definition": "definition",
+    "translation": "f. 行李箱",
+    "voiceUrl": "DELE_A1/310_f._maleta_es-es.mp3"
+  },
+  {
+    "id": "311",
+    "pos": "n/a",
+    "word": "comprar un billete",
+    "definition": "definition",
+    "translation": "n/a 买一张票   [拉美] comprar un boleto",
+    "voiceUrl": null
+  },
+  {
+    "id": "312",
+    "pos": "n/a",
+    "word": "comprar un billete de ida",
+    "definition": "definition",
+    "translation": "n/a 买一张去程票  [拉美]comprar un boleto de ida",
+    "voiceUrl": null
+  },
+  {
+    "id": "313",
+    "pos": "n/a",
+    "word": "comprar un billete de ida y vuelta",
+    "definition": "definition",
+    "translation": "n/a 买往返票  [拉美]comprar un boleto de ida y vuelta",
+    "voiceUrl": null
+  },
+  {
+    "id": "314",
+    "pos": "m.",
+    "word": "horario",
+    "definition": "definition",
+    "translation": "m. 时刻表",
+    "voiceUrl": "DELE_A1/314_m._horario_es-es.mp3"
+  },
+  {
+    "id": "315",
+    "pos": "n/a",
+    "word": "ir a Madrid",
+    "definition": "definition",
+    "translation": "n/a 去马德里",
+    "voiceUrl": "DELE_A1/315_None_ir a Madrid_es-es.mp3"
+  },
+  {
+    "id": "316",
+    "pos": "n/a",
+    "word": "ir a la playa",
+    "definition": "definition",
+    "translation": "n/a 去海滩",
+    "voiceUrl": "DELE_A1/316_None_ir a la playa_es-es.mp3"
+  },
+  {
+    "id": "317",
+    "pos": "n/a",
+    "word": "ir a la montaña",
+    "definition": "definition",
+    "translation": "n/a 去山上",
+    "voiceUrl": "DELE_A1/317_None_ir a la montaña_es-es.mp3"
+  },
+  {
+    "id": "318",
+    "pos": "m.",
+    "word": "hotel",
+    "definition": "definition",
+    "translation": "m. 酒店",
+    "voiceUrl": "DELE_A1/318_m._hotel_es-es.mp3"
+  },
+  {
+    "id": "319",
+    "pos": "m.",
+    "word": "camping",
+    "definition": "definition",
+    "translation": "m. 野营",
+    "voiceUrl": "DELE_A1/319_m._camping_es-es.mp3"
+  },
+  {
+    "id": "320",
+    "pos": "n/a",
+    "word": "habitación doble",
+    "definition": "definition",
+    "translation": "n/a 双人间",
+    "voiceUrl": "DELE_A1/320_None_habitación doble_es-es.mp3"
+  },
+  {
+    "id": "321",
+    "pos": "n/a",
+    "word": "habitación individual",
+    "definition": "definition",
+    "translation": "n/a 单人间",
+    "voiceUrl": "DELE_A1/321_None_habitación individual_es-es.mp3"
+  },
+  {
+    "id": "322",
+    "pos": "f.",
+    "word": "carretera",
+    "definition": "definition",
+    "translation": "f. 公路，大路",
+    "voiceUrl": "DELE_A1/322_f._carretera_es-es.mp3"
+  },
+  {
+    "id": "323",
+    "pos": "m.",
+    "word": "aeropuerto",
+    "definition": "definition",
+    "translation": "m. 飞机场",
+    "voiceUrl": "DELE_A1/323_m._aeropuerto_es-es.mp3"
+  },
+  {
+    "id": "324",
+    "pos": "m.",
+    "word": "puerto",
+    "definition": "definition",
+    "translation": "m. 港口",
+    "voiceUrl": "DELE_A1/324_m._puerto_es-es.mp3"
+  },
+  {
+    "id": "325",
+    "pos": "n/a",
+    "word": "estación de tren",
+    "definition": "definition",
+    "translation": "n/a 火车站",
+    "voiceUrl": "DELE_A1/325_None_estación de tren_es-es.mp3"
+  },
+  {
+    "id": "326",
+    "pos": "n/a",
+    "word": "estación de metro",
+    "definition": "definition",
+    "translation": "n/a 地铁站",
+    "voiceUrl": "DELE_A1/326_None_estación de metro_es-es.mp3"
+  },
+  {
+    "id": "327",
+    "pos": "n/a",
+    "word": "parada de autobús",
+    "definition": "definition",
+    "translation": "n/a 公交车站",
+    "voiceUrl": "DELE_A1/327_None_parada de autobús_es-es.mp3"
+  },
+  {
+    "id": "328",
+    "pos": "n/a",
+    "word": "parada de taxi",
+    "definition": "definition",
+    "translation": "n/a 出租车停靠站",
+    "voiceUrl": "DELE_A1/328_None_parada de taxi_es-es.mp3"
+  },
+  {
+    "id": "329",
+    "pos": "n/a",
+    "word": "ir andando",
+    "definition": "definition",
+    "translation": "n/a 走路去",
+    "voiceUrl": "DELE_A1/329_None_ir andando_es-es.mp3"
+  },
+  {
+    "id": "330",
+    "pos": "n/a",
+    "word": "ir en coche",
+    "definition": "definition",
+    "translation": "n/a 乘/开车去",
+    "voiceUrl": "DELE_A1/330_None_ir en coche_es-es.mp3"
+  },
+  {
+    "id": "331",
+    "pos": "n/a",
+    "word": "ir en taxi",
+    "definition": "definition",
+    "translation": "n/a 乘坐出租车去",
+    "voiceUrl": "DELE_A1/331_None_ir en taxi_es-es.mp3"
+  },
+  {
+    "id": "332",
+    "pos": "n/a",
+    "word": "ir en tren",
+    "definition": "definition",
+    "translation": "n/a 坐火车去",
+    "voiceUrl": "DELE_A1/332_None_ir en tren_es-es.mp3"
+  },
+  {
+    "id": "333",
+    "pos": "n/a",
+    "word": "ir en metro",
+    "definition": "definition",
+    "translation": "n/a 坐地铁去",
+    "voiceUrl": "DELE_A1/333_None_ir en metro_es-es.mp3"
+  },
+  {
+    "id": "334",
+    "pos": "n/a",
+    "word": "ir en autobús",
+    "definition": "definition",
+    "translation": "n/a 坐公交车去",
+    "voiceUrl": "DELE_A1/334_None_ir en autobús_es-es.mp3"
+  },
+  {
+    "id": "335",
+    "pos": "n/a",
+    "word": "ir en avión",
+    "definition": "definition",
+    "translation": "n/a 坐飞机去",
+    "voiceUrl": "DELE_A1/335_None_ir en avión_es-es.mp3"
+  },
+  {
+    "id": "336",
+    "pos": "n/a",
+    "word": "ir en barco",
+    "definition": "definition",
+    "translation": "n/a 乘船去",
+    "voiceUrl": "DELE_A1/336_None_ir en barco_es-es.mp3"
+  },
+  {
+    "id": "337",
+    "pos": "m.,f.",
+    "word": "conductor",
+    "definition": "definition",
+    "translation": "m.,f. 司机",
+    "voiceUrl": "DELE_A1/337_f.,m._conductor_es-es.mp3"
+  },
+  {
+    "id": "338",
+    "pos": "m.",
+    "word": "aparcamiento",
+    "definition": "definition",
+    "translation": "m. 停车场",
+    "voiceUrl": "DELE_A1/338_m._aparcamiento_es-es.mp3"
+  },
+  {
+    "id": "339",
+    "pos": "n/a",
+    "word": "transporte por tierra",
+    "definition": "definition",
+    "translation": "n/a 陆地交通运输",
+    "voiceUrl": "DELE_A1/339_None_transporte por tierra_es-es.mp3"
+  },
+  {
+    "id": "340",
+    "pos": "n/a",
+    "word": "transporte marítimo y fluvial",
+    "definition": "definition",
+    "translation": "n/a 海洋和河流交通运输",
+    "voiceUrl": "DELE_A1/340_None_transporte marítimo y fluvial_es-es.mp3"
+  },
+  {
+    "id": "341",
+    "pos": "n/a",
+    "word": "transporte aéreo",
+    "definition": "definition",
+    "translation": "n/a 航空交通运输",
+    "voiceUrl": "DELE_A1/341_None_transporte aéreo_es-es.mp3"
+  },
+  {
+    "id": "342",
+    "pos": "adj.",
+    "word": "caro",
+    "definition": "definition",
+    "translation": "adj. 贵的",
+    "voiceUrl": "DELE_A1/342_adj._caro_es-es.mp3"
+  },
+  {
+    "id": "343",
+    "pos": "adj.",
+    "word": "barato",
+    "definition": "definition",
+    "translation": "adj. 便宜的",
+    "voiceUrl": "DELE_A1/343_adj._barato_es-es.mp3"
+  },
+  {
+    "id": "344",
+    "pos": "f.",
+    "word": "capital",
+    "definition": "definition",
+    "translation": "f. 首都",
+    "voiceUrl": "DELE_A1/344_f._capital_es-es.mp3"
+  },
+  {
+    "id": "345",
+    "pos": "m.,f.",
+    "word": "presidente",
+    "definition": "definition",
+    "translation": "m.,f. 主席，总统",
+    "voiceUrl": "DELE_A1/345_f.,m._presidente_es-es.mp3"
+  },
+  {
+    "id": "346",
+    "pos": "m.",
+    "word": "rey",
+    "definition": "definition",
+    "translation": "m. 国王",
+    "voiceUrl": "DELE_A1/346_m._rey_es-es.mp3"
+  },
+  {
+    "id": "347",
+    "pos": "f.",
+    "word": "reina",
+    "definition": "definition",
+    "translation": "f. 女王",
+    "voiceUrl": "DELE_A1/347_f._reina_es-es.mp3"
+  },
+  {
+    "id": "348",
+    "pos": "m.",
+    "word": "cine",
+    "definition": "definition",
+    "translation": "m. 电影院",
+    "voiceUrl": "DELE_A1/348_m._cine_es-es.mp3"
+  },
+  {
+    "id": "349",
+    "pos": "m.",
+    "word": "teatro",
+    "definition": "definition",
+    "translation": "m. 剧院",
+    "voiceUrl": "DELE_A1/349_m._teatro_es-es.mp3"
+  },
+  {
+    "id": "350",
+    "pos": "f.",
+    "word": "música",
+    "definition": "definition",
+    "translation": "f. 音乐",
+    "voiceUrl": "DELE_A1/350_f._música_es-es.mp3"
+  },
+  {
+    "id": "351",
+    "pos": "f.",
+    "word": "foto",
+    "definition": "definition",
+    "translation": "f. 照片",
+    "voiceUrl": "DELE_A1/351_f._foto_es-es.mp3"
+  },
+  {
+    "id": "352",
+    "pos": "m.",
+    "word": "museo",
+    "definition": "definition",
+    "translation": "m. 博物馆",
+    "voiceUrl": "DELE_A1/352_m._museo_es-es.mp3"
+  },
+  {
+    "id": "353",
+    "pos": "f.",
+    "word": "exposición",
+    "definition": "definition",
+    "translation": "f. 展览",
+    "voiceUrl": "DELE_A1/353_f._exposición_es-es.mp3"
+  },
+  {
+    "id": "354",
+    "pos": "n/a",
+    "word": "ser interesante",
+    "definition": "definition",
+    "translation": "n/a 有意思",
+    "voiceUrl": "DELE_A1/354_None_ser interesante_es-es.mp3"
+  },
+  {
+    "id": "355",
+    "pos": "m.,f.",
+    "word": "cantante",
+    "definition": "definition",
+    "translation": "m.,f. 歌手",
+    "voiceUrl": "DELE_A1/355_f.,m._cantante_es-es.mp3"
+  },
+  {
+    "id": "356",
+    "pos": "m.",
+    "word": "edificio",
+    "definition": "definition",
+    "translation": "m. 建筑物",
+    "voiceUrl": "DELE_A1/356_m._edificio_es-es.mp3"
+  },
+  {
+    "id": "357",
+    "pos": "m.",
+    "word": "monumento",
+    "definition": "definition",
+    "translation": "m. 纪念碑",
+    "voiceUrl": "DELE_A1/357_m._monumento_es-es.mp3"
+  },
+  {
+    "id": "358",
+    "pos": "f.",
+    "word": "catedral",
+    "definition": "definition",
+    "translation": "f. 大教堂",
+    "voiceUrl": "DELE_A1/358_f._catedral_es-es.mp3"
+  },
+  {
+    "id": "359",
+    "pos": "f.",
+    "word": "iglesia",
+    "definition": "definition",
+    "translation": "f. 教堂",
+    "voiceUrl": "DELE_A1/359_f._iglesia_es-es.mp3"
+  },
+  {
+    "id": "360",
+    "pos": "m.",
+    "word": "actor",
+    "definition": "definition",
+    "translation": "m. 男演员",
+    "voiceUrl": "DELE_A1/360_m._actor_es-es.mp3"
+  },
+  {
+    "id": "361",
+    "pos": "f.",
+    "word": "actriz",
+    "definition": "definition",
+    "translation": "f. 女演员",
+    "voiceUrl": "DELE_A1/361_f._actriz_es-es.mp3"
+  },
+  {
+    "id": "362",
+    "pos": "f.",
+    "word": "religión",
+    "definition": "definition",
+    "translation": "f. 宗教",
+    "voiceUrl": "DELE_A1/362_f._religión_es-es.mp3"
+  },
+  {
+    "id": "363",
+    "pos": "adj.,m.,f.",
+    "word": "cristiano",
+    "definition": "definition",
+    "translation": "adj.,m.,f. 基督教的,  基督教教徒",
+    "voiceUrl": "DELE_A1/363_adj.,f.,m._cristiano_es-es.mp3"
+  },
+  {
+    "id": "364",
+    "pos": "adj.,m.,f.",
+    "word": "judío",
+    "definition": "definition",
+    "translation": "adj.,m.,f. 犹太人的, 犹太人 犹太教徒",
+    "voiceUrl": "DELE_A1/364_adj.,f.,m._judío_es-es.mp3"
+  },
+  {
+    "id": "365",
+    "pos": "adj.,m.,f.",
+    "word": "musulmán",
+    "definition": "definition",
+    "translation": "adj.,m.,f. 穆斯林的,  穆斯林",
+    "voiceUrl": "DELE_A1/365_adj.,f.,m._musulmán_es-es.mp3"
+  },
+  {
+    "id": "366",
+    "pos": "adj.,m.,f.",
+    "word": "budista",
+    "definition": "definition",
+    "translation": "adj.,m.,f. 佛教的,  佛教徒",
+    "voiceUrl": "DELE_A1/366_adj.,f.,m._budista_es-es.mp3"
+  },
+  {
+    "id": "367",
+    "pos": "n/a",
+    "word": "ir a la iglesia",
+    "definition": "definition",
+    "translation": "n/a 去教堂",
+    "voiceUrl": null
+  },
+  {
+    "id": "368",
+    "pos": "n/a",
+    "word": "ir a la mezquita",
+    "definition": "definition",
+    "translation": "n/a 去清真寺",
+    "voiceUrl": "DELE_A1/368_None_ir a la mezquita_es-es.mp3"
+  },
+  {
+    "id": "369",
+    "pos": "n/a",
+    "word": "ir a la sinagoga",
+    "definition": "definition",
+    "translation": "n/a 去犹太教堂",
+    "voiceUrl": null
+  },
+  {
+    "id": "370",
+    "pos": "m.",
+    "word": "sol",
+    "definition": "definition",
+    "translation": "m. 太阳",
+    "voiceUrl": "DELE_A1/370_m._sol_es-es.mp3"
+  },
+  {
+    "id": "371",
+    "pos": "m.",
+    "word": "lugar",
+    "definition": "definition",
+    "translation": "m. 地方",
+    "voiceUrl": "DELE_A1/371_m._lugar_es-es.mp3"
+  },
+  {
+    "id": "372",
+    "pos": "m.",
+    "word": "norte",
+    "definition": "definition",
+    "translation": "m. 北部",
+    "voiceUrl": "DELE_A1/372_m._norte_es-es.mp3"
+  },
+  {
+    "id": "373",
+    "pos": "m.",
+    "word": "sur",
+    "definition": "definition",
+    "translation": "m. 南部",
+    "voiceUrl": "DELE_A1/373_m._sur_es-es.mp3"
+  },
+  {
+    "id": "374",
+    "pos": "m.",
+    "word": "este",
+    "definition": "definition",
+    "translation": "m. 东部",
+    "voiceUrl": "DELE_A1/374_m._este_es-es.mp3"
+  },
+  {
+    "id": "375",
+    "pos": "m.",
+    "word": "oeste",
+    "definition": "definition",
+    "translation": "m. 西部",
+    "voiceUrl": "DELE_A1/375_m._oeste_es-es.mp3"
+  },
+  {
+    "id": "376",
+    "pos": "f.",
+    "word": "plaza",
+    "definition": "definition",
+    "translation": "f. 广场",
+    "voiceUrl": "DELE_A1/376_f._plaza_es-es.mp3"
+  },
+  {
+    "id": "377",
+    "pos": "n/a",
+    "word": "centro comercial",
+    "definition": "definition",
+    "translation": "n/a 购物中心",
+    "voiceUrl": "DELE_A1/377_None_centro comercial_es-es.mp3"
+  },
+  {
+    "id": "378",
+    "pos": "m.",
+    "word": "colegio",
+    "definition": "definition",
+    "translation": "m. 学院，学校",
+    "voiceUrl": "DELE_A1/378_m._colegio_es-es.mp3"
+  },
+  {
+    "id": "379",
+    "pos": "f.",
+    "word": "escuela",
+    "definition": "definition",
+    "translation": "f. 学校",
+    "voiceUrl": "DELE_A1/379_f._escuela_es-es.mp3"
+  },
+  {
+    "id": "380",
+    "pos": "f.",
+    "word": "primavera",
+    "definition": "definition",
+    "translation": "f. 春天",
+    "voiceUrl": "DELE_A1/380_f._primavera_es-es.mp3"
+  },
+  {
+    "id": "381",
+    "pos": "m.",
+    "word": "verano",
+    "definition": "definition",
+    "translation": "m. 夏天",
+    "voiceUrl": "DELE_A1/381_m._verano_es-es.mp3"
+  },
+  {
+    "id": "382",
+    "pos": "m.",
+    "word": "otoño",
+    "definition": "definition",
+    "translation": "m. 秋天",
+    "voiceUrl": "DELE_A1/382_m._otoño_es-es.mp3"
+  },
+  {
+    "id": "383",
+    "pos": "m.",
+    "word": "invierno",
+    "definition": "definition",
+    "translation": "m. 冬天",
+    "voiceUrl": "DELE_A1/383_m._invierno_es-es.mp3"
+  },
+  {
+    "id": "384",
+    "pos": "impers.",
+    "word": "llover",
+    "definition": "definition",
+    "translation": "impers. 下雨",
+    "voiceUrl": "DELE_A1/384_impers._llover_es-es.mp3"
+  },
+  {
+    "id": "385",
+    "pos": "impers.",
+    "word": "nevar",
+    "definition": "definition",
+    "translation": "impers. 下雪",
+    "voiceUrl": "DELE_A1/385_impers._nevar_es-es.mp3"
+  },
+  {
+    "id": "386",
+    "pos": "n/a",
+    "word": "hace frío",
+    "definition": "definition",
+    "translation": "n/a 天气寒冷",
+    "voiceUrl": "DELE_A1/386_None_hace frío_es-es.mp3"
+  },
+  {
+    "id": "387",
+    "pos": "n/a",
+    "word": "hace calor",
+    "definition": "definition",
+    "translation": "n/a 天气炎热",
+    "voiceUrl": "DELE_A1/387_None_hace calor_es-es.mp3"
+  },
+  {
+    "id": "388",
+    "pos": "n/a",
+    "word": "hace sol",
+    "definition": "definition",
+    "translation": "n/a 阳光明媚",
+    "voiceUrl": "DELE_A1/388_None_hace sol_es-es.mp3"
+  },
+  {
+    "id": "389",
+    "pos": "n/a",
+    "word": "hace viento",
+    "definition": "definition",
+    "translation": "n/a 刮风",
+    "voiceUrl": "DELE_A1/389_None_hace viento_es-es.mp3"
+  },
+  {
+    "id": "390",
+    "pos": "n/a",
+    "word": "hace buen tiempo",
+    "definition": "definition",
+    "translation": "n/a 好天气",
+    "voiceUrl": "DELE_A1/390_None_hace buen tiempo_es-es.mp3"
+  },
+  {
+    "id": "391",
+    "pos": "n/a",
+    "word": "hace mal tiempo",
+    "definition": "definition",
+    "translation": "n/a 天气不好",
+    "voiceUrl": "DELE_A1/391_None_hace mal tiempo_es-es.mp3"
+  },
+  {
+    "id": "392",
+    "pos": "m.",
+    "word": "animal",
+    "definition": "definition",
+    "translation": "m. 动物",
+    "voiceUrl": "DELE_A1/392_m._animal_es-es.mp3"
+  },
+  {
+    "id": "393",
+    "pos": "f.",
+    "word": "planta",
+    "definition": "definition",
+    "translation": "f. 植物",
+    "voiceUrl": "DELE_A1/393_f._planta_es-es.mp3"
+  },
+  {
+    "id": "394",
+    "pos": "f.",
+    "word": "flor",
+    "definition": "definition",
+    "translation": "f. 花",
+    "voiceUrl": "DELE_A1/394_f._flor_es-es.mp3"
+  },
+  {
+    "id": "395",
+    "pos": "m.",
+    "word": "árbol",
+    "definition": "definition",
+    "translation": "m. 树",
+    "voiceUrl": "DELE_A1/395_m._árbol_es-es.mp3"
+  }
+]

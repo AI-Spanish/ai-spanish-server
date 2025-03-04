@@ -1,0 +1,43 @@
+{
+  "name": "ai-spanish-server",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "cross-env NODE_ENV=production tsc && tsc-alias ",
+    "start": "cross-env NODE_ENV=production node dist/index.js",
+    "db:push": "drizzle-kit push",
+    "db:seed": "npx tsx src/db/seed.ts",
+    "db:buildSeed": "cross-env NODE_ENV=production npx tsx src/db/seed.ts",
+    "db:build": "cross-env NODE_ENV=production drizzle-kit push"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.12.2",
+    "@lucia-auth/adapter-drizzle": "^1.1.0",
+    "ali-oss": "^6.21.0",
+    "axios": "^1.7.7",
+    "chatgpt": "^5.2.5",
+    "cross-env": "^7.0.3",
+    "crypto": "^1.0.1",
+    "crypto-js": "^3.1.9-1",
+    "dotenv": "^16.4.5",
+    "drizzle-orm": "^0.33.0",
+    "hono": "^4.5.11",
+    "jstat": "^1.9.6",
+    "log4js": "^6.9.1",
+    "lucia": "^3.2.0",
+    "postgres": "^3.4.4",
+    "typescript": "^5.6.2",
+    "uuid": "^10.0.0",
+    "ws": "^8.18.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/ali-oss": "^6.16.11",
+    "@types/crypto-js": "^4.2.2",
+    "@types/node": "^20.11.17",
+    "@types/ws": "^8.5.12",
+    "drizzle-kit": "^0.24.2",
+    "tsc-alias": "^1.8.10",
+    "tsx": "^4.19.1"
+  }
+}

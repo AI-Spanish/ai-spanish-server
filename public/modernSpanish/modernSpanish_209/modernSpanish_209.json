@@ -1,0 +1,370 @@
+[
+    {
+        "id": "391_告别",
+        "pos": "f.",
+        "word": "despedida",
+        "definition": "177页",
+        "translation": "f. 告别",
+        "voiceUrl": "modernSpanish/modernSpanish_209/391_告别.mp3"
+    },
+    {
+        "id": "392_毕业",
+        "pos": "prnl.",
+        "word": "graduarse",
+        "definition": "177页",
+        "translation": "prnl. 毕业",
+        "voiceUrl": "modernSpanish/modernSpanish_209/392_毕业.mp3"
+    },
+    {
+        "id": "393_部委",
+        "pos": "m.",
+        "word": "ministerio",
+        "definition": "177页",
+        "translation": "m. 部（委）",
+        "voiceUrl": "modernSpanish/modernSpanish_209/393_部委.mp3"
+    },
+    {
+        "id": "394_关系",
+        "pos": "f.",
+        "word": "relación",
+        "definition": "177页",
+        "translation": "f. 关系",
+        "voiceUrl": "modernSpanish/modernSpanish_209/394_关系.mp3"
+    },
+    {
+        "id": "395_拉巴斯",
+        "pos": null,
+        "word": "La Paz",
+        "definition": "177页",
+        "translation": "拉巴斯",
+        "voiceUrl": "modernSpanish/modernSpanish_209/395_拉巴斯.mp3"
+    },
+    {
+        "id": "396_玻利维亚",
+        "pos": null,
+        "word": "Bolivia",
+        "definition": "177页",
+        "translation": "玻利维亚",
+        "voiceUrl": "modernSpanish/modernSpanish_209/396_玻利维亚.mp3"
+    },
+    {
+        "id": "397_高兴",
+        "pos": "prnl.",
+        "word": "alegrarse",
+        "definition": "178页",
+        "translation": "prnl. 高兴",
+        "voiceUrl": "modernSpanish/modernSpanish_209/397_高兴.mp3"
+    },
+    {
+        "id": "398_实践从事",
+        "pos": "tr.",
+        "word": "practicar",
+        "definition": "178页",
+        "translation": "tr. 实践，从事",
+        "voiceUrl": "modernSpanish/modernSpanish_209/398_实践从事.mp3"
+    },
+    {
+        "id": "399_羡慕嫉妒",
+        "pos": "tr.",
+        "word": "envidiar",
+        "definition": "178页",
+        "translation": "tr. 羡慕，嫉妒",
+        "voiceUrl": "modernSpanish/modernSpanish_209/399_羡慕嫉妒.mp3"
+    },
+    {
+        "id": "400_从事",
+        "pos": "tr.",
+        "word": "ejercer",
+        "definition": "178页",
+        "translation": "tr. 从事",
+        "voiceUrl": "modernSpanish/modernSpanish_209/400_从事.mp3"
+    },
+    {
+        "id": "401_外交的外交官",
+        "pos": "f.",
+        "word": "diplomacia",
+        "definition": "178页",
+        "translation": "f. 外交的；外交官",
+        "voiceUrl": "modernSpanish/modernSpanish_209/401_外交的外交官.mp3"
+    },
+    {
+        "id": "402_飞",
+        "pos": "intr.",
+        "word": "volar",
+        "definition": "178页",
+        "translation": "intr. 飞",
+        "voiceUrl": "modernSpanish/modernSpanish_209/402_飞.mp3"
+    },
+    {
+        "id": "403_高兴",
+        "pos": "adj.",
+        "word": "alegre",
+        "definition": "178页",
+        "translation": "adj. 高兴",
+        "voiceUrl": "modernSpanish/modernSpanish_209/403_高兴.mp3"
+    },
+    {
+        "id": "404_悲伤忧愁",
+        "pos": "adj.",
+        "word": "triste",
+        "definition": "178页",
+        "translation": "adj. 悲伤，忧愁",
+        "voiceUrl": "modernSpanish/modernSpanish_209/404_悲伤忧愁.mp3"
+    },
+    {
+        "id": "405_痛苦",
+        "pos": "adj.",
+        "word": "penoso",
+        "definition": "178页",
+        "translation": "adj. 痛苦",
+        "voiceUrl": "modernSpanish/modernSpanish_209/405_痛苦.mp3"
+    },
+    {
+        "id": "406_不管怎么说",
+        "pos": null,
+        "word": "de todas maneras",
+        "definition": "178页",
+        "translation": "不管怎么说",
+        "voiceUrl": "modernSpanish/modernSpanish_209/406_不管怎么说.mp3"
+    },
+    {
+        "id": "407_原因原由",
+        "pos": "m.",
+        "word": "motivo",
+        "definition": "178页",
+        "translation": "m. 原因，原由",
+        "voiceUrl": "modernSpanish/modernSpanish_209/407_原因原由.mp3"
+    },
+    {
+        "id": "408_振作起来",
+        "pos": "prnl.",
+        "word": "animarse",
+        "definition": "178页",
+        "translation": "prnl. 振作起来",
+        "voiceUrl": "modernSpanish/modernSpanish_209/408_振作起来.mp3"
+    },
+    {
+        "id": "409_一就",
+        "pos": null,
+        "word": "tan pronto como",
+        "definition": "178页",
+        "translation": "一……就……",
+        "voiceUrl": "modernSpanish/modernSpanish_209/409_一就.mp3"
+    },
+    {
+        "id": "410_印象",
+        "pos": "f.",
+        "word": "impresión",
+        "definition": "178页",
+        "translation": "f. 印象",
+        "voiceUrl": "modernSpanish/modernSpanish_209/410_印象.mp3"
+    },
+    {
+        "id": "411_一定",
+        "pos": null,
+        "word": "sin falta",
+        "definition": "178页",
+        "translation": "一定",
+        "voiceUrl": "modernSpanish/modernSpanish_209/411_一定.mp3"
+    },
+    {
+        "id": "412_时不时",
+        "pos": null,
+        "word": "de vez en cuando",
+        "definition": "178页",
+        "translation": "时不时",
+        "voiceUrl": "modernSpanish/modernSpanish_209/412_时不时.mp3"
+    },
+    {
+        "id": "413_邮局的明信片",
+        "pos": "adj. -s",
+        "word": "postal",
+        "definition": "178页",
+        "translation": "adj. -s 邮局的，明信片",
+        "voiceUrl": "modernSpanish/modernSpanish_209/413_邮局的明信片.mp3"
+    },
+    {
+        "id": "414_风景",
+        "pos": "m.",
+        "word": "paisaje",
+        "definition": "178页",
+        "translation": "m. 风景",
+        "voiceUrl": "modernSpanish/modernSpanish_209/414_风景.mp3"
+    },
+    {
+        "id": "415_土著的土著人",
+        "pos": "adj. -s",
+        "word": "indígena",
+        "definition": "178页",
+        "translation": "adj. -s 土著的，土著人",
+        "voiceUrl": "modernSpanish/modernSpanish_209/415_土著的土著人.mp3"
+    },
+    {
+        "id": "416_高原",
+        "pos": "f.",
+        "word": "altiplanicie",
+        "definition": "178页",
+        "translation": "f. 高原",
+        "voiceUrl": "modernSpanish/modernSpanish_209/416_高原.mp3"
+    },
+    {
+        "id": "417_安第斯山的",
+        "pos": "adj.",
+        "word": "andino",
+        "definition": "178页",
+        "translation": "adj. 安第斯山的",
+        "voiceUrl": "modernSpanish/modernSpanish_209/417_安第斯山的.mp3"
+    },
+    {
+        "id": "418_但愿",
+        "pos": "adv.",
+        "word": "ajalá",
+        "definition": "178页",
+        "translation": "adv. 但愿",
+        "voiceUrl": "modernSpanish/modernSpanish_209/418_但愿.mp3"
+    },
+    {
+        "id": "419_履行完成",
+        "pos": "tr.",
+        "word": "cumplir",
+        "definition": "178页",
+        "translation": "tr. 履行，完成",
+        "voiceUrl": "modernSpanish/modernSpanish_209/419_履行完成.mp3"
+    },
+    {
+        "id": "420_信任",
+        "pos": "intr.",
+        "word": "confiar",
+        "definition": "178页",
+        "translation": "intr. 信任",
+        "voiceUrl": "modernSpanish/modernSpanish_209/420_信任.mp3"
+    },
+    {
+        "id": "421_宣布",
+        "pos": "tr.",
+        "word": "anunciar",
+        "definition": "178页",
+        "translation": "tr. 宣布",
+        "voiceUrl": "modernSpanish/modernSpanish_209/421_宣布.mp3"
+    },
+    {
+        "id": "422_起飞",
+        "pos": "m.",
+        "word": "despegue",
+        "definition": "178页",
+        "translation": "m. 起飞",
+        "voiceUrl": "modernSpanish/modernSpanish_209/422_起飞.mp3"
+    },
+    {
+        "id": "423_飞航班",
+        "pos": "m.",
+        "word": "vuelo",
+        "definition": "178页",
+        "translation": "m. 飞；航班",
+        "voiceUrl": "modernSpanish/modernSpanish_209/423_飞航班.mp3"
+    },
+    {
+        "id": "424_连也不没",
+        "pos": null,
+        "word": "ni siquiera",
+        "definition": "178页",
+        "translation": "连……也不（没）",
+        "voiceUrl": "modernSpanish/modernSpanish_209/424_连也不没.mp3"
+    },
+    {
+        "id": "425_上船登机",
+        "pos": "m.",
+        "word": "embarque",
+        "definition": "178页",
+        "translation": "m. 上船；登机",
+        "voiceUrl": "modernSpanish/modernSpanish_209/425_上船登机.mp3"
+    },
+    {
+        "id": "426_奇怪少有的",
+        "pos": "adj.",
+        "word": "raro",
+        "definition": "178页",
+        "translation": "adj. 奇怪；少有的",
+        "voiceUrl": "modernSpanish/modernSpanish_209/426_奇怪少有的.mp3"
+    },
+    {
+        "id": "427_也许",
+        "pos": "adv.",
+        "word": "quizá",
+        "definition": "178页",
+        "translation": "adv. 也许",
+        "voiceUrl": "modernSpanish/modernSpanish_209/427_也许.mp3"
+    },
+    {
+        "id": "428_延迟",
+        "pos": "prnl.",
+        "word": "retrasarse",
+        "definition": "178页",
+        "translation": "prnl. 延迟",
+        "voiceUrl": "modernSpanish/modernSpanish_209/428_延迟.mp3"
+    },
+    {
+        "id": "429_发生",
+        "pos": "intr.",
+        "word": "suceder",
+        "definition": "178页",
+        "translation": "intr. 发生",
+        "voiceUrl": "modernSpanish/modernSpanish_209/429_发生.mp3"
+    },
+    {
+        "id": "430_加拉加斯",
+        "pos": null,
+        "word": "Caracas",
+        "definition": "178页",
+        "translation": "加拉加斯",
+        "voiceUrl": "modernSpanish/modernSpanish_209/430_加拉加斯.mp3"
+    },
+    {
+        "id": "431_地址方向",
+        "pos": "m.",
+        "word": "dirección",
+        "definition": "178页",
+        "translation": "m. 地址，方向",
+        "voiceUrl": "modernSpanish/modernSpanish_209/431_地址方向.mp3"
+    },
+    {
+        "id": "432_电话",
+        "pos": "m.",
+        "word": "teléfono",
+        "definition": "178页",
+        "translation": "m. 电话",
+        "voiceUrl": "modernSpanish/modernSpanish_209/432_电话.mp3"
+    },
+    {
+        "id": "433_不管怎么说",
+        "pos": null,
+        "word": "sea como sea",
+        "definition": "178页",
+        "translation": "不管怎么说",
+        "voiceUrl": "modernSpanish/modernSpanish_209/433_不管怎么说.mp3"
+    },
+    {
+        "id": "434_护照",
+        "pos": "m.",
+        "word": "pasaporte",
+        "definition": "178页",
+        "translation": "m. 护照",
+        "voiceUrl": "modernSpanish/modernSpanish_209/434_护照.mp3"
+    },
+    {
+        "id": "435_文件证件",
+        "pos": "m.",
+        "word": "documento",
+        "definition": "178页",
+        "translation": "m. 文件，证件",
+        "voiceUrl": "modernSpanish/modernSpanish_209/435_文件证件.mp3"
+    },
+    {
+        "id": "436_文件证件总称",
+        "pos": "f.",
+        "word": "documentación",
+        "definition": "178页",
+        "translation": "f. 文件，证件（总称）",
+        "voiceUrl": "modernSpanish/modernSpanish_209/436_文件证件总称.mp3"
+    }
+]

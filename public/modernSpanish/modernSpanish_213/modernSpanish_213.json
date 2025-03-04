@@ -1,0 +1,338 @@
+[
+    {
+        "id": "564_信",
+        "pos": "f.",
+        "word": "carta",
+        "definition": "273页",
+        "translation": "f. 信",
+        "voiceUrl": "modernSpanish/modernSpanish_213/564_信.mp3"
+    },
+    {
+        "id": "565_遥远的",
+        "pos": "adj.",
+        "word": "remoto",
+        "definition": "273页",
+        "translation": "adj. 遥远的",
+        "voiceUrl": "modernSpanish/modernSpanish_213/565_遥远的.mp3"
+    },
+    {
+        "id": "566_文明",
+        "pos": "f.",
+        "word": "civilización",
+        "definition": "273页",
+        "translation": "f. 文明",
+        "voiceUrl": "modernSpanish/modernSpanish_213/566_文明.mp3"
+    },
+    {
+        "id": "567_完全地",
+        "pos": "adv.",
+        "word": "totalmente",
+        "definition": "273页",
+        "translation": "adv. 完全地",
+        "voiceUrl": "modernSpanish/modernSpanish_213/567_完全地.mp3"
+    },
+    {
+        "id": "568_引起造成",
+        "pos": "tr.",
+        "word": "causar",
+        "definition": "274页",
+        "translation": "tr. 引起，造成",
+        "voiceUrl": "modernSpanish/modernSpanish_213/568_引起造成.mp3"
+    },
+    {
+        "id": "569_接触",
+        "pos": "m.",
+        "word": "contacto",
+        "definition": "274页",
+        "translation": "m. 接触",
+        "voiceUrl": "modernSpanish/modernSpanish_213/569_接触.mp3"
+    },
+    {
+        "id": "570_复合的复杂的",
+        "pos": "adj.",
+        "word": "complejo",
+        "definition": "274页",
+        "translation": "adj. 复合的，复杂的",
+        "voiceUrl": "modernSpanish/modernSpanish_213/570_复合的复杂的.mp3"
+    },
+    {
+        "id": "571_形成",
+        "pos": "tr.",
+        "word": "formular",
+        "definition": "274页",
+        "translation": "tr. 形成",
+        "voiceUrl": "modernSpanish/modernSpanish_213/571_形成.mp3"
+    },
+    {
+        "id": "572_判断看法",
+        "pos": "f.",
+        "word": "apreciación",
+        "definition": "274页",
+        "translation": "f. 判断，看法",
+        "voiceUrl": "modernSpanish/modernSpanish_213/572_判断看法.mp3"
+    },
+    {
+        "id": "573_确切的",
+        "pos": "adj.",
+        "word": "preciso",
+        "definition": "274页",
+        "translation": "adj. 确切的",
+        "voiceUrl": "modernSpanish/modernSpanish_213/573_确切的.mp3"
+    },
+    {
+        "id": "574_具体的",
+        "pos": "adj.",
+        "word": "concreto",
+        "definition": "274页",
+        "translation": "adj. 具体的",
+        "voiceUrl": "modernSpanish/modernSpanish_213/574_具体的.mp3"
+    },
+    {
+        "id": "575_接受接纳",
+        "pos": "tr.",
+        "word": "admitir",
+        "definition": "274页",
+        "translation": "tr. 接受，接纳",
+        "voiceUrl": "modernSpanish/modernSpanish_213/575_接受接纳.mp3"
+    },
+    {
+        "id": "576_学院",
+        "pos": "adj.",
+        "word": "instituto",
+        "definition": "274页",
+        "translation": "adj. 学院",
+        "voiceUrl": "modernSpanish/modernSpanish_213/576_学院.mp3"
+    },
+    {
+        "id": "577_语言",
+        "pos": "m.",
+        "word": "idioma",
+        "definition": "274页",
+        "translation": "m. 语言",
+        "voiceUrl": "modernSpanish/modernSpanish_213/577_语言.mp3"
+    },
+    {
+        "id": "578_种族",
+        "pos": "f.",
+        "word": "raza",
+        "definition": "274页",
+        "translation": "f. 种族",
+        "voiceUrl": "modernSpanish/modernSpanish_213/578_种族.mp3"
+    },
+    {
+        "id": "579_一生也不没",
+        "pos": null,
+        "word": "en mi vida",
+        "definition": "274页",
+        "translation": "一生（也不、没）",
+        "voiceUrl": "modernSpanish/modernSpanish_213/579_一生也不没.mp3"
+    },
+    {
+        "id": "580_想象",
+        "pos": "prnl.",
+        "word": "imaginarse",
+        "definition": "274页",
+        "translation": "prnl. 想象",
+        "voiceUrl": "modernSpanish/modernSpanish_213/580_想象.mp3"
+    },
+    {
+        "id": "581_在方面",
+        "pos": null,
+        "word": "en lo que se refiere",
+        "definition": "274页",
+        "translation": "在……方面",
+        "voiceUrl": "modernSpanish/modernSpanish_213/581_在方面.mp3"
+    },
+    {
+        "id": "582_价值",
+        "pos": "m.",
+        "word": "valor",
+        "definition": "274页",
+        "translation": "m. 价值",
+        "voiceUrl": "modernSpanish/modernSpanish_213/582_价值.mp3"
+    },
+    {
+        "id": "583_开始",
+        "pos": "m.",
+        "word": "comienzo",
+        "definition": "274页",
+        "translation": "m. 开始",
+        "voiceUrl": "modernSpanish/modernSpanish_213/583_开始.mp3"
+    },
+    {
+        "id": "584_使迷茫",
+        "pos": "tr.",
+        "word": "desconcertar",
+        "definition": "274页",
+        "translation": "tr. 使迷茫",
+        "voiceUrl": "modernSpanish/modernSpanish_213/584_使迷茫.mp3"
+    },
+    {
+        "id": "585_地方",
+        "pos": "m.",
+        "word": "lugar",
+        "definition": "274页",
+        "translation": "m. 地方",
+        "voiceUrl": "modernSpanish/modernSpanish_213/585_地方.mp3"
+    },
+    {
+        "id": "586_首先",
+        "pos": null,
+        "word": "en primer lugar",
+        "definition": "274页",
+        "translation": "首先",
+        "voiceUrl": "modernSpanish/modernSpanish_213/586_首先.mp3"
+    },
+    {
+        "id": "587_音",
+        "pos": "m.",
+        "word": "sonido",
+        "definition": "274页",
+        "translation": "m. 音",
+        "voiceUrl": "modernSpanish/modernSpanish_213/587_音.mp3"
+    },
+    {
+        "id": "588_不可能",
+        "pos": "adj.",
+        "word": "imposible",
+        "definition": "274页",
+        "translation": "adj. 不可能",
+        "voiceUrl": "modernSpanish/modernSpanish_213/588_不可能.mp3"
+    },
+    {
+        "id": "589_发音",
+        "pos": "tr.",
+        "word": "pronunciar",
+        "definition": "274页",
+        "translation": "tr. 发音",
+        "voiceUrl": "modernSpanish/modernSpanish_213/589_发音.mp3"
+    },
+    {
+        "id": "590_使用",
+        "pos": "tr.",
+        "word": "usar",
+        "definition": "274页",
+        "translation": "tr. 使用",
+        "voiceUrl": "modernSpanish/modernSpanish_213/590_使用.mp3"
+    },
+    {
+        "id": "591_书写符号",
+        "pos": "f.",
+        "word": "escritura",
+        "definition": "274页",
+        "translation": "f. 书写符号",
+        "voiceUrl": "modernSpanish/modernSpanish_213/591_书写符号.mp3"
+    },
+    {
+        "id": "592_此处汉字",
+        "pos": "m.pl.",
+        "word": "caracteres",
+        "definition": "274页",
+        "translation": "m.pl. （此处）汉字",
+        "voiceUrl": "modernSpanish/modernSpanish_213/592_此处汉字.mp3"
+    },
+    {
+        "id": "593_成绩成就",
+        "pos": "m.",
+        "word": "éxito",
+        "definition": "274页",
+        "translation": "m. 成绩，成就",
+        "voiceUrl": "modernSpanish/modernSpanish_213/593_成绩成就.mp3"
+    },
+    {
+        "id": "594_获取",
+        "pos": "tr.",
+        "word": "obtener",
+        "definition": "274页",
+        "translation": "tr. 获取",
+        "voiceUrl": "modernSpanish/modernSpanish_213/594_获取.mp3"
+    },
+    {
+        "id": "595_惯常的",
+        "pos": "adj.",
+        "word": "habitual",
+        "definition": "274页",
+        "translation": "adj. 惯常的",
+        "voiceUrl": "modernSpanish/modernSpanish_213/595_惯常的.mp3"
+    },
+    {
+        "id": "596_性格秉性",
+        "pos": null,
+        "word": "modo de ser",
+        "definition": "274页",
+        "translation": "性格，秉性",
+        "voiceUrl": "modernSpanish/modernSpanish_213/596_性格秉性.mp3"
+    },
+    {
+        "id": "597_发音",
+        "pos": "f.",
+        "word": "pronunciación",
+        "definition": "274页",
+        "translation": "f. 发音",
+        "voiceUrl": "modernSpanish/modernSpanish_213/597_发音.mp3"
+    },
+    {
+        "id": "598_态度",
+        "pos": "f.",
+        "word": "actitud",
+        "definition": "274页",
+        "translation": "f. 态度",
+        "voiceUrl": "modernSpanish/modernSpanish_213/598_态度.mp3"
+    },
+    {
+        "id": "599_进步",
+        "pos": "intr.",
+        "word": "progresar",
+        "definition": "274页",
+        "translation": "intr. 进步",
+        "voiceUrl": "modernSpanish/modernSpanish_213/599_进步.mp3"
+    },
+    {
+        "id": "600_性性别",
+        "pos": "m.",
+        "word": "sexo",
+        "definition": "274页",
+        "translation": "m. 性，性别",
+        "voiceUrl": "modernSpanish/modernSpanish_213/600_性性别.mp3"
+    },
+    {
+        "id": "601_恳求",
+        "pos": "tr.",
+        "word": "rogar",
+        "definition": "274页",
+        "translation": "tr. 恳求",
+        "voiceUrl": "modernSpanish/modernSpanish_213/601_恳求.mp3"
+    },
+    {
+        "id": "602_回答答复",
+        "pos": "tr.",
+        "word": "responder",
+        "definition": "274页",
+        "translation": "tr. 回答，答复",
+        "voiceUrl": "modernSpanish/modernSpanish_213/602_回答答复.mp3"
+    },
+    {
+        "id": "603_亲切的",
+        "pos": "adj.",
+        "word": "cariñoso",
+        "definition": "274页",
+        "translation": "adj. 亲切的",
+        "voiceUrl": "modernSpanish/modernSpanish_213/603_亲切的.mp3"
+    },
+    {
+        "id": "604_拥抱",
+        "pos": "m.",
+        "word": "abrazo",
+        "definition": "274页",
+        "translation": "m. 拥抱",
+        "voiceUrl": "modernSpanish/modernSpanish_213/604_拥抱.mp3"
+    },
+    {
+        "id": "605_北方",
+        "pos": "m.",
+        "word": "norte",
+        "definition": "274页",
+        "translation": "m. 北方",
+        "voiceUrl": "modernSpanish/modernSpanish_213/605_北方.mp3"
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "id": "290_图书馆",
+        "pos": "f.",
+        "word": "biblioteca",
+        "definition": "170页",
+        "translation": "f. 图书馆",
+        "voiceUrl": "modernSpanish/modernSpanish_111/290_图书馆.mp3"
+    },
+    {
+        "id": "291_上午",
+        "pos": "f.",
+        "word": "mañana",
+        "definition": "170页",
+        "translation": "f. 上午",
+        "voiceUrl": "modernSpanish/modernSpanish_111/291_上午.mp3"
+    },
+    {
+        "id": "292_读者",
+        "pos": "m.,f.",
+        "word": "lector,ra",
+        "definition": "170页",
+        "translation": "m.,f. 读者",
+        "voiceUrl": "modernSpanish/modernSpanish_111/292_读者.mp3"
+    },
+    {
+        "id": "293_求借",
+        "pos": "tr.",
+        "word": "pedir",
+        "definition": "170页",
+        "translation": "tr. 求借",
+        "voiceUrl": "modernSpanish/modernSpanish_111/293_求借.mp3"
+    },
+    {
+        "id": "294_找到",
+        "pos": "tr.",
+        "word": "encontrar",
+        "definition": "170页",
+        "translation": "tr. 找到",
+        "voiceUrl": "modernSpanish/modernSpanish_111/294_找到.mp3"
+    },
+    {
+        "id": "295_题目",
+        "pos": "m.",
+        "word": "título",
+        "definition": "170页",
+        "translation": "m. 题目",
+        "voiceUrl": "modernSpanish/modernSpanish_111/295_题目.mp3"
+    },
+    {
+        "id": "296_号码",
+        "pos": "m.",
+        "word": "número",
+        "definition": "170页",
+        "translation": "m. 号码",
+        "voiceUrl": "modernSpanish/modernSpanish_111/296_号码.mp3"
+    },
+    {
+        "id": "297_纸",
+        "pos": "m.",
+        "word": "papel",
+        "definition": "170页",
+        "translation": "m. 纸",
+        "voiceUrl": "modernSpanish/modernSpanish_111/297_纸.mp3"
+    },
+    {
+        "id": "298_递给",
+        "pos": "tr.",
+        "word": "pasar",
+        "definition": "170页",
+        "translation": "tr. 递给",
+        "voiceUrl": "modernSpanish/modernSpanish_111/298_递给.mp3"
+    },
+    {
+        "id": "299_图书管理员",
+        "pos": "m.,f.",
+        "word": "bibliotecario,ria",
+        "definition": "170页",
+        "translation": "m.,f. 图书管理员",
+        "voiceUrl": "modernSpanish/modernSpanish_111/299_图书管理员.mp3"
+    },
+    {
+        "id": "300_寻找",
+        "pos": "tr.",
+        "word": "buscar",
+        "definition": "170页",
+        "translation": "tr. 寻找",
+        "voiceUrl": "modernSpanish/modernSpanish_111/300_寻找.mp3"
+    },
+    {
+        "id": "301_带来",
+        "pos": "tr.",
+        "word": "traer",
+        "definition": "170页",
+        "translation": "tr. 带来",
+        "voiceUrl": "modernSpanish/modernSpanish_111/301_带来.mp3"
+    },
+    {
+        "id": "302_在之内",
+        "pos": null,
+        "word": "dentro de",
+        "definition": "170页",
+        "translation": "在……之内",
+        "voiceUrl": "modernSpanish/modernSpanish_111/302_在之内.mp3"
+    },
+    {
+        "id": "303_归还",
+        "pos": "tr.",
+        "word": "devolver",
+        "definition": "170页",
+        "translation": "tr. 归还",
+        "voiceUrl": "modernSpanish/modernSpanish_111/303_归还.mp3"
+    },
+    {
+        "id": "304_月",
+        "pos": "m.",
+        "word": "mes",
+        "definition": "170页",
+        "translation": "m. 月",
+        "voiceUrl": "modernSpanish/modernSpanish_111/304_月.mp3"
+    },
+    {
+        "id": "305_如果",
+        "pos": "conj.",
+        "word": "si",
+        "definition": "170页",
+        "translation": "conj. 如果",
+        "voiceUrl": "modernSpanish/modernSpanish_111/305_如果.mp3"
+    },
+    {
+        "id": "306_出借",
+        "pos": "tr.",
+        "word": "prestar",
+        "definition": "170页",
+        "translation": "tr. 出借",
+        "voiceUrl": "modernSpanish/modernSpanish_111/306_出借.mp3"
+    },
+    {
+        "id": "307_小时",
+        "pos": "f.",
+        "word": "hora",
+        "definition": "170页",
+        "translation": "f. 小时",
+        "voiceUrl": "modernSpanish/modernSpanish_111/307_小时.mp3"
+    },
+    {
+        "id": "308_一刻钟",
+        "pos": "m.",
+        "word": "cuarto",
+        "definition": "170页",
+        "translation": "m. 一刻钟",
+        "voiceUrl": "modernSpanish/modernSpanish_111/308_一刻钟.mp3"
+    },
+    {
+        "id": "309_半",
+        "pos": "f.",
+        "word": "media",
+        "definition": "170页",
+        "translation": "f. 半",
+        "voiceUrl": "modernSpanish/modernSpanish_111/309_半.mp3"
+    },
+    {
+        "id": "310_什么时候",
+        "pos": "adv.",
+        "word": "cuántos",
+        "definition": "170页",
+        "translation": "adv. 什么时候",
+        "voiceUrl": "modernSpanish/modernSpanish_111/310_什么时候.mp3"
+    },
+    {
+        "id": "311_秒",
+        "pos": "m.",
+        "word": "segundo",
+        "definition": "171页",
+        "translation": "m. 秒",
+        "voiceUrl": "modernSpanish/modernSpanish_111/311_秒.mp3"
+    },
+    {
+        "id": "312_明天",
+        "pos": "adv.",
+        "word": "mañana",
+        "definition": "171页",
+        "translation": "adv. 明天",
+        "voiceUrl": "modernSpanish/modernSpanish_111/312_明天.mp3"
+    },
+    {
+        "id": "313_差",
+        "pos": "adv.",
+        "word": "menos",
+        "definition": "171页",
+        "translation": "adv. 差",
+        "voiceUrl": "modernSpanish/modernSpanish_111/313_差.mp3"
+    }
+]

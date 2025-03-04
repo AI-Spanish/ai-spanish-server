@@ -1,0 +1,426 @@
+[
+    {
+        "id": "464_几乎",
+        "pos": "adv.",
+        "word": "casi",
+        "definition": "230页",
+        "translation": "adv. 几乎",
+        "voiceUrl": "modernSpanish/modernSpanish_115/464_几乎.mp3"
+    },
+    {
+        "id": "465_杯子",
+        "pos": "m.",
+        "word": "vaso",
+        "definition": "230页",
+        "translation": "m. 杯子",
+        "voiceUrl": "modernSpanish/modernSpanish_115/465_杯子.mp3"
+    },
+    {
+        "id": "466_奶乳汁",
+        "pos": "f.",
+        "word": "leche",
+        "definition": "230页",
+        "translation": "f. 奶，乳汁",
+        "voiceUrl": "modernSpanish/modernSpanish_115/466_奶乳汁.mp3"
+    },
+    {
+        "id": "467_鸡蛋",
+        "pos": "m.",
+        "word": "huevo",
+        "definition": "230页",
+        "translation": "m. 鸡蛋",
+        "voiceUrl": "modernSpanish/modernSpanish_115/467_鸡蛋.mp3"
+    },
+    {
+        "id": "468_没有不",
+        "pos": "prep.",
+        "word": "sin",
+        "definition": "230页",
+        "translation": "prep. 没有，不",
+        "voiceUrl": "modernSpanish/modernSpanish_115/468_没有不.mp3"
+    },
+    {
+        "id": "469_身体",
+        "pos": "f.",
+        "word": "salud",
+        "definition": "230页",
+        "translation": "f. 身体",
+        "voiceUrl": "modernSpanish/modernSpanish_115/469_身体.mp3"
+    },
+    {
+        "id": "470_经常地",
+        "pos": "adv.",
+        "word": "frecuentemente",
+        "definition": "230页",
+        "translation": "adv. 经常地",
+        "voiceUrl": "modernSpanish/modernSpanish_115/470_经常地.mp3"
+    },
+    {
+        "id": "471_次回",
+        "pos": "f.",
+        "word": "vez",
+        "definition": "230页",
+        "translation": "f. 次，回",
+        "voiceUrl": "modernSpanish/modernSpanish_115/471_次回.mp3"
+    },
+    {
+        "id": "472_每天",
+        "pos": null,
+        "word": "al día",
+        "definition": "230页",
+        "translation": "每天",
+        "voiceUrl": "modernSpanish/modernSpanish_115/472_每天.mp3"
+    },
+    {
+        "id": "473_也不甚至不",
+        "pos": "conj.",
+        "word": "ni",
+        "definition": "230页",
+        "translation": "conj. 也不，甚至不",
+        "voiceUrl": "modernSpanish/modernSpanish_115/473_也不甚至不.mp3"
+    },
+    {
+        "id": "474_服务进餐",
+        "pos": "tr.,prnl.",
+        "word": "servir(se)",
+        "definition": "230页",
+        "translation": "tr.,prnl. 服务；进餐",
+        "voiceUrl": "modernSpanish/modernSpanish_115/474_服务进餐.mp3"
+    },
+    {
+        "id": "475_同一个",
+        "pos": "adj.",
+        "word": "mismo",
+        "definition": "230页",
+        "translation": "adj. 同一个",
+        "voiceUrl": "modernSpanish/modernSpanish_115/475_同一个.mp3"
+    },
+    {
+        "id": "476_方式",
+        "pos": "f.",
+        "word": "manera",
+        "definition": "230页",
+        "translation": "f. 方式",
+        "voiceUrl": "modernSpanish/modernSpanish_115/476_方式.mp3"
+    },
+    {
+        "id": "477_西方",
+        "pos": "m.",
+        "word": "Occidente",
+        "definition": "230页",
+        "translation": "m. 西方",
+        "voiceUrl": "modernSpanish/modernSpanish_115/477_西方.mp3"
+    },
+    {
+        "id": "478_显著的",
+        "pos": "adj.",
+        "word": "notable",
+        "definition": "230页",
+        "translation": "adj. 显著的",
+        "voiceUrl": "modernSpanish/modernSpanish_115/478_显著的.mp3"
+    },
+    {
+        "id": "479_盘子每道菜",
+        "pos": "m.",
+        "word": "plato",
+        "definition": "230页",
+        "translation": "m. 盘子；（每道）菜",
+        "voiceUrl": "modernSpanish/modernSpanish_115/479_盘子每道菜.mp3"
+    },
+    {
+        "id": "480_跟一起",
+        "pos": null,
+        "word": "junto con",
+        "definition": "230页",
+        "translation": "跟……一起",
+        "voiceUrl": "modernSpanish/modernSpanish_115/480_跟一起.mp3"
+    },
+    {
+        "id": "481_稻子大米米饭",
+        "pos": "m.",
+        "word": "arroz",
+        "definition": "230页",
+        "translation": "m. 稻子，大米，米饭",
+        "voiceUrl": "modernSpanish/modernSpanish_115/481_稻子大米米饭.mp3"
+    },
+    {
+        "id": "482_面包",
+        "pos": "m.",
+        "word": "pan",
+        "definition": "230页",
+        "translation": "m. 面包",
+        "voiceUrl": "modernSpanish/modernSpanish_115/482_面包.mp3"
+    },
+    {
+        "id": "483_小棍儿筷子",
+        "pos": "m.",
+        "word": "palillo",
+        "definition": "230页",
+        "translation": "m. 小棍儿；筷子",
+        "voiceUrl": "modernSpanish/modernSpanish_115/483_小棍儿筷子.mp3"
+    },
+    {
+        "id": "484_汤",
+        "pos": "f.",
+        "word": "sopa",
+        "definition": "230页",
+        "translation": "f. 汤",
+        "voiceUrl": "modernSpanish/modernSpanish_115/484_汤.mp3"
+    },
+    {
+        "id": "485_第二个",
+        "pos": "adj.",
+        "word": "segundo",
+        "definition": "230页",
+        "translation": "adj. 第二个",
+        "voiceUrl": "modernSpanish/modernSpanish_115/485_第二个.mp3"
+    },
+    {
+        "id": "486_在之后",
+        "pos": "prep.",
+        "word": "tras",
+        "definition": "230页",
+        "translation": "prep. 在……之后",
+        "voiceUrl": "modernSpanish/modernSpanish_115/486_在之后.mp3"
+    },
+    {
+        "id": "487_最后",
+        "pos": null,
+        "word": "por último",
+        "definition": "231页",
+        "translation": "最后",
+        "voiceUrl": "modernSpanish/modernSpanish_115/487_最后.mp3"
+    },
+    {
+        "id": "488_饭后甜食",
+        "pos": "m.",
+        "word": "postre",
+        "definition": "231页",
+        "translation": "m. 饭后甜食",
+        "voiceUrl": "modernSpanish/modernSpanish_115/488_饭后甜食.mp3"
+    },
+    {
+        "id": "489_咖啡",
+        "pos": "m.",
+        "word": "café",
+        "definition": "231页",
+        "translation": "m. 咖啡",
+        "voiceUrl": "modernSpanish/modernSpanish_115/489_咖啡.mp3"
+    },
+    {
+        "id": "490_习惯",
+        "pos": "f.",
+        "word": "costumbre",
+        "definition": "231页",
+        "translation": "f. 习惯",
+        "voiceUrl": "modernSpanish/modernSpanish_115/490_习惯.mp3"
+    },
+    {
+        "id": "491_西方的",
+        "pos": "adj.",
+        "word": "occidental",
+        "definition": "231页",
+        "translation": "adj. 西方的",
+        "voiceUrl": "modernSpanish/modernSpanish_115/491_西方的.mp3"
+    },
+    {
+        "id": "492_每个人",
+        "pos": "f.",
+        "word": "persona",
+        "definition": "231页",
+        "translation": "f. （每个）人",
+        "voiceUrl": "modernSpanish/modernSpanish_115/492_每个人.mp3"
+    },
+    {
+        "id": "493_自己的",
+        "pos": "adj.",
+        "word": "propio",
+        "definition": "231页",
+        "translation": "adj. 自己的",
+        "voiceUrl": "modernSpanish/modernSpanish_115/493_自己的.mp3"
+    },
+    {
+        "id": "494_整套餐具刀叉匙",
+        "pos": "m.",
+        "word": "cubierto",
+        "definition": "231页",
+        "translation": "m. （整套）餐具（刀、叉、匙）",
+        "voiceUrl": "modernSpanish/modernSpanish_115/494_整套餐具刀叉匙.mp3"
+    },
+    {
+        "id": "495_叉",
+        "pos": "m.",
+        "word": "tenedor",
+        "definition": "231页",
+        "translation": "m. 叉",
+        "voiceUrl": "modernSpanish/modernSpanish_115/495_叉.mp3"
+    },
+    {
+        "id": "496_刀",
+        "pos": "m.",
+        "word": "cuchillo",
+        "definition": "231页",
+        "translation": "m. 刀",
+        "voiceUrl": "modernSpanish/modernSpanish_115/496_刀.mp3"
+    },
+    {
+        "id": "497_勺儿汤匙",
+        "pos": "f.",
+        "word": "cuchara",
+        "definition": "231页",
+        "translation": "f. 勺儿，汤匙",
+        "voiceUrl": "modernSpanish/modernSpanish_115/497_勺儿汤匙.mp3"
+    },
+    {
+        "id": "498_看望",
+        "pos": "tr.",
+        "word": "mirar",
+        "definition": "231页",
+        "translation": "tr. 看望",
+        "voiceUrl": "modernSpanish/modernSpanish_115/498_看望.mp3"
+    },
+    {
+        "id": "499_饭馆",
+        "pos": "m.",
+        "word": "restaurante",
+        "definition": "231页",
+        "translation": "m. 饭馆",
+        "voiceUrl": "modernSpanish/modernSpanish_115/499_饭馆.mp3"
+    },
+    {
+        "id": "500_那边",
+        "pos": "adv.",
+        "word": "allá",
+        "definition": "231页",
+        "translation": "adv. 那边",
+        "voiceUrl": "modernSpanish/modernSpanish_115/500_那边.mp3"
+    },
+    {
+        "id": "501_请劳驾",
+        "pos": null,
+        "word": "por favor",
+        "definition": "231页",
+        "translation": "请，劳驾",
+        "voiceUrl": "modernSpanish/modernSpanish_115/501_请劳驾.mp3"
+    },
+    {
+        "id": "502_自由的空的",
+        "pos": "adj.",
+        "word": "libre",
+        "definition": "231页",
+        "translation": "adj. 自由的，空的",
+        "voiceUrl": "modernSpanish/modernSpanish_115/502_自由的空的.mp3"
+    },
+    {
+        "id": "503_靠近的",
+        "pos": null,
+        "word": "junto a",
+        "definition": "231页",
+        "translation": "靠近……的",
+        "voiceUrl": "modernSpanish/modernSpanish_115/503_靠近的.mp3"
+    },
+    {
+        "id": "504_窗户",
+        "pos": "f.",
+        "word": "ventana",
+        "definition": "231页",
+        "translation": "f. 窗户",
+        "voiceUrl": "modernSpanish/modernSpanish_115/504_窗户.mp3"
+    },
+    {
+        "id": "505_坐下",
+        "pos": "prnl.",
+        "word": "sentarse",
+        "definition": "231页",
+        "translation": "prnl. 坐下",
+        "voiceUrl": "modernSpanish/modernSpanish_115/505_坐下.mp3"
+    },
+    {
+        "id": "506_想要希望",
+        "pos": "tr.",
+        "word": "desear",
+        "definition": "231页",
+        "translation": "tr. 想，要，希望",
+        "voiceUrl": "modernSpanish/modernSpanish_115/506_想要希望.mp3"
+    },
+    {
+        "id": "507_认识了解知道",
+        "pos": "tr.",
+        "word": "conocer",
+        "definition": "231页",
+        "translation": "tr. 认识，了解，知道",
+        "voiceUrl": "modernSpanish/modernSpanish_115/507_认识了解知道.mp3"
+    },
+    {
+        "id": "508_放置安放",
+        "pos": "tr.",
+        "word": "poner",
+        "definition": "231页",
+        "translation": "tr. 放置，安放",
+        "voiceUrl": "modernSpanish/modernSpanish_115/508_放置安放.mp3"
+    },
+    {
+        "id": "509_请求要求点菜",
+        "pos": "tr.",
+        "word": "pedir",
+        "definition": "231页",
+        "translation": "tr. 请求，要求；点菜",
+        "voiceUrl": "modernSpanish/modernSpanish_115/509_请求要求点菜.mp3"
+    },
+    {
+        "id": "510_为代替",
+        "pos": "prep.",
+        "word": "por",
+        "definition": "231页",
+        "translation": "prep. 为，代替",
+        "voiceUrl": "modernSpanish/modernSpanish_115/510_为代替.mp3"
+    },
+    {
+        "id": "511_沙拉凉菜",
+        "pos": "f.",
+        "word": "ensalada",
+        "definition": "231页",
+        "translation": "f. 沙拉，凉菜",
+        "voiceUrl": "modernSpanish/modernSpanish_115/511_沙拉凉菜.mp3"
+    },
+    {
+        "id": "512_喜欢爱好",
+        "pos": "intr.",
+        "word": "gustar",
+        "definition": "231页",
+        "translation": "intr. 喜欢，爱好",
+        "voiceUrl": "modernSpanish/modernSpanish_115/512_喜欢爱好.mp3"
+    },
+    {
+        "id": "513_蔬菜青菜",
+        "pos": "f.",
+        "word": "verdura",
+        "definition": "231页",
+        "translation": "f. 蔬菜，青菜",
+        "voiceUrl": "modernSpanish/modernSpanish_115/513_蔬菜青菜.mp3"
+    },
+    {
+        "id": "514_肉",
+        "pos": "f.",
+        "word": "carne",
+        "definition": "231页",
+        "translation": "f. 肉",
+        "voiceUrl": "modernSpanish/modernSpanish_115/514_肉.mp3"
+    },
+    {
+        "id": "515_捕获供食用的鱼",
+        "pos": "m.",
+        "word": "pescado",
+        "definition": "231页",
+        "translation": "m. （捕获供食用的）鱼",
+        "voiceUrl": "modernSpanish/modernSpanish_115/515_捕获供食用的鱼.mp3"
+    },
+    {
+        "id": "516_水果",
+        "pos": "f.",
+        "word": "fruta",
+        "definition": "231页",
+        "translation": "f. 水果",
+        "voiceUrl": "modernSpanish/modernSpanish_115/516_水果.mp3"
+    }
+]

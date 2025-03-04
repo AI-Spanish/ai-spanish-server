@@ -1,0 +1,5082 @@
+[
+  {
+    "id": "1_费利佩",
+    "pos": null,
+    "word": "Felipe",
+    "definition": "U1",
+    "translation": "费利佩",
+    "voiceUrl": "NewMiddleSchool/1_费利佩.mp3"
+  },
+  {
+    "id": "2_你好",
+    "pos": null,
+    "word": "Hola",
+    "definition": "U1",
+    "translation": "你好",
+    "voiceUrl": "NewMiddleSchool/2_你好.mp3"
+  },
+  {
+    "id": "3_好的",
+    "pos": null,
+    "word": "bueno, a",
+    "definition": "U1",
+    "translation": "好的",
+    "voiceUrl": "NewMiddleSchool/3_好的.mp3"
+  },
+  {
+    "id": "5_我是",
+    "pos": null,
+    "word": "soy",
+    "definition": "U1",
+    "translation": "我是",
+    "voiceUrl": "NewMiddleSchool/5_我是.mp3"
+  },
+  {
+    "id": "15_你名字叫",
+    "pos": null,
+    "word": "te llamas",
+    "definition": "U1",
+    "translation": "你名字叫",
+    "voiceUrl": "NewMiddleSchool/15_你名字叫.mp3"
+  },
+  {
+    "id": "17_你好吗你怎么样",
+    "pos": null,
+    "word": "¿Qué tal?",
+    "definition": "U1",
+    "translation": "你好吗？（你怎么样？）",
+    "voiceUrl": "NewMiddleSchool/17_你好吗你怎么样.mp3"
+  },
+  {
+    "id": "23_再见",
+    "pos": null,
+    "word": "chao",
+    "definition": "U1",
+    "translation": "再见",
+    "voiceUrl": "NewMiddleSchool/23_再见.mp3"
+  },
+  {
+    "id": "24_过后一会儿",
+    "pos": null,
+    "word": "luego",
+    "definition": "U1",
+    "translation": "过后，一会儿",
+    "voiceUrl": "NewMiddleSchool/24_过后一会儿.mp3"
+  },
+  {
+    "id": "25_晚上",
+    "pos": null,
+    "word": "noche",
+    "definition": "U1",
+    "translation": "晚上",
+    "voiceUrl": "NewMiddleSchool/25_晚上.mp3"
+  },
+  {
+    "id": "27_上午好",
+    "pos": null,
+    "word": "¡Buenos días!",
+    "definition": "U1",
+    "translation": "上午好！",
+    "voiceUrl": "NewMiddleSchool/27_上午好.mp3"
+  },
+  {
+    "id": "28_下午好",
+    "pos": null,
+    "word": "¡Buenas tardes!",
+    "definition": "U1",
+    "translation": "下午好！",
+    "voiceUrl": "NewMiddleSchool/28_下午好.mp3"
+  },
+  {
+    "id": "29_晚上好",
+    "pos": null,
+    "word": "¡Buenas noches!",
+    "definition": "U1",
+    "translation": "晚上好！",
+    "voiceUrl": "NewMiddleSchool/29_晚上好.mp3"
+  },
+  {
+    "id": "30_明天见",
+    "pos": null,
+    "word": "¡Hasta mañana!",
+    "definition": "U1",
+    "translation": "明天见！",
+    "voiceUrl": "NewMiddleSchool/30_明天见.mp3"
+  },
+  {
+    "id": "31_你叫什么名字",
+    "pos": null,
+    "word": "¿Cómo te llamas?",
+    "definition": "U1",
+    "translation": "你叫什么名字？",
+    "voiceUrl": "NewMiddleSchool/31_你叫什么名字.mp3"
+  },
+  {
+    "id": "32_埃莱娜",
+    "pos": null,
+    "word": "Elena",
+    "definition": "U1",
+    "translation": "埃莱娜",
+    "voiceUrl": "NewMiddleSchool/32_埃莱娜.mp3"
+  },
+  {
+    "id": "33_塞维利亚",
+    "pos": null,
+    "word": "Sevilla",
+    "definition": "U1",
+    "translation": "塞维利亚",
+    "voiceUrl": "NewMiddleSchool/33_塞维利亚.mp3"
+  },
+  {
+    "id": "34_何塞",
+    "pos": null,
+    "word": "José",
+    "definition": "U1",
+    "translation": "何塞",
+    "voiceUrl": "NewMiddleSchool/34_何塞.mp3"
+  },
+  {
+    "id": "35_莫利纳",
+    "pos": null,
+    "word": "Molina",
+    "definition": "U1",
+    "translation": "莫利纳",
+    "voiceUrl": "NewMiddleSchool/35_莫利纳.mp3"
+  },
+  {
+    "id": "36_安赫拉",
+    "pos": null,
+    "word": "Ángela",
+    "definition": "U1",
+    "translation": "安赫拉",
+    "voiceUrl": "NewMiddleSchool/36_安赫拉.mp3"
+  },
+  {
+    "id": "37_中国的",
+    "pos": null,
+    "word": "chino, a",
+    "definition": "U1",
+    "translation": "中国的",
+    "voiceUrl": "NewMiddleSchool/37_中国的.mp3"
+  },
+  {
+    "id": "38_中国人",
+    "pos": null,
+    "word": "chino, a",
+    "definition": "U1",
+    "translation": "中国人",
+    "voiceUrl": "NewMiddleSchool/38_中国人.mp3"
+  },
+  {
+    "id": "41_交谈谈话",
+    "pos": null,
+    "word": "conversación",
+    "definition": "U1",
+    "translation": "交谈，谈话",
+    "voiceUrl": "NewMiddleSchool/41_交谈谈话.mp3"
+  },
+  {
+    "id": "45_很多的",
+    "pos": null,
+    "word": "mucho,a",
+    "definition": "U1",
+    "translation": "很多的",
+    "voiceUrl": "NewMiddleSchool/45_很多的.mp3"
+  },
+  {
+    "id": "46_高兴愉快",
+    "pos": null,
+    "word": "gusto",
+    "definition": "U1",
+    "translation": "高兴，愉快",
+    "voiceUrl": "NewMiddleSchool/46_高兴愉快.mp3"
+  },
+  {
+    "id": "47_很高兴认识你",
+    "pos": null,
+    "word": "Mucho gusto.",
+    "definition": "U1",
+    "translation": "很高兴认识你。",
+    "voiceUrl": "NewMiddleSchool/47_很高兴认识你.mp3"
+  },
+  {
+    "id": "50_阿根廷人",
+    "pos": null,
+    "word": "argentino,a",
+    "definition": "U1",
+    "translation": "阿根廷人",
+    "voiceUrl": "NewMiddleSchool/50_阿根廷人.mp3"
+  },
+  {
+    "id": "51_学生",
+    "pos": null,
+    "word": "alumno,na",
+    "definition": "U1",
+    "translation": "学生",
+    "voiceUrl": "NewMiddleSchool/51_学生.mp3"
+  },
+  {
+    "id": "52_玻利维亚",
+    "pos": null,
+    "word": "Bolivia",
+    "definition": "U1",
+    "translation": "玻利维亚",
+    "voiceUrl": "NewMiddleSchool/52_玻利维亚.mp3"
+  },
+  {
+    "id": "53_玻利维亚人",
+    "pos": null,
+    "word": "boliviano,a",
+    "definition": "U1",
+    "translation": "玻利维亚人",
+    "voiceUrl": "NewMiddleSchool/53_玻利维亚人.mp3"
+  },
+  {
+    "id": "54_你是",
+    "pos": null,
+    "word": "eres",
+    "definition": "U1",
+    "translation": "你是",
+    "voiceUrl": "NewMiddleSchool/54_你是.mp3"
+  },
+  {
+    "id": "55_德国",
+    "pos": null,
+    "word": "Alemania",
+    "definition": "U1",
+    "translation": "德国",
+    "voiceUrl": "NewMiddleSchool/55_德国.mp3"
+  },
+  {
+    "id": "56_德国人",
+    "pos": null,
+    "word": "almán,na",
+    "definition": "U1",
+    "translation": "德国人",
+    "voiceUrl": "NewMiddleSchool/56_德国人.mp3"
+  },
+  {
+    "id": "58_智利",
+    "pos": null,
+    "word": "Chile",
+    "definition": "U1",
+    "translation": "智利",
+    "voiceUrl": "NewMiddleSchool/58_智利.mp3"
+  },
+  {
+    "id": "59_智利人",
+    "pos": null,
+    "word": "chileno,a",
+    "definition": "U1",
+    "translation": "智利人",
+    "voiceUrl": "NewMiddleSchool/59_智利人.mp3"
+  },
+  {
+    "id": "60_莫妮卡",
+    "pos": null,
+    "word": "Mónica",
+    "definition": "U1",
+    "translation": "莫妮卡",
+    "voiceUrl": "NewMiddleSchool/60_莫妮卡.mp3"
+  },
+  {
+    "id": "61_卡洛琳娜",
+    "pos": null,
+    "word": "Carolina",
+    "definition": "U1",
+    "translation": "卡洛琳娜",
+    "voiceUrl": "NewMiddleSchool/61_卡洛琳娜.mp3"
+  },
+  {
+    "id": "62_弗朗西斯科",
+    "pos": null,
+    "word": "Francisco",
+    "definition": "U1",
+    "translation": "弗朗西斯科",
+    "voiceUrl": "NewMiddleSchool/62_弗朗西斯科.mp3"
+  },
+  {
+    "id": "63_伊内斯",
+    "pos": null,
+    "word": "Inés",
+    "definition": "U1",
+    "translation": "伊内斯",
+    "voiceUrl": "NewMiddleSchool/63_伊内斯.mp3"
+  },
+  {
+    "id": "65_我们",
+    "pos": null,
+    "word": "nosotros",
+    "definition": "U1",
+    "translation": "我们",
+    "voiceUrl": "NewMiddleSchool/65_我们.mp3"
+  },
+  {
+    "id": "66_朋友",
+    "pos": null,
+    "word": "amigo,a",
+    "definition": "U1",
+    "translation": "朋友",
+    "voiceUrl": "NewMiddleSchool/66_朋友.mp3"
+  },
+  {
+    "id": "67_校长",
+    "pos": null,
+    "word": "director,ra",
+    "definition": "U1",
+    "translation": "校长",
+    "voiceUrl": "NewMiddleSchool/67_校长.mp3"
+  },
+  {
+    "id": "68_所有",
+    "pos": null,
+    "word": "todo, da",
+    "definition": "U1",
+    "translation": "所有",
+    "voiceUrl": "NewMiddleSchool/68_所有.mp3"
+  },
+  {
+    "id": "69_所有的",
+    "pos": null,
+    "word": "todo, da",
+    "definition": "U1",
+    "translation": "所有的",
+    "voiceUrl": "NewMiddleSchool/69_所有的.mp3"
+  },
+  {
+    "id": "71_新的新来的",
+    "pos": null,
+    "word": "nuevo,a",
+    "definition": "U1",
+    "translation": "新的，新来的",
+    "voiceUrl": "NewMiddleSchool/71_新的新来的.mp3"
+  },
+  {
+    "id": "72_英国的",
+    "pos": null,
+    "word": "inglés,sa",
+    "definition": "U1",
+    "translation": "英国的",
+    "voiceUrl": "NewMiddleSchool/72_英国的.mp3"
+  },
+  {
+    "id": "73_英语",
+    "pos": null,
+    "word": "inglés ",
+    "definition": "U1",
+    "translation": "英语",
+    "voiceUrl": "NewMiddleSchool/73_英语.mp3"
+  },
+  {
+    "id": "74_英国人",
+    "pos": null,
+    "word": "inglés,sa",
+    "definition": "U1",
+    "translation": "英国人",
+    "voiceUrl": "NewMiddleSchool/74_英国人.mp3"
+  },
+  {
+    "id": "75_英国",
+    "pos": null,
+    "word": "Inglaterra",
+    "definition": "U1",
+    "translation": "英国",
+    "voiceUrl": "NewMiddleSchool/75_英国.mp3"
+  },
+  {
+    "id": "76_美国",
+    "pos": null,
+    "word": "Estados Unidos",
+    "definition": "U1",
+    "translation": "美国",
+    "voiceUrl": "NewMiddleSchool/76_美国.mp3"
+  },
+  {
+    "id": "77_美国人",
+    "pos": null,
+    "word": "estadounidense",
+    "definition": "U1",
+    "translation": "美国人",
+    "voiceUrl": "NewMiddleSchool/77_美国人.mp3"
+  },
+  {
+    "id": "78_欢迎",
+    "pos": null,
+    "word": "bienvenido,a",
+    "definition": "U1",
+    "translation": "欢迎",
+    "voiceUrl": "NewMiddleSchool/78_欢迎.mp3"
+  },
+  {
+    "id": "80_委内瑞拉人",
+    "pos": null,
+    "word": "venezolano,a",
+    "definition": "U1",
+    "translation": "委内瑞拉人",
+    "voiceUrl": "NewMiddleSchool/80_委内瑞拉人.mp3"
+  },
+  {
+    "id": "81_古巴",
+    "pos": null,
+    "word": "Cuba",
+    "definition": "U1",
+    "translation": "古巴",
+    "voiceUrl": "NewMiddleSchool/81_古巴.mp3"
+  },
+  {
+    "id": "82_古巴人",
+    "pos": null,
+    "word": "cubano,a",
+    "definition": "U1",
+    "translation": "古巴人",
+    "voiceUrl": "NewMiddleSchool/82_古巴人.mp3"
+  },
+  {
+    "id": "86_胡安马努埃尔",
+    "pos": null,
+    "word": "Juan Manuel",
+    "definition": "U1",
+    "translation": "胡安·马努埃尔",
+    "voiceUrl": "NewMiddleSchool/86_胡安马努埃尔.mp3"
+  },
+  {
+    "id": "87_哈维尔",
+    "pos": null,
+    "word": "Javier",
+    "definition": "U1",
+    "translation": "哈维尔",
+    "voiceUrl": "NewMiddleSchool/87_哈维尔.mp3"
+  },
+  {
+    "id": "88_加夫列尔",
+    "pos": null,
+    "word": "Gabriel",
+    "definition": "U1",
+    "translation": "加夫列尔",
+    "voiceUrl": "NewMiddleSchool/88_加夫列尔.mp3"
+  },
+  {
+    "id": "89_加夫列拉",
+    "pos": null,
+    "word": "García",
+    "definition": "U1",
+    "translation": "加夫列拉",
+    "voiceUrl": "NewMiddleSchool/89_加夫列拉.mp3"
+  },
+  {
+    "id": "90_马克斯马尔克斯",
+    "pos": null,
+    "word": "Márquez",
+    "definition": "U1",
+    "translation": "马克斯（马尔克斯）",
+    "voiceUrl": "NewMiddleSchool/90_马克斯马尔克斯.mp3"
+  },
+  {
+    "id": "91_米斯特拉尔",
+    "pos": null,
+    "word": "Mistral",
+    "definition": "U1",
+    "translation": "米斯特拉尔",
+    "voiceUrl": "NewMiddleSchool/91_米斯特拉尔.mp3"
+  },
+  {
+    "id": "92_玛加丽塔",
+    "pos": null,
+    "word": "Margarita",
+    "definition": "U1",
+    "translation": "玛加丽塔",
+    "voiceUrl": "NewMiddleSchool/92_玛加丽塔.mp3"
+  },
+  {
+    "id": "93_萨拉斯",
+    "pos": null,
+    "word": "Salas",
+    "definition": "U1",
+    "translation": "萨拉斯",
+    "voiceUrl": "NewMiddleSchool/93_萨拉斯.mp3"
+  },
+  {
+    "id": "94_洛拉",
+    "pos": null,
+    "word": "Lola",
+    "definition": "U1",
+    "translation": "洛拉",
+    "voiceUrl": "NewMiddleSchool/94_洛拉.mp3"
+  },
+  {
+    "id": "95_弗洛雷斯",
+    "pos": null,
+    "word": "Flores",
+    "definition": "U1",
+    "translation": "弗洛雷斯",
+    "voiceUrl": "NewMiddleSchool/95_弗洛雷斯.mp3"
+  },
+  {
+    "id": "98_照片",
+    "pos": null,
+    "word": "fotografía (foto)",
+    "definition": "U1",
+    "translation": "照片",
+    "voiceUrl": "NewMiddleSchool/98_照片.mp3"
+  },
+  {
+    "id": "100_教室",
+    "pos": null,
+    "word": "aula",
+    "definition": "U1",
+    "translation": "教室",
+    "voiceUrl": "NewMiddleSchool/100_教室.mp3"
+  },
+  {
+    "id": "101_有",
+    "pos": null,
+    "word": "hay",
+    "definition": "U1",
+    "translation": "有",
+    "voiceUrl": "NewMiddleSchool/101_有.mp3"
+  },
+  {
+    "id": "102_老师缩写",
+    "pos": null,
+    "word": "profe ",
+    "definition": "U1",
+    "translation": "老师缩写",
+    "voiceUrl": "NewMiddleSchool/102_老师缩写.mp3"
+  },
+  {
+    "id": "104_哥伦比亚",
+    "pos": null,
+    "word": "Colombia",
+    "definition": "U1",
+    "translation": "哥伦比亚",
+    "voiceUrl": "NewMiddleSchool/104_哥伦比亚.mp3"
+  },
+  {
+    "id": "105_哥伦比亚人",
+    "pos": null,
+    "word": "colombiano,a",
+    "definition": "U1",
+    "translation": "哥伦比亚人",
+    "voiceUrl": "NewMiddleSchool/105_哥伦比亚人.mp3"
+  },
+  {
+    "id": "106_哥伦比亚的",
+    "pos": null,
+    "word": "colombiano,a",
+    "definition": "U1",
+    "translation": "哥伦比亚的",
+    "voiceUrl": "NewMiddleSchool/106_哥伦比亚的.mp3"
+  },
+  {
+    "id": "109_绘本画家",
+    "pos": null,
+    "word": "dibujante",
+    "definition": "U1",
+    "translation": "绘本画家",
+    "voiceUrl": "NewMiddleSchool/109_绘本画家.mp3"
+  },
+  {
+    "id": "111_科学家",
+    "pos": null,
+    "word": "científico",
+    "definition": "U1",
+    "translation": "科学家",
+    "voiceUrl": "NewMiddleSchool/111_科学家.mp3"
+  },
+  {
+    "id": "112_足球运动员",
+    "pos": null,
+    "word": "futbolista",
+    "definition": "U1",
+    "translation": "足球运动员",
+    "voiceUrl": "NewMiddleSchool/112_足球运动员.mp3"
+  },
+  {
+    "id": "113_葡萄牙",
+    "pos": null,
+    "word": "Portugal",
+    "definition": "U1",
+    "translation": "葡萄牙",
+    "voiceUrl": "NewMiddleSchool/113_葡萄牙.mp3"
+  },
+  {
+    "id": "114_葡萄牙的",
+    "pos": null,
+    "word": "portugués,sa",
+    "definition": "U1",
+    "translation": "葡萄牙的",
+    "voiceUrl": "NewMiddleSchool/114_葡萄牙的.mp3"
+  },
+  {
+    "id": "115_葡萄牙语",
+    "pos": null,
+    "word": "portugués",
+    "definition": "U1",
+    "translation": "葡萄牙语",
+    "voiceUrl": "NewMiddleSchool/115_葡萄牙语.mp3"
+  },
+  {
+    "id": "116_葡萄牙人",
+    "pos": null,
+    "word": "portugués,sa",
+    "definition": "U1",
+    "translation": "葡萄牙人",
+    "voiceUrl": "NewMiddleSchool/116_葡萄牙人.mp3"
+  },
+  {
+    "id": "117_法国",
+    "pos": null,
+    "word": "Francia",
+    "definition": "U1",
+    "translation": "法国",
+    "voiceUrl": "NewMiddleSchool/117_法国.mp3"
+  },
+  {
+    "id": "118_法国人",
+    "pos": null,
+    "word": "francés,sa",
+    "definition": "U1",
+    "translation": "法国人",
+    "voiceUrl": "NewMiddleSchool/118_法国人.mp3"
+  },
+  {
+    "id": "120_法国的",
+    "pos": null,
+    "word": "francés,sa",
+    "definition": "U1",
+    "translation": "法国的",
+    "voiceUrl": "NewMiddleSchool/120_法国的.mp3"
+  },
+  {
+    "id": "121_巴西",
+    "pos": null,
+    "word": "Brasil",
+    "definition": "U1",
+    "translation": "巴西",
+    "voiceUrl": "NewMiddleSchool/121_巴西.mp3"
+  },
+  {
+    "id": "122_巴西人",
+    "pos": null,
+    "word": "brasileño,a",
+    "definition": "U1",
+    "translation": "巴西人",
+    "voiceUrl": "NewMiddleSchool/122_巴西人.mp3"
+  },
+  {
+    "id": "123_巴西的",
+    "pos": null,
+    "word": "brasileño,a",
+    "definition": "U1",
+    "translation": "巴西的",
+    "voiceUrl": "NewMiddleSchool/123_巴西的.mp3"
+  },
+  {
+    "id": "125_舞蹈家舞者",
+    "pos": null,
+    "word": "bailarín,na",
+    "definition": "U1",
+    "translation": "舞蹈家，舞者",
+    "voiceUrl": "NewMiddleSchool/125_舞蹈家舞者.mp3"
+  },
+  {
+    "id": "126_演员",
+    "pos": null,
+    "word": "actor,triz",
+    "definition": "U1",
+    "translation": "演员",
+    "voiceUrl": "NewMiddleSchool/126_演员.mp3"
+  },
+  {
+    "id": "127_双肩包",
+    "pos": null,
+    "word": "mochila",
+    "definition": "U2",
+    "translation": "双肩包",
+    "voiceUrl": "NewMiddleSchool/127_双肩包.mp3"
+  },
+  {
+    "id": "128_第一",
+    "pos": null,
+    "word": "primero,ra",
+    "definition": "U2",
+    "translation": "第一",
+    "voiceUrl": "NewMiddleSchool/128_第一.mp3"
+  },
+  {
+    "id": "129_学校及简写      ",
+    "pos": null,
+    "word": "colegio (cole)",
+    "definition": "U2",
+    "translation": "学校（及简写      ）",
+    "voiceUrl": "NewMiddleSchool/129_学校及简写      .mp3"
+  },
+  {
+    "id": "130_妈妈",
+    "pos": null,
+    "word": "mamá",
+    "definition": "U2",
+    "translation": "妈妈",
+    "voiceUrl": "NewMiddleSchool/130_妈妈.mp3"
+  },
+  {
+    "id": "131_爸爸",
+    "pos": null,
+    "word": "papá",
+    "definition": "U2",
+    "translation": "爸爸",
+    "voiceUrl": "NewMiddleSchool/131_爸爸.mp3"
+  },
+  {
+    "id": "141_文件夹活页夹",
+    "pos": null,
+    "word": "carpeta",
+    "definition": "U2",
+    "translation": "文件夹，活页夹",
+    "voiceUrl": "NewMiddleSchool/141_文件夹活页夹.mp3"
+  },
+  {
+    "id": "142_记事本",
+    "pos": null,
+    "word": "agenta",
+    "definition": "U2",
+    "translation": "记事本",
+    "voiceUrl": "NewMiddleSchool/142_记事本.mp3"
+  },
+  {
+    "id": "143_文具盒",
+    "pos": null,
+    "word": "estuche",
+    "definition": "U2",
+    "translation": "文具盒",
+    "voiceUrl": "NewMiddleSchool/143_文具盒.mp3"
+  },
+  {
+    "id": "147_尺子",
+    "pos": null,
+    "word": "regla",
+    "definition": "U2",
+    "translation": "尺子",
+    "voiceUrl": "NewMiddleSchool/147_尺子.mp3"
+  },
+  {
+    "id": "148_马克笔",
+    "pos": null,
+    "word": "rotulador",
+    "definition": "U2",
+    "translation": "马克笔",
+    "voiceUrl": "NewMiddleSchool/148_马克笔.mp3"
+  },
+  {
+    "id": "151_黄色的",
+    "pos": null,
+    "word": "amarilla",
+    "definition": "U2",
+    "translation": "黄色的",
+    "voiceUrl": "NewMiddleSchool/151_黄色的.mp3"
+  },
+  {
+    "id": "153_激动",
+    "pos": null,
+    "word": "emoción",
+    "definition": "U2",
+    "translation": "激动",
+    "voiceUrl": "NewMiddleSchool/153_激动.mp3"
+  },
+  {
+    "id": "155_我去",
+    "pos": null,
+    "word": "voy",
+    "definition": "U2",
+    "translation": "（我）去",
+    "voiceUrl": "NewMiddleSchool/155_我去.mp3"
+  },
+  {
+    "id": "157_漂亮的",
+    "pos": null,
+    "word": "bonito,a",
+    "definition": "U2",
+    "translation": "漂亮的",
+    "voiceUrl": "NewMiddleSchool/157_漂亮的.mp3"
+  },
+  {
+    "id": "163_儿童",
+    "pos": null,
+    "word": "niño,ña",
+    "definition": "U2",
+    "translation": "儿童",
+    "voiceUrl": "NewMiddleSchool/163_儿童.mp3"
+  },
+  {
+    "id": "166_体育馆",
+    "pos": null,
+    "word": "gimnasio",
+    "definition": "U2",
+    "translation": "体育馆",
+    "voiceUrl": "NewMiddleSchool/166_体育馆.mp3"
+  },
+  {
+    "id": "167_胶棒",
+    "pos": null,
+    "word": "pegamento",
+    "definition": "U2",
+    "translation": "胶棒",
+    "voiceUrl": "NewMiddleSchool/167_胶棒.mp3"
+  },
+  {
+    "id": "168_剪刀",
+    "pos": null,
+    "word": "tijeras",
+    "definition": "U2",
+    "translation": "剪刀",
+    "voiceUrl": "NewMiddleSchool/168_剪刀.mp3"
+  },
+  {
+    "id": "169_你的",
+    "pos": null,
+    "word": "tu",
+    "definition": "U2",
+    "translation": "你的",
+    "voiceUrl": "NewMiddleSchool/169_你的.mp3"
+  },
+  {
+    "id": "170_中小学老师",
+    "pos": null,
+    "word": "maestro,a",
+    "definition": "U2",
+    "translation": "（中小学）老师",
+    "voiceUrl": "NewMiddleSchool/170_中小学老师.mp3"
+  },
+  {
+    "id": "171_你看",
+    "pos": null,
+    "word": "mira",
+    "definition": "U2",
+    "translation": "（你）看",
+    "voiceUrl": "NewMiddleSchool/171_你看.mp3"
+  },
+  {
+    "id": "172_肤色黝黑的",
+    "pos": null,
+    "word": "moreno,na",
+    "definition": "U2",
+    "translation": "肤色黝黑的",
+    "voiceUrl": "NewMiddleSchool/172_肤色黝黑的.mp3"
+  },
+  {
+    "id": "173_数学",
+    "pos": null,
+    "word": "matemáticas",
+    "definition": "U2",
+    "translation": "数学",
+    "voiceUrl": "NewMiddleSchool/173_数学.mp3"
+  },
+  {
+    "id": "174_哪儿的话",
+    "pos": null,
+    "word": "¡Qué va!",
+    "definition": "U2",
+    "translation": "哪儿的话！",
+    "voiceUrl": "NewMiddleSchool/174_哪儿的话.mp3"
+  },
+  {
+    "id": "175_我的",
+    "pos": null,
+    "word": "mío,a",
+    "definition": "U2",
+    "translation": "我的",
+    "voiceUrl": "NewMiddleSchool/175_我的.mp3"
+  },
+  {
+    "id": "176_一点儿",
+    "pos": null,
+    "word": "un poco",
+    "definition": "U2",
+    "translation": "一点儿",
+    "voiceUrl": "NewMiddleSchool/176_一点儿.mp3"
+  },
+  {
+    "id": "177_胖的",
+    "pos": null,
+    "word": "gordo,a",
+    "definition": "U2",
+    "translation": "胖的",
+    "voiceUrl": "NewMiddleSchool/177_胖的.mp3"
+  },
+  {
+    "id": "181_瘦的苗条的",
+    "pos": null,
+    "word": "delgado,a",
+    "definition": "U2",
+    "translation": "瘦的，苗条的",
+    "voiceUrl": "NewMiddleSchool/181_瘦的苗条的.mp3"
+  },
+  {
+    "id": "183_他有",
+    "pos": null,
+    "word": "tienes",
+    "definition": "U2",
+    "translation": "他有",
+    "voiceUrl": "NewMiddleSchool/183_他有.mp3"
+  },
+  {
+    "id": "184_头发",
+    "pos": null,
+    "word": "pelo,cabello",
+    "definition": "U2",
+    "translation": "头发",
+    "voiceUrl": "NewMiddleSchool/184_头发.mp3"
+  },
+  {
+    "id": "185_长的",
+    "pos": null,
+    "word": "largo,a",
+    "definition": "U2",
+    "translation": "长的",
+    "voiceUrl": "NewMiddleSchool/185_长的.mp3"
+  },
+  {
+    "id": "186_头发波浪卷的",
+    "pos": null,
+    "word": "ondulado,a",
+    "definition": "U2",
+    "translation": "（头发）波浪卷的",
+    "voiceUrl": "NewMiddleSchool/186_头发波浪卷的.mp3"
+  },
+  {
+    "id": "187_可亲的可爱的",
+    "pos": null,
+    "word": "simpático,a",
+    "definition": "U2",
+    "translation": "可亲的，可爱的",
+    "voiceUrl": "NewMiddleSchool/187_可亲的可爱的.mp3"
+  },
+  {
+    "id": "189_严肃的",
+    "pos": null,
+    "word": "serio,a",
+    "definition": "U2",
+    "translation": "严肃的",
+    "voiceUrl": "NewMiddleSchool/189_严肃的.mp3"
+  },
+  {
+    "id": "190_你的",
+    "pos": null,
+    "word": "tuyo,ya",
+    "definition": "U2",
+    "translation": "你的",
+    "voiceUrl": "NewMiddleSchool/190_你的.mp3"
+  },
+  {
+    "id": "192_耐心的",
+    "pos": null,
+    "word": "paciente",
+    "definition": "U2",
+    "translation": "耐心的",
+    "voiceUrl": "NewMiddleSchool/192_耐心的.mp3"
+  },
+  {
+    "id": "193_有趣的风趣的",
+    "pos": null,
+    "word": "divertido,a",
+    "definition": "U2",
+    "translation": "有趣的，风趣的",
+    "voiceUrl": "NewMiddleSchool/193_有趣的风趣的.mp3"
+  },
+  {
+    "id": "194_秃顶的",
+    "pos": null,
+    "word": "calvo,va",
+    "definition": "U2",
+    "translation": "秃顶的",
+    "voiceUrl": "NewMiddleSchool/194_秃顶的.mp3"
+  },
+  {
+    "id": "195_络腮胡",
+    "pos": null,
+    "word": "barba",
+    "definition": "U2",
+    "translation": "络腮胡",
+    "voiceUrl": "NewMiddleSchool/195_络腮胡.mp3"
+  },
+  {
+    "id": "196_令人好奇的",
+    "pos": null,
+    "word": "curioso,a",
+    "definition": "U2",
+    "translation": "令人好奇的",
+    "voiceUrl": "NewMiddleSchool/196_令人好奇的.mp3"
+  },
+  {
+    "id": "197_我们的",
+    "pos": null,
+    "word": "nuestro,tra",
+    "definition": "U2",
+    "translation": "我们的",
+    "voiceUrl": "NewMiddleSchool/197_我们的.mp3"
+  },
+  {
+    "id": "198_体育",
+    "pos": null,
+    "word": "educación física",
+    "definition": "U2",
+    "translation": "体育",
+    "voiceUrl": "NewMiddleSchool/198_体育.mp3"
+  },
+  {
+    "id": "199_帅气的漂亮的",
+    "pos": null,
+    "word": "guapo,a",
+    "definition": "U2",
+    "translation": "帅气的，漂亮的",
+    "voiceUrl": "NewMiddleSchool/199_帅气的漂亮的.mp3"
+  },
+  {
+    "id": "203_头发小卷的",
+    "pos": null,
+    "word": "rizado,a",
+    "definition": "U2",
+    "translation": "（头发）小卷的",
+    "voiceUrl": "NewMiddleSchool/203_头发小卷的.mp3"
+  },
+  {
+    "id": "204_高的",
+    "pos": null,
+    "word": "alto,a",
+    "definition": "U2",
+    "translation": "高的",
+    "voiceUrl": "NewMiddleSchool/204_高的.mp3"
+  },
+  {
+    "id": "205_有活力的",
+    "pos": null,
+    "word": "activo,a",
+    "definition": "U2",
+    "translation": "有活力的",
+    "voiceUrl": "NewMiddleSchool/205_有活力的.mp3"
+  },
+  {
+    "id": "206_他像",
+    "pos": null,
+    "word": "parece",
+    "definition": "U2",
+    "translation": "他像",
+    "voiceUrl": "NewMiddleSchool/206_他像.mp3"
+  },
+  {
+    "id": "207_非洲人",
+    "pos": null,
+    "word": "africano,a",
+    "definition": "U2",
+    "translation": "非洲人",
+    "voiceUrl": "NewMiddleSchool/207_非洲人.mp3"
+  },
+  {
+    "id": "208_非洲的",
+    "pos": null,
+    "word": "africano,a",
+    "definition": "U2",
+    "translation": "非洲的",
+    "voiceUrl": "NewMiddleSchool/208_非洲的.mp3"
+  },
+  {
+    "id": "209_摩洛哥人",
+    "pos": null,
+    "word": "marroquí",
+    "definition": "U2",
+    "translation": "摩洛哥人",
+    "voiceUrl": "NewMiddleSchool/209_摩洛哥人.mp3"
+  },
+  {
+    "id": "210_摩洛哥的",
+    "pos": null,
+    "word": "marroquí",
+    "definition": "U2",
+    "translation": "摩洛哥的",
+    "voiceUrl": "NewMiddleSchool/210_摩洛哥的.mp3"
+  },
+  {
+    "id": "211_矮的",
+    "pos": null,
+    "word": "bajo,a",
+    "definition": "U2",
+    "translation": "矮的",
+    "voiceUrl": "NewMiddleSchool/211_矮的.mp3"
+  },
+  {
+    "id": "212_小胡子八字须",
+    "pos": null,
+    "word": "bigote",
+    "definition": "U2",
+    "translation": "小胡子，八字须",
+    "voiceUrl": "NewMiddleSchool/212_小胡子八字须.mp3"
+  },
+  {
+    "id": "214_短的",
+    "pos": null,
+    "word": "corto,a",
+    "definition": "U2",
+    "translation": "短的",
+    "voiceUrl": "NewMiddleSchool/214_短的.mp3"
+  },
+  {
+    "id": "215_丑的",
+    "pos": null,
+    "word": "feo,a",
+    "definition": "U2",
+    "translation": "丑的",
+    "voiceUrl": "NewMiddleSchool/215_丑的.mp3"
+  },
+  {
+    "id": "216_头发直的",
+    "pos": null,
+    "word": "liso,sa",
+    "definition": "U2",
+    "translation": "（头发）直的",
+    "voiceUrl": "NewMiddleSchool/216_头发直的.mp3"
+  },
+  {
+    "id": "217_金发的",
+    "pos": null,
+    "word": "rubio,a",
+    "definition": "U2",
+    "translation": "金发的",
+    "voiceUrl": "NewMiddleSchool/217_金发的.mp3"
+  },
+  {
+    "id": "219_好久不见",
+    "pos": null,
+    "word": "¡Cuánto tiempo sin verte!",
+    "definition": "U2",
+    "translation": "好久不见！",
+    "voiceUrl": "NewMiddleSchool/219_好久不见.mp3"
+  },
+  {
+    "id": "220_你好吗",
+    "pos": null,
+    "word": "¿Cómo te va?",
+    "definition": "U2",
+    "translation": "你好吗？",
+    "voiceUrl": "NewMiddleSchool/220_你好吗.mp3"
+  },
+  {
+    "id": "221_一般",
+    "pos": null,
+    "word": "regular",
+    "definition": "U2",
+    "translation": "一般",
+    "voiceUrl": "NewMiddleSchool/221_一般.mp3"
+  },
+  {
+    "id": "223_外祖父母",
+    "pos": null,
+    "word": "abuelo,a",
+    "definition": "U2",
+    "translation": "（外）祖父（母）",
+    "voiceUrl": "NewMiddleSchool/223_外祖父母.mp3"
+  },
+  {
+    "id": "225_生病的",
+    "pos": null,
+    "word": "enfermo,a",
+    "definition": "U2",
+    "translation": "生病的",
+    "voiceUrl": "NewMiddleSchool/225_生病的.mp3"
+  },
+  {
+    "id": "226_病人",
+    "pos": null,
+    "word": "enfermo,a",
+    "definition": "U2",
+    "translation": "病人",
+    "voiceUrl": "NewMiddleSchool/226_病人.mp3"
+  },
+  {
+    "id": "227_太遗憾了",
+    "pos": null,
+    "word": "Lo siento.",
+    "definition": "U2",
+    "translation": "太遗憾了！",
+    "voiceUrl": "NewMiddleSchool/227_太遗憾了.mp3"
+  },
+  {
+    "id": "232_和平",
+    "pos": null,
+    "word": "paz",
+    "definition": "U2",
+    "translation": "和平",
+    "voiceUrl": "NewMiddleSchool/232_和平.mp3"
+  },
+  {
+    "id": "234_护士",
+    "pos": null,
+    "word": "enfermero,a",
+    "definition": "U2",
+    "translation": "护士",
+    "voiceUrl": "NewMiddleSchool/234_护士.mp3"
+  },
+  {
+    "id": "237_独自的孤独的",
+    "pos": null,
+    "word": "solo,a",
+    "definition": "U2",
+    "translation": "独自的，孤独的",
+    "voiceUrl": "NewMiddleSchool/237_独自的孤独的.mp3"
+  },
+  {
+    "id": "238_仅仅",
+    "pos": null,
+    "word": "solo ",
+    "definition": "U2",
+    "translation": "仅仅",
+    "voiceUrl": "NewMiddleSchool/238_仅仅.mp3"
+  },
+  {
+    "id": "239_狗",
+    "pos": null,
+    "word": "perro,a",
+    "definition": "U2",
+    "translation": "狗",
+    "voiceUrl": "NewMiddleSchool/239_狗.mp3"
+  },
+  {
+    "id": "240_和",
+    "pos": null,
+    "word": "con ",
+    "definition": "U2",
+    "translation": "和",
+    "voiceUrl": "NewMiddleSchool/240_和.mp3"
+  },
+  {
+    "id": "241_兄弟姐妹",
+    "pos": null,
+    "word": "hermano,a",
+    "definition": "U2",
+    "translation": "兄弟，姐妹",
+    "voiceUrl": "NewMiddleSchool/241_兄弟姐妹.mp3"
+  },
+  {
+    "id": "242_多少几个",
+    "pos": null,
+    "word": "cuántos,as",
+    "definition": "U2",
+    "translation": "多少，几个",
+    "voiceUrl": "NewMiddleSchool/242_多少几个.mp3"
+  },
+  {
+    "id": "243_唯一的",
+    "pos": null,
+    "word": "único,a",
+    "definition": "U2",
+    "translation": "唯一的",
+    "voiceUrl": "NewMiddleSchool/243_唯一的.mp3"
+  },
+  {
+    "id": "246_工程师",
+    "pos": null,
+    "word": "ingeniero,a",
+    "definition": "U2",
+    "translation": "工程师",
+    "voiceUrl": "NewMiddleSchool/246_工程师.mp3"
+  },
+  {
+    "id": "248_理发师",
+    "pos": null,
+    "word": "peluquero,a",
+    "definition": "U2",
+    "translation": "理发师",
+    "voiceUrl": "NewMiddleSchool/248_理发师.mp3"
+  },
+  {
+    "id": "249_记者",
+    "pos": null,
+    "word": "periodista",
+    "definition": "U2",
+    "translation": "记者",
+    "voiceUrl": "NewMiddleSchool/249_记者.mp3"
+  },
+  {
+    "id": "250_飞行员",
+    "pos": null,
+    "word": "piloto",
+    "definition": "U2",
+    "translation": "飞行员",
+    "voiceUrl": "NewMiddleSchool/250_飞行员.mp3"
+  },
+  {
+    "id": "251_计算机专家",
+    "pos": null,
+    "word": "informático,a",
+    "definition": "U2",
+    "translation": "计算机专家",
+    "voiceUrl": "NewMiddleSchool/251_计算机专家.mp3"
+  },
+  {
+    "id": "252_小舅子嫂子",
+    "pos": null,
+    "word": "cuñado",
+    "definition": "U2",
+    "translation": "小舅子，嫂子",
+    "voiceUrl": "NewMiddleSchool/252_小舅子嫂子.mp3"
+  },
+  {
+    "id": "253_丈夫",
+    "pos": null,
+    "word": "marido,esposo",
+    "definition": "U2",
+    "translation": "丈夫",
+    "voiceUrl": "NewMiddleSchool/253_丈夫.mp3"
+  },
+  {
+    "id": "254_年幼的",
+    "pos": null,
+    "word": "menor",
+    "definition": "U2",
+    "translation": "年幼的",
+    "voiceUrl": "NewMiddleSchool/254_年幼的.mp3"
+  },
+  {
+    "id": "255_妻子女人",
+    "pos": null,
+    "word": "mujer,esposa",
+    "definition": "U2",
+    "translation": "妻子，女人",
+    "voiceUrl": "NewMiddleSchool/255_妻子女人.mp3"
+  },
+  {
+    "id": "256_外孙子孙女",
+    "pos": null,
+    "word": "nieto,a",
+    "definition": "U2",
+    "translation": "（外）孙子，孙女",
+    "voiceUrl": "NewMiddleSchool/256_外孙子孙女.mp3"
+  },
+  {
+    "id": "257_表堂兄弟姐妹",
+    "pos": null,
+    "word": "primo,a",
+    "definition": "U2",
+    "translation": "表（堂）兄弟，姐妹",
+    "voiceUrl": "NewMiddleSchool/257_表堂兄弟姐妹.mp3"
+  },
+  {
+    "id": "259_终于",
+    "pos": null,
+    "word": "por fin",
+    "definition": "U2",
+    "translation": "终于",
+    "voiceUrl": "NewMiddleSchool/259_终于.mp3"
+  },
+  {
+    "id": "260_舒适的",
+    "pos": null,
+    "word": "cómodo,a",
+    "definition": "U2",
+    "translation": "舒适的",
+    "voiceUrl": "NewMiddleSchool/260_舒适的.mp3"
+  },
+  {
+    "id": "270_小的",
+    "pos": null,
+    "word": "pequeño,a",
+    "definition": "U2",
+    "translation": "小的",
+    "voiceUrl": "NewMiddleSchool/270_小的.mp3"
+  },
+  {
+    "id": "275_浴缸",
+    "pos": null,
+    "word": "bañera",
+    "definition": "U2",
+    "translation": "浴缸",
+    "voiceUrl": "NewMiddleSchool/275_浴缸.mp3"
+  },
+  {
+    "id": "276_其他的别的",
+    "pos": null,
+    "word": "otro,a",
+    "definition": "U2",
+    "translation": "其他的，别的",
+    "voiceUrl": "NewMiddleSchool/276_其他的别的.mp3"
+  },
+  {
+    "id": "277_淋浴",
+    "pos": null,
+    "word": "ducha",
+    "definition": "U2",
+    "translation": "淋浴",
+    "voiceUrl": "NewMiddleSchool/277_淋浴.mp3"
+  },
+  {
+    "id": "278_在尽头",
+    "pos": null,
+    "word": "al fondo de",
+    "definition": "U2",
+    "translation": "在……尽头",
+    "voiceUrl": "NewMiddleSchool/278_在尽头.mp3"
+  },
+  {
+    "id": "279_走廊",
+    "pos": null,
+    "word": "pasillo",
+    "definition": "U2",
+    "translation": "走廊",
+    "voiceUrl": "NewMiddleSchool/279_走廊.mp3"
+  },
+  {
+    "id": "281_因此",
+    "pos": null,
+    "word": "por eso",
+    "definition": "U2",
+    "translation": "因此",
+    "voiceUrl": "NewMiddleSchool/281_因此.mp3"
+  },
+  {
+    "id": "282_明亮的",
+    "pos": null,
+    "word": "luminoso",
+    "definition": "U2",
+    "translation": "明亮的",
+    "voiceUrl": "NewMiddleSchool/282_明亮的.mp3"
+  },
+  {
+    "id": "283_令人愉快的",
+    "pos": null,
+    "word": "agradable",
+    "definition": "U2",
+    "translation": "令人愉快的",
+    "voiceUrl": "NewMiddleSchool/283_令人愉快的.mp3"
+  },
+  {
+    "id": "285_书桌",
+    "pos": null,
+    "word": "escritorio",
+    "definition": "U2",
+    "translation": "书桌",
+    "voiceUrl": "NewMiddleSchool/285_书桌.mp3"
+  },
+  {
+    "id": "286_左边",
+    "pos": null,
+    "word": "izquierda",
+    "definition": "U2",
+    "translation": "左边",
+    "voiceUrl": "NewMiddleSchool/286_左边.mp3"
+  },
+  {
+    "id": "289_墙",
+    "pos": null,
+    "word": "pared",
+    "definition": "U2",
+    "translation": "墙",
+    "voiceUrl": "NewMiddleSchool/289_墙.mp3"
+  },
+  {
+    "id": "290_右边",
+    "pos": null,
+    "word": "derecha",
+    "definition": "U2",
+    "translation": "右边",
+    "voiceUrl": "NewMiddleSchool/290_右边.mp3"
+  },
+  {
+    "id": "291_如你所见",
+    "pos": null,
+    "word": "como ves",
+    "definition": "U2",
+    "translation": "如你所见",
+    "voiceUrl": "NewMiddleSchool/291_如你所见.mp3"
+  },
+  {
+    "id": "293_凌乱的",
+    "pos": null,
+    "word": "desordenado,a",
+    "definition": "U2",
+    "translation": "凌乱的",
+    "voiceUrl": "NewMiddleSchool/293_凌乱的.mp3"
+  },
+  {
+    "id": "295_到处",
+    "pos": null,
+    "word": "por todas partes",
+    "definition": "U2",
+    "translation": "到处",
+    "voiceUrl": "NewMiddleSchool/295_到处.mp3"
+  },
+  {
+    "id": "298_洗碗池",
+    "pos": null,
+    "word": "fregadero",
+    "definition": "U2",
+    "translation": "洗碗池",
+    "voiceUrl": "NewMiddleSchool/298_洗碗池.mp3"
+  },
+  {
+    "id": "299_烤箱",
+    "pos": null,
+    "word": "horno",
+    "definition": "U2",
+    "translation": "烤箱",
+    "voiceUrl": "NewMiddleSchool/299_烤箱.mp3"
+  },
+  {
+    "id": "300_灯",
+    "pos": null,
+    "word": "lámpara",
+    "definition": "U2",
+    "translation": "灯",
+    "voiceUrl": "NewMiddleSchool/300_灯.mp3"
+  },
+  {
+    "id": "302_洗衣机",
+    "pos": null,
+    "word": "lavadora",
+    "definition": "U2",
+    "translation": "洗衣机",
+    "voiceUrl": "NewMiddleSchool/302_洗衣机.mp3"
+  },
+  {
+    "id": "303_远",
+    "pos": null,
+    "word": "lejos",
+    "definition": "U2",
+    "translation": "远",
+    "voiceUrl": "NewMiddleSchool/303_远.mp3"
+  },
+  {
+    "id": "304_冰箱",
+    "pos": null,
+    "word": "nevera",
+    "definition": "U2",
+    "translation": "冰箱",
+    "voiceUrl": "NewMiddleSchool/304_冰箱.mp3"
+  },
+  {
+    "id": "309_如此",
+    "pos": null,
+    "word": "tan",
+    "definition": "U3",
+    "translation": "如此",
+    "voiceUrl": "NewMiddleSchool/309_如此.mp3"
+  },
+  {
+    "id": "310_极好的极美的",
+    "pos": null,
+    "word": "maravilloso,a",
+    "definition": "U3",
+    "translation": "极好的，极美的",
+    "voiceUrl": "NewMiddleSchool/310_极好的极美的.mp3"
+  },
+  {
+    "id": "311_一刻钟小房间",
+    "pos": null,
+    "word": "cuarto ",
+    "definition": "U3",
+    "translation": "一刻钟，小房间",
+    "voiceUrl": "NewMiddleSchool/311_一刻钟小房间.mp3"
+  },
+  {
+    "id": "313_巴伦西亚",
+    "pos": null,
+    "word": "Valencia",
+    "definition": "U3",
+    "translation": "巴伦西亚",
+    "voiceUrl": "NewMiddleSchool/313_巴伦西亚.mp3"
+  },
+  {
+    "id": "314_对吗",
+    "pos": null,
+    "word": "¿Verdad?",
+    "definition": "U3",
+    "translation": "对吗？",
+    "voiceUrl": "NewMiddleSchool/314_对吗.mp3"
+  },
+  {
+    "id": "318_那里",
+    "pos": null,
+    "word": "allí ",
+    "definition": "U3",
+    "translation": "那里",
+    "voiceUrl": "NewMiddleSchool/318_那里.mp3"
+  },
+  {
+    "id": "321_还仍然",
+    "pos": null,
+    "word": "todavía",
+    "definition": "U3",
+    "translation": "还，仍然",
+    "voiceUrl": "NewMiddleSchool/321_还仍然.mp3"
+  },
+  {
+    "id": "322_六月",
+    "pos": null,
+    "word": "junio",
+    "definition": "U3",
+    "translation": "六月",
+    "voiceUrl": "NewMiddleSchool/322_六月.mp3"
+  },
+  {
+    "id": "323_七月",
+    "pos": null,
+    "word": "julio",
+    "definition": "U3",
+    "translation": "七月",
+    "voiceUrl": "NewMiddleSchool/323_七月.mp3"
+  },
+  {
+    "id": "324_好奇",
+    "pos": null,
+    "word": "curiosidad",
+    "definition": "U3",
+    "translation": "好奇",
+    "voiceUrl": "NewMiddleSchool/324_好奇.mp3"
+  },
+  {
+    "id": "328_早_pronto",
+    "pos": null,
+    "word": "pronto",
+    "definition": "U3",
+    "translation": "早",
+    "voiceUrl": "NewMiddleSchool/328_早.mp3"
+  },
+  {
+    "id": "330_你多保重",
+    "pos": null,
+    "word": "¡Cuídate mucho!",
+    "definition": "U3",
+    "translation": "你多保重",
+    "voiceUrl": "NewMiddleSchool/330_你多保重.mp3"
+  },
+  {
+    "id": "331_同样地",
+    "pos": null,
+    "word": "igualmente",
+    "definition": "U3",
+    "translation": "同样地",
+    "voiceUrl": "NewMiddleSchool/331_同样地.mp3"
+  },
+  {
+    "id": "332_回见",
+    "pos": null,
+    "word": "hasta pronto",
+    "definition": "U3",
+    "translation": "回见",
+    "voiceUrl": "NewMiddleSchool/332_回见.mp3"
+  },
+  {
+    "id": "333_几点整",
+    "pos": null,
+    "word": "en punto",
+    "definition": "U3",
+    "translation": "（几点）整",
+    "voiceUrl": "NewMiddleSchool/333_几点整.mp3"
+  },
+  {
+    "id": "335_中午",
+    "pos": null,
+    "word": "mediodía",
+    "definition": "U3",
+    "translation": "中午",
+    "voiceUrl": "NewMiddleSchool/335_中午.mp3"
+  },
+  {
+    "id": "339_学校的",
+    "pos": null,
+    "word": "escolar",
+    "definition": "U3",
+    "translation": "学校的",
+    "voiceUrl": "NewMiddleSchool/339_学校的.mp3"
+  },
+  {
+    "id": "341_课程",
+    "pos": null,
+    "word": "asignatura",
+    "definition": "U3",
+    "translation": "课程",
+    "voiceUrl": "NewMiddleSchool/341_课程.mp3"
+  },
+  {
+    "id": "342_不会吧",
+    "pos": null,
+    "word": "¡No me digas!",
+    "definition": "U3",
+    "translation": "不会吧",
+    "voiceUrl": "NewMiddleSchool/342_不会吧.mp3"
+  },
+  {
+    "id": "343_哪一个",
+    "pos": null,
+    "word": "cuál",
+    "definition": "U3",
+    "translation": "哪一个",
+    "voiceUrl": "NewMiddleSchool/343_哪一个.mp3"
+  },
+  {
+    "id": "344_语言",
+    "pos": null,
+    "word": "lengua",
+    "definition": "U3",
+    "translation": "语言",
+    "voiceUrl": "NewMiddleSchool/344_语言.mp3"
+  },
+  {
+    "id": "345_地理",
+    "pos": null,
+    "word": "geografía",
+    "definition": "U3",
+    "translation": "地理",
+    "voiceUrl": "NewMiddleSchool/345_地理.mp3"
+  },
+  {
+    "id": "346_历史",
+    "pos": null,
+    "word": "historia",
+    "definition": "U3",
+    "translation": "历史",
+    "voiceUrl": "NewMiddleSchool/346_历史.mp3"
+  },
+  {
+    "id": "347_生物",
+    "pos": null,
+    "word": "biología",
+    "definition": "U3",
+    "translation": "生物",
+    "voiceUrl": "NewMiddleSchool/347_生物.mp3"
+  },
+  {
+    "id": "349_每个",
+    "pos": null,
+    "word": "cada",
+    "definition": "U3",
+    "translation": "每个",
+    "voiceUrl": "NewMiddleSchool/349_每个.mp3"
+  },
+  {
+    "id": "355_休息",
+    "pos": null,
+    "word": "descanso",
+    "definition": "U3",
+    "translation": "休息",
+    "voiceUrl": "NewMiddleSchool/355_休息.mp3"
+  },
+  {
+    "id": "357_无聊的",
+    "pos": null,
+    "word": "aburrido,a",
+    "definition": "U3",
+    "translation": "无聊的",
+    "voiceUrl": "NewMiddleSchool/357_无聊的.mp3"
+  },
+  {
+    "id": "359_简单的",
+    "pos": null,
+    "word": "fácil",
+    "definition": "U3",
+    "translation": "简单的",
+    "voiceUrl": "NewMiddleSchool/359_简单的.mp3"
+  },
+  {
+    "id": "360_物理",
+    "pos": null,
+    "word": "física",
+    "definition": "U3",
+    "translation": "物理",
+    "voiceUrl": "NewMiddleSchool/360_物理.mp3"
+  },
+  {
+    "id": "363_美术造型美术雕塑艺术",
+    "pos": null,
+    "word": "plástica",
+    "definition": "U3",
+    "translation": "美术，造型美术。雕塑艺术",
+    "voiceUrl": "NewMiddleSchool/363_美术造型美术雕塑艺术.mp3"
+  },
+  {
+    "id": "364_化学",
+    "pos": null,
+    "word": "química",
+    "definition": "U3",
+    "translation": "化学",
+    "voiceUrl": "NewMiddleSchool/364_化学.mp3"
+  },
+  {
+    "id": "365_接电话时喂",
+    "pos": null,
+    "word": "¿Diga?",
+    "definition": "U3",
+    "translation": "（接电话时）喂？",
+    "voiceUrl": "NewMiddleSchool/365_接电话时喂.mp3"
+  },
+  {
+    "id": "366_哪位",
+    "pos": null,
+    "word": "¿De parte de quién?",
+    "definition": "U3",
+    "translation": "哪位？",
+    "voiceUrl": "NewMiddleSchool/366_哪位.mp3"
+  },
+  {
+    "id": "368_加拿大",
+    "pos": null,
+    "word": "Canadá",
+    "definition": "U3",
+    "translation": "加拿大",
+    "voiceUrl": "NewMiddleSchool/368_加拿大.mp3"
+  },
+  {
+    "id": "369_加拿大人加拿大的",
+    "pos": null,
+    "word": "canadiense",
+    "definition": "U3",
+    "translation": "加拿大人，加拿大的",
+    "voiceUrl": "NewMiddleSchool/369_加拿大人加拿大的.mp3"
+  },
+  {
+    "id": "370_高兴欣喜",
+    "pos": null,
+    "word": "alegría",
+    "definition": "U3",
+    "translation": "高兴，欣喜",
+    "voiceUrl": "NewMiddleSchool/370_高兴欣喜.mp3"
+  },
+  {
+    "id": "371_第六",
+    "pos": null,
+    "word": "sexto,a",
+    "definition": "U3",
+    "translation": "第六",
+    "voiceUrl": "NewMiddleSchool/371_第六.mp3"
+  },
+  {
+    "id": "372_初等的小学阶段",
+    "pos": null,
+    "word": "primario,a",
+    "definition": "U3",
+    "translation": "初等的，小学阶段",
+    "voiceUrl": "NewMiddleSchool/372_初等的小学阶段.mp3"
+  },
+  {
+    "id": "373_年岁",
+    "pos": null,
+    "word": "año",
+    "definition": "U3",
+    "translation": "年，岁",
+    "voiceUrl": "NewMiddleSchool/373_年岁.mp3"
+  },
+  {
+    "id": "374_教育",
+    "pos": null,
+    "word": "educación ",
+    "definition": "U3",
+    "translation": "教育",
+    "voiceUrl": "NewMiddleSchool/374_教育.mp3"
+  },
+  {
+    "id": "375_中级的初中",
+    "pos": null,
+    "word": "secundario,a",
+    "definition": "U3",
+    "translation": "中级的，初中",
+    "voiceUrl": "NewMiddleSchool/375_中级的初中.mp3"
+  },
+  {
+    "id": "376_义务的强迫的",
+    "pos": null,
+    "word": "obligatorio,a",
+    "definition": "U3",
+    "translation": "义务的，强迫的",
+    "voiceUrl": "NewMiddleSchool/376_义务的强迫的.mp3"
+  },
+  {
+    "id": "377_去前往",
+    "pos": null,
+    "word": "ir",
+    "definition": "U3",
+    "translation": "去，前往",
+    "voiceUrl": "NewMiddleSchool/377_去前往.mp3"
+  },
+  {
+    "id": "378_学前的学前阶段",
+    "pos": null,
+    "word": "preescolar",
+    "definition": "U3",
+    "translation": "学前的，学前阶段",
+    "voiceUrl": "NewMiddleSchool/378_学前的学前阶段.mp3"
+  },
+  {
+    "id": "379_在期间",
+    "pos": null,
+    "word": "durante",
+    "definition": "U3",
+    "translation": "在……期间",
+    "voiceUrl": "NewMiddleSchool/379_在期间.mp3"
+  },
+  {
+    "id": "382_高中阶段",
+    "pos": null,
+    "word": "bachillerato",
+    "definition": "U3",
+    "translation": "高中阶段",
+    "voiceUrl": "NewMiddleSchool/382_高中阶段.mp3"
+  },
+  {
+    "id": "383_如此多的",
+    "pos": null,
+    "word": "tanto,a",
+    "definition": "U3",
+    "translation": "如此多的",
+    "voiceUrl": "NewMiddleSchool/383_如此多的.mp3"
+  },
+  {
+    "id": "384_在外面",
+    "pos": null,
+    "word": "fuera",
+    "definition": "U3",
+    "translation": "在外面",
+    "voiceUrl": "NewMiddleSchool/384_在外面.mp3"
+  },
+  {
+    "id": "385_现代化的",
+    "pos": null,
+    "word": "moderno,a",
+    "definition": "U3",
+    "translation": "现代化的",
+    "voiceUrl": "NewMiddleSchool/385_现代化的.mp3"
+  },
+  {
+    "id": "387_数字的",
+    "pos": null,
+    "word": "digital",
+    "definition": "U3",
+    "translation": "数字的",
+    "voiceUrl": "NewMiddleSchool/387_数字的.mp3"
+  },
+  {
+    "id": "389_电脑",
+    "pos": null,
+    "word": "computadora",
+    "definition": "U3",
+    "translation": "电脑",
+    "voiceUrl": "NewMiddleSchool/389_电脑.mp3"
+  },
+  {
+    "id": "390_极好的",
+    "pos": null,
+    "word": "estupendo,a",
+    "definition": "U3",
+    "translation": "极好的",
+    "voiceUrl": "NewMiddleSchool/390_极好的.mp3"
+  },
+  {
+    "id": "391_偏爱的",
+    "pos": null,
+    "word": "favorito,a",
+    "definition": "U3",
+    "translation": "偏爱的",
+    "voiceUrl": "NewMiddleSchool/391_偏爱的.mp3"
+  },
+  {
+    "id": "392_优秀",
+    "pos": null,
+    "word": "sobresaliente",
+    "definition": "U3",
+    "translation": "优秀",
+    "voiceUrl": "NewMiddleSchool/392_优秀.mp3"
+  },
+  {
+    "id": "394_祝贺",
+    "pos": null,
+    "word": "enhorabuena",
+    "definition": "U3",
+    "translation": "祝贺",
+    "voiceUrl": "NewMiddleSchool/394_祝贺.mp3"
+  },
+  {
+    "id": "396_最后的",
+    "pos": null,
+    "word": "final",
+    "definition": "U3",
+    "translation": "最后的",
+    "voiceUrl": "NewMiddleSchool/396_最后的.mp3"
+  },
+  {
+    "id": "397_及格合格",
+    "pos": null,
+    "word": "aprobado",
+    "definition": "U3",
+    "translation": "及格，合格",
+    "voiceUrl": "NewMiddleSchool/397_及格合格.mp3"
+  },
+  {
+    "id": "398_不及格不足够的",
+    "pos": null,
+    "word": "insuficiente",
+    "definition": "U3",
+    "translation": "不及格，不足够的",
+    "voiceUrl": "NewMiddleSchool/398_不及格不足够的.mp3"
+  },
+  {
+    "id": "400_及格足够的",
+    "pos": null,
+    "word": "suficiente",
+    "definition": "U3",
+    "translation": "及格，足够的",
+    "voiceUrl": "NewMiddleSchool/400_及格足够的.mp3"
+  },
+  {
+    "id": "401_不及格",
+    "pos": null,
+    "word": "suspendido",
+    "definition": "U3",
+    "translation": "不及格",
+    "voiceUrl": "NewMiddleSchool/401_不及格.mp3"
+  },
+  {
+    "id": "402_注册",
+    "pos": null,
+    "word": "matrícula",
+    "definition": "U3",
+    "translation": "注册",
+    "voiceUrl": "NewMiddleSchool/402_注册.mp3"
+  },
+  {
+    "id": "403_管理的行政的管理人员行政人员",
+    "pos": null,
+    "word": "administrativo,a",
+    "definition": "U3",
+    "translation": "管理的，行政的；管理人员，行政人员",
+    "voiceUrl": "NewMiddleSchool/403_管理的行政的管理人员行政人员.mp3"
+  },
+  {
+    "id": "405_姓氏",
+    "pos": null,
+    "word": "apellido",
+    "definition": "U3",
+    "translation": "姓氏",
+    "voiceUrl": "NewMiddleSchool/405_姓氏.mp3"
+  },
+  {
+    "id": "406_生日",
+    "pos": null,
+    "word": "cumpleaños",
+    "definition": "U3",
+    "translation": "生日",
+    "voiceUrl": "NewMiddleSchool/406_生日.mp3"
+  },
+  {
+    "id": "407_利马秘鲁首都",
+    "pos": null,
+    "word": "Lima",
+    "definition": "U3",
+    "translation": "利马（秘鲁首都）",
+    "voiceUrl": "NewMiddleSchool/407_利马秘鲁首都.mp3"
+  },
+  {
+    "id": "408_从事工作",
+    "pos": null,
+    "word": "dedicarse",
+    "definition": "U3",
+    "translation": "从事……工作",
+    "voiceUrl": "NewMiddleSchool/408_从事工作.mp3"
+  },
+  {
+    "id": "409_画家",
+    "pos": null,
+    "word": "pintor,ra",
+    "definition": "U3",
+    "translation": "画家",
+    "voiceUrl": "NewMiddleSchool/409_画家.mp3"
+  },
+  {
+    "id": "413_哥伦布",
+    "pos": null,
+    "word": "Colón",
+    "definition": "U3",
+    "translation": "哥伦布",
+    "voiceUrl": "NewMiddleSchool/413_哥伦布.mp3"
+  },
+  {
+    "id": "417_手机",
+    "pos": null,
+    "word": "celular",
+    "definition": "U3",
+    "translation": "手机",
+    "voiceUrl": "NewMiddleSchool/417_手机.mp3"
+  },
+  {
+    "id": "418_固定的",
+    "pos": null,
+    "word": "fijo,ja",
+    "definition": "U3",
+    "translation": "固定的",
+    "voiceUrl": "NewMiddleSchool/418_固定的.mp3"
+  },
+  {
+    "id": "420_不用谢",
+    "pos": null,
+    "word": "de nada",
+    "definition": "U3",
+    "translation": "不用谢",
+    "voiceUrl": "NewMiddleSchool/420_不用谢.mp3"
+  },
+  {
+    "id": "422_博客",
+    "pos": null,
+    "word": "blog",
+    "definition": "U3",
+    "translation": "博客",
+    "voiceUrl": "NewMiddleSchool/422_博客.mp3"
+  },
+  {
+    "id": "424_网上聊天",
+    "pos": null,
+    "word": "chatear",
+    "definition": "U3",
+    "translation": "网上聊天",
+    "voiceUrl": "NewMiddleSchool/424_网上聊天.mp3"
+  },
+  {
+    "id": "426_微信",
+    "pos": null,
+    "word": "Wechat",
+    "definition": "U3",
+    "translation": "微信",
+    "voiceUrl": "NewMiddleSchool/426_微信.mp3"
+  },
+  {
+    "id": "428_周末",
+    "pos": null,
+    "word": "fin de semana",
+    "definition": "U4",
+    "translation": "周末",
+    "voiceUrl": "NewMiddleSchool/428_周末.mp3"
+  },
+  {
+    "id": "430_和往常一样",
+    "pos": null,
+    "word": "como siempre",
+    "definition": "U4",
+    "translation": "和往常一样",
+    "voiceUrl": "NewMiddleSchool/430_和往常一样.mp3"
+  },
+  {
+    "id": "435_足球",
+    "pos": null,
+    "word": "fútbol",
+    "definition": "U4",
+    "translation": "足球",
+    "voiceUrl": "NewMiddleSchool/435_足球.mp3"
+  },
+  {
+    "id": "442_和你",
+    "pos": null,
+    "word": "contigo",
+    "definition": "U4",
+    "translation": "和你",
+    "voiceUrl": "NewMiddleSchool/442_和你.mp3"
+  },
+  {
+    "id": "443_当然",
+    "pos": null,
+    "word": "por supuesto",
+    "definition": "U4",
+    "translation": "当然",
+    "voiceUrl": "NewMiddleSchool/443_当然.mp3"
+  },
+  {
+    "id": "444_使非常喜欢",
+    "pos": null,
+    "word": "encantar",
+    "definition": "U4",
+    "translation": "使非常喜欢",
+    "voiceUrl": "NewMiddleSchool/444_使非常喜欢.mp3"
+  },
+  {
+    "id": "447_幸福的快乐的",
+    "pos": null,
+    "word": "feliz",
+    "definition": "U4",
+    "translation": "幸福的，快乐的",
+    "voiceUrl": "NewMiddleSchool/447_幸福的快乐的.mp3"
+  },
+  {
+    "id": "448_周末简写",
+    "pos": null,
+    "word": "finde",
+    "definition": "U4",
+    "translation": "周末简写",
+    "voiceUrl": "NewMiddleSchool/448_周末简写.mp3"
+  },
+  {
+    "id": "449_篮球",
+    "pos": null,
+    "word": "baloncesto",
+    "definition": "U4",
+    "translation": "篮球",
+    "voiceUrl": "NewMiddleSchool/449_篮球.mp3"
+  },
+  {
+    "id": "450_和我",
+    "pos": null,
+    "word": "conmigo",
+    "definition": "U4",
+    "translation": "和我",
+    "voiceUrl": "NewMiddleSchool/450_和我.mp3"
+  },
+  {
+    "id": "452_小说",
+    "pos": null,
+    "word": "novela",
+    "definition": "U4",
+    "translation": "小说",
+    "voiceUrl": "NewMiddleSchool/452_小说.mp3"
+  },
+  {
+    "id": "455_网球",
+    "pos": null,
+    "word": "tenis",
+    "definition": "U4",
+    "translation": "网球",
+    "voiceUrl": "NewMiddleSchool/455_网球.mp3"
+  },
+  {
+    "id": "458_服务生",
+    "pos": null,
+    "word": "camarero,a",
+    "definition": "U4",
+    "translation": "服务生",
+    "voiceUrl": "NewMiddleSchool/458_服务生.mp3"
+  },
+  {
+    "id": "459_我能为您们做点什么",
+    "pos": null,
+    "word": "¿En qué puedo servirles?",
+    "definition": "U4",
+    "translation": "我能为您们做点什么？",
+    "voiceUrl": "NewMiddleSchool/459_我能为您们做点什么.mp3"
+  },
+  {
+    "id": "462_饿",
+    "pos": null,
+    "word": "hambre",
+    "definition": "U4",
+    "translation": "饿",
+    "voiceUrl": "NewMiddleSchool/462_饿.mp3"
+  },
+  {
+    "id": "463_对不起劳驾",
+    "pos": null,
+    "word": "perdone",
+    "definition": "U4",
+    "translation": "对不起，劳驾",
+    "voiceUrl": "NewMiddleSchool/463_对不起劳驾.mp3"
+  },
+  {
+    "id": "464_卫生间",
+    "pos": null,
+    "word": "servivio",
+    "definition": "U4",
+    "translation": "卫生间",
+    "voiceUrl": "NewMiddleSchool/464_卫生间.mp3"
+  },
+  {
+    "id": "469_铁板烧",
+    "pos": null,
+    "word": "a la plancha",
+    "definition": "U4",
+    "translation": "铁板烧",
+    "voiceUrl": "NewMiddleSchool/469_铁板烧.mp3"
+  },
+  {
+    "id": "470_里脊肉",
+    "pos": null,
+    "word": "filite",
+    "definition": "U4",
+    "translation": "里脊肉",
+    "voiceUrl": "NewMiddleSchool/470_里脊肉.mp3"
+  },
+  {
+    "id": "471_牛肉",
+    "pos": null,
+    "word": "ternera",
+    "definition": "U4",
+    "translation": "牛肉",
+    "voiceUrl": "NewMiddleSchool/471_牛肉.mp3"
+  },
+  {
+    "id": "473_混合的",
+    "pos": null,
+    "word": "mixto,a",
+    "definition": "U4",
+    "translation": "混合的",
+    "voiceUrl": "NewMiddleSchool/473_混合的.mp3"
+  },
+  {
+    "id": "476_油炸的",
+    "pos": null,
+    "word": "frito,a",
+    "definition": "U4",
+    "translation": "油炸的",
+    "voiceUrl": "NewMiddleSchool/476_油炸的.mp3"
+  },
+  {
+    "id": "478_冷汤",
+    "pos": null,
+    "word": "gazpacho",
+    "definition": "U4",
+    "translation": "冷汤",
+    "voiceUrl": "NewMiddleSchool/478_冷汤.mp3"
+  },
+  {
+    "id": "479_水果泥",
+    "pos": null,
+    "word": "puré",
+    "definition": "U4",
+    "translation": "水果泥",
+    "voiceUrl": "NewMiddleSchool/479_水果泥.mp3"
+  },
+  {
+    "id": "480_土豆",
+    "pos": null,
+    "word": "patata",
+    "definition": "U4",
+    "translation": "土豆",
+    "voiceUrl": "NewMiddleSchool/480_土豆.mp3"
+  },
+  {
+    "id": "483_果汁",
+    "pos": null,
+    "word": "zumo",
+    "definition": "U4",
+    "translation": "果汁",
+    "voiceUrl": "NewMiddleSchool/483_果汁.mp3"
+  },
+  {
+    "id": "484_苹果",
+    "pos": null,
+    "word": "manzana",
+    "definition": "U4",
+    "translation": "苹果",
+    "voiceUrl": "NewMiddleSchool/484_苹果.mp3"
+  },
+  {
+    "id": "486_橙子",
+    "pos": null,
+    "word": "naranja",
+    "definition": "U4",
+    "translation": "橙子",
+    "voiceUrl": "NewMiddleSchool/486_橙子.mp3"
+  },
+  {
+    "id": "488_煤气",
+    "pos": null,
+    "word": "gas",
+    "definition": "U4",
+    "translation": "煤气",
+    "voiceUrl": "NewMiddleSchool/488_煤气.mp3"
+  },
+  {
+    "id": "490_立即",
+    "pos": null,
+    "word": "en seguida",
+    "definition": "U4",
+    "translation": "立即",
+    "voiceUrl": "NewMiddleSchool/490_立即.mp3"
+  },
+  {
+    "id": "492_蛋奶冻",
+    "pos": null,
+    "word": "flan",
+    "definition": "U4",
+    "translation": "蛋奶冻",
+    "voiceUrl": "NewMiddleSchool/492_蛋奶冻.mp3"
+  },
+  {
+    "id": "495_冰淇淋",
+    "pos": null,
+    "word": "helado",
+    "definition": "U4",
+    "translation": "冰淇淋",
+    "voiceUrl": "NewMiddleSchool/495_冰淇淋.mp3"
+  },
+  {
+    "id": "496_香草",
+    "pos": null,
+    "word": "vainilla",
+    "definition": "U4",
+    "translation": "香草",
+    "voiceUrl": "NewMiddleSchool/496_香草.mp3"
+  },
+  {
+    "id": "500_柠檬",
+    "pos": null,
+    "word": "limón",
+    "definition": "U4",
+    "translation": "柠檬",
+    "voiceUrl": "NewMiddleSchool/500_柠檬.mp3"
+  },
+  {
+    "id": "502_渴",
+    "pos": null,
+    "word": "sed",
+    "definition": "U4",
+    "translation": "渴",
+    "voiceUrl": "NewMiddleSchool/502_渴.mp3"
+  },
+  {
+    "id": "504_西红柿",
+    "pos": null,
+    "word": "tomate",
+    "definition": "U4",
+    "translation": "西红柿",
+    "voiceUrl": "NewMiddleSchool/504_西红柿.mp3"
+  },
+  {
+    "id": "505_圣诞节",
+    "pos": null,
+    "word": "Navidad",
+    "definition": "U4",
+    "translation": "圣诞节",
+    "voiceUrl": "NewMiddleSchool/505_圣诞节.mp3"
+  },
+  {
+    "id": "506_顺利的繁荣的",
+    "pos": null,
+    "word": "próspero,a",
+    "definition": "U4",
+    "translation": "顺利的，繁荣的",
+    "voiceUrl": "NewMiddleSchool/506_顺利的繁荣的.mp3"
+  },
+  {
+    "id": "507_无论还是",
+    "pos": null,
+    "word": "tanto...como...",
+    "definition": "U4",
+    "translation": "无论……还是",
+    "voiceUrl": "NewMiddleSchool/507_无论还是.mp3"
+  },
+  {
+    "id": "512_家人",
+    "pos": null,
+    "word": "familiar",
+    "definition": "U4",
+    "translation": "家人",
+    "voiceUrl": "NewMiddleSchool/512_家人.mp3"
+  },
+  {
+    "id": "516_他的家人",
+    "pos": null,
+    "word": "los suyos",
+    "definition": "U4",
+    "translation": "他的家人",
+    "voiceUrl": "NewMiddleSchool/516_他的家人.mp3"
+  },
+  {
+    "id": "517_平安夜",
+    "pos": null,
+    "word": "Nochebuena",
+    "definition": "U4",
+    "translation": "平安夜",
+    "voiceUrl": "NewMiddleSchool/517_平安夜.mp3"
+  },
+  {
+    "id": "518_团聚",
+    "pos": null,
+    "word": "rueunirse",
+    "definition": "U4",
+    "translation": "团聚",
+    "voiceUrl": "NewMiddleSchool/518_团聚.mp3"
+  },
+  {
+    "id": "519_在周围大约",
+    "pos": null,
+    "word": "alrededor de",
+    "definition": "U4",
+    "translation": "在……周围，大约",
+    "voiceUrl": "NewMiddleSchool/519_在周围大约.mp3"
+  },
+  {
+    "id": "520_海鲜",
+    "pos": null,
+    "word": "marisco",
+    "definition": "U4",
+    "translation": "海鲜",
+    "voiceUrl": "NewMiddleSchool/520_海鲜.mp3"
+  },
+  {
+    "id": "521_火腿",
+    "pos": null,
+    "word": "jamón",
+    "definition": "U4",
+    "translation": "火腿",
+    "voiceUrl": "NewMiddleSchool/521_火腿.mp3"
+  },
+  {
+    "id": "522_奶酪",
+    "pos": null,
+    "word": "queso",
+    "definition": "U4",
+    "translation": "奶酪",
+    "voiceUrl": "NewMiddleSchool/522_奶酪.mp3"
+  },
+  {
+    "id": "523_杏仁糖",
+    "pos": null,
+    "word": "turrón",
+    "definition": "U4",
+    "translation": "杏仁糖",
+    "voiceUrl": "NewMiddleSchool/523_杏仁糖.mp3"
+  },
+  {
+    "id": "524_黄油酥饼",
+    "pos": null,
+    "word": "mazapán",
+    "definition": "U4",
+    "translation": "黄油酥饼",
+    "voiceUrl": "NewMiddleSchool/524_黄油酥饼.mp3"
+  },
+  {
+    "id": "525_面包圈",
+    "pos": null,
+    "word": "roscón",
+    "definition": "U4",
+    "translation": "面包圈",
+    "voiceUrl": "NewMiddleSchool/525_面包圈.mp3"
+  },
+  {
+    "id": "527_甜点甜的",
+    "pos": null,
+    "word": "dulce",
+    "definition": "U4",
+    "translation": "甜点，甜的",
+    "voiceUrl": "NewMiddleSchool/527_甜点甜的.mp3"
+  },
+  {
+    "id": "528_葡萄",
+    "pos": null,
+    "word": "uva",
+    "definition": "U4",
+    "translation": "葡萄",
+    "voiceUrl": "NewMiddleSchool/528_葡萄.mp3"
+  },
+  {
+    "id": "529_世界",
+    "pos": null,
+    "word": "mundo",
+    "definition": "U4",
+    "translation": "世界",
+    "voiceUrl": "NewMiddleSchool/529_世界.mp3"
+  },
+  {
+    "id": "530_所有人",
+    "pos": null,
+    "word": "todo el mundo",
+    "definition": "U4",
+    "translation": "所有人",
+    "voiceUrl": "NewMiddleSchool/530_所有人.mp3"
+  },
+  {
+    "id": "531_钟声",
+    "pos": null,
+    "word": "campanada",
+    "definition": "U4",
+    "translation": "钟声",
+    "voiceUrl": "NewMiddleSchool/531_钟声.mp3"
+  },
+  {
+    "id": "532_除夕",
+    "pos": null,
+    "word": "Nochevieja",
+    "definition": "U4",
+    "translation": "除夕",
+    "voiceUrl": "NewMiddleSchool/532_除夕.mp3"
+  },
+  {
+    "id": "533_和有关",
+    "pos": null,
+    "word": "tener...que ver con",
+    "definition": "U4",
+    "translation": "和……有关",
+    "voiceUrl": "NewMiddleSchool/533_和有关.mp3"
+  },
+  {
+    "id": "535_东方三博士",
+    "pos": null,
+    "word": "Reyes Magos",
+    "definition": "U4",
+    "translation": "东方三博士",
+    "voiceUrl": "NewMiddleSchool/535_东方三博士.mp3"
+  },
+  {
+    "id": "536_典型的",
+    "pos": null,
+    "word": "típico,a",
+    "definition": "U4",
+    "translation": "典型的",
+    "voiceUrl": "NewMiddleSchool/536_典型的.mp3"
+  },
+  {
+    "id": "537_商业的",
+    "pos": null,
+    "word": "comercial",
+    "definition": "U4",
+    "translation": "商业的",
+    "voiceUrl": "NewMiddleSchool/537_商业的.mp3"
+  },
+  {
+    "id": "539_礼物",
+    "pos": null,
+    "word": "regalo",
+    "definition": "U4",
+    "translation": "礼物",
+    "voiceUrl": "NewMiddleSchool/539_礼物.mp3"
+  },
+  {
+    "id": "540_平安电脑",
+    "pos": null,
+    "word": "tableta",
+    "definition": "U4",
+    "translation": "平安电脑",
+    "voiceUrl": "NewMiddleSchool/540_平安电脑.mp3"
+  },
+  {
+    "id": "541_无人机",
+    "pos": null,
+    "word": "dron",
+    "definition": "U4",
+    "translation": "无人机",
+    "voiceUrl": "NewMiddleSchool/541_无人机.mp3"
+  },
+  {
+    "id": "542_机灵的",
+    "pos": null,
+    "word": "listo,a",
+    "definition": "U4",
+    "translation": "机灵的",
+    "voiceUrl": "NewMiddleSchool/542_机灵的.mp3"
+  },
+  {
+    "id": "543_猜想",
+    "pos": null,
+    "word": "sospechar",
+    "definition": "U4",
+    "translation": "猜想",
+    "voiceUrl": "NewMiddleSchool/543_猜想.mp3"
+  },
+  {
+    "id": "544_一无所知没有主意",
+    "pos": null,
+    "word": "no tener ni idea",
+    "definition": "U4",
+    "translation": "一无所知，没有主意",
+    "voiceUrl": "NewMiddleSchool/544_一无所知没有主意.mp3"
+  },
+  {
+    "id": "546_酒杯高脚杯",
+    "pos": null,
+    "word": "copa",
+    "definition": "U4",
+    "translation": "酒杯，高脚杯",
+    "voiceUrl": "NewMiddleSchool/546_酒杯高脚杯.mp3"
+  },
+  {
+    "id": "547_玉米",
+    "pos": null,
+    "word": "maíz",
+    "definition": "U4",
+    "translation": "玉米",
+    "voiceUrl": "NewMiddleSchool/547_玉米.mp3"
+  },
+  {
+    "id": "549_墨西哥玉米卷",
+    "pos": null,
+    "word": "taco",
+    "definition": "U4",
+    "translation": "墨西哥玉米卷",
+    "voiceUrl": "NewMiddleSchool/549_墨西哥玉米卷.mp3"
+  },
+  {
+    "id": "550_瓷杯",
+    "pos": null,
+    "word": "taza",
+    "definition": "U4",
+    "translation": "瓷杯",
+    "voiceUrl": "NewMiddleSchool/550_瓷杯.mp3"
+  },
+  {
+    "id": "556_日历",
+    "pos": null,
+    "word": "calendario",
+    "definition": "U4",
+    "translation": "日历",
+    "voiceUrl": "NewMiddleSchool/556_日历.mp3"
+  },
+  {
+    "id": "557_传统的",
+    "pos": null,
+    "word": "tradicional",
+    "definition": "U4",
+    "translation": "传统的",
+    "voiceUrl": "NewMiddleSchool/557_传统的.mp3"
+  },
+  {
+    "id": "558_通常",
+    "pos": null,
+    "word": "generalmente",
+    "definition": "U4",
+    "translation": "通常",
+    "voiceUrl": "NewMiddleSchool/558_通常.mp3"
+  },
+  {
+    "id": "559_在末期",
+    "pos": null,
+    "word": "a finales de",
+    "definition": "U4",
+    "translation": "在……末期",
+    "voiceUrl": "NewMiddleSchool/559_在末期.mp3"
+  },
+  {
+    "id": "560_在初期",
+    "pos": null,
+    "word": "a principios de（a comienzos de）",
+    "definition": "U4",
+    "translation": "在……初期",
+    "voiceUrl": "NewMiddleSchool/560_在初期.mp3"
+  },
+  {
+    "id": "561_结束",
+    "pos": null,
+    "word": "terminar",
+    "definition": "U4",
+    "translation": "结束",
+    "voiceUrl": "NewMiddleSchool/561_结束.mp3"
+  },
+  {
+    "id": "562_元宵节",
+    "pos": null,
+    "word": "Fiesta de los Faroles",
+    "definition": "U4",
+    "translation": "元宵节",
+    "voiceUrl": "NewMiddleSchool/562_元宵节.mp3"
+  },
+  {
+    "id": "563_花灯灯笼",
+    "pos": null,
+    "word": "farol",
+    "definition": "U4",
+    "translation": "花灯，灯笼",
+    "voiceUrl": "NewMiddleSchool/563_花灯灯笼.mp3"
+  },
+  {
+    "id": "564_据说",
+    "pos": null,
+    "word": "según dicen",
+    "definition": "U4",
+    "translation": "据说",
+    "voiceUrl": "NewMiddleSchool/564_据说.mp3"
+  },
+  {
+    "id": "566_美味的有钱的",
+    "pos": null,
+    "word": "rico,a",
+    "definition": "U4",
+    "translation": "美味的，有钱的",
+    "voiceUrl": "NewMiddleSchool/566_美味的有钱的.mp3"
+  },
+  {
+    "id": "568_前夕前夜",
+    "pos": null,
+    "word": "víspera",
+    "definition": "U4",
+    "translation": "前夕，前夜",
+    "voiceUrl": "NewMiddleSchool/568_前夕前夜.mp3"
+  },
+  {
+    "id": "569_多样的",
+    "pos": null,
+    "word": "variado,da",
+    "definition": "U4",
+    "translation": "多样的",
+    "voiceUrl": "NewMiddleSchool/569_多样的.mp3"
+  },
+  {
+    "id": "570_十二个一打",
+    "pos": null,
+    "word": "docena",
+    "definition": "U4",
+    "translation": "十二个，一打",
+    "voiceUrl": "NewMiddleSchool/570_十二个一打.mp3"
+  },
+  {
+    "id": "571_鸭子",
+    "pos": null,
+    "word": "pato,a",
+    "definition": "U4",
+    "translation": "鸭子",
+    "voiceUrl": "NewMiddleSchool/571_鸭子.mp3"
+  },
+  {
+    "id": "572_鸡肉",
+    "pos": null,
+    "word": "pollo",
+    "definition": "U4",
+    "translation": "鸡肉",
+    "voiceUrl": "NewMiddleSchool/572_鸡肉.mp3"
+  },
+  {
+    "id": "573_元宵",
+    "pos": null,
+    "word": "bola de arroz alutinoso",
+    "definition": "U4",
+    "translation": "元宵",
+    "voiceUrl": "NewMiddleSchool/573_元宵.mp3"
+  },
+  {
+    "id": "574_饺子",
+    "pos": null,
+    "word": "ravioli",
+    "definition": "U4",
+    "translation": "饺子",
+    "voiceUrl": "NewMiddleSchool/574_饺子.mp3"
+  },
+  {
+    "id": "575_真正的",
+    "pos": null,
+    "word": "verdadero,a",
+    "definition": "U4",
+    "translation": "真正的",
+    "voiceUrl": "NewMiddleSchool/575_真正的.mp3"
+  },
+  {
+    "id": "576_宴会",
+    "pos": null,
+    "word": "banquete",
+    "definition": "U4",
+    "translation": "宴会",
+    "voiceUrl": "NewMiddleSchool/576_宴会.mp3"
+  },
+  {
+    "id": "577_更好",
+    "pos": null,
+    "word": "mejor",
+    "definition": "U4",
+    "translation": "更好",
+    "voiceUrl": "NewMiddleSchool/577_更好.mp3"
+  },
+  {
+    "id": "578_盛大晚宴",
+    "pos": null,
+    "word": "cena de gala",
+    "definition": "U4",
+    "translation": "盛大晚宴",
+    "voiceUrl": "NewMiddleSchool/578_盛大晚宴.mp3"
+  },
+  {
+    "id": "580_王室的",
+    "pos": null,
+    "word": "real",
+    "definition": "U4",
+    "translation": "王室的",
+    "voiceUrl": "NewMiddleSchool/580_王室的.mp3"
+  },
+  {
+    "id": "582_信封",
+    "pos": null,
+    "word": "sobresaliente",
+    "definition": "U4",
+    "translation": "信封",
+    "voiceUrl": "NewMiddleSchool/582_信封.mp3"
+  },
+  {
+    "id": "584_真的",
+    "pos": null,
+    "word": "¿En serio?",
+    "definition": "U4",
+    "translation": "真的？",
+    "voiceUrl": "NewMiddleSchool/584_真的.mp3"
+  },
+  {
+    "id": "586_传统习俗",
+    "pos": null,
+    "word": "tradición ",
+    "definition": "U4",
+    "translation": "传统，习俗",
+    "voiceUrl": "NewMiddleSchool/586_传统习俗.mp3"
+  },
+  {
+    "id": "587_细节小心意",
+    "pos": null,
+    "word": "detalle",
+    "definition": "U4",
+    "translation": "细节，小心意",
+    "voiceUrl": "NewMiddleSchool/587_细节小心意.mp3"
+  },
+  {
+    "id": "588_三鲜炒饭",
+    "pos": null,
+    "word": "arroz frito tres delicias",
+    "definition": "U4",
+    "translation": "三鲜炒饭",
+    "voiceUrl": "NewMiddleSchool/588_三鲜炒饭.mp3"
+  },
+  {
+    "id": "589_曾祖父母",
+    "pos": null,
+    "word": "bisabuelo,a",
+    "definition": "U4",
+    "translation": "曾祖父母",
+    "voiceUrl": "NewMiddleSchool/589_曾祖父母.mp3"
+  },
+  {
+    "id": "591_坏的",
+    "pos": null,
+    "word": "malo,a",
+    "definition": "U4",
+    "translation": "坏的",
+    "voiceUrl": "NewMiddleSchool/591_坏的.mp3"
+  },
+  {
+    "id": "592_更糟的",
+    "pos": null,
+    "word": "peor",
+    "definition": "U4",
+    "translation": "更糟的",
+    "voiceUrl": "NewMiddleSchool/592_更糟的.mp3"
+  },
+  {
+    "id": "593_面条",
+    "pos": null,
+    "word": "tallarín",
+    "definition": "U4",
+    "translation": "面条",
+    "voiceUrl": "NewMiddleSchool/593_面条.mp3"
+  },
+  {
+    "id": "597_酸奶",
+    "pos": null,
+    "word": "yogur",
+    "definition": "U4",
+    "translation": "酸奶",
+    "voiceUrl": "NewMiddleSchool/597_酸奶.mp3"
+  },
+  {
+    "id": "599_改进改善",
+    "pos": null,
+    "word": "mejorar",
+    "definition": "U5",
+    "translation": "改进，改善",
+    "voiceUrl": "NewMiddleSchool/599_改进改善.mp3"
+  },
+  {
+    "id": "602_萨拉曼卡",
+    "pos": null,
+    "word": "Salamanca",
+    "definition": "U5",
+    "translation": "萨拉曼卡",
+    "voiceUrl": "NewMiddleSchool/602_萨拉曼卡.mp3"
+  },
+  {
+    "id": "603_马德里",
+    "pos": null,
+    "word": "Madrid",
+    "definition": "U5",
+    "translation": "马德里",
+    "voiceUrl": "NewMiddleSchool/603_马德里.mp3"
+  },
+  {
+    "id": "605_私人的个人的",
+    "pos": null,
+    "word": "privado,da",
+    "definition": "U5",
+    "translation": "私人的，个人的",
+    "voiceUrl": "NewMiddleSchool/605_私人的个人的.mp3"
+  },
+  {
+    "id": "606_一些几个大约",
+    "pos": null,
+    "word": "unos,nas",
+    "definition": "U5",
+    "translation": "一些，几个；大约",
+    "voiceUrl": "NewMiddleSchool/606_一些几个大约.mp3"
+  },
+  {
+    "id": "607_咱们走吧",
+    "pos": null,
+    "word": "¿Nos vamos ya?",
+    "definition": "U5",
+    "translation": "咱们走吧？",
+    "voiceUrl": "NewMiddleSchool/607_咱们走吧.mp3"
+  },
+  {
+    "id": "609_你还记得吧",
+    "pos": null,
+    "word": "¿Te recuerdas de...",
+    "definition": "U5",
+    "translation": "你还记得...吧？",
+    "voiceUrl": "NewMiddleSchool/609_你还记得吧.mp3"
+  },
+  {
+    "id": "610_准确的确切的",
+    "pos": null,
+    "word": "exacto,ta",
+    "definition": "U5",
+    "translation": "准确的；确切的",
+    "voiceUrl": "NewMiddleSchool/610_准确的确切的.mp3"
+  },
+  {
+    "id": "612_当然",
+    "pos": null,
+    "word": "cómo no",
+    "definition": "U5",
+    "translation": "当然",
+    "voiceUrl": "NewMiddleSchool/612_当然.mp3"
+  },
+  {
+    "id": "614_礼堂多功能厅",
+    "pos": null,
+    "word": "salón de actos",
+    "definition": "U5",
+    "translation": "礼堂；多功能厅",
+    "voiceUrl": "NewMiddleSchool/614_礼堂多功能厅.mp3"
+  },
+  {
+    "id": "616_保持某种状态",
+    "pos": null,
+    "word": "quedar",
+    "definition": "U5",
+    "translation": "保持（某种状态）",
+    "voiceUrl": "NewMiddleSchool/616_保持某种状态.mp3"
+  },
+  {
+    "id": "617_干净的",
+    "pos": null,
+    "word": "limpio,pia",
+    "definition": "U5",
+    "translation": "干净的",
+    "voiceUrl": "NewMiddleSchool/617_干净的.mp3"
+  },
+  {
+    "id": "618_整齐的",
+    "pos": null,
+    "word": "ordenado,da",
+    "definition": "U5",
+    "translation": "整齐的",
+    "voiceUrl": "NewMiddleSchool/618_整齐的.mp3"
+  },
+  {
+    "id": "619_请您放心",
+    "pos": null,
+    "word": "no se preocupe",
+    "definition": "U5",
+    "translation": "请您放心",
+    "voiceUrl": "NewMiddleSchool/619_请您放心.mp3"
+  },
+  {
+    "id": "620_他它您宾格代词",
+    "pos": null,
+    "word": "lo",
+    "definition": "U5",
+    "translation": "他，它，您（宾格代词）",
+    "voiceUrl": "NewMiddleSchool/620_他它您宾格代词.mp3"
+  },
+  {
+    "id": "623_如同一样像",
+    "pos": null,
+    "word": "como ",
+    "definition": "U5",
+    "translation": "如同...一样；像...",
+    "voiceUrl": "NewMiddleSchool/623_如同一样像.mp3"
+  },
+  {
+    "id": "624_饮料",
+    "pos": null,
+    "word": "bebida",
+    "definition": "U5",
+    "translation": "饮料",
+    "voiceUrl": "NewMiddleSchool/624_饮料.mp3"
+  },
+  {
+    "id": "626_班长首领上司",
+    "pos": null,
+    "word": "jefe,fa",
+    "definition": "U5",
+    "translation": "班长；首领；上司",
+    "voiceUrl": "NewMiddleSchool/626_班长首领上司.mp3"
+  },
+  {
+    "id": "629_大蛋糕",
+    "pos": null,
+    "word": "tarta",
+    "definition": "U5",
+    "translation": "大蛋糕",
+    "voiceUrl": "NewMiddleSchool/629_大蛋糕.mp3"
+  },
+  {
+    "id": "631_巧克力",
+    "pos": null,
+    "word": "chocolate",
+    "definition": "U5",
+    "translation": "巧克力",
+    "voiceUrl": "NewMiddleSchool/631_巧克力.mp3"
+  },
+  {
+    "id": "632_我们与格代词",
+    "pos": null,
+    "word": "nos",
+    "definition": "U5",
+    "translation": "我们（与格代词）",
+    "voiceUrl": "NewMiddleSchool/632_我们与格代词.mp3"
+  },
+  {
+    "id": "635_当然",
+    "pos": null,
+    "word": "claro que sí",
+    "definition": "U5",
+    "translation": "当然",
+    "voiceUrl": "NewMiddleSchool/635_当然.mp3"
+  },
+  {
+    "id": "636_一起做",
+    "pos": null,
+    "word": "junto,ta",
+    "definition": "U5",
+    "translation": "一起（做）",
+    "voiceUrl": "NewMiddleSchool/636_一起做.mp3"
+  },
+  {
+    "id": "638_行吗可以吗",
+    "pos": null,
+    "word": "¿De acuerdo?",
+    "definition": "U5",
+    "translation": "行吗？可以吗？",
+    "voiceUrl": "NewMiddleSchool/638_行吗可以吗.mp3"
+  },
+  {
+    "id": "640_必需的必要的",
+    "pos": null,
+    "word": "necesario,ria",
+    "definition": "U5",
+    "translation": "必需的，必要的",
+    "voiceUrl": "NewMiddleSchool/640_必需的必要的.mp3"
+  },
+  {
+    "id": "641_奖品奖励",
+    "pos": null,
+    "word": "premio",
+    "definition": "U5",
+    "translation": "奖品；奖励",
+    "voiceUrl": "NewMiddleSchool/641_奖品奖励.mp3"
+  },
+  {
+    "id": "642_行吗可以吗",
+    "pos": null,
+    "word": "¿vale?",
+    "definition": "U5",
+    "translation": "行吗？可以吗？",
+    "voiceUrl": "NewMiddleSchool/642_行吗可以吗.mp3"
+  },
+  {
+    "id": "643_他们它们诸位宾格代词",
+    "pos": null,
+    "word": "los",
+    "definition": "U5",
+    "translation": "他们；它们；诸位（宾格代词）",
+    "voiceUrl": "NewMiddleSchool/643_他们它们诸位宾格代词.mp3"
+  },
+  {
+    "id": "644_你说",
+    "pos": null,
+    "word": "dime",
+    "definition": "U5",
+    "translation": "你说",
+    "voiceUrl": "NewMiddleSchool/644_你说.mp3"
+  },
+  {
+    "id": "645_我与格代词",
+    "pos": null,
+    "word": "me",
+    "definition": "U5",
+    "translation": "我（与格代词）",
+    "voiceUrl": "NewMiddleSchool/645_我与格代词.mp3"
+  },
+  {
+    "id": "648_你觉得怎么样",
+    "pos": null,
+    "word": "¿Qué te parece?",
+    "definition": "U5",
+    "translation": "你觉得怎么样？",
+    "voiceUrl": "NewMiddleSchool/648_你觉得怎么样.mp3"
+  },
+  {
+    "id": "649_留出剩下空间时间等",
+    "pos": null,
+    "word": "quedar",
+    "definition": "U5",
+    "translation": "留出，剩下（空间、时间等）",
+    "voiceUrl": "NewMiddleSchool/649_留出剩下空间时间等.mp3"
+  },
+  {
+    "id": "651_中间正中",
+    "pos": null,
+    "word": "medio",
+    "definition": "U5",
+    "translation": "中间，正中",
+    "voiceUrl": "NewMiddleSchool/651_中间正中.mp3"
+  },
+  {
+    "id": "655_球气球",
+    "pos": null,
+    "word": "globo",
+    "definition": "U5",
+    "translation": "球，气球",
+    "voiceUrl": "NewMiddleSchool/655_球气球.mp3"
+  },
+  {
+    "id": "656_粘贴",
+    "pos": null,
+    "word": "pegar",
+    "definition": "U5",
+    "translation": "粘贴",
+    "voiceUrl": "NewMiddleSchool/656_粘贴.mp3"
+  },
+  {
+    "id": "657_胶带",
+    "pos": null,
+    "word": "cinta adhesiva",
+    "definition": "U5",
+    "translation": "胶带",
+    "voiceUrl": "NewMiddleSchool/657_胶带.mp3"
+  },
+  {
+    "id": "659_好主意",
+    "pos": null,
+    "word": "buena idea",
+    "definition": "U5",
+    "translation": "好主意",
+    "voiceUrl": "NewMiddleSchool/659_好主意.mp3"
+  },
+  {
+    "id": "660_信息留言",
+    "pos": null,
+    "word": "mensaje",
+    "definition": "U5",
+    "translation": "信息；留言",
+    "voiceUrl": "NewMiddleSchool/660_信息留言.mp3"
+  },
+  {
+    "id": "661_愿望",
+    "pos": null,
+    "word": "deseo",
+    "definition": "U5",
+    "translation": "愿望",
+    "voiceUrl": "NewMiddleSchool/661_愿望.mp3"
+  },
+  {
+    "id": "662_极好的有天赋的",
+    "pos": null,
+    "word": "genial",
+    "definition": "U5",
+    "translation": "极好的；有天赋的",
+    "voiceUrl": "NewMiddleSchool/662_极好的有天赋的.mp3"
+  },
+  {
+    "id": "663_歌歌曲",
+    "pos": null,
+    "word": "canción",
+    "definition": "U5",
+    "translation": "歌，歌曲",
+    "voiceUrl": "NewMiddleSchool/663_歌歌曲.mp3"
+  },
+  {
+    "id": "664_优盘",
+    "pos": null,
+    "word": "USB",
+    "definition": "U5",
+    "translation": "优盘",
+    "voiceUrl": "NewMiddleSchool/664_优盘.mp3"
+  },
+  {
+    "id": "665_连接使接通",
+    "pos": null,
+    "word": "conectar",
+    "definition": "U5",
+    "translation": "连接；使接通",
+    "voiceUrl": "NewMiddleSchool/665_连接使接通.mp3"
+  },
+  {
+    "id": "666_笔记本电脑",
+    "pos": null,
+    "word": "portátil",
+    "definition": "U5",
+    "translation": "笔记本电脑",
+    "voiceUrl": "NewMiddleSchool/666_笔记本电脑.mp3"
+  },
+  {
+    "id": "667_他她它您与格代词",
+    "pos": null,
+    "word": "le",
+    "definition": "U5",
+    "translation": "他；她；它；您（与格代词）",
+    "voiceUrl": "NewMiddleSchool/667_他她它您与格代词.mp3"
+  },
+  {
+    "id": "668_流行音乐",
+    "pos": null,
+    "word": "música pop",
+    "definition": "U5",
+    "translation": "流行音乐",
+    "voiceUrl": "NewMiddleSchool/668_流行音乐.mp3"
+  },
+  {
+    "id": "671_你放心",
+    "pos": null,
+    "word": "no te preocupes",
+    "definition": "U5",
+    "translation": "你放心",
+    "voiceUrl": "NewMiddleSchool/671_你放心.mp3"
+  },
+  {
+    "id": "672_去取去找",
+    "pos": null,
+    "word": "ir por",
+    "definition": "U5",
+    "translation": "去取...；去找...",
+    "voiceUrl": "NewMiddleSchool/672_去取去找.mp3"
+  },
+  {
+    "id": "674_你们与格代词",
+    "pos": null,
+    "word": "os",
+    "definition": "U5",
+    "translation": "你们（与格代词）",
+    "voiceUrl": "NewMiddleSchool/674_你们与格代词.mp3"
+  },
+  {
+    "id": "678_漂亮极了",
+    "pos": null,
+    "word": "guapísimo,ma",
+    "definition": "U5",
+    "translation": "漂亮极了",
+    "voiceUrl": "NewMiddleSchool/678_漂亮极了.mp3"
+  },
+  {
+    "id": "679_芭比娃娃",
+    "pos": null,
+    "word": "Barbie",
+    "definition": "U5",
+    "translation": "芭比娃娃",
+    "voiceUrl": "NewMiddleSchool/679_芭比娃娃.mp3"
+  },
+  {
+    "id": "680_骄傲的自豪的",
+    "pos": null,
+    "word": "orgulloso,sa",
+    "definition": "U5",
+    "translation": "骄傲的；自豪的",
+    "voiceUrl": "NewMiddleSchool/680_骄傲的自豪的.mp3"
+  },
+  {
+    "id": "682_独立的",
+    "pos": null,
+    "word": "independiente",
+    "definition": "U5",
+    "translation": "独立的",
+    "voiceUrl": "NewMiddleSchool/682_独立的.mp3"
+  },
+  {
+    "id": "684_腼腆的",
+    "pos": null,
+    "word": "tímido,da",
+    "definition": "U5",
+    "translation": "腼腆的",
+    "voiceUrl": "NewMiddleSchool/684_腼腆的.mp3"
+  },
+  {
+    "id": "685_勤奋好学的",
+    "pos": null,
+    "word": "estudioso,sa",
+    "definition": "U5",
+    "translation": "勤奋好学的",
+    "voiceUrl": "NewMiddleSchool/685_勤奋好学的.mp3"
+  },
+  {
+    "id": "687_什么都知道什么都懂",
+    "pos": null,
+    "word": "saber de todo",
+    "definition": "U5",
+    "translation": "什么都知道，什么都懂",
+    "voiceUrl": "NewMiddleSchool/687_什么都知道什么都懂.mp3"
+  },
+  {
+    "id": "689_正在谈论",
+    "pos": null,
+    "word": "estar hablando de",
+    "definition": "U5",
+    "translation": "正在谈论...",
+    "voiceUrl": "NewMiddleSchool/689_正在谈论.mp3"
+  },
+  {
+    "id": "690_没事不要紧",
+    "pos": null,
+    "word": "no pasa nada",
+    "definition": "U5",
+    "translation": "没事，不要紧",
+    "voiceUrl": "NewMiddleSchool/690_没事不要紧.mp3"
+  },
+  {
+    "id": "691_慷慨大方的宽宏大量的",
+    "pos": null,
+    "word": "generoso,sa",
+    "definition": "U5",
+    "translation": "慷慨大方的；宽宏大量的",
+    "voiceUrl": "NewMiddleSchool/691_慷慨大方的宽宏大量的.mp3"
+  },
+  {
+    "id": "692_浪漫的",
+    "pos": null,
+    "word": "romántico,ca",
+    "definition": "U5",
+    "translation": "浪漫的",
+    "voiceUrl": "NewMiddleSchool/692_浪漫的.mp3"
+  },
+  {
+    "id": "693_认真负责的",
+    "pos": null,
+    "word": "responsable",
+    "definition": "U5",
+    "translation": "认真负责的",
+    "voiceUrl": "NewMiddleSchool/693_认真负责的.mp3"
+  },
+  {
+    "id": "694_痴迷着魔",
+    "pos": null,
+    "word": "obsesionado,da",
+    "definition": "U5",
+    "translation": "痴迷；着魔",
+    "voiceUrl": "NewMiddleSchool/694_痴迷着魔.mp3"
+  },
+  {
+    "id": "696_那",
+    "pos": null,
+    "word": "aquello",
+    "definition": "U5",
+    "translation": "那",
+    "voiceUrl": "NewMiddleSchool/696_那.mp3"
+  },
+  {
+    "id": "698_约定商定",
+    "pos": null,
+    "word": "quedar",
+    "definition": "U6",
+    "translation": "约定，商定",
+    "voiceUrl": "NewMiddleSchool/698_约定商定.mp3"
+  },
+  {
+    "id": "699_片刻一会儿时刻时候",
+    "pos": null,
+    "word": "momento",
+    "definition": "U6",
+    "translation": "片刻；一会儿；时刻；时候",
+    "voiceUrl": "NewMiddleSchool/699_片刻一会儿时刻时候.mp3"
+  },
+  {
+    "id": "700_他马上就来听电话",
+    "pos": null,
+    "word": "ahora se pone",
+    "definition": "U6",
+    "translation": "他马上就来（听电话）",
+    "voiceUrl": "NewMiddleSchool/700_他马上就来听电话.mp3"
+  },
+  {
+    "id": "701_咱们见面好吗",
+    "pos": null,
+    "word": "¿Nos vemos...?",
+    "definition": "U6",
+    "translation": "咱们...见面，好吗？",
+    "voiceUrl": "NewMiddleSchool/701_咱们见面好吗.mp3"
+  },
+  {
+    "id": "702_电子游戏",
+    "pos": null,
+    "word": "videojuego",
+    "definition": "U6",
+    "translation": "电子游戏",
+    "voiceUrl": "NewMiddleSchool/702_电子游戏.mp3"
+  },
+  {
+    "id": "706_科学",
+    "pos": null,
+    "word": "ciencia",
+    "definition": "U6",
+    "translation": "科学",
+    "voiceUrl": "NewMiddleSchool/706_科学.mp3"
+  },
+  {
+    "id": "707_科技",
+    "pos": null,
+    "word": "tecnología",
+    "definition": "U6",
+    "translation": "科技",
+    "voiceUrl": "NewMiddleSchool/707_科技.mp3"
+  },
+  {
+    "id": "709_那",
+    "pos": null,
+    "word": "eso",
+    "definition": "U6",
+    "translation": "那",
+    "voiceUrl": "NewMiddleSchool/709_那.mp3"
+  },
+  {
+    "id": "711_连环漫画",
+    "pos": null,
+    "word": "cómic",
+    "definition": "U6",
+    "translation": "连环漫画",
+    "voiceUrl": "NewMiddleSchool/711_连环漫画.mp3"
+  },
+  {
+    "id": "716_后天",
+    "pos": null,
+    "word": "pasado mañana",
+    "definition": "U6",
+    "translation": "后天",
+    "voiceUrl": "NewMiddleSchool/716_后天.mp3"
+  },
+  {
+    "id": "717_卡洛斯男子名",
+    "pos": null,
+    "word": "Carlos",
+    "definition": "U6",
+    "translation": "卡洛斯（男子名）",
+    "voiceUrl": "NewMiddleSchool/717_卡洛斯男子名.mp3"
+  },
+  {
+    "id": "718_哈维男子名Javier的昵称",
+    "pos": null,
+    "word": "Javi",
+    "definition": "U6",
+    "translation": "哈维（男子名，Javier的昵称）",
+    "voiceUrl": "NewMiddleSchool/718_哈维男子名Javier的昵称.mp3"
+  },
+  {
+    "id": "720_大量的海量的",
+    "pos": null,
+    "word": "un mar de",
+    "definition": "U6",
+    "translation": "大量的，海量的",
+    "voiceUrl": "NewMiddleSchool/720_大量的海量的.mp3"
+  },
+  {
+    "id": "724_处在两个节假日之间的连带假日",
+    "pos": null,
+    "word": "puente",
+    "definition": "U6",
+    "translation": "（处在两个节假日之间的）连带假日",
+    "voiceUrl": "NewMiddleSchool/724_处在两个节假日之间的连带假日.mp3"
+  },
+  {
+    "id": "725_自在地惬意地",
+    "pos": null,
+    "word": "a gusto",
+    "definition": "U6",
+    "translation": "自在地，惬意地",
+    "voiceUrl": "NewMiddleSchool/725_自在地惬意地.mp3"
+  },
+  {
+    "id": "726_和相处得好",
+    "pos": null,
+    "word": "llevarse bien con...",
+    "definition": "U6",
+    "translation": "和...相处得好",
+    "voiceUrl": "NewMiddleSchool/726_和相处得好.mp3"
+  },
+  {
+    "id": "727_中国的长城",
+    "pos": null,
+    "word": "Gran Muralla",
+    "definition": "U6",
+    "translation": "（中国的）长城",
+    "voiceUrl": "NewMiddleSchool/727_中国的长城.mp3"
+  },
+  {
+    "id": "729_大堆大量许多",
+    "pos": null,
+    "word": "montón",
+    "definition": "U6",
+    "translation": "大堆，大量，许多",
+    "voiceUrl": "NewMiddleSchool/729_大堆大量许多.mp3"
+  },
+  {
+    "id": "730_批改纠正改正",
+    "pos": null,
+    "word": "corregir",
+    "definition": "U6",
+    "translation": "批改；纠正；改正",
+    "voiceUrl": "NewMiddleSchool/730_批改纠正改正.mp3"
+  },
+  {
+    "id": "732_里约热内卢巴西第二大城市",
+    "pos": null,
+    "word": "Río de Janeiro",
+    "definition": "U6",
+    "translation": "里约热内卢（巴西第二大城市）",
+    "voiceUrl": "NewMiddleSchool/732_里约热内卢巴西第二大城市.mp3"
+  },
+  {
+    "id": "733_去在度假",
+    "pos": null,
+    "word": "ir/estar de vacaciones",
+    "definition": "U6",
+    "translation": "去/在度假",
+    "voiceUrl": "NewMiddleSchool/733_去在度假.mp3"
+  },
+  {
+    "id": "734_开心愉悦",
+    "pos": null,
+    "word": "divertido",
+    "definition": "U6",
+    "translation": "开心，愉悦",
+    "voiceUrl": "NewMiddleSchool/734_开心愉悦.mp3"
+  },
+  {
+    "id": "737_简单的",
+    "pos": null,
+    "word": "sencillo,lla",
+    "definition": "U6",
+    "translation": "简单的",
+    "voiceUrl": "NewMiddleSchool/737_简单的.mp3"
+  },
+  {
+    "id": "738_转一圈散步",
+    "pos": null,
+    "word": "dar una vuelta",
+    "definition": "U6",
+    "translation": "转一圈；散步",
+    "voiceUrl": "NewMiddleSchool/738_转一圈散步.mp3"
+  },
+  {
+    "id": "739_街区",
+    "pos": null,
+    "word": "barrio",
+    "definition": "U6",
+    "translation": "街区",
+    "voiceUrl": "NewMiddleSchool/739_街区.mp3"
+  },
+  {
+    "id": "740_海滩沙滩",
+    "pos": null,
+    "word": "playa",
+    "definition": "U6",
+    "translation": "海滩，沙滩",
+    "voiceUrl": "NewMiddleSchool/740_海滩沙滩.mp3"
+  },
+  {
+    "id": "742_大海",
+    "pos": null,
+    "word": "mar",
+    "definition": "U6",
+    "translation": "大海",
+    "voiceUrl": "NewMiddleSchool/742_大海.mp3"
+  },
+  {
+    "id": "743_半夜",
+    "pos": null,
+    "word": "a media noche",
+    "definition": "U6",
+    "translation": "半夜",
+    "voiceUrl": "NewMiddleSchool/743_半夜.mp3"
+  },
+  {
+    "id": "745_感到厌倦觉得无聊",
+    "pos": null,
+    "word": "aburrirse",
+    "definition": "U6",
+    "translation": "感到厌倦，觉得无聊",
+    "voiceUrl": "NewMiddleSchool/745_感到厌倦觉得无聊.mp3"
+  },
+  {
+    "id": "747_采访者访谈者",
+    "pos": null,
+    "word": "entrevistador,ra",
+    "definition": "U6",
+    "translation": "采访者，访谈者",
+    "voiceUrl": "NewMiddleSchool/747_采访者访谈者.mp3"
+  },
+  {
+    "id": "748_我可以",
+    "pos": null,
+    "word": "podría",
+    "definition": "U6",
+    "translation": "（我）可以",
+    "voiceUrl": "NewMiddleSchool/748_我可以.mp3"
+  },
+  {
+    "id": "749_调查问卷民意调查",
+    "pos": null,
+    "word": "encuesta",
+    "definition": "U6",
+    "translation": "调查问卷；民意调查",
+    "voiceUrl": "NewMiddleSchool/749_调查问卷民意调查.mp3"
+  },
+  {
+    "id": "751_某人物",
+    "pos": null,
+    "word": "alguno,na",
+    "definition": "U6",
+    "translation": "某（人，物）",
+    "voiceUrl": "NewMiddleSchool/751_某人物.mp3"
+  },
+  {
+    "id": "752_从不从未",
+    "pos": null,
+    "word": "nunca",
+    "definition": "U6",
+    "translation": "从不，从未",
+    "voiceUrl": "NewMiddleSchool/752_从不从未.mp3"
+  },
+  {
+    "id": "753_羽毛球",
+    "pos": null,
+    "word": "bádminton",
+    "definition": "U6",
+    "translation": "羽毛球",
+    "voiceUrl": "NewMiddleSchool/753_羽毛球.mp3"
+  },
+  {
+    "id": "754_游泳",
+    "pos": null,
+    "word": "natación",
+    "definition": "U6",
+    "translation": "游泳",
+    "voiceUrl": "NewMiddleSchool/754_游泳.mp3"
+  },
+  {
+    "id": "755_每周次",
+    "pos": null,
+    "word": "...vez/veces a la semana",
+    "definition": "U6",
+    "translation": "每周...次",
+    "voiceUrl": "NewMiddleSchool/755_每周次.mp3"
+  },
+  {
+    "id": "756_您看",
+    "pos": null,
+    "word": "mire",
+    "definition": "U6",
+    "translation": "（您）看",
+    "voiceUrl": "NewMiddleSchool/756_您看.mp3"
+  },
+  {
+    "id": "759_照料照管",
+    "pos": null,
+    "word": "cuidar",
+    "definition": "U6",
+    "translation": "照料，照管",
+    "voiceUrl": "NewMiddleSchool/759_照料照管.mp3"
+  },
+  {
+    "id": "760_有时偶尔",
+    "pos": null,
+    "word": "de vez en cuando",
+    "definition": "U6",
+    "translation": "有时，偶尔",
+    "voiceUrl": "NewMiddleSchool/760_有时偶尔.mp3"
+  },
+  {
+    "id": "761_小动物animal 的指小词",
+    "pos": null,
+    "word": "animalito",
+    "definition": "U6",
+    "translation": "小动物（animal 的指小词）",
+    "voiceUrl": "NewMiddleSchool/761_小动物animal 的指小词.mp3"
+  },
+  {
+    "id": "762_宠物",
+    "pos": null,
+    "word": "mascota",
+    "definition": "U6",
+    "translation": "宠物",
+    "voiceUrl": "NewMiddleSchool/762_宠物.mp3"
+  },
+  {
+    "id": "763_有时",
+    "pos": null,
+    "word": " a veces",
+    "definition": "U6",
+    "translation": "有时",
+    "voiceUrl": "NewMiddleSchool/763_有时.mp3"
+  },
+  {
+    "id": "764_学生的作业",
+    "pos": null,
+    "word": "deberes",
+    "definition": "U6",
+    "translation": "（学生的）作业",
+    "voiceUrl": "NewMiddleSchool/764_学生的作业.mp3"
+  },
+  {
+    "id": "765_收拾使整洁",
+    "pos": null,
+    "word": "arreglar",
+    "definition": "U6",
+    "translation": "收拾，使整洁",
+    "voiceUrl": "NewMiddleSchool/765_收拾使整洁.mp3"
+  },
+  {
+    "id": "766_数学matemáticas简写形式",
+    "pos": null,
+    "word": "mates",
+    "definition": "U6",
+    "translation": "数学（matemáticas简写形式）",
+    "voiceUrl": "NewMiddleSchool/766_数学matemáticas简写形式.mp3"
+  },
+  {
+    "id": "767_火星",
+    "pos": null,
+    "word": "Marte",
+    "definition": "U6",
+    "translation": "火星",
+    "voiceUrl": "NewMiddleSchool/767_火星.mp3"
+  },
+  {
+    "id": "769_说明自己的想法感受等解释",
+    "pos": null,
+    "word": "explicar（se）",
+    "definition": "U6",
+    "translation": "说明（自己的想法、感受等）；解释",
+    "voiceUrl": "NewMiddleSchool/769_说明自己的想法感受等解释.mp3"
+  },
+  {
+    "id": "770_百科全书",
+    "pos": null,
+    "word": "enciclopedia",
+    "definition": "U6",
+    "translation": "百科全书",
+    "voiceUrl": "NewMiddleSchool/770_百科全书.mp3"
+  },
+  {
+    "id": "771_躺着",
+    "pos": null,
+    "word": "tumbado,da",
+    "definition": "U6",
+    "translation": "躺着",
+    "voiceUrl": "NewMiddleSchool/771_躺着.mp3"
+  },
+  {
+    "id": "772_厌恶不喜欢",
+    "pos": null,
+    "word": "odiar",
+    "definition": "U6",
+    "translation": "厌恶；不喜欢",
+    "voiceUrl": "NewMiddleSchool/772_厌恶不喜欢.mp3"
+  },
+  {
+    "id": "773_宇航员",
+    "pos": null,
+    "word": "astronauta",
+    "definition": "U6",
+    "translation": "宇航员",
+    "voiceUrl": "NewMiddleSchool/773_宇航员.mp3"
+  },
+  {
+    "id": "774_梦想渴望",
+    "pos": null,
+    "word": "soñar con",
+    "definition": "U6",
+    "translation": "梦想；渴望",
+    "voiceUrl": "NewMiddleSchool/774_梦想渴望.mp3"
+  },
+  {
+    "id": "775_访问看望",
+    "pos": null,
+    "word": "visitar",
+    "definition": "U6",
+    "translation": "访问；看望",
+    "voiceUrl": "NewMiddleSchool/775_访问看望.mp3"
+  },
+  {
+    "id": "776_外星的外星人",
+    "pos": null,
+    "word": "extraterrestre",
+    "definition": "U6",
+    "translation": "外星的，外星人",
+    "voiceUrl": "NewMiddleSchool/776_外星的外星人.mp3"
+  },
+  {
+    "id": "777_天文学",
+    "pos": null,
+    "word": "astronomía",
+    "definition": "U6",
+    "translation": "天文学",
+    "voiceUrl": "NewMiddleSchool/777_天文学.mp3"
+  },
+  {
+    "id": "778_信息学计算机科学",
+    "pos": null,
+    "word": "informática",
+    "definition": "U6",
+    "translation": "信息学，计算机科学",
+    "voiceUrl": "NewMiddleSchool/778_信息学计算机科学.mp3"
+  },
+  {
+    "id": "779_建造",
+    "pos": null,
+    "word": "levantar",
+    "definition": "U6",
+    "translation": "建造",
+    "voiceUrl": "NewMiddleSchool/779_建造.mp3"
+  },
+  {
+    "id": "780_摩天大楼",
+    "pos": null,
+    "word": "rascacielos",
+    "definition": "U6",
+    "translation": "摩天大楼",
+    "voiceUrl": "NewMiddleSchool/780_摩天大楼.mp3"
+  },
+  {
+    "id": "781_让坐下坐下",
+    "pos": null,
+    "word": "sentar（se）",
+    "definition": "U6",
+    "translation": "让...坐下；坐下",
+    "voiceUrl": "NewMiddleSchool/781_让坐下坐下.mp3"
+  },
+  {
+    "id": "782_基础",
+    "pos": null,
+    "word": "base",
+    "definition": "U6",
+    "translation": "基础",
+    "voiceUrl": "NewMiddleSchool/782_基础.mp3"
+  },
+  {
+    "id": "785_报名注册",
+    "pos": null,
+    "word": "apuntarse",
+    "definition": "U6",
+    "translation": "报名；注册",
+    "voiceUrl": "NewMiddleSchool/785_报名注册.mp3"
+  },
+  {
+    "id": "786_暑期班",
+    "pos": null,
+    "word": "cursillo de verano",
+    "definition": "U6",
+    "translation": "暑期班",
+    "voiceUrl": "NewMiddleSchool/786_暑期班.mp3"
+  },
+  {
+    "id": "787_尝试试图",
+    "pos": null,
+    "word": "intentar",
+    "definition": "U6",
+    "translation": "尝试；试图",
+    "voiceUrl": "NewMiddleSchool/787_尝试试图.mp3"
+  },
+  {
+    "id": "789_小食",
+    "pos": null,
+    "word": "tapa",
+    "definition": "U7",
+    "translation": "小食",
+    "voiceUrl": "NewMiddleSchool/789_小食.mp3"
+  },
+  {
+    "id": "790_接电话喂",
+    "pos": null,
+    "word": "aló",
+    "definition": "U7",
+    "translation": "（接电话）喂",
+    "voiceUrl": "NewMiddleSchool/790_接电话喂.mp3"
+  },
+  {
+    "id": "792_很多极多",
+    "pos": null,
+    "word": "muchísimo",
+    "definition": "U7",
+    "translation": "很多，极多",
+    "voiceUrl": "NewMiddleSchool/792_很多极多.mp3"
+  },
+  {
+    "id": "793_停止做某事",
+    "pos": null,
+    "word": "parar de",
+    "definition": "U7",
+    "translation": "停止（做某事）",
+    "voiceUrl": "NewMiddleSchool/793_停止做某事.mp3"
+  },
+  {
+    "id": "795_放松",
+    "pos": null,
+    "word": "relajarse",
+    "definition": "U7",
+    "translation": "放松",
+    "voiceUrl": "NewMiddleSchool/795_放松.mp3"
+  },
+  {
+    "id": "797_饭店提供用于",
+    "pos": null,
+    "word": "servir",
+    "definition": "U7",
+    "translation": "（饭店）提供；用于...",
+    "voiceUrl": "NewMiddleSchool/797_饭店提供用于.mp3"
+  },
+  {
+    "id": "798_贵的",
+    "pos": null,
+    "word": "caro,ra",
+    "definition": "U7",
+    "translation": "贵的",
+    "voiceUrl": "NewMiddleSchool/798_贵的.mp3"
+  },
+  {
+    "id": "799_俄罗斯的俄罗斯人俄语",
+    "pos": null,
+    "word": "ruso,sa",
+    "definition": "U7",
+    "translation": "俄罗斯的，俄罗斯人，俄语",
+    "voiceUrl": "NewMiddleSchool/799_俄罗斯的俄罗斯人俄语.mp3"
+  },
+  {
+    "id": "801_最后的最近的最新的",
+    "pos": null,
+    "word": "último,ma",
+    "definition": "U7",
+    "translation": "最后的；最近的，最新的",
+    "voiceUrl": "NewMiddleSchool/801_最后的最近的最新的.mp3"
+  },
+  {
+    "id": "802_尝品尝",
+    "pos": null,
+    "word": "probar",
+    "definition": "U7",
+    "translation": "尝，品尝",
+    "voiceUrl": "NewMiddleSchool/802_尝品尝.mp3"
+  },
+  {
+    "id": "803_西班牙式的",
+    "pos": null,
+    "word": "a la española",
+    "definition": "U7",
+    "translation": "西班牙式的",
+    "voiceUrl": "NewMiddleSchool/803_西班牙式的.mp3"
+  },
+  {
+    "id": "806_烤肉的串肉扦通常用牙签插着吃的小吃",
+    "pos": null,
+    "word": "pincho",
+    "definition": "U7",
+    "translation": "（烤肉的）串肉扦；通常用牙签插着吃的）小吃",
+    "voiceUrl": "NewMiddleSchool/806_烤肉的串肉扦通常用牙签插着吃的小吃.mp3"
+  },
+  {
+    "id": "807_醋浸鳀鱼",
+    "pos": null,
+    "word": "boquerón en vinagre",
+    "definition": "U7",
+    "translation": "醋浸鳀鱼",
+    "voiceUrl": "NewMiddleSchool/807_醋浸鳀鱼.mp3"
+  },
+  {
+    "id": "808_炸丸子",
+    "pos": null,
+    "word": "croqueta",
+    "definition": "U7",
+    "translation": "炸丸子",
+    "voiceUrl": "NewMiddleSchool/808_炸丸子.mp3"
+  },
+  {
+    "id": "809_调味汁",
+    "pos": null,
+    "word": "salsa",
+    "definition": "U7",
+    "translation": "调味汁",
+    "voiceUrl": "NewMiddleSchool/809_调味汁.mp3"
+  },
+  {
+    "id": "810_红茶",
+    "pos": null,
+    "word": "té negro",
+    "definition": "U7",
+    "translation": "红茶",
+    "voiceUrl": "NewMiddleSchool/810_红茶.mp3"
+  },
+  {
+    "id": "811_你想都别想",
+    "pos": null,
+    "word": "ni se te ocurra",
+    "definition": "U7",
+    "translation": "你想都别想",
+    "voiceUrl": "NewMiddleSchool/811_你想都别想.mp3"
+  },
+  {
+    "id": "813_穿戴",
+    "pos": null,
+    "word": "ponerse",
+    "definition": "U7",
+    "translation": "穿，戴",
+    "voiceUrl": "NewMiddleSchool/813_穿戴.mp3"
+  },
+  {
+    "id": "814_衣物大小等对某人合适",
+    "pos": null,
+    "word": "quedar",
+    "definition": "U7",
+    "translation": "（衣物大小等对某人）合适",
+    "voiceUrl": "NewMiddleSchool/814_衣物大小等对某人合适.mp3"
+  },
+  {
+    "id": "816_挑选",
+    "pos": null,
+    "word": "escoger",
+    "definition": "U7",
+    "translation": "挑选",
+    "voiceUrl": "NewMiddleSchool/816_挑选.mp3"
+  },
+  {
+    "id": "818_圆领衫T恤",
+    "pos": null,
+    "word": "camiseta",
+    "definition": "U7",
+    "translation": "圆领衫；T恤",
+    "voiceUrl": "NewMiddleSchool/818_圆领衫T恤.mp3"
+  },
+  {
+    "id": "819_试衣间",
+    "pos": null,
+    "word": "probador",
+    "definition": "U7",
+    "translation": "试衣间",
+    "voiceUrl": "NewMiddleSchool/819_试衣间.mp3"
+  },
+  {
+    "id": "820_服饰或颜色等与某人合适相配",
+    "pos": null,
+    "word": "sentar",
+    "definition": "U7",
+    "translation": "（服饰或颜色等与某人）合适，相配",
+    "voiceUrl": "NewMiddleSchool/820_服饰或颜色等与某人合适相配.mp3"
+  },
+  {
+    "id": "821_使某人显得",
+    "pos": null,
+    "word": "hacer a alguien+adj.",
+    "definition": "U7",
+    "translation": "使某人显得",
+    "voiceUrl": "NewMiddleSchool/821_使某人显得.mp3"
+  },
+  {
+    "id": "822_牛仔裤",
+    "pos": null,
+    "word": "vaquero",
+    "definition": "U7",
+    "translation": "牛仔裤",
+    "voiceUrl": "NewMiddleSchool/822_牛仔裤.mp3"
+  },
+  {
+    "id": "823_与搭配",
+    "pos": null,
+    "word": "hacer juego con",
+    "definition": "U7",
+    "translation": "与....搭配",
+    "voiceUrl": "NewMiddleSchool/823_与搭配.mp3"
+  },
+  {
+    "id": "824_条纹",
+    "pos": null,
+    "word": "raya",
+    "definition": "U7",
+    "translation": "条纹",
+    "voiceUrl": "NewMiddleSchool/824_条纹.mp3"
+  },
+  {
+    "id": "825_奇怪的",
+    "pos": null,
+    "word": "raro,ra",
+    "definition": "U7",
+    "translation": "奇怪的",
+    "voiceUrl": "NewMiddleSchool/825_奇怪的.mp3"
+  },
+  {
+    "id": "826_表示吃惊或不快哎",
+    "pos": null,
+    "word": "hala",
+    "definition": "U7",
+    "translation": "（表示吃惊或不快）哎",
+    "voiceUrl": "NewMiddleSchool/826_表示吃惊或不快哎.mp3"
+  },
+  {
+    "id": "827_闭嘴安静",
+    "pos": null,
+    "word": "callar",
+    "definition": "U7",
+    "translation": "闭嘴；安静",
+    "voiceUrl": "NewMiddleSchool/827_闭嘴安静.mp3"
+  },
+  {
+    "id": "828_放入装入塞入",
+    "pos": null,
+    "word": "meter",
+    "definition": "U7",
+    "translation": "放入，装入，塞入",
+    "voiceUrl": "NewMiddleSchool/828_放入装入塞入.mp3"
+  },
+  {
+    "id": "829_多少钱",
+    "pos": null,
+    "word": "¿Cuánto vale?",
+    "definition": "U7",
+    "translation": "多少钱",
+    "voiceUrl": "NewMiddleSchool/829_多少钱.mp3"
+  },
+  {
+    "id": "830_你忘了它吧",
+    "pos": null,
+    "word": "olvídalo",
+    "definition": "U7",
+    "translation": "（你）忘了它吧",
+    "voiceUrl": "NewMiddleSchool/830_你忘了它吧.mp3"
+  },
+  {
+    "id": "831_哈利波特",
+    "pos": null,
+    "word": "Harry Potter",
+    "definition": "U7",
+    "translation": "哈利波特",
+    "voiceUrl": "NewMiddleSchool/831_哈利波特.mp3"
+  },
+  {
+    "id": "832_艾莎公主",
+    "pos": null,
+    "word": "princesa Elsa",
+    "definition": "U7",
+    "translation": "艾莎公主",
+    "voiceUrl": "NewMiddleSchool/832_艾莎公主.mp3"
+  },
+  {
+    "id": "834_运动鞋",
+    "pos": null,
+    "word": "zapatilla",
+    "definition": "U7",
+    "translation": "运动鞋",
+    "voiceUrl": "NewMiddleSchool/834_运动鞋.mp3"
+  },
+  {
+    "id": "835_完美的",
+    "pos": null,
+    "word": "perfecto,ta",
+    "definition": "U7",
+    "translation": "完美的",
+    "voiceUrl": "NewMiddleSchool/835_完美的.mp3"
+  },
+  {
+    "id": "836_贵极了",
+    "pos": null,
+    "word": "carísimo,ma",
+    "definition": "U7",
+    "translation": "贵极了",
+    "voiceUrl": "NewMiddleSchool/836_贵极了.mp3"
+  },
+  {
+    "id": "839_鼠标",
+    "pos": null,
+    "word": "ratón",
+    "definition": "U7",
+    "translation": "鼠标",
+    "voiceUrl": "NewMiddleSchool/839_鼠标.mp3"
+  },
+  {
+    "id": "840_制服",
+    "pos": null,
+    "word": "uniforme",
+    "definition": "U7",
+    "translation": "制服",
+    "voiceUrl": "NewMiddleSchool/840_制服.mp3"
+  },
+  {
+    "id": "842_好极了",
+    "pos": null,
+    "word": "buenísimo,ma",
+    "definition": "U7",
+    "translation": "好极了",
+    "voiceUrl": "NewMiddleSchool/842_好极了.mp3"
+  },
+  {
+    "id": "843_非常好的珍贵的美丽的漂亮的",
+    "pos": null,
+    "word": "precioso,sa",
+    "definition": "U7",
+    "translation": "非常好的；珍贵的；美丽的，漂亮的",
+    "voiceUrl": "NewMiddleSchool/843_非常好的珍贵的美丽的漂亮的.mp3"
+  },
+  {
+    "id": "844_动漫角色扮演动漫真人秀",
+    "pos": null,
+    "word": "cosplay",
+    "definition": "U7",
+    "translation": "动漫角色扮演，动漫真人秀",
+    "voiceUrl": "NewMiddleSchool/844_动漫角色扮演动漫真人秀.mp3"
+  },
+  {
+    "id": "846_球拍",
+    "pos": null,
+    "word": "raqueta",
+    "definition": "U7",
+    "translation": "球拍",
+    "voiceUrl": "NewMiddleSchool/846_球拍.mp3"
+  },
+  {
+    "id": "847_值钱",
+    "pos": null,
+    "word": "costar",
+    "definition": "U7",
+    "translation": "值...钱",
+    "voiceUrl": "NewMiddleSchool/847_值钱.mp3"
+  },
+  {
+    "id": "848_同一个",
+    "pos": null,
+    "word": "mismo,ma",
+    "definition": "U7",
+    "translation": "同一个",
+    "voiceUrl": "NewMiddleSchool/848_同一个.mp3"
+  },
+  {
+    "id": "849_看法一致",
+    "pos": null,
+    "word": "opinar lo mismo",
+    "definition": "U7",
+    "translation": "看法一致",
+    "voiceUrl": "NewMiddleSchool/849_看法一致.mp3"
+  },
+  {
+    "id": "850_理想的",
+    "pos": null,
+    "word": "ideal",
+    "definition": "U7",
+    "translation": "理想的",
+    "voiceUrl": "NewMiddleSchool/850_理想的.mp3"
+  },
+  {
+    "id": "851_优雅的",
+    "pos": null,
+    "word": "elegante",
+    "definition": "U7",
+    "translation": "优雅的",
+    "voiceUrl": "NewMiddleSchool/851_优雅的.mp3"
+  },
+  {
+    "id": "853_命令式你把关上",
+    "pos": null,
+    "word": "cierra",
+    "definition": "U7",
+    "translation": "（命令式）你把...关上",
+    "voiceUrl": "NewMiddleSchool/853_命令式你把关上.mp3"
+  },
+  {
+    "id": "855_你们在干什么",
+    "pos": null,
+    "word": "¿Qué estáis haciendo?",
+    "definition": "U7",
+    "translation": "你们在干什么？",
+    "voiceUrl": "NewMiddleSchool/855_你们在干什么.mp3"
+  },
+  {
+    "id": "856_正在学研究",
+    "pos": null,
+    "word": "estar estudiando",
+    "definition": "U7",
+    "translation": "正在学/研究",
+    "voiceUrl": "NewMiddleSchool/856_正在学研究.mp3"
+  },
+  {
+    "id": "857_经济经济学",
+    "pos": null,
+    "word": "economía",
+    "definition": "U7",
+    "translation": "经济；经济学",
+    "voiceUrl": "NewMiddleSchool/857_经济经济学.mp3"
+  },
+  {
+    "id": "858_确实真的",
+    "pos": null,
+    "word": "de veras",
+    "definition": "U7",
+    "translation": "确实，真的",
+    "voiceUrl": "NewMiddleSchool/858_确实真的.mp3"
+  },
+  {
+    "id": "860_意见",
+    "pos": null,
+    "word": "opinión",
+    "definition": "U7",
+    "translation": "意见",
+    "voiceUrl": "NewMiddleSchool/860_意见.mp3"
+  },
+  {
+    "id": "861_顾客",
+    "pos": null,
+    "word": "cliente",
+    "definition": "U7",
+    "translation": "顾客",
+    "voiceUrl": "NewMiddleSchool/861_顾客.mp3"
+  },
+  {
+    "id": "862_极端的非常的",
+    "pos": null,
+    "word": "extremo,ma",
+    "definition": "U7",
+    "translation": "极端的；非常的",
+    "voiceUrl": "NewMiddleSchool/862_极端的非常的.mp3"
+  },
+  {
+    "id": "863_舒适",
+    "pos": null,
+    "word": "comodidad",
+    "definition": "U7",
+    "translation": "舒适",
+    "voiceUrl": "NewMiddleSchool/863_舒适.mp3"
+  },
+  {
+    "id": "864_品牌",
+    "pos": null,
+    "word": "marca",
+    "definition": "U7",
+    "translation": "品牌",
+    "voiceUrl": "NewMiddleSchool/864_品牌.mp3"
+  },
+  {
+    "id": "866_尺寸体积",
+    "pos": null,
+    "word": "tamaño",
+    "definition": "U7",
+    "translation": "尺寸；体积",
+    "voiceUrl": "NewMiddleSchool/866_尺寸体积.mp3"
+  },
+  {
+    "id": "867_已成交",
+    "pos": null,
+    "word": "compra vertificada",
+    "definition": "U7",
+    "translation": "已成交",
+    "voiceUrl": "NewMiddleSchool/867_已成交.mp3"
+  },
+  {
+    "id": "868_热爱的非常喜欢的",
+    "pos": null,
+    "word": "enamorado,da",
+    "definition": "U7",
+    "translation": "热爱...的，非常喜欢的",
+    "voiceUrl": "NewMiddleSchool/868_热爱的非常喜欢的.mp3"
+  },
+  {
+    "id": "869_品种种类",
+    "pos": null,
+    "word": "tipo",
+    "definition": "U7",
+    "translation": "品种；种类",
+    "voiceUrl": "NewMiddleSchool/869_品种种类.mp3"
+  },
+  {
+    "id": "870_舒适极了的",
+    "pos": null,
+    "word": "comodísimo,ma",
+    "definition": "U7",
+    "translation": "舒适极了的",
+    "voiceUrl": "NewMiddleSchool/870_舒适极了的.mp3"
+  },
+  {
+    "id": "871_材料",
+    "pos": null,
+    "word": "material",
+    "definition": "U7",
+    "translation": "材料",
+    "voiceUrl": "NewMiddleSchool/871_材料.mp3"
+  },
+  {
+    "id": "873_注意小心",
+    "pos": null,
+    "word": "cuidado con",
+    "definition": "U7",
+    "translation": "注意...；小心...",
+    "voiceUrl": "NewMiddleSchool/873_注意小心.mp3"
+  },
+  {
+    "id": "874_衣物等尺寸",
+    "pos": null,
+    "word": "talla",
+    "definition": "U7",
+    "translation": "（衣物等）尺寸",
+    "voiceUrl": "NewMiddleSchool/874_衣物等尺寸.mp3"
+  },
+  {
+    "id": "876_欧洲的欧洲人的欧洲人",
+    "pos": null,
+    "word": "europeo,a",
+    "definition": "U7",
+    "translation": "欧洲的；欧洲人的，欧洲人",
+    "voiceUrl": "NewMiddleSchool/876_欧洲的欧洲人的欧洲人.mp3"
+  },
+  {
+    "id": "877_美国的美洲的美国人美洲人",
+    "pos": null,
+    "word": "americano,na",
+    "definition": "U7",
+    "translation": "美国的；美洲的，美国人；美洲人",
+    "voiceUrl": "NewMiddleSchool/877_美国的美洲的美国人美洲人.mp3"
+  },
+  {
+    "id": "878_一开始起初",
+    "pos": null,
+    "word": "al principio",
+    "definition": "U7",
+    "translation": "一开始；起初",
+    "voiceUrl": "NewMiddleSchool/878_一开始起初.mp3"
+  },
+  {
+    "id": "879_衣服鞋等紧小",
+    "pos": null,
+    "word": "apretar",
+    "definition": "U7",
+    "translation": "（衣服、鞋等）紧，小",
+    "voiceUrl": "NewMiddleSchool/879_衣服鞋等紧小.mp3"
+  },
+  {
+    "id": "880_丝丝织品",
+    "pos": null,
+    "word": "seda",
+    "definition": "U7",
+    "translation": "丝；丝织品",
+    "voiceUrl": "NewMiddleSchool/880_丝丝织品.mp3"
+  },
+  {
+    "id": "881_经济的便宜的",
+    "pos": null,
+    "word": "económico,ca",
+    "definition": "U7",
+    "translation": "经济的；便宜的",
+    "voiceUrl": "NewMiddleSchool/881_经济的便宜的.mp3"
+  },
+  {
+    "id": "882_明显地",
+    "pos": null,
+    "word": "obviamente",
+    "definition": "U7",
+    "translation": "明显地",
+    "voiceUrl": "NewMiddleSchool/882_明显地.mp3"
+  },
+  {
+    "id": "883_和一样",
+    "pos": null,
+    "word": "igual a ",
+    "definition": "U7",
+    "translation": "和...一样",
+    "voiceUrl": "NewMiddleSchool/883_和一样.mp3"
+  },
+  {
+    "id": "884_真实的实际的",
+    "pos": null,
+    "word": "real",
+    "definition": "U7",
+    "translation": "真实的；实际的",
+    "voiceUrl": "NewMiddleSchool/884_真实的实际的.mp3"
+  },
+  {
+    "id": "885_派送",
+    "pos": null,
+    "word": "envío",
+    "definition": "U7",
+    "translation": "派送",
+    "voiceUrl": "NewMiddleSchool/885_派送.mp3"
+  },
+  {
+    "id": "886_超快",
+    "pos": null,
+    "word": "superrápido",
+    "definition": "U7",
+    "translation": "超快",
+    "voiceUrl": "NewMiddleSchool/886_超快.mp3"
+  },
+  {
+    "id": "887_失望的",
+    "pos": null,
+    "word": "decepcionado,da",
+    "definition": "U7",
+    "translation": "失望的",
+    "voiceUrl": "NewMiddleSchool/887_失望的.mp3"
+  },
+  {
+    "id": "888_硬的",
+    "pos": null,
+    "word": "duro,ra",
+    "definition": "U7",
+    "translation": "硬的",
+    "voiceUrl": "NewMiddleSchool/888_硬的.mp3"
+  },
+  {
+    "id": "889_总体来说",
+    "pos": null,
+    "word": "en general",
+    "definition": "U7",
+    "translation": "总体来说",
+    "voiceUrl": "NewMiddleSchool/889_总体来说.mp3"
+  },
+  {
+    "id": "890_结实的耐用的",
+    "pos": null,
+    "word": "resistente",
+    "definition": "U7",
+    "translation": "结实的；耐用的",
+    "voiceUrl": "NewMiddleSchool/890_结实的耐用的.mp3"
+  },
+  {
+    "id": "891_经验经历",
+    "pos": null,
+    "word": "experiencia",
+    "definition": "U7",
+    "translation": "经验；经历",
+    "voiceUrl": "NewMiddleSchool/891_经验经历.mp3"
+  },
+  {
+    "id": "892_性价比",
+    "pos": null,
+    "word": "relación calidad-precio",
+    "definition": "U7",
+    "translation": "性价比",
+    "voiceUrl": "NewMiddleSchool/892_性价比.mp3"
+  },
+  {
+    "id": "896_往返票",
+    "pos": null,
+    "word": "ida y vuelta",
+    "definition": "U8",
+    "translation": "往返（票）",
+    "voiceUrl": "NewMiddleSchool/896_往返票.mp3"
+  },
+  {
+    "id": "899_速度",
+    "pos": null,
+    "word": "velocidad",
+    "definition": "U8",
+    "translation": "速度",
+    "voiceUrl": "NewMiddleSchool/899_速度.mp3"
+  },
+  {
+    "id": "900_有必要",
+    "pos": null,
+    "word": "hacer falta",
+    "definition": "U8",
+    "translation": "有必要",
+    "voiceUrl": "NewMiddleSchool/900_有必要.mp3"
+  },
+  {
+    "id": "902_下一个",
+    "pos": null,
+    "word": "siguiente",
+    "definition": "U8",
+    "translation": "下一个",
+    "voiceUrl": "NewMiddleSchool/902_下一个.mp3"
+  },
+  {
+    "id": "905_看情况取决于",
+    "pos": null,
+    "word": "depende",
+    "definition": "U8",
+    "translation": "看情况，取决于...",
+    "voiceUrl": "NewMiddleSchool/905_看情况取决于.mp3"
+  },
+  {
+    "id": "907_船火车的卧铺床位",
+    "pos": null,
+    "word": "litera",
+    "definition": "U8",
+    "translation": "（船、火车的）卧铺；床位",
+    "voiceUrl": "NewMiddleSchool/907_船火车的卧铺床位.mp3"
+  },
+  {
+    "id": "908_在下面在底下",
+    "pos": null,
+    "word": "abajo",
+    "definition": "U8",
+    "translation": "在下面，在底下",
+    "voiceUrl": "NewMiddleSchool/908_在下面在底下.mp3"
+  },
+  {
+    "id": "909_便宜的",
+    "pos": null,
+    "word": "barato,ta",
+    "definition": "U8",
+    "translation": "便宜的",
+    "voiceUrl": "NewMiddleSchool/909_便宜的.mp3"
+  },
+  {
+    "id": "910_找零",
+    "pos": null,
+    "word": "cambio",
+    "definition": "U8",
+    "translation": "找零",
+    "voiceUrl": "NewMiddleSchool/910_找零.mp3"
+  },
+  {
+    "id": "911_旅途愉快",
+    "pos": null,
+    "word": "Buen viaje",
+    "definition": "U8",
+    "translation": "旅途愉快",
+    "voiceUrl": "NewMiddleSchool/911_旅途愉快.mp3"
+  },
+  {
+    "id": "912_预订保留",
+    "pos": null,
+    "word": "reservar",
+    "definition": "U8",
+    "translation": "预订；保留",
+    "voiceUrl": "NewMiddleSchool/912_预订保留.mp3"
+  },
+  {
+    "id": "913_前台服务员",
+    "pos": null,
+    "word": "recepcionista",
+    "definition": "U8",
+    "translation": "前台服务员",
+    "voiceUrl": "NewMiddleSchool/913_前台服务员.mp3"
+  },
+  {
+    "id": "915_委婉语气我希望我想要",
+    "pos": null,
+    "word": "me gustaría",
+    "definition": "U8",
+    "translation": "（委婉语气）我希望，我想要",
+    "voiceUrl": "NewMiddleSchool/915_委婉语气我希望我想要.mp3"
+  },
+  {
+    "id": "916_预订保留",
+    "pos": null,
+    "word": "reserva",
+    "definition": "U8",
+    "translation": "预订；保留",
+    "voiceUrl": "NewMiddleSchool/916_预订保留.mp3"
+  },
+  {
+    "id": "917_没有一个",
+    "pos": null,
+    "word": "ninguno,na",
+    "definition": "U8",
+    "translation": "没有一个",
+    "voiceUrl": "NewMiddleSchool/917_没有一个.mp3"
+  },
+  {
+    "id": "918_双人的",
+    "pos": null,
+    "word": "doble",
+    "definition": "U8",
+    "translation": "双人的",
+    "voiceUrl": "NewMiddleSchool/918_双人的.mp3"
+  },
+  {
+    "id": "919_服务",
+    "pos": null,
+    "word": "servicio",
+    "definition": "U8",
+    "translation": "服务",
+    "voiceUrl": "NewMiddleSchool/919_服务.mp3"
+  },
+  {
+    "id": "920_停车场",
+    "pos": null,
+    "word": "estacionamiento",
+    "definition": "U8",
+    "translation": "停车场",
+    "voiceUrl": "NewMiddleSchool/920_停车场.mp3"
+  },
+  {
+    "id": "921_免费的",
+    "pos": null,
+    "word": "gratuito,ta",
+    "definition": "U8",
+    "translation": "免费的",
+    "voiceUrl": "NewMiddleSchool/921_免费的.mp3"
+  },
+  {
+    "id": "922_视野视线",
+    "pos": null,
+    "word": "vista",
+    "definition": "U8",
+    "translation": "视野，视线",
+    "voiceUrl": "NewMiddleSchool/922_视野视线.mp3"
+  },
+  {
+    "id": "923_包含",
+    "pos": null,
+    "word": "incluir",
+    "definition": "U8",
+    "translation": "包含",
+    "voiceUrl": "NewMiddleSchool/923_包含.mp3"
+  },
+  {
+    "id": "924_自助餐",
+    "pos": null,
+    "word": "bufé",
+    "definition": "U8",
+    "translation": "自助餐",
+    "voiceUrl": "NewMiddleSchool/924_自助餐.mp3"
+  },
+  {
+    "id": "925_成年人的成年人",
+    "pos": null,
+    "word": "adulto,ta",
+    "definition": "U8",
+    "translation": "成年人的，成年人",
+    "voiceUrl": "NewMiddleSchool/925_成年人的成年人.mp3"
+  },
+  {
+    "id": "926_保障",
+    "pos": null,
+    "word": "garantizar",
+    "definition": "U8",
+    "translation": "保障",
+    "voiceUrl": "NewMiddleSchool/926_保障.mp3"
+  },
+  {
+    "id": "927_资料",
+    "pos": null,
+    "word": "dato",
+    "definition": "U8",
+    "translation": "资料",
+    "voiceUrl": "NewMiddleSchool/927_资料.mp3"
+  },
+  {
+    "id": "929_日期",
+    "pos": null,
+    "word": "fecha",
+    "definition": "U8",
+    "translation": "日期",
+    "voiceUrl": "NewMiddleSchool/929_日期.mp3"
+  },
+  {
+    "id": "930_失效到期",
+    "pos": null,
+    "word": "caducidad",
+    "definition": "U8",
+    "translation": "失效；到期",
+    "voiceUrl": "NewMiddleSchool/930_失效到期.mp3"
+  },
+  {
+    "id": "931_感谢",
+    "pos": null,
+    "word": "agradecer",
+    "definition": "U8",
+    "translation": "感谢",
+    "voiceUrl": "NewMiddleSchool/931_感谢.mp3"
+  },
+  {
+    "id": "932_信任",
+    "pos": null,
+    "word": "confianza",
+    "definition": "U8",
+    "translation": "信任",
+    "voiceUrl": "NewMiddleSchool/932_信任.mp3"
+  },
+  {
+    "id": "933_逗留停留",
+    "pos": null,
+    "word": "estancia",
+    "definition": "U8",
+    "translation": "逗留，停留",
+    "voiceUrl": "NewMiddleSchool/933_逗留停留.mp3"
+  },
+  {
+    "id": "934_坎昆墨西哥著名旅游城市",
+    "pos": null,
+    "word": "Cancún",
+    "definition": "U8",
+    "translation": "坎昆(墨西哥著名旅游城市）",
+    "voiceUrl": "NewMiddleSchool/934_坎昆墨西哥著名旅游城市.mp3"
+  },
+  {
+    "id": "935_结束",
+    "pos": null,
+    "word": "acabar",
+    "definition": "U8",
+    "translation": "结束",
+    "voiceUrl": "NewMiddleSchool/935_结束.mp3"
+  },
+  {
+    "id": "937_画绘画",
+    "pos": null,
+    "word": "pintura",
+    "definition": "U8",
+    "translation": "画；绘画",
+    "voiceUrl": "NewMiddleSchool/937_画绘画.mp3"
+  },
+  {
+    "id": "938_空手道",
+    "pos": null,
+    "word": "kárate",
+    "definition": "U8",
+    "translation": "空手道",
+    "voiceUrl": "NewMiddleSchool/938_空手道.mp3"
+  },
+  {
+    "id": "939_驻营地野营地",
+    "pos": null,
+    "word": "campamento",
+    "definition": "U8",
+    "translation": "驻营地；野营地",
+    "voiceUrl": "NewMiddleSchool/939_驻营地野营地.mp3"
+  },
+  {
+    "id": "941_晒太阳",
+    "pos": null,
+    "word": "tomar el sol",
+    "definition": "U8",
+    "translation": "晒太阳",
+    "voiceUrl": "NewMiddleSchool/941_晒太阳.mp3"
+  },
+  {
+    "id": "942_潜水",
+    "pos": null,
+    "word": "bucear",
+    "definition": "U8",
+    "translation": "潜水",
+    "voiceUrl": "NewMiddleSchool/942_潜水.mp3"
+  },
+  {
+    "id": "943_冲浪",
+    "pos": null,
+    "word": "hacer surf",
+    "definition": "U8",
+    "translation": "冲浪",
+    "voiceUrl": "NewMiddleSchool/943_冲浪.mp3"
+  },
+  {
+    "id": "944_坐游艇",
+    "pos": null,
+    "word": "ir de crucero",
+    "definition": "U8",
+    "translation": "坐游艇",
+    "voiceUrl": "NewMiddleSchool/944_坐游艇.mp3"
+  },
+  {
+    "id": "945_韩国",
+    "pos": null,
+    "word": "República de Corea",
+    "definition": "U8",
+    "translation": "韩国",
+    "voiceUrl": "NewMiddleSchool/945_韩国.mp3"
+  },
+  {
+    "id": "946_日本",
+    "pos": null,
+    "word": "Japón",
+    "definition": "U8",
+    "translation": "日本",
+    "voiceUrl": "NewMiddleSchool/946_日本.mp3"
+  },
+  {
+    "id": "948_想想念",
+    "pos": null,
+    "word": "pensar en",
+    "definition": "U8",
+    "translation": "想；想念",
+    "voiceUrl": "NewMiddleSchool/948_想想念.mp3"
+  },
+  {
+    "id": "950_保存的保留的预定的",
+    "pos": null,
+    "word": "reservado,da",
+    "definition": "U8",
+    "translation": "保存的；保留的；预定的",
+    "voiceUrl": "NewMiddleSchool/950_保存的保留的预定的.mp3"
+  },
+  {
+    "id": "953_日本的日本人的日本人日语",
+    "pos": null,
+    "word": "japonés,sa",
+    "definition": "U8",
+    "translation": "日本的；日本人的，日本人，日语",
+    "voiceUrl": "NewMiddleSchool/953_日本的日本人的日本人日语.mp3"
+  },
+  {
+    "id": "955_泰国的泰国人的泰国人泰语",
+    "pos": null,
+    "word": "tailandés,sa",
+    "definition": "U8",
+    "translation": "泰国的；泰国人的，泰国人，泰语",
+    "voiceUrl": "NewMiddleSchool/955_泰国的泰国人的泰国人泰语.mp3"
+  },
+  {
+    "id": "956_烹饪",
+    "pos": null,
+    "word": "gastronomía",
+    "definition": "U8",
+    "translation": "烹饪",
+    "voiceUrl": "NewMiddleSchool/956_烹饪.mp3"
+  },
+  {
+    "id": "959_推荐",
+    "pos": null,
+    "word": "recomendar",
+    "definition": "U8",
+    "translation": "推荐",
+    "voiceUrl": "NewMiddleSchool/959_推荐.mp3"
+  },
+  {
+    "id": "960_充分地广泛地",
+    "pos": null,
+    "word": "ampliamente",
+    "definition": "U8",
+    "translation": "充分地；广泛地",
+    "voiceUrl": "NewMiddleSchool/960_充分地广泛地.mp3"
+  },
+  {
+    "id": "962_徒步步行",
+    "pos": null,
+    "word": "a pie",
+    "definition": "U8",
+    "translation": "徒步，步行",
+    "voiceUrl": "NewMiddleSchool/962_徒步步行.mp3"
+  },
+  {
+    "id": "963_汽车总站",
+    "pos": null,
+    "word": "central",
+    "definition": "U8",
+    "translation": "汽车总站",
+    "voiceUrl": "NewMiddleSchool/963_汽车总站.mp3"
+  },
+  {
+    "id": "964_公共汽车西班牙的卡车",
+    "pos": null,
+    "word": "camión",
+    "definition": "U8",
+    "translation": "公共汽车；（西班牙的）卡车",
+    "voiceUrl": "NewMiddleSchool/964_公共汽车西班牙的卡车.mp3"
+  },
+  {
+    "id": "965_直接的直达的",
+    "pos": null,
+    "word": "directo,ta",
+    "definition": "U8",
+    "translation": "直接的；直达的",
+    "voiceUrl": "NewMiddleSchool/965_直接的直达的.mp3"
+  },
+  {
+    "id": "967_无线网络",
+    "pos": null,
+    "word": "wifi",
+    "definition": "U8",
+    "translation": "无线网络",
+    "voiceUrl": "NewMiddleSchool/967_无线网络.mp3"
+  },
+  {
+    "id": "968_密码密钥",
+    "pos": null,
+    "word": "contraseña",
+    "definition": "U8",
+    "translation": "密码，密钥",
+    "voiceUrl": "NewMiddleSchool/968_密码密钥.mp3"
+  }
+]

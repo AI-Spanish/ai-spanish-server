@@ -1,0 +1,282 @@
+[
+    {
+        "id": "228_居住",
+        "pos": "intr.",
+        "word": "vivir",
+        "definition": "137页",
+        "translation": "intr. 居住",
+        "voiceUrl": "modernSpanish/modernSpanish_109/228_居住.mp3"
+    },
+    {
+        "id": "229_中国",
+        "pos": null,
+        "word": "China",
+        "definition": "137页",
+        "translation": "中国",
+        "voiceUrl": "modernSpanish/modernSpanish_109/229_中国.mp3"
+    },
+    {
+        "id": "230_卫生间",
+        "pos": null,
+        "word": "cuarto de baño",
+        "definition": "137页",
+        "translation": "卫生间",
+        "voiceUrl": "modernSpanish/modernSpanish_109/230_卫生间.mp3"
+    },
+    {
+        "id": "231_他的他们的您的",
+        "pos": "adj.",
+        "word": "suyo",
+        "definition": "137页",
+        "translation": "adj. 他的；他们的；您的",
+        "voiceUrl": "modernSpanish/modernSpanish_109/231_他的他们的您的.mp3"
+    },
+    {
+        "id": "232_来",
+        "pos": "intr.",
+        "word": "venir",
+        "definition": "137页",
+        "translation": "intr. 来",
+        "voiceUrl": "modernSpanish/modernSpanish_109/232_来.mp3"
+    },
+    {
+        "id": "233_西班牙",
+        "pos": null,
+        "word": "España",
+        "definition": "137页",
+        "translation": "西班牙",
+        "voiceUrl": "modernSpanish/modernSpanish_109/233_西班牙.mp3"
+    },
+    {
+        "id": "234_想希望",
+        "pos": "tr.",
+        "word": "querer",
+        "definition": "137页",
+        "translation": "tr. 想，希望",
+        "voiceUrl": "modernSpanish/modernSpanish_109/234_想希望.mp3"
+    },
+    {
+        "id": "235_过度过",
+        "pos": "tr.",
+        "word": "pasar",
+        "definition": "137页",
+        "translation": "tr. 过，度过",
+        "voiceUrl": "modernSpanish/modernSpanish_109/235_过度过.mp3"
+    },
+    {
+        "id": "236_天",
+        "pos": "m.",
+        "word": "día",
+        "definition": "137页",
+        "translation": "m. 天",
+        "voiceUrl": "modernSpanish/modernSpanish_109/236_天.mp3"
+    },
+    {
+        "id": "237_谢谢",
+        "pos": "f. Pl.",
+        "word": "gracias",
+        "definition": "137页",
+        "translation": "f. Pl. 谢谢",
+        "voiceUrl": "modernSpanish/modernSpanish_109/237_谢谢.mp3"
+    },
+    {
+        "id": "238_钥匙",
+        "pos": "f.",
+        "word": "llave",
+        "definition": "137页",
+        "translation": "f. 钥匙",
+        "voiceUrl": "modernSpanish/modernSpanish_109/238_钥匙.mp3"
+    },
+    {
+        "id": "239_给",
+        "pos": "tr.",
+        "word": "dar",
+        "definition": "137页",
+        "translation": "tr. 给",
+        "voiceUrl": "modernSpanish/modernSpanish_109/239_给.mp3"
+    },
+    {
+        "id": "240_当然了",
+        "pos": "adv.",
+        "word": "claro",
+        "definition": "137页",
+        "translation": "adv. 当然了",
+        "voiceUrl": "modernSpanish/modernSpanish_109/240_当然了.mp3"
+    },
+    {
+        "id": "241_开打开",
+        "pos": "tr.",
+        "word": "abrir",
+        "definition": "137页",
+        "translation": "tr. 开，打开",
+        "voiceUrl": "modernSpanish/modernSpanish_109/241_开打开.mp3"
+    },
+    {
+        "id": "242_门",
+        "pos": "f.",
+        "word": "puerta",
+        "definition": "137页",
+        "translation": "f. 门",
+        "voiceUrl": "modernSpanish/modernSpanish_109/242_门.mp3"
+    },
+    {
+        "id": "243_保存",
+        "pos": "tr.",
+        "word": "guardar",
+        "definition": "137页",
+        "translation": "tr. 保存",
+        "voiceUrl": "modernSpanish/modernSpanish_109/243_保存.mp3"
+    },
+    {
+        "id": "244_好",
+        "pos": "adv.",
+        "word": "bien",
+        "definition": "137页",
+        "translation": "adv. 好",
+        "voiceUrl": "modernSpanish/modernSpanish_109/244_好.mp3"
+    },
+    {
+        "id": "245_很",
+        "pos": "adv.",
+        "word": "muy",
+        "definition": "137页",
+        "translation": "adv. 很",
+        "voiceUrl": "modernSpanish/modernSpanish_109/245_很.mp3"
+    },
+    {
+        "id": "246_吃饭",
+        "pos": "tr.,intr.",
+        "word": "comer",
+        "definition": "137页",
+        "translation": "tr.,intr. 吃饭",
+        "voiceUrl": "modernSpanish/modernSpanish_109/246_吃饭.mp3"
+    },
+    {
+        "id": "247_现在已经",
+        "pos": "adv.",
+        "word": "ya",
+        "definition": "137页",
+        "translation": "adv. 现在，已经",
+        "voiceUrl": "modernSpanish/modernSpanish_109/247_现在已经.mp3"
+    },
+    {
+        "id": "248_电影",
+        "pos": "f.",
+        "word": "película",
+        "definition": "137页",
+        "translation": "f. 电影",
+        "voiceUrl": "modernSpanish/modernSpanish_109/248_电影.mp3"
+    },
+    {
+        "id": "249_等待希望",
+        "pos": "tr.",
+        "word": "esperar",
+        "definition": "137页",
+        "translation": "tr. 等待，希望",
+        "voiceUrl": "modernSpanish/modernSpanish_109/249_等待希望.mp3"
+    },
+    {
+        "id": "250_卫生间",
+        "pos": "m.",
+        "word": "lavabo",
+        "definition": "137页",
+        "translation": "m. 卫生间",
+        "voiceUrl": "modernSpanish/modernSpanish_109/250_卫生间.mp3"
+    },
+    {
+        "id": "251_急事着急",
+        "pos": "f.",
+        "word": "prisa",
+        "definition": "137页",
+        "translation": "f. 急事，着急",
+        "voiceUrl": "modernSpanish/modernSpanish_109/251_急事着急.mp3"
+    },
+    {
+        "id": "252_我的",
+        "pos": "adj.",
+        "word": "mío",
+        "definition": "137页",
+        "translation": "adj. 我的",
+        "voiceUrl": "modernSpanish/modernSpanish_109/252_我的.mp3"
+    },
+    {
+        "id": "253_说",
+        "pos": "tr.",
+        "word": "decir",
+        "definition": "137页",
+        "translation": "tr. 说",
+        "voiceUrl": "modernSpanish/modernSpanish_109/253_说.mp3"
+    },
+    {
+        "id": "254_证件",
+        "pos": "m.",
+        "word": "carnet",
+        "definition": "137页",
+        "translation": "m. 证件",
+        "voiceUrl": "modernSpanish/modernSpanish_109/254_证件.mp3"
+    },
+    {
+        "id": "255_带走",
+        "pos": "prnl.",
+        "word": "llevarse",
+        "definition": "137页",
+        "translation": "prnl. 带走",
+        "voiceUrl": "modernSpanish/modernSpanish_109/255_带走.mp3"
+    },
+    {
+        "id": "256_真理事实",
+        "pos": "f.",
+        "word": "verdad",
+        "definition": "137页",
+        "translation": "f. 真理，事实",
+        "voiceUrl": "modernSpanish/modernSpanish_109/256_真理事实.mp3"
+    },
+    {
+        "id": "257_写",
+        "pos": "tr.",
+        "word": "escribir",
+        "definition": "138页",
+        "translation": "tr. 写",
+        "voiceUrl": "modernSpanish/modernSpanish_109/257_写.mp3"
+    },
+    {
+        "id": "258_讨论",
+        "pos": "tr.",
+        "word": "discutir",
+        "definition": "138页",
+        "translation": "tr. 讨论",
+        "voiceUrl": "modernSpanish/modernSpanish_109/258_讨论.mp3"
+    },
+    {
+        "id": "259_知道",
+        "pos": "tr.",
+        "word": "saber",
+        "definition": "138页",
+        "translation": "tr. 知道",
+        "voiceUrl": "modernSpanish/modernSpanish_109/259_知道.mp3"
+    },
+    {
+        "id": "260_唱歌",
+        "pos": "tr.",
+        "word": "cantar",
+        "definition": "138页",
+        "translation": "tr. 唱歌",
+        "voiceUrl": "modernSpanish/modernSpanish_109/260_唱歌.mp3"
+    },
+    {
+        "id": "261_睡觉",
+        "pos": "tr.",
+        "word": "dormir",
+        "definition": "138页",
+        "translation": "tr. 睡觉",
+        "voiceUrl": "modernSpanish/modernSpanish_109/261_睡觉.mp3"
+    },
+    {
+        "id": "262_喝",
+        "pos": "tr.",
+        "word": "beber",
+        "definition": "138页",
+        "translation": "tr. 喝",
+        "voiceUrl": "modernSpanish/modernSpanish_109/262_喝.mp3"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "id": "263_喂你好",
+        "pos": "interj.",
+        "word": "hola",
+        "definition": "150页",
+        "translation": "interj. 喂，你好",
+        "voiceUrl": "modernSpanish/modernSpanish_110/263_喂你好.mp3"
+    },
+    {
+        "id": "264_发烧",
+        "pos": "f.",
+        "word": "fiebre",
+        "definition": "150页",
+        "translation": "f. 发烧",
+        "voiceUrl": "modernSpanish/modernSpanish_110/264_发烧.mp3"
+    },
+    {
+        "id": "265_轿车",
+        "pos": "m.",
+        "word": "coche",
+        "definition": "150页",
+        "translation": "m. 轿车",
+        "voiceUrl": "modernSpanish/modernSpanish_110/265_轿车.mp3"
+    },
+    {
+        "id": "266_听诊",
+        "pos": "tr.",
+        "word": "auscultar",
+        "definition": "150页",
+        "translation": "tr. 听诊",
+        "voiceUrl": "modernSpanish/modernSpanish_110/266_听诊.mp3"
+    },
+    {
+        "id": "267_号脉",
+        "pos": null,
+        "word": "tomar el pulso",
+        "definition": "150页",
+        "translation": "号脉",
+        "voiceUrl": "modernSpanish/modernSpanish_110/267_号脉.mp3"
+    },
+    {
+        "id": "268_感冒",
+        "pos": "f.",
+        "word": "gripe",
+        "definition": "150页",
+        "translation": "f. 感冒",
+        "voiceUrl": "modernSpanish/modernSpanish_110/268_感冒.mp3"
+    },
+    {
+        "id": "269_开处方开药",
+        "pos": "tr.",
+        "word": "recetar",
+        "definition": "150页",
+        "translation": "tr. 开处方，开药",
+        "voiceUrl": "modernSpanish/modernSpanish_110/269_开处方开药.mp3"
+    },
+    {
+        "id": "270_药片",
+        "pos": "f.",
+        "word": "pastilla",
+        "definition": "150页",
+        "translation": "f. 药片",
+        "voiceUrl": "modernSpanish/modernSpanish_110/270_药片.mp3"
+    },
+    {
+        "id": "271_在旁边",
+        "pos": null,
+        "word": "al lado de",
+        "definition": "150页",
+        "translation": "在……旁边",
+        "voiceUrl": "modernSpanish/modernSpanish_110/271_在旁边.mp3"
+    },
+    {
+        "id": "272_药店",
+        "pos": "f.",
+        "word": "farmacia",
+        "definition": "150页",
+        "translation": "f. 药店",
+        "voiceUrl": "modernSpanish/modernSpanish_110/272_药店.mp3"
+    },
+    {
+        "id": "273_那里",
+        "pos": "adv.",
+        "word": "allí",
+        "definition": "150页",
+        "translation": "adv. 那里",
+        "voiceUrl": "modernSpanish/modernSpanish_110/273_那里.mp3"
+    },
+    {
+        "id": "274_送带",
+        "pos": "tr.",
+        "word": "llevar",
+        "definition": "150页",
+        "translation": "tr. 送，带",
+        "voiceUrl": "modernSpanish/modernSpanish_110/274_送带.mp3"
+    },
+    {
+        "id": "275_立即马上",
+        "pos": null,
+        "word": "ahora mismo",
+        "definition": "150页",
+        "translation": "立即，马上",
+        "voiceUrl": "modernSpanish/modernSpanish_110/275_立即马上.mp3"
+    },
+    {
+        "id": "276_小姐",
+        "pos": "f.",
+        "word": "señorita",
+        "definition": "150页",
+        "translation": "f. 小姐",
+        "voiceUrl": "modernSpanish/modernSpanish_110/276_小姐.mp3"
+    },
+    {
+        "id": "277_处方",
+        "pos": "f.",
+        "word": "receta",
+        "definition": "150页",
+        "translation": "f. 处方",
+        "voiceUrl": "modernSpanish/modernSpanish_110/277_处方.mp3"
+    },
+    {
+        "id": "278_为了因为",
+        "pos": "prep.",
+        "word": "por",
+        "definition": "150页",
+        "translation": "prep. 为了，因为",
+        "voiceUrl": "modernSpanish/modernSpanish_110/278_为了因为.mp3"
+    },
+    {
+        "id": "279_分钟",
+        "pos": "m.",
+        "word": "minuto",
+        "definition": "150页",
+        "translation": "m. 分钟",
+        "voiceUrl": "modernSpanish/modernSpanish_110/279_分钟.mp3"
+    },
+    {
+        "id": "280_回来",
+        "pos": "intr.",
+        "word": "volver",
+        "definition": "150页",
+        "translation": "intr. 回来",
+        "voiceUrl": "modernSpanish/modernSpanish_110/280_回来.mp3"
+    },
+    {
+        "id": "281_交给",
+        "pos": "tr.",
+        "word": "entregar",
+        "definition": "150页",
+        "translation": "tr. 交，给",
+        "voiceUrl": "modernSpanish/modernSpanish_110/281_交给.mp3"
+    },
+    {
+        "id": "282_再见",
+        "pos": null,
+        "word": "hasta luego",
+        "definition": "150页",
+        "translation": "再见",
+        "voiceUrl": "modernSpanish/modernSpanish_110/282_再见.mp3"
+    },
+    {
+        "id": "283_再见",
+        "pos": "m.",
+        "word": "adiós",
+        "definition": "150页",
+        "translation": "m. 再见",
+        "voiceUrl": "modernSpanish/modernSpanish_110/283_再见.mp3"
+    },
+    {
+        "id": "284_需要",
+        "pos": "tr.",
+        "word": "necesitar",
+        "definition": "150页",
+        "translation": "tr. 需要",
+        "voiceUrl": "modernSpanish/modernSpanish_110/284_需要.mp3"
+    },
+    {
+        "id": "285_放搁下",
+        "pos": "tr.",
+        "word": "dejar",
+        "definition": "150页",
+        "translation": "tr. 放；搁下",
+        "voiceUrl": "modernSpanish/modernSpanish_110/285_放搁下.mp3"
+    },
+    {
+        "id": "286_相信",
+        "pos": "tr.",
+        "word": "creer",
+        "definition": "150页",
+        "translation": "tr. 相信",
+        "voiceUrl": "modernSpanish/modernSpanish_110/286_相信.mp3"
+    },
+    {
+        "id": "287_公共汽车",
+        "pos": "m.",
+        "word": "autobús",
+        "definition": "150页",
+        "translation": "m. 公共汽车",
+        "voiceUrl": "modernSpanish/modernSpanish_110/287_公共汽车.mp3"
+    },
+    {
+        "id": "288_自行车",
+        "pos": "f.",
+        "word": "bicicleta",
+        "definition": "150页",
+        "translation": "f. 自行车",
+        "voiceUrl": "modernSpanish/modernSpanish_110/288_自行车.mp3"
+    },
+    {
+        "id": "289_药",
+        "pos": "f.",
+        "word": "medicina",
+        "definition": "150页",
+        "translation": "f. 药",
+        "voiceUrl": "modernSpanish/modernSpanish_110/289_药.mp3"
+    }
+]

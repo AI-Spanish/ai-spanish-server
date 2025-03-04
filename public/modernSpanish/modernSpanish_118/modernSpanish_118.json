@@ -1,0 +1,434 @@
+[
+    {
+        "id": "618_巴塞罗那",
+        "pos": null,
+        "word": "Barcelona",
+        "definition": "283页",
+        "translation": "巴塞罗那",
+        "voiceUrl": "modernSpanish/modernSpanish_118/618_巴塞罗那.mp3"
+    },
+    {
+        "id": "619_布宜诺斯艾利斯",
+        "pos": null,
+        "word": "Buenos Aires",
+        "definition": "283页",
+        "translation": "布宜诺斯艾利斯",
+        "voiceUrl": "modernSpanish/modernSpanish_118/619_布宜诺斯艾利斯.mp3"
+    },
+    {
+        "id": "620_花草楼层",
+        "pos": null,
+        "word": "planta",
+        "definition": "283页",
+        "translation": "花草；楼层",
+        "voiceUrl": "modernSpanish/modernSpanish_118/620_花草楼层.mp3"
+    },
+    {
+        "id": "621_马上立刻",
+        "pos": "f.",
+        "word": "enseguida",
+        "definition": "283页",
+        "translation": "f. 马上，立刻",
+        "voiceUrl": "modernSpanish/modernSpanish_118/621_马上立刻.mp3"
+    },
+    {
+        "id": "622_宽绰宽大",
+        "pos": "adv.",
+        "word": "amplio",
+        "definition": "283页",
+        "translation": "adv. 宽绰，宽大",
+        "voiceUrl": "modernSpanish/modernSpanish_118/622_宽绰宽大.mp3"
+    },
+    {
+        "id": "623_院子",
+        "pos": "m.",
+        "word": "patio",
+        "definition": "283页",
+        "translation": "m. 院子",
+        "voiceUrl": "modernSpanish/modernSpanish_118/623_院子.mp3"
+    },
+    {
+        "id": "624_左边",
+        "pos": "adj.",
+        "word": "izquierdo,da",
+        "definition": "283页",
+        "translation": "adj. 左边",
+        "voiceUrl": "modernSpanish/modernSpanish_118/624_左边.mp3"
+    },
+    {
+        "id": "625_游泳池",
+        "pos": "f.",
+        "word": "piscina",
+        "definition": "283页",
+        "translation": "f. 游泳池",
+        "voiceUrl": "modernSpanish/modernSpanish_118/625_游泳池.mp3"
+    },
+    {
+        "id": "626_公尺米",
+        "pos": "m.",
+        "word": "metro",
+        "definition": "283页",
+        "translation": "m. 公尺，米",
+        "voiceUrl": "modernSpanish/modernSpanish_118/626_公尺米.mp3"
+    },
+    {
+        "id": "627_宽的",
+        "pos": "adj.",
+        "word": "ancho",
+        "definition": "283页",
+        "translation": "adj. 宽的",
+        "voiceUrl": "modernSpanish/modernSpanish_118/627_宽的.mp3"
+    },
+    {
+        "id": "628_再过去一点",
+        "pos": null,
+        "word": "más allá",
+        "definition": "283页",
+        "translation": "再过去一点",
+        "voiceUrl": "modernSpanish/modernSpanish_118/628_再过去一点.mp3"
+    },
+    {
+        "id": "629_直接",
+        "pos": "adv.",
+        "word": "directamente",
+        "definition": "284页",
+        "translation": "adv. 直接",
+        "voiceUrl": "modernSpanish/modernSpanish_118/629_直接.mp3"
+    },
+    {
+        "id": "630_起居室客厅",
+        "pos": null,
+        "word": "sala de estar",
+        "definition": "284页",
+        "translation": "起居室，客厅",
+        "voiceUrl": "modernSpanish/modernSpanish_118/630_起居室客厅.mp3"
+    },
+    {
+        "id": "631_巨大的",
+        "pos": "adj.",
+        "word": "enorme",
+        "definition": "284页",
+        "translation": "adj. 巨大的",
+        "voiceUrl": "modernSpanish/modernSpanish_118/631_巨大的.mp3"
+    },
+    {
+        "id": "632_落地窗",
+        "pos": "m.",
+        "word": "ventanal",
+        "definition": "284页",
+        "translation": "m. 落地窗",
+        "voiceUrl": "modernSpanish/modernSpanish_118/632_落地窗.mp3"
+    },
+    {
+        "id": "633_前面",
+        "pos": "adv.",
+        "word": "delante",
+        "definition": "284页",
+        "translation": "adv. 前面",
+        "voiceUrl": "modernSpanish/modernSpanish_118/633_前面.mp3"
+    },
+    {
+        "id": "634_摆放",
+        "pos": "p.p.",
+        "word": "colocado",
+        "definition": "284页",
+        "translation": "p.p. 摆放",
+        "voiceUrl": "modernSpanish/modernSpanish_118/634_摆放.mp3"
+    },
+    {
+        "id": "635_小桌茶几",
+        "pos": "f.",
+        "word": "mesilla",
+        "definition": "284页",
+        "translation": "f. 小桌，茶几",
+        "voiceUrl": "modernSpanish/modernSpanish_118/635_小桌茶几.mp3"
+    },
+    {
+        "id": "636_深处底部尽头",
+        "pos": "m.",
+        "word": "fondo",
+        "definition": "284页",
+        "translation": "m. 深处，底部，尽头",
+        "voiceUrl": "modernSpanish/modernSpanish_118/636_深处底部尽头.mp3"
+    },
+    {
+        "id": "637_钢琴",
+        "pos": "m.",
+        "word": "piano",
+        "definition": "284页",
+        "translation": "m. 钢琴",
+        "voiceUrl": "modernSpanish/modernSpanish_118/637_钢琴.mp3"
+    },
+    {
+        "id": "638_行列",
+        "pos": "f.",
+        "word": "fila",
+        "definition": "284页",
+        "translation": "f. 行列",
+        "voiceUrl": "modernSpanish/modernSpanish_118/638_行列.mp3"
+    },
+    {
+        "id": "639_分开",
+        "pos": "tr.",
+        "word": "separar",
+        "definition": "284页",
+        "translation": "tr. 分开",
+        "voiceUrl": "modernSpanish/modernSpanish_118/639_分开.mp3"
+    },
+    {
+        "id": "640_餐厅食堂",
+        "pos": "m.",
+        "word": "comedor",
+        "definition": "284页",
+        "translation": "m. 餐厅，食堂",
+        "voiceUrl": "modernSpanish/modernSpanish_118/640_餐厅食堂.mp3"
+    },
+    {
+        "id": "641_右边",
+        "pos": "adj.",
+        "word": "derecho,cha",
+        "definition": "284页",
+        "translation": "adj. 右边",
+        "voiceUrl": "modernSpanish/modernSpanish_118/641_右边.mp3"
+    },
+    {
+        "id": "642_树",
+        "pos": "m.",
+        "word": "árbol",
+        "definition": "283页",
+        "translation": "m. 树",
+        "voiceUrl": "modernSpanish/modernSpanish_118/642_树.mp3"
+    },
+    {
+        "id": "643_花",
+        "pos": "f.",
+        "word": "flor",
+        "definition": "283页",
+        "translation": "f. 花",
+        "voiceUrl": "modernSpanish/modernSpanish_118/643_花.mp3"
+    },
+    {
+        "id": "644_春天",
+        "pos": "f.",
+        "word": "primavera",
+        "definition": "283页",
+        "translation": "f. 春天",
+        "voiceUrl": "modernSpanish/modernSpanish_118/644_春天.mp3"
+    },
+    {
+        "id": "645_夏天",
+        "pos": "m.",
+        "word": "verano",
+        "definition": "283页",
+        "translation": "m. 夏天",
+        "voiceUrl": "modernSpanish/modernSpanish_118/645_夏天.mp3"
+    },
+    {
+        "id": "646_秋天",
+        "pos": "m.",
+        "word": "otoño",
+        "definition": "283页",
+        "translation": "m. 秋天",
+        "voiceUrl": "modernSpanish/modernSpanish_118/646_秋天.mp3"
+    },
+    {
+        "id": "647_果实",
+        "pos": "m.",
+        "word": "fruto",
+        "definition": "283页",
+        "translation": "m. 果实",
+        "voiceUrl": "modernSpanish/modernSpanish_118/647_果实.mp3"
+    },
+    {
+        "id": "648_空间",
+        "pos": "m.",
+        "word": "espacio",
+        "definition": "283页",
+        "translation": "m. 空间",
+        "voiceUrl": "modernSpanish/modernSpanish_118/648_空间.mp3"
+    },
+    {
+        "id": "649_既然",
+        "pos": null,
+        "word": "ya que",
+        "definition": "283页",
+        "translation": "既然",
+        "voiceUrl": "modernSpanish/modernSpanish_118/649_既然.mp3"
+    },
+    {
+        "id": "650_主要的",
+        "pos": "adj.",
+        "word": "principal",
+        "definition": "283页",
+        "translation": "adj. 主要的",
+        "voiceUrl": "modernSpanish/modernSpanish_118/650_主要的.mp3"
+    },
+    {
+        "id": "651_通向引导驾驶",
+        "pos": "tr.",
+        "word": "conducir",
+        "definition": "283页",
+        "translation": "tr. 通向；引导；驾驶",
+        "voiceUrl": "modernSpanish/modernSpanish_118/651_通向引导驾驶.mp3"
+    },
+    {
+        "id": "652_区域地区",
+        "pos": "f.",
+        "word": "zona",
+        "definition": "284页",
+        "translation": "f. 区域，地区",
+        "voiceUrl": "modernSpanish/modernSpanish_118/652_区域地区.mp3"
+    },
+    {
+        "id": "653_分布",
+        "pos": "p.p.",
+        "word": "distribuído",
+        "definition": "284页",
+        "translation": "p.p. 分布",
+        "voiceUrl": "modernSpanish/modernSpanish_118/653_分布.mp3"
+    },
+    {
+        "id": "654_区分辨别",
+        "pos": "tr.",
+        "word": "distinguir",
+        "definition": "284页",
+        "translation": "tr. 区分，辨别",
+        "voiceUrl": "modernSpanish/modernSpanish_118/654_区分辨别.mp3"
+    },
+    {
+        "id": "655_正义的恰好",
+        "pos": "adj.,adv.",
+        "word": "justo",
+        "definition": "284页",
+        "translation": "adj.,adv. 正义的；恰好",
+        "voiceUrl": "modernSpanish/modernSpanish_118/655_正义的恰好.mp3"
+    },
+    {
+        "id": "656_上边",
+        "pos": "adv.",
+        "word": "arriba",
+        "definition": "284页",
+        "translation": "adv. 上边",
+        "voiceUrl": "modernSpanish/modernSpanish_118/656_上边.mp3"
+    },
+    {
+        "id": "657_书房写字间",
+        "pos": "m.",
+        "word": "estudio",
+        "definition": "284页",
+        "translation": "m. 书房，写字间",
+        "voiceUrl": "modernSpanish/modernSpanish_118/657_书房写字间.mp3"
+    },
+    {
+        "id": "658_作家",
+        "pos": "m.,f.",
+        "word": "escritor,ra",
+        "definition": "284页",
+        "translation": "m.,f. 作家",
+        "voiceUrl": "modernSpanish/modernSpanish_118/658_作家.mp3"
+    },
+    {
+        "id": "659_经常",
+        "pos": null,
+        "word": "con frecuencia",
+        "definition": "284页",
+        "translation": "经常",
+        "voiceUrl": "modernSpanish/modernSpanish_118/659_经常.mp3"
+    },
+    {
+        "id": "660_旅行",
+        "pos": "intr.",
+        "word": "viajar",
+        "definition": "284页",
+        "translation": "intr. 旅行",
+        "voiceUrl": "modernSpanish/modernSpanish_118/660_旅行.mp3"
+    },
+    {
+        "id": "661_接受接待",
+        "pos": "tr.",
+        "word": "recibir",
+        "definition": "284页",
+        "translation": "tr. 接受；接待",
+        "voiceUrl": "modernSpanish/modernSpanish_118/661_接受接待.mp3"
+    },
+    {
+        "id": "662_社会的",
+        "pos": "adj.",
+        "word": "social",
+        "definition": "284页",
+        "translation": "adj. 社会的",
+        "voiceUrl": "modernSpanish/modernSpanish_118/662_社会的.mp3"
+    },
+    {
+        "id": "663_密集的紧张的",
+        "pos": "adj.",
+        "word": "intenso",
+        "definition": "284页",
+        "translation": "adj. 密集的，紧张的",
+        "voiceUrl": "modernSpanish/modernSpanish_118/663_密集的紧张的.mp3"
+    },
+    {
+        "id": "664_阳台",
+        "pos": "m.",
+        "word": "balcón",
+        "definition": "284页",
+        "translation": "m. 阳台",
+        "voiceUrl": "modernSpanish/modernSpanish_118/664_阳台.mp3"
+    },
+    {
+        "id": "665_分开分为",
+        "pos": "tr.",
+        "word": "dividir",
+        "definition": "284页",
+        "translation": "tr. 分开，分为",
+        "voiceUrl": "modernSpanish/modernSpanish_118/665_分开分为.mp3"
+    },
+    {
+        "id": "666_端极端",
+        "pos": "m.",
+        "word": "extremo",
+        "definition": "284页",
+        "translation": "m. 端，极端",
+        "voiceUrl": "modernSpanish/modernSpanish_118/666_端极端.mp3"
+    },
+    {
+        "id": "667_位于",
+        "pos": "p.p.",
+        "word": "situado",
+        "definition": "284页",
+        "translation": "p.p. 位于",
+        "voiceUrl": "modernSpanish/modernSpanish_118/667_位于.mp3"
+    },
+    {
+        "id": "668_覆盖",
+        "pos": "tr.",
+        "word": "cubrir",
+        "definition": "284页",
+        "translation": "tr. 覆盖",
+        "voiceUrl": "modernSpanish/modernSpanish_118/668_覆盖.mp3"
+    },
+    {
+        "id": "669_搬动搬家",
+        "pos": "tr.,prnl.",
+        "word": "trasladar(se)",
+        "definition": "284页",
+        "translation": "tr.,prnl. 搬动；搬家",
+        "voiceUrl": "modernSpanish/modernSpanish_118/669_搬动搬家.mp3"
+    },
+    {
+        "id": "670_分布分配布局",
+        "pos": "f.",
+        "word": "distribución",
+        "definition": "284页",
+        "translation": "f. 分布，分配，布局",
+        "voiceUrl": "modernSpanish/modernSpanish_118/670_分布分配布局.mp3"
+    },
+    {
+        "id": "671_家具",
+        "pos": "m.",
+        "word": "mueble",
+        "definition": "284页",
+        "translation": "m. 家具",
+        "voiceUrl": "modernSpanish/modernSpanish_118/671_家具.mp3"
+    }
+]

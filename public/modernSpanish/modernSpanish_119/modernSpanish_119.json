@@ -1,0 +1,370 @@
+[
+    {
+        "id": "672_忙碌的多事的",
+        "pos": "p.p.",
+        "word": "atareado",
+        "definition": "302页",
+        "translation": "p.p. 忙碌的，多事的",
+        "voiceUrl": "modernSpanish/modernSpanish_119/672_忙碌的多事的.mp3"
+    },
+    {
+        "id": "673_任何一个",
+        "pos": "adj.",
+        "word": "cualquier",
+        "definition": "302页",
+        "translation": "adj. 任何一个",
+        "voiceUrl": "modernSpanish/modernSpanish_119/673_任何一个.mp3"
+    },
+    {
+        "id": "674_十一月",
+        "pos": "m.",
+        "word": "noviembre",
+        "definition": "302页",
+        "translation": "m. 十一月",
+        "voiceUrl": "modernSpanish/modernSpanish_119/674_十一月.mp3"
+    },
+    {
+        "id": "675_快迅速",
+        "pos": "f.",
+        "word": "rapidez",
+        "definition": "302页",
+        "translation": "f. 快，迅速",
+        "voiceUrl": "modernSpanish/modernSpanish_119/675_快迅速.mp3"
+    },
+    {
+        "id": "676_拿起乘坐",
+        "pos": "tr.",
+        "word": "coger",
+        "definition": "302页",
+        "translation": "tr. 拿起；乘坐",
+        "voiceUrl": "modernSpanish/modernSpanish_119/676_拿起乘坐.mp3"
+    },
+    {
+        "id": "677_出租车",
+        "pos": "m.",
+        "word": "taxi",
+        "definition": "302页",
+        "translation": "m. 出租车",
+        "voiceUrl": "modernSpanish/modernSpanish_119/677_出租车.mp3"
+    },
+    {
+        "id": "678_到达",
+        "pos": "intr.",
+        "word": "llegar",
+        "definition": "302页",
+        "translation": "intr. 到达",
+        "voiceUrl": "modernSpanish/modernSpanish_119/678_到达.mp3"
+    },
+    {
+        "id": "679_一会儿",
+        "pos": null,
+        "word": "un rato",
+        "definition": "303页",
+        "translation": "一会儿",
+        "voiceUrl": "modernSpanish/modernSpanish_119/679_一会儿.mp3"
+    },
+    {
+        "id": "680_命令整理",
+        "pos": "tr.",
+        "word": "ordenar",
+        "definition": "303页",
+        "translation": "tr. 命令；整理",
+        "voiceUrl": "modernSpanish/modernSpanish_119/680_命令整理.mp3"
+    },
+    {
+        "id": "681_考试",
+        "pos": "m.",
+        "word": "examen",
+        "definition": "303页",
+        "translation": "m. 考试",
+        "voiceUrl": "modernSpanish/modernSpanish_119/681_考试.mp3"
+    },
+    {
+        "id": "682_笔头的",
+        "pos": null,
+        "word": "por escrito",
+        "definition": "303页",
+        "translation": "笔头的",
+        "voiceUrl": "modernSpanish/modernSpanish_119/682_笔头的.mp3"
+    },
+    {
+        "id": "683_地铁",
+        "pos": "m.",
+        "word": "metro",
+        "definition": "303页",
+        "translation": "m. 地铁",
+        "voiceUrl": "modernSpanish/modernSpanish_119/683_地铁.mp3"
+    },
+    {
+        "id": "684_火车",
+        "pos": "m.",
+        "word": "tren",
+        "definition": "303页",
+        "translation": "m. 火车",
+        "voiceUrl": "modernSpanish/modernSpanish_119/684_火车.mp3"
+    },
+    {
+        "id": "685_家庭服务员",
+        "pos": "m.,f.",
+        "word": "asistente,ta",
+        "definition": "303页",
+        "translation": "m.,f. 家庭服务员",
+        "voiceUrl": "modernSpanish/modernSpanish_119/685_家庭服务员.mp3"
+    },
+    {
+        "id": "686_飞快地",
+        "pos": null,
+        "word": "a toda carrera",
+        "definition": "303页",
+        "translation": "飞快地",
+        "voiceUrl": "modernSpanish/modernSpanish_119/686_飞快地.mp3"
+    },
+    {
+        "id": "687_服侍出席",
+        "pos": "tr.,intr.",
+        "word": "asistir",
+        "definition": "303页",
+        "translation": "tr.,intr. 服侍；出席",
+        "voiceUrl": "modernSpanish/modernSpanish_119/687_服侍出席.mp3"
+    },
+    {
+        "id": "688_夜间的",
+        "pos": "adj.",
+        "word": "nocturno",
+        "definition": "303页",
+        "translation": "adj. 夜间的",
+        "voiceUrl": "modernSpanish/modernSpanish_119/688_夜间的.mp3"
+    },
+    {
+        "id": "689_记号符号分数",
+        "pos": "f.",
+        "word": "nota",
+        "definition": "303页",
+        "translation": "f. 记号，符号；分数",
+        "voiceUrl": "modernSpanish/modernSpanish_119/689_记号符号分数.mp3"
+    },
+    {
+        "id": "690_没有人谁也不没",
+        "pos": "pron.",
+        "word": "nadie",
+        "definition": "303页",
+        "translation": "pron. 没有（人），谁也（不，没）",
+        "voiceUrl": "modernSpanish/modernSpanish_119/690_没有人谁也不没.mp3"
+    },
+    {
+        "id": "691_确切地说",
+        "pos": null,
+        "word": "mejor dicho",
+        "definition": "303页",
+        "translation": "确切地说",
+        "voiceUrl": "modernSpanish/modernSpanish_119/691_确切地说.mp3"
+    },
+    {
+        "id": "692_尽快尽早",
+        "pos": null,
+        "word": "cuanto antes",
+        "definition": "302页",
+        "translation": "尽快，尽早",
+        "voiceUrl": "modernSpanish/modernSpanish_119/692_尽快尽早.mp3"
+    },
+    {
+        "id": "693_人事个人的",
+        "pos": "m.;adj.",
+        "word": "personal",
+        "definition": "302页",
+        "translation": "m.;adj. 人事；个人的",
+        "voiceUrl": "modernSpanish/modernSpanish_119/693_人事个人的.mp3"
+    },
+    {
+        "id": "694_下车",
+        "pos": "prnl.",
+        "word": "apearse",
+        "definition": "302页",
+        "translation": "prnl. 下车",
+        "voiceUrl": "modernSpanish/modernSpanish_119/694_下车.mp3"
+    },
+    {
+        "id": "695_跑",
+        "pos": "intr.",
+        "word": "correr",
+        "definition": "302页",
+        "translation": "intr. 跑",
+        "voiceUrl": "modernSpanish/modernSpanish_119/695_跑.mp3"
+    },
+    {
+        "id": "696_向",
+        "pos": "prep.",
+        "word": "hacia",
+        "definition": "302页",
+        "translation": "prep. 向",
+        "voiceUrl": "modernSpanish/modernSpanish_119/696_向.mp3"
+    },
+    {
+        "id": "697_电梯",
+        "pos": "m.",
+        "word": "ascensor",
+        "definition": "302页",
+        "translation": "m. 电梯",
+        "voiceUrl": "modernSpanish/modernSpanish_119/697_电梯.mp3"
+    },
+    {
+        "id": "698_上去运上去",
+        "pos": "intr.,tr.",
+        "word": "subir",
+        "definition": "302页",
+        "translation": "intr.,tr. 上去，运上去",
+        "voiceUrl": "modernSpanish/modernSpanish_119/698_上去运上去.mp3"
+    },
+    {
+        "id": "699_清晨",
+        "pos": "f.",
+        "word": "madrugada",
+        "definition": "303页",
+        "translation": "f. 清晨",
+        "voiceUrl": "modernSpanish/modernSpanish_119/699_清晨.mp3"
+    },
+    {
+        "id": "700_早起",
+        "pos": "intr.",
+        "word": "madrugar",
+        "definition": "303页",
+        "translation": "intr. 早起",
+        "voiceUrl": "modernSpanish/modernSpanish_119/700_早起.mp3"
+    },
+    {
+        "id": "701_办法药剂",
+        "pos": "m.",
+        "word": "remedio",
+        "definition": "303页",
+        "translation": "m. 办法；药剂",
+        "voiceUrl": "modernSpanish/modernSpanish_119/701_办法药剂.mp3"
+    },
+    {
+        "id": "702_火车站",
+        "pos": "f.",
+        "word": "estación",
+        "definition": "303页",
+        "translation": "f. 火车站",
+        "voiceUrl": "modernSpanish/modernSpanish_119/702_火车站.mp3"
+    },
+    {
+        "id": "703_铁路的",
+        "pos": "adj.",
+        "word": "ferroviario",
+        "definition": "303页",
+        "translation": "adj. 铁路的",
+        "voiceUrl": "modernSpanish/modernSpanish_119/703_铁路的.mp3"
+    },
+    {
+        "id": "704_早起的",
+        "pos": "adj.",
+        "word": "madrugador",
+        "definition": "303页",
+        "translation": "adj. 早起的",
+        "voiceUrl": "modernSpanish/modernSpanish_119/704_早起的.mp3"
+    },
+    {
+        "id": "705_发生",
+        "pos": "intr.",
+        "word": "ocurrir",
+        "definition": "303页",
+        "translation": "intr. 发生",
+        "voiceUrl": "modernSpanish/modernSpanish_119/705_发生.mp3"
+    },
+    {
+        "id": "706_迟到",
+        "pos": "m.",
+        "word": "retraso",
+        "definition": "303页",
+        "translation": "m. 迟到",
+        "voiceUrl": "modernSpanish/modernSpanish_119/706_迟到.mp3"
+    },
+    {
+        "id": "707_车厢",
+        "pos": "m.",
+        "word": "vagón",
+        "definition": "303页",
+        "translation": "m. 车厢",
+        "voiceUrl": "modernSpanish/modernSpanish_119/707_车厢.mp3"
+    },
+    {
+        "id": "708_或许",
+        "pos": null,
+        "word": "a lo mejor",
+        "definition": "303页",
+        "translation": "或许",
+        "voiceUrl": "modernSpanish/modernSpanish_119/708_或许.mp3"
+    },
+    {
+        "id": "709_下一个",
+        "pos": "adj.",
+        "word": "próximo",
+        "definition": "303页",
+        "translation": "adj. 下一个",
+        "voiceUrl": "modernSpanish/modernSpanish_119/709_下一个.mp3"
+    },
+    {
+        "id": "710_懂得明白",
+        "pos": "tr.",
+        "word": "entender",
+        "definition": "303页",
+        "translation": "tr. 懂得，明白",
+        "voiceUrl": "modernSpanish/modernSpanish_119/710_懂得明白.mp3"
+    },
+    {
+        "id": "711_极好的优秀的",
+        "pos": "adj.",
+        "word": "excelente",
+        "definition": "303页",
+        "translation": "adj. 极好的，优秀的",
+        "voiceUrl": "modernSpanish/modernSpanish_119/711_极好的优秀的.mp3"
+    },
+    {
+        "id": "712_温和的",
+        "pos": "adj.",
+        "word": "templado",
+        "definition": "303页",
+        "translation": "adj. 温和的",
+        "voiceUrl": "modernSpanish/modernSpanish_119/712_温和的.mp3"
+    },
+    {
+        "id": "713_干的干燥的",
+        "pos": "adj.",
+        "word": "seco",
+        "definition": "303页",
+        "translation": "adj. 干的，干燥的",
+        "voiceUrl": "modernSpanish/modernSpanish_119/713_干的干燥的.mp3"
+    },
+    {
+        "id": "714_多雨的",
+        "pos": "adj.",
+        "word": "lluvioso",
+        "definition": "303页",
+        "translation": "adj. 多雨的",
+        "voiceUrl": "modernSpanish/modernSpanish_119/714_多雨的.mp3"
+    },
+    {
+        "id": "715_温暖的",
+        "pos": "adj.",
+        "word": "cálido",
+        "definition": "303页",
+        "translation": "adj. 温暖的",
+        "voiceUrl": "modernSpanish/modernSpanish_119/715_温暖的.mp3"
+    },
+    {
+        "id": "716_潮湿的",
+        "pos": "adj.",
+        "word": "húmedo",
+        "definition": "303页",
+        "translation": "adj. 潮湿的",
+        "voiceUrl": "modernSpanish/modernSpanish_119/716_潮湿的.mp3"
+    },
+    {
+        "id": "717_炎热的",
+        "pos": "adj.",
+        "word": "caluroso",
+        "definition": "303页",
+        "translation": "adj. 炎热的",
+        "voiceUrl": "modernSpanish/modernSpanish_119/717_炎热的.mp3"
+    }
+]

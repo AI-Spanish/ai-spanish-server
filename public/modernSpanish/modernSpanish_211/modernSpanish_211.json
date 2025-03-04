@@ -1,0 +1,386 @@
+[
+    {
+        "id": "478_通过赞同",
+        "pos": "tr.",
+        "word": "aprobar",
+        "definition": "227页",
+        "translation": "tr. 通过，赞同",
+        "voiceUrl": "modernSpanish/modernSpanish_211/478_通过赞同.mp3"
+    },
+    {
+        "id": "479_加入进入",
+        "pos": "intr.",
+        "word": "ingresar",
+        "definition": "227页",
+        "translation": "intr. 加入，进入",
+        "voiceUrl": "modernSpanish/modernSpanish_211/479_加入进入.mp3"
+    },
+    {
+        "id": "480_日期",
+        "pos": "f.",
+        "word": "fecha",
+        "definition": "227页",
+        "translation": "f. 日期",
+        "voiceUrl": "modernSpanish/modernSpanish_211/480_日期.mp3"
+    },
+    {
+        "id": "481_出生",
+        "pos": "m.",
+        "word": "nacimiento",
+        "definition": "227页",
+        "translation": "m. 出生",
+        "voiceUrl": "modernSpanish/modernSpanish_211/481_出生.mp3"
+    },
+    {
+        "id": "482_出生",
+        "pos": "intr.",
+        "word": "nacer",
+        "definition": "227页",
+        "translation": "intr. 出生",
+        "voiceUrl": "modernSpanish/modernSpanish_211/482_出生.mp3"
+    },
+    {
+        "id": "483_二月",
+        "pos": "m.",
+        "word": "febrero",
+        "definition": "227页",
+        "translation": "m. 二月",
+        "voiceUrl": "modernSpanish/modernSpanish_211/483_二月.mp3"
+    },
+    {
+        "id": "484_工作就业",
+        "pos": "m.",
+        "word": "empleo",
+        "definition": "227页",
+        "translation": "m. 工作，就业",
+        "voiceUrl": "modernSpanish/modernSpanish_211/484_工作就业.mp3"
+    },
+    {
+        "id": "485_照看照顾",
+        "pos": "tr.,intr.",
+        "word": "ciudar",
+        "definition": "227页",
+        "translation": "tr.,intr. 照看，照顾",
+        "voiceUrl": "modernSpanish/modernSpanish_211/485_照看照顾.mp3"
+    },
+    {
+        "id": "486_长子",
+        "pos": "adj. -s",
+        "word": "primogénito",
+        "definition": "227页",
+        "translation": "adj. -s 长子",
+        "voiceUrl": "modernSpanish/modernSpanish_211/486_长子.mp3"
+    },
+    {
+        "id": "487_实现",
+        "pos": "tr.",
+        "word": "realizar",
+        "definition": "227页",
+        "translation": "tr. 实现",
+        "voiceUrl": "modernSpanish/modernSpanish_211/487_实现.mp3"
+    },
+    {
+        "id": "488_七月",
+        "pos": "m.",
+        "word": "julio",
+        "definition": "227页",
+        "translation": "m. 七月",
+        "voiceUrl": "modernSpanish/modernSpanish_211/488_七月.mp3"
+    },
+    {
+        "id": "489_大学预科",
+        "pos": "m.",
+        "word": "preparatorio",
+        "definition": "227页",
+        "translation": "m. 大学预科",
+        "voiceUrl": "modernSpanish/modernSpanish_211/489_大学预科.mp3"
+    },
+    {
+        "id": "490_足够的",
+        "pos": "adj.",
+        "word": "suficiente",
+        "definition": "228页",
+        "translation": "adj. 足够的",
+        "voiceUrl": "modernSpanish/modernSpanish_211/490_足够的.mp3"
+    },
+    {
+        "id": "491_钱",
+        "pos": "m.",
+        "word": "dinero",
+        "definition": "228页",
+        "translation": "m. 钱",
+        "voiceUrl": "modernSpanish/modernSpanish_211/491_钱.mp3"
+    },
+    {
+        "id": "492_什么都",
+        "pos": null,
+        "word": "de todo",
+        "definition": "228页",
+        "translation": "什么都",
+        "voiceUrl": "modernSpanish/modernSpanish_211/492_什么都.mp3"
+    },
+    {
+        "id": "493_美洲小汽车",
+        "pos": "m.",
+        "word": "carro",
+        "definition": "228页",
+        "translation": "m. （美洲）小汽车",
+        "voiceUrl": "modernSpanish/modernSpanish_211/493_美洲小汽车.mp3"
+    },
+    {
+        "id": "494_机械学",
+        "pos": "f.",
+        "word": "mecánica",
+        "definition": "228页",
+        "translation": "f. 机械学",
+        "voiceUrl": "modernSpanish/modernSpanish_211/494_机械学.mp3"
+    },
+    {
+        "id": "495_机械的",
+        "pos": "adj.",
+        "word": "mecánico",
+        "definition": "228页",
+        "translation": "adj. 机械的",
+        "voiceUrl": "modernSpanish/modernSpanish_211/495_机械的.mp3"
+    },
+    {
+        "id": "496_机器",
+        "pos": "f.",
+        "word": "máquina",
+        "definition": "228页",
+        "translation": "f. 机器",
+        "voiceUrl": "modernSpanish/modernSpanish_211/496_机器.mp3"
+    },
+    {
+        "id": "497_拆卸",
+        "pos": "tr.",
+        "word": "deshacer",
+        "definition": "228页",
+        "translation": "tr. 拆卸",
+        "voiceUrl": "modernSpanish/modernSpanish_211/497_拆卸.mp3"
+    },
+    {
+        "id": "498_玩具",
+        "pos": "m.",
+        "word": "juguete",
+        "definition": "228页",
+        "translation": "m. 玩具",
+        "voiceUrl": "modernSpanish/modernSpanish_211/498_玩具.mp3"
+    },
+    {
+        "id": "499_重做",
+        "pos": "tr.",
+        "word": "rehacer",
+        "definition": "228页",
+        "translation": "tr. 重做",
+        "voiceUrl": "modernSpanish/modernSpanish_211/499_重做.mp3"
+    },
+    {
+        "id": "500_试图",
+        "pos": null,
+        "word": "tratar de",
+        "definition": "228页",
+        "translation": "试图",
+        "voiceUrl": "modernSpanish/modernSpanish_211/500_试图.mp3"
+    },
+    {
+        "id": "501_修理",
+        "pos": "tr.",
+        "word": "reparar",
+        "definition": "228页",
+        "translation": "tr. 修理",
+        "voiceUrl": "modernSpanish/modernSpanish_211/501_修理.mp3"
+    },
+    {
+        "id": "502_器具器官",
+        "pos": "m.",
+        "word": "aparato",
+        "definition": "228页",
+        "translation": "m. 器具，器官",
+        "voiceUrl": "modernSpanish/modernSpanish_211/502_器具器官.mp3"
+    },
+    {
+        "id": "503_轮班",
+        "pos": null,
+        "word": "por turno",
+        "definition": "228页",
+        "translation": "轮班",
+        "voiceUrl": "modernSpanish/modernSpanish_211/503_轮班.mp3"
+    },
+    {
+        "id": "504_承受",
+        "pos": "tr.",
+        "word": "soportar",
+        "definition": "228页",
+        "translation": "tr. 承受",
+        "voiceUrl": "modernSpanish/modernSpanish_211/504_承受.mp3"
+    },
+    {
+        "id": "505_习惯于",
+        "pos": "tr.",
+        "word": "acostumbrar",
+        "definition": "228页",
+        "translation": "tr. 习惯于",
+        "voiceUrl": "modernSpanish/modernSpanish_211/505_习惯于.mp3"
+    },
+    {
+        "id": "506_被接纳",
+        "pos": "p.p.",
+        "word": "admitido",
+        "definition": "228页",
+        "translation": "p.p. 被接纳",
+        "voiceUrl": "modernSpanish/modernSpanish_211/506_被接纳.mp3"
+    },
+    {
+        "id": "507_填满",
+        "pos": "tr.",
+        "word": "llenar",
+        "definition": "228页",
+        "translation": "tr. 填满",
+        "voiceUrl": "modernSpanish/modernSpanish_211/507_填满.mp3"
+    },
+    {
+        "id": "508_表格",
+        "pos": "m.",
+        "word": "formulario",
+        "definition": "228页",
+        "translation": "m. 表格",
+        "voiceUrl": "modernSpanish/modernSpanish_211/508_表格.mp3"
+    },
+    {
+        "id": "509_幸运的",
+        "pos": "adj.",
+        "word": "afortunado",
+        "definition": "228页",
+        "translation": "adj. 幸运的",
+        "voiceUrl": "modernSpanish/modernSpanish_211/509_幸运的.mp3"
+    },
+    {
+        "id": "510_尽管",
+        "pos": null,
+        "word": "a pesar de",
+        "definition": "228页",
+        "translation": "尽管",
+        "voiceUrl": "modernSpanish/modernSpanish_211/510_尽管.mp3"
+    },
+    {
+        "id": "511_放置就业",
+        "pos": "tr.,prnl.",
+        "word": "colocar(se)",
+        "definition": "228页",
+        "translation": "tr.,prnl. 放置；就业",
+        "voiceUrl": "modernSpanish/modernSpanish_211/511_放置就业.mp3"
+    },
+    {
+        "id": "512_现代的",
+        "pos": "adj.",
+        "word": "moderno",
+        "definition": "228页",
+        "translation": "adj. 现代的",
+        "voiceUrl": "modernSpanish/modernSpanish_211/512_现代的.mp3"
+    },
+    {
+        "id": "513_患有",
+        "pos": "intr.",
+        "word": "adolecer",
+        "definition": "228页",
+        "translation": "intr. 患有",
+        "voiceUrl": "modernSpanish/modernSpanish_211/513_患有.mp3"
+    },
+    {
+        "id": "514_毛病祸殃",
+        "pos": "m.",
+        "word": "mal",
+        "definition": "228页",
+        "translation": "m. 毛病，祸殃",
+        "voiceUrl": "modernSpanish/modernSpanish_211/514_毛病祸殃.mp3"
+    },
+    {
+        "id": "515_失业",
+        "pos": "m.",
+        "word": "desempleo",
+        "definition": "228页",
+        "translation": "m. 失业",
+        "voiceUrl": "modernSpanish/modernSpanish_211/515_失业.mp3"
+    },
+    {
+        "id": "516_失业",
+        "pos": "m.",
+        "word": "paro",
+        "definition": "228页",
+        "translation": "m. 失业",
+        "voiceUrl": "modernSpanish/modernSpanish_211/516_失业.mp3"
+    },
+    {
+        "id": "517_影响波及",
+        "pos": "intr.",
+        "word": "afectar",
+        "definition": "228页",
+        "translation": "intr. 影响波及",
+        "voiceUrl": "modernSpanish/modernSpanish_211/517_影响波及.mp3"
+    },
+    {
+        "id": "518_国家民族",
+        "pos": "f.",
+        "word": "nación",
+        "definition": "228页",
+        "translation": "f. 国家，民族",
+        "voiceUrl": "modernSpanish/modernSpanish_211/518_国家民族.mp3"
+    },
+    {
+        "id": "519_发展的发达的",
+        "pos": "p.p.",
+        "word": "desarrollado",
+        "definition": "228页",
+        "translation": "p.p. 发展的，发达的",
+        "voiceUrl": "modernSpanish/modernSpanish_211/519_发展的发达的.mp3"
+    },
+    {
+        "id": "520_解决",
+        "pos": "f.",
+        "word": "solución",
+        "definition": "228页",
+        "translation": "f. 解决",
+        "voiceUrl": "modernSpanish/modernSpanish_211/520_解决.mp3"
+    },
+    {
+        "id": "521_一月",
+        "pos": "m.",
+        "word": "enero",
+        "definition": "228页",
+        "translation": "m. 一月",
+        "voiceUrl": "modernSpanish/modernSpanish_211/521_一月.mp3"
+    },
+    {
+        "id": "522_三月",
+        "pos": "m.",
+        "word": "marzo",
+        "definition": "228页",
+        "translation": "m. 三月",
+        "voiceUrl": "modernSpanish/modernSpanish_211/522_三月.mp3"
+    },
+    {
+        "id": "523_四月",
+        "pos": "m.",
+        "word": "abril",
+        "definition": "228页",
+        "translation": "m. 四月",
+        "voiceUrl": "modernSpanish/modernSpanish_211/523_四月.mp3"
+    },
+    {
+        "id": "524_五月",
+        "pos": "m.",
+        "word": "mayo",
+        "definition": "228页",
+        "translation": "m. 五月",
+        "voiceUrl": "modernSpanish/modernSpanish_211/524_五月.mp3"
+    },
+    {
+        "id": "525_六月",
+        "pos": "m.",
+        "word": "junio",
+        "definition": "228页",
+        "translation": "m. 六月",
+        "voiceUrl": "modernSpanish/modernSpanish_211/525_六月.mp3"
+    }
+]

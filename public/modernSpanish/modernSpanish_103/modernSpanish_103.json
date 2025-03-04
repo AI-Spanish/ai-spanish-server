@@ -1,0 +1,274 @@
+[
+    {
+        "id": "49_哪里",
+        "pos": "adv.",
+        "word": "dónde",
+        "definition": "41页",
+        "translation": "adv. 哪里",
+        "voiceUrl": "modernSpanish/modernSpanish_103/49_哪里.mp3"
+    },
+    {
+        "id": "50_在位于",
+        "pos": "intr.",
+        "word": "estar",
+        "definition": "41页",
+        "translation": "intr. 在；位于……",
+        "voiceUrl": "modernSpanish/modernSpanish_103/50_在位于.mp3"
+    },
+    {
+        "id": "51_阴性单数定冠词",
+        "pos": "art.",
+        "word": "la",
+        "definition": "41页",
+        "translation": "art. 阴性单数定冠词",
+        "voiceUrl": "modernSpanish/modernSpanish_103/51_阴性单数定冠词.mp3"
+    },
+    {
+        "id": "52_家房子",
+        "pos": "f.",
+        "word": "casa",
+        "definition": "41页",
+        "translation": "f. 家，房子",
+        "voiceUrl": "modernSpanish/modernSpanish_103/52_家房子.mp3"
+    },
+    {
+        "id": "53_有",
+        "pos": "intr.",
+        "word": "haber",
+        "definition": "41页",
+        "translation": "intr. 有",
+        "voiceUrl": "modernSpanish/modernSpanish_103/53_有.mp3"
+    },
+    {
+        "id": "54_我的",
+        "pos": "adj.",
+        "word": "mi",
+        "definition": "41页",
+        "translation": "adj. 我的",
+        "voiceUrl": "modernSpanish/modernSpanish_103/54_我的.mp3"
+    },
+    {
+        "id": "55_在里面",
+        "pos": "prep.",
+        "word": "en",
+        "definition": "41页",
+        "translation": "prep. 在……里面",
+        "voiceUrl": "modernSpanish/modernSpanish_103/55_在里面.mp3"
+    },
+    {
+        "id": "56_阳性单数不定冠词",
+        "pos": "art.",
+        "word": "un",
+        "definition": "41页",
+        "translation": "art. 阳性单数不定冠词",
+        "voiceUrl": "modernSpanish/modernSpanish_103/56_阳性单数不定冠词.mp3"
+    },
+    {
+        "id": "57_厅",
+        "pos": "f.",
+        "word": "sala",
+        "definition": "41页",
+        "translation": "f. 厅",
+        "voiceUrl": "modernSpanish/modernSpanish_103/57_厅.mp3"
+    },
+    {
+        "id": "58_厨房",
+        "pos": "f.",
+        "word": "cocina",
+        "definition": "41页",
+        "translation": "f. 厨房",
+        "voiceUrl": "modernSpanish/modernSpanish_103/58_厨房.mp3"
+    },
+    {
+        "id": "59_卧室",
+        "pos": "m.",
+        "word": "dormitorio",
+        "definition": "41页",
+        "translation": "m. 卧室",
+        "voiceUrl": "modernSpanish/modernSpanish_103/59_卧室.mp3"
+    },
+    {
+        "id": "60_桌子",
+        "pos": "f.",
+        "word": "mesa",
+        "definition": "41页",
+        "translation": "f. 桌子",
+        "voiceUrl": "modernSpanish/modernSpanish_103/60_桌子.mp3"
+    },
+    {
+        "id": "61_沙发",
+        "pos": "m.",
+        "word": "sofá",
+        "definition": "41页",
+        "translation": "m. 沙发",
+        "voiceUrl": "modernSpanish/modernSpanish_103/61_沙发.mp3"
+    },
+    {
+        "id": "62_床",
+        "pos": "f.",
+        "word": "cama",
+        "definition": "41页",
+        "translation": "f. 床",
+        "voiceUrl": "modernSpanish/modernSpanish_103/62_床.mp3"
+    },
+    {
+        "id": "63_儿子女儿",
+        "pos": "m.,f.",
+        "word": "hijo,a",
+        "definition": "41页",
+        "translation": "m.,f. 儿子，女儿",
+        "voiceUrl": "modernSpanish/modernSpanish_103/63_儿子女儿.mp3"
+    },
+    {
+        "id": "64_那个",
+        "pos": "pron.",
+        "word": "aquél,lla",
+        "definition": "41页",
+        "translation": "pron. 那个",
+        "voiceUrl": "modernSpanish/modernSpanish_103/64_那个.mp3"
+    },
+    {
+        "id": "65_公务员",
+        "pos": "m.,f.",
+        "word": "funcionario,ria",
+        "definition": "41页",
+        "translation": "m.,f. 公务员",
+        "voiceUrl": "modernSpanish/modernSpanish_103/65_公务员.mp3"
+    },
+    {
+        "id": "66_阳性单数定冠词",
+        "pos": "art.",
+        "word": "el",
+        "definition": "41页",
+        "translation": "art. 阳性单数定冠词",
+        "voiceUrl": "modernSpanish/modernSpanish_103/66_阳性单数定冠词.mp3"
+    },
+    {
+        "id": "67_办公室",
+        "pos": "f.",
+        "word": "oficina",
+        "definition": "41页",
+        "translation": "f. 办公室",
+        "voiceUrl": "modernSpanish/modernSpanish_103/67_办公室.mp3"
+    },
+    {
+        "id": "68_中心",
+        "pos": "m.",
+        "word": "centro",
+        "definition": "41页",
+        "translation": "m. 中心",
+        "voiceUrl": "modernSpanish/modernSpanish_103/68_中心.mp3"
+    },
+    {
+        "id": "69_城市",
+        "pos": "f.",
+        "word": "ciudad",
+        "definition": "41页",
+        "translation": "f. 城市",
+        "voiceUrl": "modernSpanish/modernSpanish_103/69_城市.mp3"
+    },
+    {
+        "id": "70_在附近",
+        "pos": null,
+        "word": "cerca de",
+        "definition": "41页",
+        "translation": "在……附近",
+        "voiceUrl": "modernSpanish/modernSpanish_103/70_在附近.mp3"
+    },
+    {
+        "id": "71_机械师",
+        "pos": "m.,f.",
+        "word": "mecánico,ca",
+        "definition": "41页",
+        "translation": "m.,f. 机械师",
+        "voiceUrl": "modernSpanish/modernSpanish_103/71_机械师.mp3"
+    },
+    {
+        "id": "72_你们的",
+        "pos": "adj.",
+        "word": "vuestro",
+        "definition": "41页",
+        "translation": "adj. 你们的",
+        "voiceUrl": "modernSpanish/modernSpanish_103/72_你们的.mp3"
+    },
+    {
+        "id": "73_我们的",
+        "pos": "adj.",
+        "word": "nuestro",
+        "definition": "41页",
+        "translation": "adj. 我们的",
+        "voiceUrl": "modernSpanish/modernSpanish_103/73_我们的.mp3"
+    },
+    {
+        "id": "74_工厂",
+        "pos": "f.",
+        "word": "fábrica",
+        "definition": "41页",
+        "translation": "f. 工厂",
+        "voiceUrl": "modernSpanish/modernSpanish_103/74_工厂.mp3"
+    },
+    {
+        "id": "75_阴性复数定冠词",
+        "pos": "art.",
+        "word": "las",
+        "definition": "41页",
+        "translation": "art. 阴性复数定冠词",
+        "voiceUrl": "modernSpanish/modernSpanish_103/75_阴性复数定冠词.mp3"
+    },
+    {
+        "id": "76_郊外",
+        "pos": "f. Pl.",
+        "word": "afueras",
+        "definition": "41页",
+        "translation": "f. Pl. 郊外",
+        "voiceUrl": "modernSpanish/modernSpanish_103/76_郊外.mp3"
+    },
+    {
+        "id": "77_很多",
+        "pos": "adj.",
+        "word": "mucho",
+        "definition": "41页",
+        "translation": "adj. 很多",
+        "voiceUrl": "modernSpanish/modernSpanish_103/77_很多.mp3"
+    },
+    {
+        "id": "78_职工",
+        "pos": "m.,f.",
+        "word": "empleado,da",
+        "definition": "41页",
+        "translation": "m.,f. 职工",
+        "voiceUrl": "modernSpanish/modernSpanish_103/78_职工.mp3"
+    },
+    {
+        "id": "79_五",
+        "pos": "num.",
+        "word": "cinco",
+        "definition": "42页",
+        "translation": "num. 五",
+        "voiceUrl": "modernSpanish/modernSpanish_103/79_五.mp3"
+    },
+    {
+        "id": "80_六",
+        "pos": "num.",
+        "word": "seis",
+        "definition": "42页",
+        "translation": "num. 六",
+        "voiceUrl": "modernSpanish/modernSpanish_103/80_六.mp3"
+    },
+    {
+        "id": "81_七",
+        "pos": "num.",
+        "word": "siete",
+        "definition": "42页",
+        "translation": "num. 七",
+        "voiceUrl": "modernSpanish/modernSpanish_103/81_七.mp3"
+    },
+    {
+        "id": "82_八",
+        "pos": "num.",
+        "word": "ocho",
+        "definition": "42页",
+        "translation": "num. 八",
+        "voiceUrl": "modernSpanish/modernSpanish_103/82_八.mp3"
+    }
+]

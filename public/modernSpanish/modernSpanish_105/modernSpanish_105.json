@@ -1,0 +1,202 @@
+[
+    {
+        "id": "113_这这个",
+        "pos": "pron.",
+        "word": "esto",
+        "definition": "73页",
+        "translation": "pron. 这，这个",
+        "voiceUrl": "modernSpanish/modernSpanish_105/113_这这个.mp3"
+    },
+    {
+        "id": "114_衣柜",
+        "pos": "m.",
+        "word": "armario",
+        "definition": "73页",
+        "translation": "m. 衣柜",
+        "voiceUrl": "modernSpanish/modernSpanish_105/114_衣柜.mp3"
+    },
+    {
+        "id": "115_里面",
+        "pos": "adv.",
+        "word": "dentro",
+        "definition": "73页",
+        "translation": "adv. 里面",
+        "voiceUrl": "modernSpanish/modernSpanish_105/115_里面.mp3"
+    },
+    {
+        "id": "116_衣服",
+        "pos": "f.",
+        "word": "ropa",
+        "definition": "73页",
+        "translation": "f. 衣服",
+        "voiceUrl": "modernSpanish/modernSpanish_105/116_衣服.mp3"
+    },
+    {
+        "id": "117_外衣",
+        "pos": "f.",
+        "word": "chaqueta",
+        "definition": "73页",
+        "translation": "f. 外衣",
+        "voiceUrl": "modernSpanish/modernSpanish_105/117_外衣.mp3"
+    },
+    {
+        "id": "118_裤子",
+        "pos": "m.",
+        "word": "pantalón",
+        "definition": "73页",
+        "translation": "m. 裤子",
+        "voiceUrl": "modernSpanish/modernSpanish_105/118_裤子.mp3"
+    },
+    {
+        "id": "119_男衬衣",
+        "pos": "f.",
+        "word": "camisa",
+        "definition": "73页",
+        "translation": "f. 男衬衣",
+        "voiceUrl": "modernSpanish/modernSpanish_105/119_男衬衣.mp3"
+    },
+    {
+        "id": "120_袜子",
+        "pos": "m.",
+        "word": "calcetín",
+        "definition": "73页",
+        "translation": "m. 袜子",
+        "voiceUrl": "modernSpanish/modernSpanish_105/120_袜子.mp3"
+    },
+    {
+        "id": "121_那个",
+        "pos": "pron.",
+        "word": "ése,sa",
+        "definition": "73页",
+        "translation": "pron. 那个",
+        "voiceUrl": "modernSpanish/modernSpanish_105/121_那个.mp3"
+    },
+    {
+        "id": "122_蓝色的",
+        "pos": "adj.",
+        "word": "azul",
+        "definition": "73页",
+        "translation": "adj. 蓝色的",
+        "voiceUrl": "modernSpanish/modernSpanish_105/122_蓝色的.mp3"
+    },
+    {
+        "id": "123_黑色的",
+        "pos": "adj.",
+        "word": "negro",
+        "definition": "73页",
+        "translation": "adj. 黑色的",
+        "voiceUrl": "modernSpanish/modernSpanish_105/123_黑色的.mp3"
+    },
+    {
+        "id": "124_白色的",
+        "pos": "adj.",
+        "word": "blanco",
+        "definition": "73页",
+        "translation": "adj. 白色的",
+        "voiceUrl": "modernSpanish/modernSpanish_105/124_白色的.mp3"
+    },
+    {
+        "id": "125_这里",
+        "pos": "adv.",
+        "word": "aquí",
+        "definition": "73页",
+        "translation": "adv. 这里",
+        "voiceUrl": "modernSpanish/modernSpanish_105/125_这里.mp3"
+    },
+    {
+        "id": "126_但是",
+        "pos": "conj.",
+        "word": "pero",
+        "definition": "73页",
+        "translation": "conj. 但是",
+        "voiceUrl": "modernSpanish/modernSpanish_105/126_但是.mp3"
+    },
+    {
+        "id": "127_也不",
+        "pos": "adv.",
+        "word": "tampoco",
+        "definition": "73页",
+        "translation": "adv. 也不",
+        "voiceUrl": "modernSpanish/modernSpanish_105/127_也不.mp3"
+    },
+    {
+        "id": "128_难看的",
+        "pos": "adj.",
+        "word": "feo",
+        "definition": "73页",
+        "translation": "adj. 难看的",
+        "voiceUrl": "modernSpanish/modernSpanish_105/128_难看的.mp3"
+    },
+    {
+        "id": "129_多少",
+        "pos": "adj.",
+        "word": "cuántos",
+        "definition": "73页",
+        "translation": "adj. 多少",
+        "voiceUrl": "modernSpanish/modernSpanish_105/129_多少.mp3"
+    },
+    {
+        "id": "130_这些",
+        "pos": "adj.",
+        "word": "estos,tas",
+        "definition": "73页",
+        "translation": "adj. 这些",
+        "voiceUrl": "modernSpanish/modernSpanish_105/130_这些.mp3"
+    },
+    {
+        "id": "131_那个",
+        "pos": "adj.",
+        "word": "ese,sa",
+        "definition": "73页",
+        "translation": "adj. 那个",
+        "voiceUrl": "modernSpanish/modernSpanish_105/131_那个.mp3"
+    },
+    {
+        "id": "132_那些",
+        "pos": "adj.",
+        "word": "esos,sas",
+        "definition": "73页",
+        "translation": "adj. 那些",
+        "voiceUrl": "modernSpanish/modernSpanish_105/132_那些.mp3"
+    },
+    {
+        "id": "133_那个",
+        "pos": "adj.",
+        "word": "aquel,lla",
+        "definition": "73页",
+        "translation": "adj. 那个",
+        "voiceUrl": "modernSpanish/modernSpanish_105/133_那个.mp3"
+    },
+    {
+        "id": "134_那些",
+        "pos": "adj.",
+        "word": "aquellos,llas",
+        "definition": "73页",
+        "translation": "adj. 那些",
+        "voiceUrl": "modernSpanish/modernSpanish_105/134_那些.mp3"
+    },
+    {
+        "id": "135_十三",
+        "pos": "num.",
+        "word": "trece",
+        "definition": "73页",
+        "translation": "num. 十三",
+        "voiceUrl": "modernSpanish/modernSpanish_105/135_十三.mp3"
+    },
+    {
+        "id": "136_十四",
+        "pos": "num.",
+        "word": "catorce",
+        "definition": "73页",
+        "translation": "num. 十四",
+        "voiceUrl": "modernSpanish/modernSpanish_105/136_十四.mp3"
+    },
+    {
+        "id": "137_十五",
+        "pos": "num.",
+        "word": "quince",
+        "definition": "73页",
+        "translation": "num. 十五",
+        "voiceUrl": "modernSpanish/modernSpanish_105/137_十五.mp3"
+    }
+]

@@ -1,0 +1,378 @@
+[
+    {
+        "id": "166_译员口译",
+        "pos": "m.,f.",
+        "word": "intérprete",
+        "definition": "73页",
+        "translation": "m.,f. 译员（口译）",
+        "voiceUrl": "modernSpanish/modernSpanish_204/166_译员口译.mp3"
+    },
+    {
+        "id": "167_充当",
+        "pos": null,
+        "word": "servir de",
+        "definition": "73页",
+        "translation": "充当",
+        "voiceUrl": "modernSpanish/modernSpanish_204/167_充当.mp3"
+    },
+    {
+        "id": "168_飞机场",
+        "pos": "m.",
+        "word": "aeropuerto",
+        "definition": "73页",
+        "translation": "m. 飞机场",
+        "voiceUrl": "modernSpanish/modernSpanish_204/168_飞机场.mp3"
+    },
+    {
+        "id": "169_星星",
+        "pos": "f.",
+        "word": "estrella",
+        "definition": "73页",
+        "translation": "f. 星星",
+        "voiceUrl": "modernSpanish/modernSpanish_204/169_星星.mp3"
+    },
+    {
+        "id": "170_行李",
+        "pos": "m.",
+        "word": "equipaje",
+        "definition": "73页",
+        "translation": "m. 行李",
+        "voiceUrl": "modernSpanish/modernSpanish_204/170_行李.mp3"
+    },
+    {
+        "id": "171_终于",
+        "pos": null,
+        "word": "por fin",
+        "definition": "73页",
+        "translation": "终于",
+        "voiceUrl": "modernSpanish/modernSpanish_204/171_终于.mp3"
+    },
+    {
+        "id": "172_解决",
+        "pos": "tr.",
+        "word": "resolver",
+        "definition": "73页",
+        "translation": "tr. 解决",
+        "voiceUrl": "modernSpanish/modernSpanish_204/172_解决.mp3"
+    },
+    {
+        "id": "173_满意高兴",
+        "pos": "adj.",
+        "word": "contento",
+        "definition": "73页",
+        "translation": "adj. 满意，高兴",
+        "voiceUrl": "modernSpanish/modernSpanish_204/173_满意高兴.mp3"
+    },
+    {
+        "id": "174_箱子",
+        "pos": "f.",
+        "word": "maleta",
+        "definition": "73页",
+        "translation": "f. 箱子",
+        "voiceUrl": "modernSpanish/modernSpanish_204/174_箱子.mp3"
+    },
+    {
+        "id": "175_旅行",
+        "pos": "m.",
+        "word": "viaje",
+        "definition": "73页",
+        "translation": "m. 旅行",
+        "voiceUrl": "modernSpanish/modernSpanish_204/175_旅行.mp3"
+    },
+    {
+        "id": "176_累疲倦",
+        "pos": "adj.",
+        "word": "cansado",
+        "definition": "73页",
+        "translation": "adj. 累，疲倦",
+        "voiceUrl": "modernSpanish/modernSpanish_204/176_累疲倦.mp3"
+    },
+    {
+        "id": "177_小组",
+        "pos": "m.",
+        "word": "grupo",
+        "definition": "73页",
+        "translation": "m. 小组",
+        "voiceUrl": "modernSpanish/modernSpanish_204/177_小组.mp3"
+    },
+    {
+        "id": "178_开玩笑",
+        "pos": "intr.",
+        "word": "bromear",
+        "definition": "73页",
+        "translation": "intr. 开玩笑",
+        "voiceUrl": "modernSpanish/modernSpanish_204/178_开玩笑.mp3"
+    },
+    {
+        "id": "179_饥饿",
+        "pos": "f.",
+        "word": "hambre",
+        "definition": "73页",
+        "translation": "f. 饥饿",
+        "voiceUrl": "modernSpanish/modernSpanish_204/179_饥饿.mp3"
+    },
+    {
+        "id": "180_对不起",
+        "pos": "m.",
+        "word": "perdón",
+        "definition": "73页",
+        "translation": "m. 对不起",
+        "voiceUrl": "modernSpanish/modernSpanish_204/180_对不起.mp3"
+    },
+    {
+        "id": "181_麻烦",
+        "pos": "m.",
+        "word": "lío",
+        "definition": "73页",
+        "translation": "m. 麻烦",
+        "voiceUrl": "modernSpanish/modernSpanish_204/181_麻烦.mp3"
+    },
+    {
+        "id": "182_细节",
+        "pos": "m.",
+        "word": "detalle",
+        "definition": "73页",
+        "translation": "m. 细节",
+        "voiceUrl": "modernSpanish/modernSpanish_204/182_细节.mp3"
+    },
+    {
+        "id": "183_自然的",
+        "pos": "adj.",
+        "word": "natural",
+        "definition": "74页",
+        "translation": "adj. 自然的",
+        "voiceUrl": "modernSpanish/modernSpanish_204/183_自然的.mp3"
+    },
+    {
+        "id": "184_发现",
+        "pos": "tr.",
+        "word": "descubrir",
+        "definition": "74页",
+        "translation": "tr. 发现",
+        "voiceUrl": "modernSpanish/modernSpanish_204/184_发现.mp3"
+    },
+    {
+        "id": "185_指示说明",
+        "pos": "f.",
+        "word": "instrucción",
+        "definition": "74页",
+        "translation": "f. 指示，说明",
+        "voiceUrl": "modernSpanish/modernSpanish_204/185_指示说明.mp3"
+    },
+    {
+        "id": "186_原谅",
+        "pos": "tr.",
+        "word": "disculpar",
+        "definition": "74页",
+        "translation": "tr. 原谅",
+        "voiceUrl": "modernSpanish/modernSpanish_204/186_原谅.mp3"
+    },
+    {
+        "id": "187_打搅",
+        "pos": "f.",
+        "word": "molestia",
+        "definition": "74页",
+        "translation": "f. 打搅",
+        "voiceUrl": "modernSpanish/modernSpanish_204/187_打搅.mp3"
+    },
+    {
+        "id": "188_责任",
+        "pos": "m.",
+        "word": "deber",
+        "definition": "74页",
+        "translation": "m. 责任",
+        "voiceUrl": "modernSpanish/modernSpanish_204/188_责任.mp3"
+    },
+    {
+        "id": "189_拥挤紧凑",
+        "pos": "p.p.",
+        "word": "apretado",
+        "definition": "74页",
+        "translation": "p.p. 拥挤，紧凑",
+        "voiceUrl": "modernSpanish/modernSpanish_204/189_拥挤紧凑.mp3"
+    },
+    {
+        "id": "190_前厅",
+        "pos": "m.",
+        "word": "vestíbulo",
+        "definition": "74页",
+        "translation": "m. 前厅",
+        "voiceUrl": "modernSpanish/modernSpanish_204/190_前厅.mp3"
+    },
+    {
+        "id": "191_守护天使",
+        "pos": null,
+        "word": "ángel de la guarda",
+        "definition": "74页",
+        "translation": "守护天使",
+        "voiceUrl": "modernSpanish/modernSpanish_204/191_守护天使.mp3"
+    },
+    {
+        "id": "192_正是",
+        "pos": "adv.",
+        "word": "precisamente",
+        "definition": "74页",
+        "translation": "adv. 正是",
+        "voiceUrl": "modernSpanish/modernSpanish_204/192_正是.mp3"
+    },
+    {
+        "id": "193_记事本",
+        "pos": "f.",
+        "word": "agenda",
+        "definition": "74页",
+        "translation": "f. 记事本",
+        "voiceUrl": "modernSpanish/modernSpanish_204/193_记事本.mp3"
+    },
+    {
+        "id": "194_圆珠笔",
+        "pos": "m.",
+        "word": "bolígrafo",
+        "definition": "74页",
+        "translation": "m. 圆珠笔",
+        "voiceUrl": "modernSpanish/modernSpanish_204/194_圆珠笔.mp3"
+    },
+    {
+        "id": "195_记录",
+        "pos": "tr.",
+        "word": "anotar",
+        "definition": "74页",
+        "translation": "tr. 记录",
+        "voiceUrl": "modernSpanish/modernSpanish_204/195_记录.mp3"
+    },
+    {
+        "id": "196_健忘",
+        "pos": "adj.",
+        "word": "olvidadizo",
+        "definition": "74页",
+        "translation": "adj. 健忘",
+        "voiceUrl": "modernSpanish/modernSpanish_204/196_健忘.mp3"
+    },
+    {
+        "id": "197_历史",
+        "pos": "f.",
+        "word": "historia",
+        "definition": "74页",
+        "translation": "f. 历史",
+        "voiceUrl": "modernSpanish/modernSpanish_204/197_历史.mp3"
+    },
+    {
+        "id": "198_革命",
+        "pos": "f.",
+        "word": "revoluvión",
+        "definition": "74页",
+        "translation": "f. 革命",
+        "voiceUrl": "modernSpanish/modernSpanish_204/198_革命.mp3"
+    },
+    {
+        "id": "199_庙宇寺院",
+        "pos": "m.",
+        "word": "templo",
+        "definition": "74页",
+        "translation": "m. 庙宇，寺院",
+        "voiceUrl": "modernSpanish/modernSpanish_204/199_庙宇寺院.mp3"
+    },
+    {
+        "id": "200_天",
+        "pos": "m.",
+        "word": "cielo",
+        "definition": "74页",
+        "translation": "m. 天",
+        "voiceUrl": "modernSpanish/modernSpanish_204/200_天.mp3"
+    },
+    {
+        "id": "201_会见",
+        "pos": "f.",
+        "word": "entrevista",
+        "definition": "74页",
+        "translation": "f. 会见",
+        "voiceUrl": "modernSpanish/modernSpanish_204/201_会见.mp3"
+    },
+    {
+        "id": "202_负责人",
+        "pos": "adj. -s",
+        "word": "responsible",
+        "definition": "74页",
+        "translation": "adj. -s 负责人",
+        "voiceUrl": "modernSpanish/modernSpanish_204/202_负责人.mp3"
+    },
+    {
+        "id": "203_协会",
+        "pos": "f.",
+        "word": "asociación",
+        "definition": "74页",
+        "translation": "f. 协会",
+        "voiceUrl": "modernSpanish/modernSpanish_204/203_协会.mp3"
+    },
+    {
+        "id": "204_接待招待会",
+        "pos": "f.",
+        "word": "recepción",
+        "definition": "74页",
+        "translation": "f. 接待，招待会",
+        "voiceUrl": "modernSpanish/modernSpanish_204/204_接待招待会.mp3"
+    },
+    {
+        "id": "205_为某人举行",
+        "pos": null,
+        "word": "en ... honor (de)",
+        "definition": "74页",
+        "translation": "为（某人）举行",
+        "voiceUrl": "modernSpanish/modernSpanish_204/205_为某人举行.mp3"
+    },
+    {
+        "id": "206_形势位置",
+        "pos": "f.",
+        "word": "situación",
+        "definition": "74页",
+        "translation": "f. 形势；位置",
+        "voiceUrl": "modernSpanish/modernSpanish_204/206_形势位置.mp3"
+    },
+    {
+        "id": "207_政治的",
+        "pos": "adj.",
+        "word": "político",
+        "definition": "74页",
+        "translation": "adj. 政治的",
+        "voiceUrl": "modernSpanish/modernSpanish_204/207_政治的.mp3"
+    },
+    {
+        "id": "208_经济的",
+        "pos": "adj.",
+        "word": "económico",
+        "definition": "74页",
+        "translation": "adj. 经济的",
+        "voiceUrl": "modernSpanish/modernSpanish_204/208_经济的.mp3"
+    },
+    {
+        "id": "209_主意想法",
+        "pos": "f.",
+        "word": "idea",
+        "definition": "74页",
+        "translation": "f. 主意，想法",
+        "voiceUrl": "modernSpanish/modernSpanish_204/209_主意想法.mp3"
+    },
+    {
+        "id": "210_交给",
+        "pos": "tr.",
+        "word": "entregar",
+        "definition": "74页",
+        "translation": "tr. 交给",
+        "voiceUrl": "modernSpanish/modernSpanish_204/210_交给.mp3"
+    },
+    {
+        "id": "211_影印件",
+        "pos": "f.",
+        "word": "fotocopia",
+        "definition": "74页",
+        "translation": "f. 影印件",
+        "voiceUrl": "modernSpanish/modernSpanish_204/211_影印件.mp3"
+    },
+    {
+        "id": "212_匆忙做某事",
+        "pos": "prnl.",
+        "word": "precipitarse",
+        "definition": "74页",
+        "translation": "prnl. 匆忙（做某事）",
+        "voiceUrl": "modernSpanish/modernSpanish_204/212_匆忙做某事.mp3"
+    }
+]

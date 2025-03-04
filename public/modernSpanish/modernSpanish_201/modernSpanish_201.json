@@ -1,0 +1,474 @@
+[
+    {
+        "id": "0_篮球",
+        "pos": "m.",
+        "word": "baloncesto",
+        "definition": "3页",
+        "translation": "m. 篮球",
+        "voiceUrl": "modernSpanish/modernSpanish_201/0_篮球.mp3"
+    },
+    {
+        "id": "1_热",
+        "pos": "m.",
+        "word": "calor",
+        "definition": "3页",
+        "translation": "m. 热",
+        "voiceUrl": "modernSpanish/modernSpanish_201/1_热.mp3"
+    },
+    {
+        "id": "2_出汗",
+        "pos": "intr.",
+        "word": "sudar",
+        "definition": "3页",
+        "translation": "intr. 出汗",
+        "voiceUrl": "modernSpanish/modernSpanish_201/2_出汗.mp3"
+    },
+    {
+        "id": "3_风",
+        "pos": "m.",
+        "word": "viento",
+        "definition": "3页",
+        "translation": "m. 风",
+        "voiceUrl": "modernSpanish/modernSpanish_201/3_风.mp3"
+    },
+    {
+        "id": "4_新鲜凉爽",
+        "pos": "adj.",
+        "word": "fresco",
+        "definition": "3页",
+        "translation": "adj. 新鲜，凉爽",
+        "voiceUrl": "modernSpanish/modernSpanish_201/4_新鲜凉爽.mp3"
+    },
+    {
+        "id": "5_晒晾干",
+        "pos": "tr.",
+        "word": "secar",
+        "definition": "3页",
+        "translation": "tr. （晒，晾）干",
+        "voiceUrl": "modernSpanish/modernSpanish_201/5_晒晾干.mp3"
+    },
+    {
+        "id": "6_汗水",
+        "pos": "m.",
+        "word": "sudor",
+        "definition": "3页",
+        "translation": "m. 汗水",
+        "voiceUrl": "modernSpanish/modernSpanish_201/6_汗水.mp3"
+    },
+    {
+        "id": "7_不舒服",
+        "pos": "p.p.",
+        "word": "indispuesto",
+        "definition": "3页",
+        "translation": "p.p. 不舒服",
+        "voiceUrl": "modernSpanish/modernSpanish_201/7_不舒服.mp3"
+    },
+    {
+        "id": "8_某部位疼",
+        "pos": "intr.",
+        "word": "doler",
+        "definition": "3页",
+        "translation": "intr. （某部位）疼",
+        "voiceUrl": "modernSpanish/modernSpanish_201/8_某部位疼.mp3"
+    },
+    {
+        "id": "9_鼻子",
+        "pos": "f.",
+        "word": "nariz",
+        "definition": "3页",
+        "translation": "f. 鼻子",
+        "voiceUrl": "modernSpanish/modernSpanish_201/9_鼻子.mp3"
+    },
+    {
+        "id": "10_塞住",
+        "pos": "p.p.",
+        "word": "tapado",
+        "definition": "3页",
+        "translation": "p.p. 塞住",
+        "voiceUrl": "modernSpanish/modernSpanish_201/10_塞住.mp3"
+    },
+    {
+        "id": "11_胃口",
+        "pos": "m.",
+        "word": "apetito",
+        "definition": "3页",
+        "translation": "m. 胃口",
+        "voiceUrl": "modernSpanish/modernSpanish_201/11_胃口.mp3"
+    },
+    {
+        "id": "12_前额",
+        "pos": "f.",
+        "word": "frente",
+        "definition": "3页",
+        "translation": "f. 前额",
+        "voiceUrl": "modernSpanish/modernSpanish_201/12_前额.mp3"
+    },
+    {
+        "id": "13_步",
+        "pos": "m.",
+        "word": "paso",
+        "definition": "3页",
+        "translation": "m. 步",
+        "voiceUrl": "modernSpanish/modernSpanish_201/13_步.mp3"
+    },
+    {
+        "id": "14_劝告",
+        "pos": "tr.",
+        "word": "aconsejar",
+        "definition": "3页",
+        "translation": "tr. 劝告",
+        "voiceUrl": "modernSpanish/modernSpanish_201/14_劝告.mp3"
+    },
+    {
+        "id": "15_诊所室",
+        "pos": "m.",
+        "word": "consultorio",
+        "definition": "3页",
+        "translation": "m. 诊（所，室）",
+        "voiceUrl": "modernSpanish/modernSpanish_201/15_诊所室.mp3"
+    },
+    {
+        "id": "16_结束",
+        "pos": "tr.",
+        "word": "acabar",
+        "definition": "3页",
+        "translation": "tr. 结束",
+        "voiceUrl": "modernSpanish/modernSpanish_201/16_结束.mp3"
+    },
+    {
+        "id": "17_刚刚做完",
+        "pos": null,
+        "word": "acabar de + inf.",
+        "definition": "3页",
+        "translation": "刚刚（做完）",
+        "voiceUrl": "modernSpanish/modernSpanish_201/17_刚刚做完.mp3"
+    },
+    {
+        "id": "18_注意关注",
+        "pos": "tr.",
+        "word": "atender",
+        "definition": "3页",
+        "translation": "tr. 注意，关注",
+        "voiceUrl": "modernSpanish/modernSpanish_201/18_注意关注.mp3"
+    },
+    {
+        "id": "19_脉搏",
+        "pos": "m.",
+        "word": "pulso",
+        "definition": "3页",
+        "translation": "m. 脉搏",
+        "voiceUrl": "modernSpanish/modernSpanish_201/19_脉搏.mp3"
+    },
+    {
+        "id": "20_舌头语言",
+        "pos": "f.",
+        "word": "lengua",
+        "definition": "3页",
+        "translation": "f. 舌头；语言",
+        "voiceUrl": "modernSpanish/modernSpanish_201/20_舌头语言.mp3"
+    },
+    {
+        "id": "21_咽喉",
+        "pos": "f.",
+        "word": "garganta",
+        "definition": "3页",
+        "translation": "f. 咽喉",
+        "voiceUrl": "modernSpanish/modernSpanish_201/21_咽喉.mp3"
+    },
+    {
+        "id": "22_温度计",
+        "pos": "m.",
+        "word": "termómetro",
+        "definition": "3页",
+        "translation": "m. 温度计",
+        "voiceUrl": "modernSpanish/modernSpanish_201/22_温度计.mp3"
+    },
+    {
+        "id": "23_级度",
+        "pos": "m.",
+        "word": "grado",
+        "definition": "3页",
+        "translation": "m. 级，度",
+        "voiceUrl": "modernSpanish/modernSpanish_201/23_级度.mp3"
+    },
+    {
+        "id": "24_着凉感冒",
+        "pos": "m.",
+        "word": "resfriado",
+        "definition": "3页",
+        "translation": "m. 着凉，感冒",
+        "voiceUrl": "modernSpanish/modernSpanish_201/24_着凉感冒.mp3"
+    },
+    {
+        "id": "25_严重",
+        "pos": "adj.",
+        "word": "grave",
+        "definition": "3页",
+        "translation": "adj. 严重",
+        "voiceUrl": "modernSpanish/modernSpanish_201/25_严重.mp3"
+    },
+    {
+        "id": "26_担忧",
+        "pos": "prnl.",
+        "word": "preocuparse",
+        "definition": "3页",
+        "translation": "prnl. 担忧",
+        "voiceUrl": "modernSpanish/modernSpanish_201/26_担忧.mp3"
+    },
+    {
+        "id": "27_药片",
+        "pos": "f.",
+        "word": "tableta",
+        "definition": "3页",
+        "translation": "f. 药片",
+        "voiceUrl": "modernSpanish/modernSpanish_201/27_药片.mp3"
+    },
+    {
+        "id": "28_注射",
+        "pos": "f.",
+        "word": "inyección",
+        "definition": "3页",
+        "translation": "f. 注射",
+        "voiceUrl": "modernSpanish/modernSpanish_201/28_注射.mp3"
+    },
+    {
+        "id": "29_卧床休息",
+        "pos": null,
+        "word": "guardar cama",
+        "definition": "3页",
+        "translation": "卧床（休息）",
+        "voiceUrl": "modernSpanish/modernSpanish_201/29_卧床休息.mp3"
+    },
+    {
+        "id": "30_食品",
+        "pos": "m.",
+        "word": "alimento",
+        "definition": "3页",
+        "translation": "m. 食品",
+        "voiceUrl": "modernSpanish/modernSpanish_201/30_食品.mp3"
+    },
+    {
+        "id": "31_轻清淡",
+        "pos": "adj.",
+        "word": "ligero",
+        "definition": "3页",
+        "translation": "adj. 轻，清淡",
+        "voiceUrl": "modernSpanish/modernSpanish_201/31_轻清淡.mp3"
+    },
+    {
+        "id": "32_告别告辞",
+        "pos": "prnl.",
+        "word": "despedirse",
+        "definition": "3页",
+        "translation": "prnl. 告别，告辞",
+        "voiceUrl": "modernSpanish/modernSpanish_201/32_告别告辞.mp3"
+    },
+    {
+        "id": "33_药",
+        "pos": "f.",
+        "word": "medicina",
+        "definition": "3页",
+        "translation": "f. 药",
+        "voiceUrl": "modernSpanish/modernSpanish_201/33_药.mp3"
+    },
+    {
+        "id": "34_缺",
+        "pos": "intr.",
+        "word": "faltar",
+        "definition": "3页",
+        "translation": "intr. 缺",
+        "voiceUrl": "modernSpanish/modernSpanish_201/34_缺.mp3"
+    },
+    {
+        "id": "35_消化不良",
+        "pos": "f.",
+        "word": "indigestión",
+        "definition": "3页",
+        "translation": "f. 消化不良",
+        "voiceUrl": "modernSpanish/modernSpanish_201/35_消化不良.mp3"
+    },
+    {
+        "id": "36_疾病",
+        "pos": "f.",
+        "word": "enfermedad",
+        "definition": "3页",
+        "translation": "f. 疾病",
+        "voiceUrl": "modernSpanish/modernSpanish_201/36_疾病.mp3"
+    },
+    {
+        "id": "37_讨厌烦人",
+        "pos": "adj.",
+        "word": "molesto",
+        "definition": "3页",
+        "translation": "adj. 讨厌，烦人",
+        "voiceUrl": "modernSpanish/modernSpanish_201/37_讨厌烦人.mp3"
+    },
+    {
+        "id": "38_胃肚子",
+        "pos": "m.",
+        "word": "estómago",
+        "definition": "3页",
+        "translation": "m. 胃，肚子",
+        "voiceUrl": "modernSpanish/modernSpanish_201/38_胃肚子.mp3"
+    },
+    {
+        "id": "39_打嗝",
+        "pos": "intr.",
+        "word": "eructar",
+        "definition": "3页",
+        "translation": "intr. 打嗝",
+        "voiceUrl": "modernSpanish/modernSpanish_201/39_打嗝.mp3"
+    },
+    {
+        "id": "40_呼出的气儿",
+        "pos": "m.",
+        "word": "aliento",
+        "definition": "4页",
+        "translation": "m. （呼出的）气儿",
+        "voiceUrl": "modernSpanish/modernSpanish_201/40_呼出的气儿.mp3"
+    },
+    {
+        "id": "41_胃镜检查",
+        "pos": "f.",
+        "word": "gastroscopia",
+        "definition": "4页",
+        "translation": "f. 胃镜检查",
+        "voiceUrl": "modernSpanish/modernSpanish_201/41_胃镜检查.mp3"
+    },
+    {
+        "id": "42_药办法",
+        "pos": "m.",
+        "word": "remedio",
+        "definition": "4页",
+        "translation": "m. 药；办法",
+        "voiceUrl": "modernSpanish/modernSpanish_201/42_药办法.mp3"
+    },
+    {
+        "id": "43_治愈",
+        "pos": "tr.",
+        "word": "curar",
+        "definition": "4页",
+        "translation": "tr. 治愈",
+        "voiceUrl": "modernSpanish/modernSpanish_201/43_治愈.mp3"
+    },
+    {
+        "id": "44_传统的",
+        "pos": "adj.",
+        "word": "tradicional",
+        "definition": "4页",
+        "translation": "adj. 传统的",
+        "voiceUrl": "modernSpanish/modernSpanish_201/44_传统的.mp3"
+    },
+    {
+        "id": "45_有效",
+        "pos": "adj.",
+        "word": "eficaz",
+        "definition": "4页",
+        "translation": "adj. 有效",
+        "voiceUrl": "modernSpanish/modernSpanish_201/45_有效.mp3"
+    },
+    {
+        "id": "46_完美的",
+        "pos": "adj.",
+        "word": "perfecto",
+        "definition": "4页",
+        "translation": "adj. 完美的",
+        "voiceUrl": "modernSpanish/modernSpanish_201/46_完美的.mp3"
+    },
+    {
+        "id": "47_胸部胸脯",
+        "pos": "m.",
+        "word": "pecho",
+        "definition": "4页",
+        "translation": "m. 胸部，胸脯",
+        "voiceUrl": "modernSpanish/modernSpanish_201/47_胸部胸脯.mp3"
+    },
+    {
+        "id": "48_脊背",
+        "pos": "f.",
+        "word": "espalda",
+        "definition": "4页",
+        "translation": "f. 脊背",
+        "voiceUrl": "modernSpanish/modernSpanish_201/48_脊背.mp3"
+    },
+    {
+        "id": "49_后腰",
+        "pos": "m.",
+        "word": "lomo",
+        "definition": "4页",
+        "translation": "m. 后腰",
+        "voiceUrl": "modernSpanish/modernSpanish_201/49_后腰.mp3"
+    },
+    {
+        "id": "50_胳膊",
+        "pos": "m.",
+        "word": "brazo",
+        "definition": "4页",
+        "translation": "m. 胳膊",
+        "voiceUrl": "modernSpanish/modernSpanish_201/50_胳膊.mp3"
+    },
+    {
+        "id": "51_腿",
+        "pos": "f.",
+        "word": "pierna",
+        "definition": "4页",
+        "translation": "f. 腿",
+        "voiceUrl": "modernSpanish/modernSpanish_201/51_腿.mp3"
+    },
+    {
+        "id": "52_疼痛",
+        "pos": "m.",
+        "word": "dolor",
+        "definition": "4页",
+        "translation": "m. 疼痛",
+        "voiceUrl": "modernSpanish/modernSpanish_201/52_疼痛.mp3"
+    },
+    {
+        "id": "53_弱虚弱",
+        "pos": "adj.",
+        "word": "débil",
+        "definition": "4页",
+        "translation": "adj. 弱，虚弱",
+        "voiceUrl": "modernSpanish/modernSpanish_201/53_弱虚弱.mp3"
+    },
+    {
+        "id": "54_肋骨排骨",
+        "pos": "f.",
+        "word": "costilla",
+        "definition": "4页",
+        "translation": "f. 肋骨，排骨",
+        "voiceUrl": "modernSpanish/modernSpanish_201/54_肋骨排骨.mp3"
+    },
+    {
+        "id": "55_瘦",
+        "pos": "adj.",
+        "word": "flaco",
+        "definition": "4页",
+        "translation": "adj. 瘦",
+        "voiceUrl": "modernSpanish/modernSpanish_201/55_瘦.mp3"
+    },
+    {
+        "id": "56_干瘦",
+        "pos": "adj.",
+        "word": "enjuto",
+        "definition": "4页",
+        "translation": "adj. 干瘦",
+        "voiceUrl": "modernSpanish/modernSpanish_201/56_干瘦.mp3"
+    },
+    {
+        "id": "57_外科医生",
+        "pos": "m.,f.",
+        "word": "cirujano,na",
+        "definition": "4页",
+        "translation": "m.,f. 外科医生",
+        "voiceUrl": "modernSpanish/modernSpanish_201/57_外科医生.mp3"
+    },
+    {
+        "id": "58_手术",
+        "pos": "f.",
+        "word": "operación",
+        "definition": "4页",
+        "translation": "f. 手术",
+        "voiceUrl": "modernSpanish/modernSpanish_201/58_手术.mp3"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "id": "24_什么",
+        "pos": "pron.",
+        "word": "qué",
+        "definition": "23页",
+        "translation": "pron. 什么",
+        "voiceUrl": "modernSpanish/modernSpanish_102/24_什么.mp3"
+    },
+    {
+        "id": "25_这个这位",
+        "pos": "pron.",
+        "word": "éste,ta",
+        "definition": "23页",
+        "translation": "pron. 这个，这位",
+        "voiceUrl": "modernSpanish/modernSpanish_102/25_这个这位.mp3"
+    },
+    {
+        "id": "26_学生",
+        "pos": "m.,f.",
+        "word": "estudiante",
+        "definition": "23页",
+        "translation": "m.,f. 学生",
+        "voiceUrl": "modernSpanish/modernSpanish_102/26_学生.mp3"
+    },
+    {
+        "id": "27_厨师",
+        "pos": "m.,f.",
+        "word": "cocinero,ra",
+        "definition": "23页",
+        "translation": "m.,f. 厨师",
+        "voiceUrl": "modernSpanish/modernSpanish_102/27_厨师.mp3"
+    },
+    {
+        "id": "28_兄弟姐妹",
+        "pos": "m.,f.",
+        "word": "hermano,na",
+        "definition": "23页",
+        "translation": "m.,f. 兄弟，姐妹",
+        "voiceUrl": "modernSpanish/modernSpanish_102/28_兄弟姐妹.mp3"
+    },
+    {
+        "id": "29_表示所属",
+        "pos": "prep.",
+        "word": "de",
+        "definition": "23页",
+        "translation": "prep. （表示所属）",
+        "voiceUrl": "modernSpanish/modernSpanish_102/29_表示所属.mp3"
+    },
+    {
+        "id": "30_露西亚女人名",
+        "pos": null,
+        "word": "Lucía",
+        "definition": "23页",
+        "translation": "露西亚（女人名）",
+        "voiceUrl": "modernSpanish/modernSpanish_102/30_露西亚女人名.mp3"
+    },
+    {
+        "id": "31_歌手歌唱家",
+        "pos": "m.,f.",
+        "word": "cantante",
+        "definition": "23页",
+        "translation": "m.,f. 歌手，歌唱家",
+        "voiceUrl": "modernSpanish/modernSpanish_102/31_歌手歌唱家.mp3"
+    },
+    {
+        "id": "32_丈夫妻子",
+        "pos": "m.,f.",
+        "word": "esposo,sa",
+        "definition": "23页",
+        "translation": "m.,f. 丈夫，妻子",
+        "voiceUrl": "modernSpanish/modernSpanish_102/32_丈夫妻子.mp3"
+    },
+    {
+        "id": "33_这些这几位",
+        "pos": "pron.",
+        "word": "éstos,tas",
+        "definition": "23页",
+        "translation": "pron. 这些，这几位",
+        "voiceUrl": "modernSpanish/modernSpanish_102/33_这些这几位.mp3"
+    },
+    {
+        "id": "34_马诺罗男人名",
+        "pos": null,
+        "word": "Manolo",
+        "definition": "23页",
+        "translation": "马诺罗（男人名）",
+        "voiceUrl": "modernSpanish/modernSpanish_102/34_马诺罗男人名.mp3"
+    },
+    {
+        "id": "35_埃玛女人名",
+        "pos": null,
+        "word": "Ema",
+        "definition": "23页",
+        "translation": "埃玛（女人名）",
+        "voiceUrl": "modernSpanish/modernSpanish_102/35_埃玛女人名.mp3"
+    },
+    {
+        "id": "36_医生",
+        "pos": "m.,f.",
+        "word": "médico,ca",
+        "definition": "23页",
+        "translation": "m.,f. 医生",
+        "voiceUrl": "modernSpanish/modernSpanish_102/36_医生.mp3"
+    },
+    {
+        "id": "37_父亲",
+        "pos": "m.",
+        "word": "padre",
+        "definition": "23页",
+        "translation": "m. 父亲",
+        "voiceUrl": "modernSpanish/modernSpanish_102/37_父亲.mp3"
+    },
+    {
+        "id": "38_护士",
+        "pos": "m.,f.",
+        "word": "enfermero,ra",
+        "definition": "23页",
+        "translation": "m.,f. 护士",
+        "voiceUrl": "modernSpanish/modernSpanish_102/38_护士.mp3"
+    },
+    {
+        "id": "39_母亲",
+        "pos": "f.",
+        "word": "madre",
+        "definition": "23页",
+        "translation": "f. 母亲",
+        "voiceUrl": "modernSpanish/modernSpanish_102/39_母亲.mp3"
+    },
+    {
+        "id": "40_我",
+        "pos": "pron.",
+        "word": "yo",
+        "definition": "23页",
+        "translation": "pron. 我",
+        "voiceUrl": "modernSpanish/modernSpanish_102/40_我.mp3"
+    },
+    {
+        "id": "41_我叫",
+        "pos": null,
+        "word": "me llamo",
+        "definition": "23页",
+        "translation": "我叫",
+        "voiceUrl": "modernSpanish/modernSpanish_102/41_我叫.mp3"
+    },
+    {
+        "id": "42_谁们",
+        "pos": "pron.",
+        "word": "quiénes",
+        "definition": "23页",
+        "translation": "pron. 谁们",
+        "voiceUrl": "modernSpanish/modernSpanish_102/42_谁们.mp3"
+    },
+    {
+        "id": "43_他的他们的",
+        "pos": "adj.",
+        "word": "su",
+        "definition": "23页",
+        "translation": "adj. 他的，他们的",
+        "voiceUrl": "modernSpanish/modernSpanish_102/43_他的他们的.mp3"
+    },
+    {
+        "id": "44_你",
+        "pos": "pron.",
+        "word": "tú",
+        "definition": "23页",
+        "translation": "pron. 你",
+        "voiceUrl": "modernSpanish/modernSpanish_102/44_你.mp3"
+    },
+    {
+        "id": "45_我们",
+        "pos": "pron.",
+        "word": "nosotros,tras",
+        "definition": "23页",
+        "translation": "pron. 我们",
+        "voiceUrl": "modernSpanish/modernSpanish_102/45_我们.mp3"
+    },
+    {
+        "id": "46_你们",
+        "pos": "pron.",
+        "word": "vosotros,tras",
+        "definition": "23页",
+        "translation": "pron. 你们",
+        "voiceUrl": "modernSpanish/modernSpanish_102/46_你们.mp3"
+    },
+    {
+        "id": "47_您",
+        "pos": "pron.",
+        "word": "usted",
+        "definition": "23页",
+        "translation": "pron. 您",
+        "voiceUrl": "modernSpanish/modernSpanish_102/47_您.mp3"
+    },
+    {
+        "id": "48_诸位",
+        "pos": "pron.",
+        "word": "ustedes",
+        "definition": "23页",
+        "translation": "pron. 诸位",
+        "voiceUrl": "modernSpanish/modernSpanish_102/48_诸位.mp3"
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "id": "213_突然",
+        "pos": null,
+        "word": "de pronto",
+        "definition": "96页",
+        "translation": "突然",
+        "voiceUrl": "modernSpanish/modernSpanish_205/213_突然.mp3"
+    },
+    {
+        "id": "214_出现",
+        "pos": "intr.",
+        "word": "aparecer",
+        "definition": "96页",
+        "translation": "intr. 出现",
+        "voiceUrl": "modernSpanish/modernSpanish_205/214_出现.mp3"
+    },
+    {
+        "id": "215_熊",
+        "pos": null,
+        "word": "oso,sa",
+        "definition": "96页",
+        "translation": "熊",
+        "voiceUrl": "modernSpanish/modernSpanish_205/215_熊.mp3"
+    },
+    {
+        "id": "216_抛弃",
+        "pos": "tr.",
+        "word": "abandonar",
+        "definition": "96页",
+        "translation": "tr. 抛弃",
+        "voiceUrl": "modernSpanish/modernSpanish_205/216_抛弃.mp3"
+    },
+    {
+        "id": "217_哀求",
+        "pos": "tr.",
+        "word": "suplicar",
+        "definition": "96页",
+        "translation": "tr. 哀求",
+        "voiceUrl": "modernSpanish/modernSpanish_205/217_哀求.mp3"
+    },
+    {
+        "id": "218_穷可怜",
+        "pos": "adj.",
+        "word": "pobre",
+        "definition": "96页",
+        "translation": "adj. 穷，可怜",
+        "voiceUrl": "modernSpanish/modernSpanish_205/218_穷可怜.mp3"
+    },
+    {
+        "id": "219_哭",
+        "pos": "intr.",
+        "word": "llorar",
+        "definition": "96页",
+        "translation": "intr. 哭",
+        "voiceUrl": "modernSpanish/modernSpanish_205/219_哭.mp3"
+    },
+    {
+        "id": "220_被惊吓",
+        "pos": "p.p.",
+        "word": "asustado",
+        "definition": "96页",
+        "translation": "p.p. 被惊吓",
+        "voiceUrl": "modernSpanish/modernSpanish_205/220_被惊吓.mp3"
+    },
+    {
+        "id": "221_立即",
+        "pos": null,
+        "word": "de inmediato",
+        "definition": "96页",
+        "translation": "立即",
+        "voiceUrl": "modernSpanish/modernSpanish_205/221_立即.mp3"
+    },
+    {
+        "id": "222_躺下",
+        "pos": "prnl.",
+        "word": "echarse",
+        "definition": "96页",
+        "translation": "prnl. 躺下",
+        "voiceUrl": "modernSpanish/modernSpanish_205/222_躺下.mp3"
+    },
+    {
+        "id": "223_地面",
+        "pos": "m.",
+        "word": "suelo",
+        "definition": "96页",
+        "translation": "m. 地面",
+        "voiceUrl": "modernSpanish/modernSpanish_205/223_地面.mp3"
+    },
+    {
+        "id": "224_此时",
+        "pos": null,
+        "word": "en eso",
+        "definition": "96页",
+        "translation": "此时",
+        "voiceUrl": "modernSpanish/modernSpanish_205/224_此时.mp3"
+    },
+    {
+        "id": "225_观察",
+        "pos": "tr.",
+        "word": "observar",
+        "definition": "96页",
+        "translation": "tr. 观察",
+        "voiceUrl": "modernSpanish/modernSpanish_205/225_观察.mp3"
+    },
+    {
+        "id": "226_闻嗅",
+        "pos": "tr.",
+        "word": "olfatear",
+        "definition": "96页",
+        "translation": "tr. 闻，嗅",
+        "voiceUrl": "modernSpanish/modernSpanish_205/226_闻嗅.mp3"
+    },
+    {
+        "id": "227_试图",
+        "pos": "tr.",
+        "word": "intentar",
+        "definition": "96页",
+        "translation": "tr. 试图",
+        "voiceUrl": "modernSpanish/modernSpanish_205/227_试图.mp3"
+    },
+    {
+        "id": "228_记号迹象",
+        "pos": "f.",
+        "word": "señal",
+        "definition": "96页",
+        "translation": "f. 记号；迹象",
+        "voiceUrl": "modernSpanish/modernSpanish_205/228_记号迹象.mp3"
+    },
+    {
+        "id": "229_生命生活",
+        "pos": "f.",
+        "word": "vida",
+        "definition": "96页",
+        "translation": "f. 生命，生活",
+        "voiceUrl": "modernSpanish/modernSpanish_205/229_生命生活.mp3"
+    },
+    {
+        "id": "230_兴趣利益",
+        "pos": "m.",
+        "word": "interés",
+        "definition": "96页",
+        "translation": "m. 兴趣，利益",
+        "voiceUrl": "modernSpanish/modernSpanish_205/230_兴趣利益.mp3"
+    },
+    {
+        "id": "231_远离",
+        "pos": "prnl.",
+        "word": "alejarse",
+        "definition": "96页",
+        "translation": "prnl. 远离",
+        "voiceUrl": "modernSpanish/modernSpanish_205/231_远离.mp3"
+    },
+    {
+        "id": "232_消失",
+        "pos": "intr.",
+        "word": "desaparecer",
+        "definition": "96页",
+        "translation": "intr. 消失",
+        "voiceUrl": "modernSpanish/modernSpanish_205/232_消失.mp3"
+    },
+    {
+        "id": "233_幸福满意",
+        "pos": "adj.",
+        "word": "feliz",
+        "definition": "96页",
+        "translation": "adj. 幸福，满意",
+        "voiceUrl": "modernSpanish/modernSpanish_205/233_幸福满意.mp3"
+    },
+    {
+        "id": "234_活着",
+        "pos": "adj.",
+        "word": "vivo",
+        "definition": "96页",
+        "translation": "adj. 活着",
+        "voiceUrl": "modernSpanish/modernSpanish_205/234_活着.mp3"
+    },
+    {
+        "id": "235_惊呼",
+        "pos": "intr.",
+        "word": "exclamar",
+        "definition": "96页",
+        "translation": "intr. 惊呼",
+        "voiceUrl": "modernSpanish/modernSpanish_205/235_惊呼.mp3"
+    },
+    {
+        "id": "236_躲开",
+        "pos": "prnl.",
+        "word": "apartarse",
+        "definition": "96页",
+        "translation": "prnl. 躲开",
+        "voiceUrl": "modernSpanish/modernSpanish_205/236_躲开.mp3"
+    },
+    {
+        "id": "237_危险",
+        "pos": "m.",
+        "word": "peligro",
+        "definition": "96页",
+        "translation": "m. 危险",
+        "voiceUrl": "modernSpanish/modernSpanish_205/237_危险.mp3"
+    },
+    {
+        "id": "238_乌鸦",
+        "pos": "m.",
+        "word": "cuervo",
+        "definition": "96页",
+        "translation": "m. 乌鸦",
+        "voiceUrl": "modernSpanish/modernSpanish_205/238_乌鸦.mp3"
+    },
+    {
+        "id": "239_块",
+        "pos": "m.",
+        "word": "pedazo",
+        "definition": "96页",
+        "translation": "m. 块",
+        "voiceUrl": "modernSpanish/modernSpanish_205/239_块.mp3"
+    },
+    {
+        "id": "240_奶酪",
+        "pos": "m.",
+        "word": "queso",
+        "definition": "96页",
+        "translation": "m. 奶酪",
+        "voiceUrl": "modernSpanish/modernSpanish_205/240_奶酪.mp3"
+    },
+    {
+        "id": "241_狐狸",
+        "pos": "m.,f.",
+        "word": "zorro,rra",
+        "definition": "96页",
+        "translation": "m.,f. 狐狸",
+        "voiceUrl": "modernSpanish/modernSpanish_205/241_狐狸.mp3"
+    },
+    {
+        "id": "242_零食美味",
+        "pos": "f.",
+        "word": "golosina",
+        "definition": "96页",
+        "translation": "f. 零食；美味",
+        "voiceUrl": "modernSpanish/modernSpanish_205/242_零食美味.mp3"
+    },
+    {
+        "id": "243_优雅漂亮",
+        "pos": "adj.",
+        "word": "elegante",
+        "definition": "96页",
+        "translation": "adj. 优雅，漂亮",
+        "voiceUrl": "modernSpanish/modernSpanish_205/243_优雅漂亮.mp3"
+    },
+    {
+        "id": "244_羽毛",
+        "pos": "m.",
+        "word": "plumaje",
+        "definition": "96页",
+        "translation": "m. 羽毛",
+        "voiceUrl": "modernSpanish/modernSpanish_205/244_羽毛.mp3"
+    },
+    {
+        "id": "245_继续",
+        "pos": "tr.",
+        "word": "continuar",
+        "definition": "96页",
+        "translation": "tr. 继续",
+        "voiceUrl": "modernSpanish/modernSpanish_205/245_继续.mp3"
+    },
+    {
+        "id": "246_谄媚者",
+        "pos": "adj. -s",
+        "word": "adulón",
+        "definition": "96页",
+        "translation": "adj. -s 谄媚者",
+        "voiceUrl": "modernSpanish/modernSpanish_205/246_谄媚者.mp3"
+    },
+    {
+        "id": "247_好虚荣的",
+        "pos": "adj.",
+        "word": "vanidoso",
+        "definition": "96页",
+        "translation": "adj. 好虚荣的",
+        "voiceUrl": "modernSpanish/modernSpanish_205/247_好虚荣的.mp3"
+    },
+    {
+        "id": "248_鸟喙",
+        "pos": "m.",
+        "word": "pico",
+        "definition": "96页",
+        "translation": "m. 鸟喙",
+        "voiceUrl": "modernSpanish/modernSpanish_205/248_鸟喙.mp3"
+    },
+    {
+        "id": "249_落下掉下",
+        "pos": "intr.",
+        "word": "caer",
+        "definition": "96页",
+        "translation": "intr. 落下，掉下",
+        "voiceUrl": "modernSpanish/modernSpanish_205/249_落下掉下.mp3"
+    },
+    {
+        "id": "250_拣起",
+        "pos": "tr.",
+        "word": "recoger",
+        "definition": "96页",
+        "translation": "tr. 拣起",
+        "voiceUrl": "modernSpanish/modernSpanish_205/250_拣起.mp3"
+    },
+    {
+        "id": "251_笑",
+        "pos": "intr.",
+        "word": "reír",
+        "definition": "96页",
+        "translation": "intr. 笑",
+        "voiceUrl": "modernSpanish/modernSpanish_205/251_笑.mp3"
+    },
+    {
+        "id": "252_坏心眼的",
+        "pos": "adj.",
+        "word": "malvado",
+        "definition": "96页",
+        "translation": "adj. 坏心眼的",
+        "voiceUrl": "modernSpanish/modernSpanish_205/252_坏心眼的.mp3"
+    },
+    {
+        "id": "253_可口的",
+        "pos": "adj.",
+        "word": "sabroso",
+        "definition": "96页",
+        "translation": "adj. 可口的",
+        "voiceUrl": "modernSpanish/modernSpanish_205/253_可口的.mp3"
+    },
+    {
+        "id": "254_动物",
+        "pos": "m.",
+        "word": "animal",
+        "definition": "97页",
+        "translation": "m. 动物",
+        "voiceUrl": "modernSpanish/modernSpanish_205/254_动物.mp3"
+    },
+    {
+        "id": "255_野生动物",
+        "pos": null,
+        "word": "animal salvaje",
+        "definition": "97页",
+        "translation": "野生动物",
+        "voiceUrl": "modernSpanish/modernSpanish_205/255_野生动物.mp3"
+    },
+    {
+        "id": "256_家畜",
+        "pos": null,
+        "word": "animal doméstico",
+        "definition": "97页",
+        "translation": "家畜",
+        "voiceUrl": "modernSpanish/modernSpanish_205/256_家畜.mp3"
+    },
+    {
+        "id": "257_猴子",
+        "pos": "m.,f.",
+        "word": "mono,na",
+        "definition": "97页",
+        "translation": "m.,f. 猴子",
+        "voiceUrl": "modernSpanish/modernSpanish_205/257_猴子.mp3"
+    },
+    {
+        "id": "258_狮子",
+        "pos": "m.,f.",
+        "word": "león,na",
+        "definition": "97页",
+        "translation": "m.,f. 狮子",
+        "voiceUrl": "modernSpanish/modernSpanish_205/258_狮子.mp3"
+    },
+    {
+        "id": "259_兀鹫",
+        "pos": "m.",
+        "word": "buitre",
+        "definition": "97页",
+        "translation": "m. 兀鹫",
+        "voiceUrl": "modernSpanish/modernSpanish_205/259_兀鹫.mp3"
+    },
+    {
+        "id": "260_鹦鹉",
+        "pos": "m.",
+        "word": "papagayo",
+        "definition": "97页",
+        "translation": "m. 鹦鹉",
+        "voiceUrl": "modernSpanish/modernSpanish_205/260_鹦鹉.mp3"
+    },
+    {
+        "id": "261_鸭子",
+        "pos": "m.,f.",
+        "word": "pato,ta",
+        "definition": "97页",
+        "translation": "m.,f. 鸭子",
+        "voiceUrl": "modernSpanish/modernSpanish_205/261_鸭子.mp3"
+    }
+]

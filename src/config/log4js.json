@@ -1,0 +1,24 @@
+{
+  "appenders": {
+    "all": {
+      "type": "dateFile",
+      "filename": "./logs/all.log",
+      "pattern": "-yyyy-MM-dd",
+      "keepFileExt": true,
+      "alwaysIncludePattern": true
+    },
+    "out": { "type": "stdout" },
+    "errorFile": {
+      "type": "file",
+      "filename": "./logs/error.log"
+    },
+    "errors": {
+      "type": "logLevelFilter",
+      "level": "ERROR",
+      "appender": "errorFile"
+    }
+  },
+  "categories": {
+    "default": { "appenders": ["all", "out", "errors"], "level": "ALL" }
+  }
+}

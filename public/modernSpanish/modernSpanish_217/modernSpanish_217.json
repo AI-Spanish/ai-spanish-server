@@ -1,0 +1,354 @@
+[
+    {
+        "id": "731_土地地球",
+        "pos": "f.",
+        "word": "tierra",
+        "definition": "374页",
+        "translation": "f. 土地，地球",
+        "voiceUrl": "modernSpanish/modernSpanish_217/731_土地地球.mp3"
+    },
+    {
+        "id": "732_圆形的",
+        "pos": "adj.",
+        "word": "redondo",
+        "definition": "374页",
+        "translation": "adj. 圆形的",
+        "voiceUrl": "modernSpanish/modernSpanish_217/732_圆形的.mp3"
+    },
+    {
+        "id": "733_世纪",
+        "pos": "m.",
+        "word": "siglo",
+        "definition": "374页",
+        "translation": "m. 世纪",
+        "voiceUrl": "modernSpanish/modernSpanish_217/733_世纪.mp3"
+    },
+    {
+        "id": "734_不了解",
+        "pos": "tr.",
+        "word": "desconocer",
+        "definition": "374页",
+        "translation": "tr. 不了解",
+        "voiceUrl": "modernSpanish/modernSpanish_217/734_不了解.mp3"
+    },
+    {
+        "id": "735_形状",
+        "pos": "f.",
+        "word": "forma",
+        "definition": "374页",
+        "translation": "f. 形状",
+        "voiceUrl": "modernSpanish/modernSpanish_217/735_形状.mp3"
+    },
+    {
+        "id": "736_方形的",
+        "pos": "adj.",
+        "word": "cuadrado",
+        "definition": "374页",
+        "translation": "adj. 方形的",
+        "voiceUrl": "modernSpanish/modernSpanish_217/736_方形的.mp3"
+    },
+    {
+        "id": "737_古代",
+        "pos": "f.",
+        "word": "antigüedad",
+        "definition": "374页",
+        "translation": "f. 古代",
+        "voiceUrl": "modernSpanish/modernSpanish_217/737_古代.mp3"
+    },
+    {
+        "id": "738_智者学者",
+        "pos": "adj. -s",
+        "word": "sabio",
+        "definition": "374页",
+        "translation": "adj. -s 智者，学者",
+        "voiceUrl": "modernSpanish/modernSpanish_217/738_智者学者.mp3"
+    },
+    {
+        "id": "739_欧洲",
+        "pos": null,
+        "word": "Europa",
+        "definition": "374页",
+        "translation": "欧洲",
+        "voiceUrl": "modernSpanish/modernSpanish_217/739_欧洲.mp3"
+    },
+    {
+        "id": "740_说服深信",
+        "pos": "tr.,prnl.",
+        "word": "convencer(se)",
+        "definition": "374页",
+        "translation": "tr.,prnl. 说服；深信",
+        "voiceUrl": "modernSpanish/modernSpanish_217/740_说服深信.mp3"
+    },
+    {
+        "id": "741_返回",
+        "pos": "intr.",
+        "word": "retornar",
+        "definition": "374页",
+        "translation": "intr. 返回",
+        "voiceUrl": "modernSpanish/modernSpanish_217/741_返回.mp3"
+    },
+    {
+        "id": "742_点",
+        "pos": "m.",
+        "word": "punto",
+        "definition": "374页",
+        "translation": "m. 点",
+        "voiceUrl": "modernSpanish/modernSpanish_217/742_点.mp3"
+    },
+    {
+        "id": "743_制定",
+        "pos": "tr.",
+        "word": "elaborar",
+        "definition": "374页",
+        "translation": "tr. 制定",
+        "voiceUrl": "modernSpanish/modernSpanish_217/743_制定.mp3"
+    },
+    {
+        "id": "744_计划",
+        "pos": "m.",
+        "word": "plan",
+        "definition": "374页",
+        "translation": "m. 计划",
+        "voiceUrl": "modernSpanish/modernSpanish_217/744_计划.mp3"
+    },
+    {
+        "id": "745_航海",
+        "pos": "f.",
+        "word": "navegación",
+        "definition": "374页",
+        "translation": "f. 航海",
+        "voiceUrl": "modernSpanish/modernSpanish_217/745_航海.mp3"
+    },
+    {
+        "id": "746_存在",
+        "pos": "f.",
+        "word": "existencia",
+        "definition": "374页",
+        "translation": "f. 存在",
+        "voiceUrl": "modernSpanish/modernSpanish_217/746_存在.mp3"
+    },
+    {
+        "id": "747_大洋",
+        "pos": "m.",
+        "word": "océano",
+        "definition": "374页",
+        "translation": "m. 大洋",
+        "voiceUrl": "modernSpanish/modernSpanish_217/747_大洋.mp3"
+    },
+    {
+        "id": "748_大西洋",
+        "pos": "adj. -s",
+        "word": "Altántico",
+        "definition": "374页",
+        "translation": "adj. -s 大西洋",
+        "voiceUrl": "modernSpanish/modernSpanish_217/748_大西洋.mp3"
+    },
+    {
+        "id": "749_富有的",
+        "pos": "adj.",
+        "word": "rico",
+        "definition": "374页",
+        "translation": "adj. 富有的",
+        "voiceUrl": "modernSpanish/modernSpanish_217/749_富有的.mp3"
+    },
+    {
+        "id": "750_帝国",
+        "pos": "m.",
+        "word": "imperio",
+        "definition": "374页",
+        "translation": "m. 帝国",
+        "voiceUrl": "modernSpanish/modernSpanish_217/750_帝国.mp3"
+    },
+    {
+        "id": "751_亚洲的",
+        "pos": "adj.",
+        "word": "asiático",
+        "definition": "374页",
+        "translation": "adj. 亚洲的",
+        "voiceUrl": "modernSpanish/modernSpanish_217/751_亚洲的.mp3"
+    },
+    {
+        "id": "752_印度",
+        "pos": null,
+        "word": "India",
+        "definition": "374页",
+        "translation": "印度",
+        "voiceUrl": "modernSpanish/modernSpanish_217/752_印度.mp3"
+    },
+    {
+        "id": "753_进行贸易",
+        "pos": "intr.",
+        "word": "comerciar",
+        "definition": "374页",
+        "translation": "intr. 进行贸易",
+        "voiceUrl": "modernSpanish/modernSpanish_217/753_进行贸易.mp3"
+    },
+    {
+        "id": "754_亚洲的",
+        "pos": null,
+        "word": "Asia",
+        "definition": "374页",
+        "translation": "亚洲的",
+        "voiceUrl": "modernSpanish/modernSpanish_217/754_亚洲的.mp3"
+    },
+    {
+        "id": "755_赚赢",
+        "pos": "tr.",
+        "word": "ganar",
+        "definition": "374页",
+        "translation": "tr. 赚，赢",
+        "voiceUrl": "modernSpanish/modernSpanish_217/755_赚赢.mp3"
+    },
+    {
+        "id": "756_使致富",
+        "pos": "tr.",
+        "word": "enriquecer",
+        "definition": "374页",
+        "translation": "tr. 使致富",
+        "voiceUrl": "modernSpanish/modernSpanish_217/756_使致富.mp3"
+    },
+    {
+        "id": "757_采纳接纳",
+        "pos": "tr.",
+        "word": "aceptar",
+        "definition": "374页",
+        "translation": "tr. 采纳，接纳",
+        "voiceUrl": "modernSpanish/modernSpanish_217/757_采纳接纳.mp3"
+    },
+    {
+        "id": "758_昂贵的",
+        "pos": "adj.",
+        "word": "costoso",
+        "definition": "374页",
+        "translation": "adj. 昂贵的",
+        "voiceUrl": "modernSpanish/modernSpanish_217/758_昂贵的.mp3"
+    },
+    {
+        "id": "759_唯一的",
+        "pos": "adj.",
+        "word": "único",
+        "definition": "374页",
+        "translation": "adj. 唯一的",
+        "voiceUrl": "modernSpanish/modernSpanish_217/759_唯一的.mp3"
+    },
+    {
+        "id": "760_强大的",
+        "pos": "adj.",
+        "word": "poderoso",
+        "definition": "374页",
+        "translation": "adj. 强大的",
+        "voiceUrl": "modernSpanish/modernSpanish_217/760_强大的.mp3"
+    },
+    {
+        "id": "761_宫廷",
+        "pos": "f.",
+        "word": "corte",
+        "definition": "374页",
+        "translation": "f. 宫廷",
+        "voiceUrl": "modernSpanish/modernSpanish_217/761_宫廷.mp3"
+    },
+    {
+        "id": "762_金子",
+        "pos": "m.",
+        "word": "oro",
+        "definition": "374页",
+        "translation": "m. 金子",
+        "voiceUrl": "modernSpanish/modernSpanish_217/762_金子.mp3"
+    },
+    {
+        "id": "763_银子",
+        "pos": "f.",
+        "word": "plata",
+        "definition": "374页",
+        "translation": "f. 银子",
+        "voiceUrl": "modernSpanish/modernSpanish_217/763_银子.mp3"
+    },
+    {
+        "id": "764_斗争",
+        "pos": "intr.",
+        "word": "luchar",
+        "definition": "374页",
+        "translation": "intr. 斗争",
+        "voiceUrl": "modernSpanish/modernSpanish_217/764_斗争.mp3"
+    },
+    {
+        "id": "765_摩尔的人",
+        "pos": "adj. -s",
+        "word": "moro",
+        "definition": "374页",
+        "translation": "adj. -s 摩尔（的，人）",
+        "voiceUrl": "modernSpanish/modernSpanish_217/765_摩尔的人.mp3"
+    },
+    {
+        "id": "766_重建",
+        "pos": "tr.",
+        "word": "reconstruir",
+        "definition": "374页",
+        "translation": "tr. 重建",
+        "voiceUrl": "modernSpanish/modernSpanish_217/766_重建.mp3"
+    },
+    {
+        "id": "767_收复",
+        "pos": "f.",
+        "word": "reconquista",
+        "definition": "374页",
+        "translation": "f. 收复",
+        "voiceUrl": "modernSpanish/modernSpanish_217/767_收复.mp3"
+    },
+    {
+        "id": "768_航海者",
+        "pos": "m.",
+        "word": "navegante",
+        "definition": "374页",
+        "translation": "m. 航海者",
+        "voiceUrl": "modernSpanish/modernSpanish_217/768_航海者.mp3"
+    },
+    {
+        "id": "769_基督教的基督教徒",
+        "pos": "adj. -s",
+        "word": "católico",
+        "definition": "374页",
+        "translation": "adj. -s 基督教的，基督教徒",
+        "voiceUrl": "modernSpanish/modernSpanish_217/769_基督教的基督教徒.mp3"
+    },
+    {
+        "id": "770_坚定的",
+        "pos": "adj.",
+        "word": "firme",
+        "definition": "374页",
+        "translation": "adj. 坚定的",
+        "voiceUrl": "modernSpanish/modernSpanish_217/770_坚定的.mp3"
+    },
+    {
+        "id": "771_信仰",
+        "pos": "f.",
+        "word": "creencia",
+        "definition": "375页",
+        "translation": "f. 信仰",
+        "voiceUrl": "modernSpanish/modernSpanish_217/771_信仰.mp3"
+    },
+    {
+        "id": "772_委托负责",
+        "pos": "tr.,prnl.",
+        "word": "encargar(se)",
+        "definition": "375页",
+        "translation": "tr.,prnl. 委托；负责",
+        "voiceUrl": "modernSpanish/modernSpanish_217/772_委托负责.mp3"
+    },
+    {
+        "id": "773_舰队",
+        "pos": "f.",
+        "word": "flota",
+        "definition": "375页",
+        "translation": "f. 舰队",
+        "voiceUrl": "modernSpanish/modernSpanish_217/773_舰队.mp3"
+    },
+    {
+        "id": "774_时代",
+        "pos": "f.",
+        "word": "época",
+        "definition": "375页",
+        "translation": "f. 时代",
+        "voiceUrl": "modernSpanish/modernSpanish_217/774_时代.mp3"
+    }
+]

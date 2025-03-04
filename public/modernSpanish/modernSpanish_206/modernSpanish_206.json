@@ -1,0 +1,338 @@
+[
+    {
+        "id": "262_不同寻常的",
+        "pos": "adj.",
+        "word": "singular",
+        "definition": "115页",
+        "translation": "adj. 不同寻常的",
+        "voiceUrl": "modernSpanish/modernSpanish_206/262_不同寻常的.mp3"
+    },
+    {
+        "id": "263_从不",
+        "pos": "adv.",
+        "word": "nunca",
+        "definition": "115页",
+        "translation": "adv. 从不",
+        "voiceUrl": "modernSpanish/modernSpanish_206/263_从不.mp3"
+    },
+    {
+        "id": "264_查阅商量",
+        "pos": "tr.",
+        "word": "consultar",
+        "definition": "115页",
+        "translation": "tr. 查阅；商量",
+        "voiceUrl": "modernSpanish/modernSpanish_206/264_查阅商量.mp3"
+    },
+    {
+        "id": "265_原原本本地",
+        "pos": null,
+        "word": "al pie de la letra",
+        "definition": "115页",
+        "translation": "原原本本地",
+        "voiceUrl": "modernSpanish/modernSpanish_206/265_原原本本地.mp3"
+    },
+    {
+        "id": "266_纵火引起火灾",
+        "pos": "tr.",
+        "word": "incendiar",
+        "definition": "115页",
+        "translation": "tr. 纵火；引起火灾",
+        "voiceUrl": "modernSpanish/modernSpanish_206/266_纵火引起火灾.mp3"
+    },
+    {
+        "id": "267_赶忙做某事",
+        "pos": "prnl.",
+        "word": "apresurarse",
+        "definition": "115页",
+        "translation": "prnl. 赶忙（做某事）",
+        "voiceUrl": "modernSpanish/modernSpanish_206/267_赶忙做某事.mp3"
+    },
+    {
+        "id": "268_熄灭",
+        "pos": "tr.",
+        "word": "apagar",
+        "definition": "115页",
+        "translation": "tr. 熄灭",
+        "voiceUrl": "modernSpanish/modernSpanish_206/268_熄灭.mp3"
+    },
+    {
+        "id": "269_火",
+        "pos": "m.",
+        "word": "fuego",
+        "definition": "115页",
+        "translation": "m. 火",
+        "voiceUrl": "modernSpanish/modernSpanish_206/269_火.mp3"
+    },
+    {
+        "id": "270_阻挡",
+        "pos": "tr.",
+        "word": "impedir",
+        "definition": "115页",
+        "translation": "tr. 阻挡",
+        "voiceUrl": "modernSpanish/modernSpanish_206/270_阻挡.mp3"
+    },
+    {
+        "id": "271_吃惊的",
+        "pos": "adj.",
+        "word": "sorprendido",
+        "definition": "115页",
+        "translation": "adj. 吃惊的",
+        "voiceUrl": "modernSpanish/modernSpanish_206/271_吃惊的.mp3"
+    },
+    {
+        "id": "272_严肃的",
+        "pos": "adj.",
+        "word": "serio",
+        "definition": "115页",
+        "translation": "adj. 严肃的",
+        "voiceUrl": "modernSpanish/modernSpanish_206/272_严肃的.mp3"
+    },
+    {
+        "id": "273_句子",
+        "pos": "f.",
+        "word": "frase",
+        "definition": "115页",
+        "translation": "f. 句子",
+        "voiceUrl": "modernSpanish/modernSpanish_206/273_句子.mp3"
+    },
+    {
+        "id": "274_页",
+        "pos": "f.",
+        "word": "página",
+        "definition": "115页",
+        "translation": "f. 页",
+        "voiceUrl": "modernSpanish/modernSpanish_206/274_页.mp3"
+    },
+    {
+        "id": "275_适宜的",
+        "pos": "adj.",
+        "word": "conveniente",
+        "definition": "115页",
+        "translation": "adj. 适宜的",
+        "voiceUrl": "modernSpanish/modernSpanish_206/275_适宜的.mp3"
+    },
+    {
+        "id": "276_运输",
+        "pos": "tr.",
+        "word": "transportar",
+        "definition": "115页",
+        "translation": "tr. 运输",
+        "voiceUrl": "modernSpanish/modernSpanish_206/276_运输.mp3"
+    },
+    {
+        "id": "277_水",
+        "pos": "f.",
+        "word": "agua",
+        "definition": "115页",
+        "translation": "f. 水",
+        "voiceUrl": "modernSpanish/modernSpanish_206/277_水.mp3"
+    },
+    {
+        "id": "278_不耐烦",
+        "pos": "intr.",
+        "word": "impacientar",
+        "definition": "115页",
+        "translation": "intr. 不耐烦",
+        "voiceUrl": "modernSpanish/modernSpanish_206/278_不耐烦.mp3"
+    },
+    {
+        "id": "279_傻瓜笨蛋",
+        "pos": "adj. -s",
+        "word": "tonto",
+        "definition": "115页",
+        "translation": "adj. -s 傻瓜，笨蛋",
+        "voiceUrl": "modernSpanish/modernSpanish_206/279_傻瓜笨蛋.mp3"
+    },
+    {
+        "id": "280_即使哪怕",
+        "pos": null,
+        "word": "aun cuando",
+        "definition": "115页",
+        "translation": "即使，哪怕",
+        "voiceUrl": "modernSpanish/modernSpanish_206/280_即使哪怕.mp3"
+    },
+    {
+        "id": "281_烧起来",
+        "pos": "tr.",
+        "word": "quemar",
+        "definition": "115页",
+        "translation": "tr. 烧（起来）",
+        "voiceUrl": "modernSpanish/modernSpanish_206/281_烧起来.mp3"
+    },
+    {
+        "id": "282_下雨",
+        "pos": "intr.",
+        "word": "llover",
+        "definition": "115页",
+        "translation": "intr. 下雨",
+        "voiceUrl": "modernSpanish/modernSpanish_206/282_下雨.mp3"
+    },
+    {
+        "id": "283_雨",
+        "pos": "f.",
+        "word": "lluvia",
+        "definition": "115页",
+        "translation": "f. 雨",
+        "voiceUrl": "modernSpanish/modernSpanish_206/283_雨.mp3"
+    },
+    {
+        "id": "284_火灾",
+        "pos": "m.",
+        "word": "incendio",
+        "definition": "115页",
+        "translation": "m. 火灾",
+        "voiceUrl": "modernSpanish/modernSpanish_206/284_火灾.mp3"
+    },
+    {
+        "id": "285_照常",
+        "pos": null,
+        "word": "como de costumbre",
+        "definition": "115页",
+        "translation": "照常",
+        "voiceUrl": "modernSpanish/modernSpanish_206/285_照常.mp3"
+    },
+    {
+        "id": "286_运气",
+        "pos": "f.",
+        "word": "suerte",
+        "definition": "115页",
+        "translation": "f. 运气",
+        "voiceUrl": "modernSpanish/modernSpanish_206/286_运气.mp3"
+    },
+    {
+        "id": "287_紧迫地",
+        "pos": "adv.",
+        "word": "urgentemente",
+        "definition": "115页",
+        "translation": "adv. 紧迫地",
+        "voiceUrl": "modernSpanish/modernSpanish_206/287_紧迫地.mp3"
+    },
+    {
+        "id": "288_不耐烦",
+        "pos": "f.",
+        "word": "impaciencia",
+        "definition": "115页",
+        "translation": "f. 不耐烦",
+        "voiceUrl": "modernSpanish/modernSpanish_206/288_不耐烦.mp3"
+    },
+    {
+        "id": "289_突然",
+        "pos": null,
+        "word": "de repente",
+        "definition": "115页",
+        "translation": "突然",
+        "voiceUrl": "modernSpanish/modernSpanish_206/289_突然.mp3"
+    },
+    {
+        "id": "290_墙",
+        "pos": "m.",
+        "word": "muro",
+        "definition": "115页",
+        "translation": "m. 墙",
+        "voiceUrl": "modernSpanish/modernSpanish_206/290_墙.mp3"
+    },
+    {
+        "id": "291_步子通过",
+        "pos": "m.",
+        "word": "paso",
+        "definition": "115页",
+        "translation": "m. 步子，通过",
+        "voiceUrl": "modernSpanish/modernSpanish_206/291_步子通过.mp3"
+    },
+    {
+        "id": "292_梯子",
+        "pos": "f.",
+        "word": "escalera",
+        "definition": "115页",
+        "translation": "f. 梯子",
+        "voiceUrl": "modernSpanish/modernSpanish_206/292_梯子.mp3"
+    },
+    {
+        "id": "293_依靠",
+        "pos": "tr.",
+        "word": "apoyar",
+        "definition": "116页",
+        "translation": "tr. 依靠",
+        "voiceUrl": "modernSpanish/modernSpanish_206/293_依靠.mp3"
+    },
+    {
+        "id": "294_反对",
+        "pos": "prep.",
+        "word": "contra",
+        "definition": "116页",
+        "translation": "prep. 反对",
+        "voiceUrl": "modernSpanish/modernSpanish_206/294_反对.mp3"
+    },
+    {
+        "id": "295_一半",
+        "pos": "f.",
+        "word": "mitad",
+        "definition": "116页",
+        "translation": "f. 一半",
+        "voiceUrl": "modernSpanish/modernSpanish_206/295_一半.mp3"
+    },
+    {
+        "id": "296_砰",
+        "pos": "onom.",
+        "word": "pum",
+        "definition": "116页",
+        "translation": "onom. 砰",
+        "voiceUrl": "modernSpanish/modernSpanish_206/296_砰.mp3"
+    },
+    {
+        "id": "297_倒塌",
+        "pos": null,
+        "word": "venirse abajo",
+        "definition": "116页",
+        "translation": "倒塌",
+        "voiceUrl": "modernSpanish/modernSpanish_206/297_倒塌.mp3"
+    },
+    {
+        "id": "298_喊声",
+        "pos": "m.",
+        "word": "grito",
+        "definition": "116页",
+        "translation": "m. 喊声",
+        "voiceUrl": "modernSpanish/modernSpanish_206/298_喊声.mp3"
+    },
+    {
+        "id": "299_瓦砾",
+        "pos": "m.",
+        "word": "escombro",
+        "definition": "116页",
+        "translation": "m. 瓦砾",
+        "voiceUrl": "modernSpanish/modernSpanish_206/299_瓦砾.mp3"
+    },
+    {
+        "id": "300_挪动",
+        "pos": "tr.",
+        "word": "remover",
+        "definition": "116页",
+        "translation": "tr. 挪动",
+        "voiceUrl": "modernSpanish/modernSpanish_206/300_挪动.mp3"
+    },
+    {
+        "id": "301_不幸的该死的",
+        "pos": "adj.",
+        "word": "desgraciado",
+        "definition": "116页",
+        "translation": "adj. 不幸的；该死的",
+        "voiceUrl": "modernSpanish/modernSpanish_206/301_不幸的该死的.mp3"
+    },
+    {
+        "id": "302_怒气冲冲的",
+        "pos": "adj.",
+        "word": "furioso",
+        "definition": "116页",
+        "translation": "adj. 怒气冲冲的",
+        "voiceUrl": "modernSpanish/modernSpanish_206/302_怒气冲冲的.mp3"
+    },
+    {
+        "id": "303_死",
+        "pos": "intr.",
+        "word": "morir",
+        "definition": "116页",
+        "translation": "intr. 死",
+        "voiceUrl": "modernSpanish/modernSpanish_206/303_死.mp3"
+    }
+]

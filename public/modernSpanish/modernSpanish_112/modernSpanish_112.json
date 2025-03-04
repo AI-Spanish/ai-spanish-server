@@ -1,0 +1,466 @@
+[
+    {
+        "id": "314_在之间",
+        "pos": "prep.",
+        "word": "entre",
+        "definition": "183页",
+        "translation": "prep. 在……之间",
+        "voiceUrl": "modernSpanish/modernSpanish_112/314_在之间.mp3"
+    },
+    {
+        "id": "315_复习",
+        "pos": "m.",
+        "word": "repaso",
+        "definition": "183页",
+        "translation": "m. 复习",
+        "voiceUrl": "modernSpanish/modernSpanish_112/315_复习.mp3"
+    },
+    {
+        "id": "316_花园",
+        "pos": "m.",
+        "word": "jardín",
+        "definition": "183页",
+        "translation": "m. 花园",
+        "voiceUrl": "modernSpanish/modernSpanish_112/316_花园.mp3"
+    },
+    {
+        "id": "317_楼房",
+        "pos": "m.",
+        "word": "edificio",
+        "definition": "183页",
+        "translation": "m. 楼房",
+        "voiceUrl": "modernSpanish/modernSpanish_112/317_楼房.mp3"
+    },
+    {
+        "id": "318_更更加",
+        "pos": "adv.",
+        "word": "más",
+        "definition": "183页",
+        "translation": "adv. 更，更加",
+        "voiceUrl": "modernSpanish/modernSpanish_112/318_更更加.mp3"
+    },
+    {
+        "id": "319_所有的",
+        "pos": "adj.",
+        "word": "todo",
+        "definition": "183页",
+        "translation": "adj. 所有的",
+        "voiceUrl": "modernSpanish/modernSpanish_112/319_所有的.mp3"
+    },
+    {
+        "id": "320_聪明的",
+        "pos": "adj.",
+        "word": "inteligente",
+        "definition": "183页",
+        "translation": "adj. 聪明的",
+        "voiceUrl": "modernSpanish/modernSpanish_112/320_聪明的.mp3"
+    },
+    {
+        "id": "321_学校",
+        "pos": "m.",
+        "word": "colegio",
+        "definition": "183页",
+        "translation": "m. 学校",
+        "voiceUrl": "modernSpanish/modernSpanish_112/321_学校.mp3"
+    },
+    {
+        "id": "322_商店",
+        "pos": "f.",
+        "word": "tienda",
+        "definition": "183页",
+        "translation": "f. 商店",
+        "voiceUrl": "modernSpanish/modernSpanish_112/322_商店.mp3"
+    },
+    {
+        "id": "323_商品",
+        "pos": "m.",
+        "word": "artículo",
+        "definition": "183页",
+        "translation": "m. 商品",
+        "voiceUrl": "modernSpanish/modernSpanish_112/323_商品.mp3"
+    },
+    {
+        "id": "324_便宜的",
+        "pos": "adj.",
+        "word": "barato",
+        "definition": "183页",
+        "translation": "adj. 便宜的",
+        "voiceUrl": "modernSpanish/modernSpanish_112/324_便宜的.mp3"
+    },
+    {
+        "id": "325_东西",
+        "pos": "f.",
+        "word": "cosa",
+        "definition": "183页",
+        "translation": "f. 东西",
+        "voiceUrl": "modernSpanish/modernSpanish_112/325_东西.mp3"
+    },
+    {
+        "id": "326_邻居",
+        "pos": "m.",
+        "word": "vecino",
+        "definition": "183页",
+        "translation": "m. 邻居",
+        "voiceUrl": "modernSpanish/modernSpanish_112/326_邻居.mp3"
+    },
+    {
+        "id": "327_卖",
+        "pos": "tr.",
+        "word": "vender",
+        "definition": "183页",
+        "translation": "tr. 卖",
+        "voiceUrl": "modernSpanish/modernSpanish_112/327_卖.mp3"
+    },
+    {
+        "id": "328_早",
+        "pos": "adv.",
+        "word": "temprano",
+        "definition": "183页",
+        "translation": "adv. 早",
+        "voiceUrl": "modernSpanish/modernSpanish_112/328_早.mp3"
+    },
+    {
+        "id": "329_关",
+        "pos": "tr.",
+        "word": "cerrar",
+        "definition": "183页",
+        "translation": "tr. 关",
+        "voiceUrl": "modernSpanish/modernSpanish_112/329_关.mp3"
+    },
+    {
+        "id": "330_晚迟",
+        "pos": "adv.",
+        "word": "tarde",
+        "definition": "183页",
+        "translation": "adv. 晚，迟",
+        "voiceUrl": "modernSpanish/modernSpanish_112/330_晚迟.mp3"
+    },
+    {
+        "id": "331_买",
+        "pos": "f.",
+        "word": "compra",
+        "definition": "183页",
+        "translation": "f. 买",
+        "voiceUrl": "modernSpanish/modernSpanish_112/331_买.mp3"
+    },
+    {
+        "id": "332_指量数词",
+        "pos": null,
+        "word": "numeral cardinal",
+        "definition": "184页",
+        "translation": "指量数词",
+        "voiceUrl": "modernSpanish/modernSpanish_112/332_指量数词.mp3"
+    },
+    {
+        "id": "333_1",
+        "pos": null,
+        "word": "uno",
+        "definition": "184页",
+        "translation": "1",
+        "voiceUrl": "modernSpanish/modernSpanish_112/333_1.mp3"
+    },
+    {
+        "id": "334_2",
+        "pos": null,
+        "word": "dos",
+        "definition": "184页",
+        "translation": "2",
+        "voiceUrl": "modernSpanish/modernSpanish_112/334_2.mp3"
+    },
+    {
+        "id": "335_3",
+        "pos": null,
+        "word": "tres",
+        "definition": "184页",
+        "translation": "3",
+        "voiceUrl": "modernSpanish/modernSpanish_112/335_3.mp3"
+    },
+    {
+        "id": "336_4",
+        "pos": null,
+        "word": "cuatro",
+        "definition": "184页",
+        "translation": "4",
+        "voiceUrl": "modernSpanish/modernSpanish_112/336_4.mp3"
+    },
+    {
+        "id": "337_5",
+        "pos": null,
+        "word": "cinco",
+        "definition": "184页",
+        "translation": "5",
+        "voiceUrl": "modernSpanish/modernSpanish_112/337_5.mp3"
+    },
+    {
+        "id": "338_6",
+        "pos": null,
+        "word": "seis",
+        "definition": "184页",
+        "translation": "6",
+        "voiceUrl": "modernSpanish/modernSpanish_112/338_6.mp3"
+    },
+    {
+        "id": "339_7",
+        "pos": null,
+        "word": "siete",
+        "definition": "184页",
+        "translation": "7",
+        "voiceUrl": "modernSpanish/modernSpanish_112/339_7.mp3"
+    },
+    {
+        "id": "340_8",
+        "pos": null,
+        "word": "ocho",
+        "definition": "184页",
+        "translation": "8",
+        "voiceUrl": "modernSpanish/modernSpanish_112/340_8.mp3"
+    },
+    {
+        "id": "341_9",
+        "pos": null,
+        "word": "nueve",
+        "definition": "184页",
+        "translation": "9",
+        "voiceUrl": "modernSpanish/modernSpanish_112/341_9.mp3"
+    },
+    {
+        "id": "342_10",
+        "pos": null,
+        "word": "diez",
+        "definition": "184页",
+        "translation": "10",
+        "voiceUrl": "modernSpanish/modernSpanish_112/342_10.mp3"
+    },
+    {
+        "id": "343_11",
+        "pos": null,
+        "word": "once",
+        "definition": "184页",
+        "translation": "11",
+        "voiceUrl": "modernSpanish/modernSpanish_112/343_11.mp3"
+    },
+    {
+        "id": "344_12",
+        "pos": null,
+        "word": "doce",
+        "definition": "184页",
+        "translation": "12",
+        "voiceUrl": "modernSpanish/modernSpanish_112/344_12.mp3"
+    },
+    {
+        "id": "345_13",
+        "pos": null,
+        "word": "trece",
+        "definition": "184页",
+        "translation": "13",
+        "voiceUrl": "modernSpanish/modernSpanish_112/345_13.mp3"
+    },
+    {
+        "id": "346_14",
+        "pos": null,
+        "word": "catorce",
+        "definition": "184页",
+        "translation": "14",
+        "voiceUrl": "modernSpanish/modernSpanish_112/346_14.mp3"
+    },
+    {
+        "id": "347_15",
+        "pos": null,
+        "word": "quince",
+        "definition": "184页",
+        "translation": "15",
+        "voiceUrl": "modernSpanish/modernSpanish_112/347_15.mp3"
+    },
+    {
+        "id": "348_16",
+        "pos": null,
+        "word": "dieciséis",
+        "definition": "184页",
+        "translation": "16",
+        "voiceUrl": "modernSpanish/modernSpanish_112/348_16.mp3"
+    },
+    {
+        "id": "349_17",
+        "pos": null,
+        "word": "diecisiete",
+        "definition": "184页",
+        "translation": "17",
+        "voiceUrl": "modernSpanish/modernSpanish_112/349_17.mp3"
+    },
+    {
+        "id": "350_18",
+        "pos": null,
+        "word": "dieciocho",
+        "definition": "184页",
+        "translation": "18",
+        "voiceUrl": "modernSpanish/modernSpanish_112/350_18.mp3"
+    },
+    {
+        "id": "351_19",
+        "pos": null,
+        "word": "diecinueve",
+        "definition": "184页",
+        "translation": "19",
+        "voiceUrl": "modernSpanish/modernSpanish_112/351_19.mp3"
+    },
+    {
+        "id": "352_20",
+        "pos": null,
+        "word": "veinte",
+        "definition": "184页",
+        "translation": "20",
+        "voiceUrl": "modernSpanish/modernSpanish_112/352_20.mp3"
+    },
+    {
+        "id": "353_21",
+        "pos": null,
+        "word": "veintiuno",
+        "definition": "184页",
+        "translation": "21",
+        "voiceUrl": "modernSpanish/modernSpanish_112/353_21.mp3"
+    },
+    {
+        "id": "354_22",
+        "pos": null,
+        "word": "veintidós",
+        "definition": "184页",
+        "translation": "22",
+        "voiceUrl": "modernSpanish/modernSpanish_112/354_22.mp3"
+    },
+    {
+        "id": "355_23",
+        "pos": null,
+        "word": "veintitrés",
+        "definition": "184页",
+        "translation": "23",
+        "voiceUrl": "modernSpanish/modernSpanish_112/355_23.mp3"
+    },
+    {
+        "id": "356_24",
+        "pos": null,
+        "word": "veinticuatro",
+        "definition": "184页",
+        "translation": "24",
+        "voiceUrl": "modernSpanish/modernSpanish_112/356_24.mp3"
+    },
+    {
+        "id": "357_25",
+        "pos": null,
+        "word": "veinticinco",
+        "definition": "184页",
+        "translation": "25",
+        "voiceUrl": "modernSpanish/modernSpanish_112/357_25.mp3"
+    },
+    {
+        "id": "358_26",
+        "pos": null,
+        "word": "veintiséis",
+        "definition": "184页",
+        "translation": "26",
+        "voiceUrl": "modernSpanish/modernSpanish_112/358_26.mp3"
+    },
+    {
+        "id": "359_27",
+        "pos": null,
+        "word": "veintisiete",
+        "definition": "184页",
+        "translation": "27",
+        "voiceUrl": "modernSpanish/modernSpanish_112/359_27.mp3"
+    },
+    {
+        "id": "360_28",
+        "pos": null,
+        "word": "veintiocho",
+        "definition": "184页",
+        "translation": "28",
+        "voiceUrl": "modernSpanish/modernSpanish_112/360_28.mp3"
+    },
+    {
+        "id": "361_29",
+        "pos": null,
+        "word": "veintinueve",
+        "definition": "184页",
+        "translation": "29",
+        "voiceUrl": "modernSpanish/modernSpanish_112/361_29.mp3"
+    },
+    {
+        "id": "362_30",
+        "pos": null,
+        "word": "treinta",
+        "definition": "184页",
+        "translation": "30",
+        "voiceUrl": "modernSpanish/modernSpanish_112/362_30.mp3"
+    },
+    {
+        "id": "363_31",
+        "pos": null,
+        "word": "treinta y uno",
+        "definition": "184页",
+        "translation": "31",
+        "voiceUrl": "modernSpanish/modernSpanish_112/363_31.mp3"
+    },
+    {
+        "id": "364_32",
+        "pos": null,
+        "word": "treinta y dos",
+        "definition": "184页",
+        "translation": "32",
+        "voiceUrl": "modernSpanish/modernSpanish_112/364_32.mp3"
+    },
+    {
+        "id": "365_40",
+        "pos": null,
+        "word": "cuarenta",
+        "definition": "184页",
+        "translation": "40",
+        "voiceUrl": "modernSpanish/modernSpanish_112/365_40.mp3"
+    },
+    {
+        "id": "366_50",
+        "pos": null,
+        "word": "cincuenta",
+        "definition": "184页",
+        "translation": "50",
+        "voiceUrl": "modernSpanish/modernSpanish_112/366_50.mp3"
+    },
+    {
+        "id": "367_60",
+        "pos": null,
+        "word": "sesenta",
+        "definition": "184页",
+        "translation": "60",
+        "voiceUrl": "modernSpanish/modernSpanish_112/367_60.mp3"
+    },
+    {
+        "id": "368_70",
+        "pos": null,
+        "word": "setenta",
+        "definition": "184页",
+        "translation": "70",
+        "voiceUrl": "modernSpanish/modernSpanish_112/368_70.mp3"
+    },
+    {
+        "id": "369_80",
+        "pos": null,
+        "word": "ochenta",
+        "definition": "184页",
+        "translation": "80",
+        "voiceUrl": "modernSpanish/modernSpanish_112/369_80.mp3"
+    },
+    {
+        "id": "370_90",
+        "pos": null,
+        "word": "noventa",
+        "definition": "184页",
+        "translation": "90",
+        "voiceUrl": "modernSpanish/modernSpanish_112/370_90.mp3"
+    },
+    {
+        "id": "371_100",
+        "pos": null,
+        "word": "cien (ciento超过100时用)",
+        "definition": "184页",
+        "translation": "100",
+        "voiceUrl": "modernSpanish/modernSpanish_112/371_100.mp3"
+    }
+]

@@ -1,0 +1,474 @@
+[
+    {
+        "id": "59_晚会",
+        "pos": "f.",
+        "word": "velada",
+        "definition": "28页",
+        "translation": "f. 晚会",
+        "voiceUrl": "modernSpanish/modernSpanish_202/59_晚会.mp3"
+    },
+    {
+        "id": "60_老旧",
+        "pos": "adj.",
+        "word": "viejo",
+        "definition": "28页",
+        "translation": "adj. 老，旧",
+        "voiceUrl": "modernSpanish/modernSpanish_202/60_老旧.mp3"
+    },
+    {
+        "id": "61_庆祝举行",
+        "pos": "tr.",
+        "word": "celebrar",
+        "definition": "28页",
+        "translation": "tr. 庆祝，举行",
+        "voiceUrl": "modernSpanish/modernSpanish_202/61_庆祝举行.mp3"
+    },
+    {
+        "id": "62_庆祝活动",
+        "pos": "f.",
+        "word": "celebración",
+        "definition": "28页",
+        "translation": "f. 庆祝活动",
+        "voiceUrl": "modernSpanish/modernSpanish_202/62_庆祝活动.mp3"
+    },
+    {
+        "id": "63_被装饰",
+        "pos": "p.p.",
+        "word": "adornado",
+        "definition": "28页",
+        "translation": "p.p. （被）装饰",
+        "voiceUrl": "modernSpanish/modernSpanish_202/63_被装饰.mp3"
+    },
+    {
+        "id": "64_被吸引",
+        "pos": "p.p.",
+        "word": "atraído",
+        "definition": "28页",
+        "translation": "p.p. 被吸引",
+        "voiceUrl": "modernSpanish/modernSpanish_202/64_被吸引.mp3"
+    },
+    {
+        "id": "65_光亮",
+        "pos": "f.",
+        "word": "luminosidad",
+        "definition": "28页",
+        "translation": "f. 光亮",
+        "voiceUrl": "modernSpanish/modernSpanish_202/65_光亮.mp3"
+    },
+    {
+        "id": "66_热闹热烈",
+        "pos": "f.",
+        "word": "animación",
+        "definition": "28页",
+        "translation": "f. 热闹，热烈",
+        "voiceUrl": "modernSpanish/modernSpanish_202/66_热闹热烈.mp3"
+    },
+    {
+        "id": "67_赶到前来",
+        "pos": "intr.",
+        "word": "acudir",
+        "definition": "28页",
+        "translation": "intr. 赶到，前来",
+        "voiceUrl": "modernSpanish/modernSpanish_202/67_赶到前来.mp3"
+    },
+    {
+        "id": "68_感到觉察",
+        "pos": "tr.",
+        "word": "notar",
+        "definition": "28页",
+        "translation": "tr. 感到，觉察",
+        "voiceUrl": "modernSpanish/modernSpanish_202/68_感到觉察.mp3"
+    },
+    {
+        "id": "69_信封",
+        "pos": "m.",
+        "word": "sobre",
+        "definition": "28页",
+        "translation": "m. 信封",
+        "voiceUrl": "modernSpanish/modernSpanish_202/69_信封.mp3"
+    },
+    {
+        "id": "70_终止",
+        "pos": "intr.",
+        "word": "cesar",
+        "definition": "28页",
+        "translation": "intr. 终止",
+        "voiceUrl": "modernSpanish/modernSpanish_202/70_终止.mp3"
+    },
+    {
+        "id": "71_音乐",
+        "pos": "f.",
+        "word": "música",
+        "definition": "28页",
+        "translation": "f. 音乐",
+        "voiceUrl": "modernSpanish/modernSpanish_202/71_音乐.mp3"
+    },
+    {
+        "id": "72_双对",
+        "pos": "f.",
+        "word": "pareja",
+        "definition": "28页",
+        "translation": "f. 双，对",
+        "voiceUrl": "modernSpanish/modernSpanish_202/72_双对.mp3"
+    },
+    {
+        "id": "73_享用",
+        "pos": "tr.",
+        "word": "disfrutar",
+        "definition": "28页",
+        "translation": "tr. 享用",
+        "voiceUrl": "modernSpanish/modernSpanish_202/73_享用.mp3"
+    },
+    {
+        "id": "74_表演",
+        "pos": "f.",
+        "word": "actuación",
+        "definition": "28页",
+        "translation": "f. 表演",
+        "voiceUrl": "modernSpanish/modernSpanish_202/74_表演.mp3"
+    },
+    {
+        "id": "75_真正的正宗的",
+        "pos": "adj.",
+        "word": "auténtico",
+        "definition": "28页",
+        "translation": "adj. 真正的，正宗的",
+        "voiceUrl": "modernSpanish/modernSpanish_202/75_真正的正宗的.mp3"
+    },
+    {
+        "id": "76_墨西哥的一种民间乐曲及其乐队",
+        "pos": "m.",
+        "word": "mariachis",
+        "definition": "28页",
+        "translation": "m. 墨西哥的一种民间乐曲及其乐队",
+        "voiceUrl": "modernSpanish/modernSpanish_202/76_墨西哥的一种民间乐曲及其乐队.mp3"
+    },
+    {
+        "id": "77_墨西哥的墨西哥人",
+        "pos": "adj. -s",
+        "word": "mexicano,na",
+        "definition": "28页",
+        "translation": "adj. -s 墨西哥的，墨西哥人",
+        "voiceUrl": "modernSpanish/modernSpanish_202/77_墨西哥的墨西哥人.mp3"
+    },
+    {
+        "id": "78_大沿帽",
+        "pos": "m.",
+        "word": "sombrero",
+        "definition": "29页",
+        "translation": "m. 大沿帽",
+        "voiceUrl": "modernSpanish/modernSpanish_202/78_大沿帽.mp3"
+    },
+    {
+        "id": "79_翅膀",
+        "pos": "f.",
+        "word": "ala",
+        "definition": "29页",
+        "translation": "f. 翅膀",
+        "voiceUrl": "modernSpanish/modernSpanish_202/79_翅膀.mp3"
+    },
+    {
+        "id": "80_服装服饰",
+        "pos": "f.",
+        "word": "indumentaria",
+        "definition": "29页",
+        "translation": "f. 服装，服饰",
+        "voiceUrl": "modernSpanish/modernSpanish_202/80_服装服饰.mp3"
+    },
+    {
+        "id": "81_吉他",
+        "pos": "f.",
+        "word": "guitarra",
+        "definition": "29页",
+        "translation": "f. 吉他",
+        "voiceUrl": "modernSpanish/modernSpanish_202/81_吉他.mp3"
+    },
+    {
+        "id": "82_节奏",
+        "pos": "m.",
+        "word": "ritmo",
+        "definition": "29页",
+        "translation": "m. 节奏",
+        "voiceUrl": "modernSpanish/modernSpanish_202/82_节奏.mp3"
+    },
+    {
+        "id": "83_曲调旋律",
+        "pos": "f.",
+        "word": "melodía",
+        "definition": "29页",
+        "translation": "f. 曲调，旋律",
+        "voiceUrl": "modernSpanish/modernSpanish_202/83_曲调旋律.mp3"
+    },
+    {
+        "id": "84_激情",
+        "pos": "f.",
+        "word": "pasión",
+        "definition": "29页",
+        "translation": "f. 激情",
+        "voiceUrl": "modernSpanish/modernSpanish_202/84_激情.mp3"
+    },
+    {
+        "id": "85_注视",
+        "pos": "prnl.",
+        "word": "fijarse",
+        "definition": "29页",
+        "translation": "prnl. 注视",
+        "voiceUrl": "modernSpanish/modernSpanish_202/85_注视.mp3"
+    },
+    {
+        "id": "86_男演员",
+        "pos": "m.",
+        "word": "actor",
+        "definition": "29页",
+        "translation": "m. （男）演员",
+        "voiceUrl": "modernSpanish/modernSpanish_202/86_男演员.mp3"
+    },
+    {
+        "id": "87_认出承认",
+        "pos": "tr.",
+        "word": "reconocer",
+        "definition": "29页",
+        "translation": "tr. 认出，承认",
+        "voiceUrl": "modernSpanish/modernSpanish_202/87_认出承认.mp3"
+    },
+    {
+        "id": "88_说真的",
+        "pos": null,
+        "word": "a decir verdad",
+        "definition": "29页",
+        "translation": "说真的",
+        "voiceUrl": "modernSpanish/modernSpanish_202/88_说真的.mp3"
+    },
+    {
+        "id": "89_化了装的",
+        "pos": "f.",
+        "word": "disfrazado",
+        "definition": "29页",
+        "translation": "f. 化了装的",
+        "voiceUrl": "modernSpanish/modernSpanish_202/89_化了装的.mp3"
+    },
+    {
+        "id": "90_展示",
+        "pos": "f.",
+        "word": "demostración",
+        "definition": "29页",
+        "translation": "f. 展示",
+        "voiceUrl": "modernSpanish/modernSpanish_202/90_展示.mp3"
+    },
+    {
+        "id": "91_民俗民间艺术",
+        "pos": "m.",
+        "word": "folklore",
+        "definition": "29页",
+        "translation": "m. 民俗，民间艺术",
+        "voiceUrl": "modernSpanish/modernSpanish_202/91_民俗民间艺术.mp3"
+    },
+    {
+        "id": "92_一种智利民间舞",
+        "pos": "f.",
+        "word": "cueca",
+        "definition": "29页",
+        "translation": "f. 一种智利民间舞",
+        "voiceUrl": "modernSpanish/modernSpanish_202/92_一种智利民间舞.mp3"
+    },
+    {
+        "id": "93_一种秘鲁民间舞",
+        "pos": "f.",
+        "word": "marinera",
+        "definition": "29页",
+        "translation": "f. 一种秘鲁民间舞",
+        "voiceUrl": "modernSpanish/modernSpanish_202/93_一种秘鲁民间舞.mp3"
+    },
+    {
+        "id": "94_秘鲁的秘鲁人",
+        "pos": "adj. -s",
+        "word": "peruano,na",
+        "definition": "29页",
+        "translation": "adj. -s 秘鲁的，秘鲁人",
+        "voiceUrl": "modernSpanish/modernSpanish_202/94_秘鲁的秘鲁人.mp3"
+    },
+    {
+        "id": "95_探戈",
+        "pos": "m.",
+        "word": "tango",
+        "definition": "29页",
+        "translation": "m. 探戈",
+        "voiceUrl": "modernSpanish/modernSpanish_202/95_探戈.mp3"
+    },
+    {
+        "id": "96_走一圈一趟",
+        "pos": "m.",
+        "word": "recorrido",
+        "definition": "29页",
+        "translation": "m. 走（一圈，一趟）",
+        "voiceUrl": "modernSpanish/modernSpanish_202/96_走一圈一趟.mp3"
+    },
+    {
+        "id": "97_文化的",
+        "pos": "adj.",
+        "word": "cultural",
+        "definition": "29页",
+        "translation": "adj. 文化的",
+        "voiceUrl": "modernSpanish/modernSpanish_202/97_文化的.mp3"
+    },
+    {
+        "id": "98_言语",
+        "pos": "f.",
+        "word": "habla",
+        "definition": "29页",
+        "translation": "f. 言语",
+        "voiceUrl": "modernSpanish/modernSpanish_202/98_言语.mp3"
+    },
+    {
+        "id": "99_机会",
+        "pos": "f.",
+        "word": "oportunidad",
+        "definition": "29页",
+        "translation": "f. 机会",
+        "voiceUrl": "modernSpanish/modernSpanish_202/99_机会.mp3"
+    },
+    {
+        "id": "100_舞蹈",
+        "pos": "f.",
+        "word": "danza",
+        "definition": "29页",
+        "translation": "f. 舞蹈",
+        "voiceUrl": "modernSpanish/modernSpanish_202/100_舞蹈.mp3"
+    },
+    {
+        "id": "101_民间艺术的",
+        "pos": "f.",
+        "word": "folklórico",
+        "definition": "29页",
+        "translation": "f. 民间（艺术）的",
+        "voiceUrl": "modernSpanish/modernSpanish_202/101_民间艺术的.mp3"
+    },
+    {
+        "id": "102_真正的",
+        "pos": "adj.",
+        "word": "verdadero",
+        "definition": "29页",
+        "translation": "adj. 真正的",
+        "voiceUrl": "modernSpanish/modernSpanish_202/102_真正的.mp3"
+    },
+    {
+        "id": "103_墨西哥",
+        "pos": null,
+        "word": "México",
+        "definition": "29页",
+        "translation": "墨西哥",
+        "voiceUrl": "modernSpanish/modernSpanish_202/103_墨西哥.mp3"
+    },
+    {
+        "id": "104_零件一段件等",
+        "pos": "f.",
+        "word": "pieza",
+        "definition": "29页",
+        "translation": "f. 零件；一（段、件等）",
+        "voiceUrl": "modernSpanish/modernSpanish_202/104_零件一段件等.mp3"
+    },
+    {
+        "id": "105_舞台的戏剧的",
+        "pos": "adj.",
+        "word": "teatral",
+        "definition": "29页",
+        "translation": "adj. 舞台的，戏剧的",
+        "voiceUrl": "modernSpanish/modernSpanish_202/105_舞台的戏剧的.mp3"
+    },
+    {
+        "id": "106_由表演的",
+        "pos": "p.p.",
+        "word": "interpretado",
+        "definition": "29页",
+        "translation": "p.p. （由）表演的",
+        "voiceUrl": "modernSpanish/modernSpanish_202/106_由表演的.mp3"
+    },
+    {
+        "id": "107_诗人",
+        "pos": "m.",
+        "word": "poeta",
+        "definition": "29页",
+        "translation": "m. 诗人",
+        "voiceUrl": "modernSpanish/modernSpanish_202/107_诗人.mp3"
+    },
+    {
+        "id": "108_朗诵",
+        "pos": "tr.",
+        "word": "recitar",
+        "definition": "29页",
+        "translation": "tr. 朗诵",
+        "voiceUrl": "modernSpanish/modernSpanish_202/108_朗诵.mp3"
+    },
+    {
+        "id": "109_诗",
+        "pos": "f.",
+        "word": "poesía",
+        "definition": "29页",
+        "translation": "f. 诗",
+        "voiceUrl": "modernSpanish/modernSpanish_202/109_诗.mp3"
+    },
+    {
+        "id": "110_鼓掌喝彩",
+        "pos": "tr.",
+        "word": "aplaudir",
+        "definition": "29页",
+        "translation": "tr. 鼓掌，喝彩",
+        "voiceUrl": "modernSpanish/modernSpanish_202/110_鼓掌喝彩.mp3"
+    },
+    {
+        "id": "111_剧喜剧",
+        "pos": "f.",
+        "word": "comedia",
+        "definition": "29页",
+        "translation": "f. 剧，喜剧",
+        "voiceUrl": "modernSpanish/modernSpanish_202/111_剧喜剧.mp3"
+    },
+    {
+        "id": "112_悲剧",
+        "pos": "f.",
+        "word": "tragedia",
+        "definition": "29页",
+        "translation": "f. 悲剧",
+        "voiceUrl": "modernSpanish/modernSpanish_202/112_悲剧.mp3"
+    },
+    {
+        "id": "113_戏剧",
+        "pos": "m.",
+        "word": "drama",
+        "definition": "29页",
+        "translation": "m. 戏剧",
+        "voiceUrl": "modernSpanish/modernSpanish_202/113_戏剧.mp3"
+    },
+    {
+        "id": "114_题为",
+        "pos": "tr.,prnl.",
+        "word": "titular(se)",
+        "definition": "29页",
+        "translation": "tr.,prnl. 题为",
+        "voiceUrl": "modernSpanish/modernSpanish_202/114_题为.mp3"
+    },
+    {
+        "id": "115_面具",
+        "pos": "f.",
+        "word": "máscara",
+        "definition": "29页",
+        "translation": "f. 面具",
+        "voiceUrl": "modernSpanish/modernSpanish_202/115_面具.mp3"
+    },
+    {
+        "id": "116_胡子",
+        "pos": "m.",
+        "word": "bigote",
+        "definition": "29页",
+        "translation": "m. 胡子",
+        "voiceUrl": "modernSpanish/modernSpanish_202/116_胡子.mp3"
+    },
+    {
+        "id": "117_下巴和两鬓的胡须",
+        "pos": "f.",
+        "word": "barba",
+        "definition": "29页",
+        "translation": "f. （下巴和两鬓的）胡须",
+        "voiceUrl": "modernSpanish/modernSpanish_202/117_下巴和两鬓的胡须.mp3"
+    }
+]
