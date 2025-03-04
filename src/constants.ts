@@ -23,6 +23,7 @@ export const API_URLS = {
   "API_USER_UPDATEUSER": "/api/user/updateUser",
   "API_USER_UPDATESTUDYDURATION": "/api/user/updateStudyDuration",
   "API_USER_GETSTUDYDURATION": "/api/user/getStudyDuration",
+  "API_USER_GETALLUSERSINFO": "/api/user/getAllUsersInfo",
   "API_WORD_CHANGEWORDBOOK": "/api/word/changeWordBook",
   "API_WORD_GETWORDDETAIL": "/api/word/getWordDetail",
   "API_WORD_GETALLWBDATA": "/api/word/getAllWBData",

@@ -342,3 +342,28 @@ export async function getStudyDuration(c: Context) {
     return c.json(failRes({ message: e.message }));
   }
 }
+
+//GET
+export async function getAllUsersInfo(c: Context<{ Variables: ContextVariables }>) {
+  // const user = c.get("user");
+  // if (!user) {
+  //   return c.json(failRes({ code: 401, message: "用户登录失效" }));
+  // }
+
+  // const currentUser = await db.query.users.findFirst({
+  //   where: eq(users.id, user.id),
+  // });
+
+  const allUsers = await db.select().from(users);
+  const formattedUsers = allUsers.map(user => ({
+    ...user,
+    wordSetting: JSON.parse(user.wordSetting),
+  }));
+
+  return c.json(
+    successRes({
+      message: "所有用户信息",
+      users: formattedUsers,
+    })
+  );
+}

@@ -79,6 +79,7 @@ app.get("/api/user/logout", user.logout);
 app.post("/api/user/updateUser", user.updateUser);
 app.post("/api/user/updateStudyDuration", user.updateStudyDuration);
 app.get("/api/user/getStudyDuration", user.getStudyDuration);
+app.get("/api/user/getAllUsersInfo", user.getAllUsersInfo);
 app.post("/api/word/changeWordBook", word.changeWordBook);
 app.get("/api/word/getWordDetail", word.getWordDetail);
 app.get("/api/word/getAllWBData", word.getAllWBData);
