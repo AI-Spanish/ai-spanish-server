@@ -118,7 +118,7 @@ export async function getAllWBData(c: Context) {
 
     return c.json(
       listRes({
-        total: allBook[0].count,
+        total: parseInt(allBook[0]?.count as string) || 0,
         list: allBook,
         queryParams: {
           page,
