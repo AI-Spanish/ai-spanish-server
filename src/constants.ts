@@ -27,6 +27,7 @@ export const API_URLS = {
   "API_WORD_CHANGEWORDBOOK": "/api/word/changeWordBook",
   "API_WORD_GETWORDDETAIL": "/api/word/getWordDetail",
   "API_WORD_GETALLWBDATA": "/api/word/getAllWBData",
+  "API_WORD_GETWBSECTIONS": "/api/word/getWBSections",
   "API_WORD_GETSINGLEWBDATA": "/api/word/getSingleWBData",
   "API_WORD_GETWBLEARNDATA": "/api/word/getWBLearnData",
   "API_WORD_GETALLLEARNDATA": "/api/word/getAllLearnData",

@@ -105,6 +105,7 @@ export const wordBook = pgTable("word_book", {
   total: integer("total"),
   description: text("description"),
   cover: text("cover"),
+  parBookId: text("parBookId"),
 });
 
 export const word = pgTable("word", {
@@ -129,6 +130,7 @@ export const wordInBook = pgTable("word_in_book", {
     ),
   wb_id: text("wb_id").references(() => wordBook.id),
   word_id: text("word_id").references(() => word.id),
+  section_id: text("section_id"),
   word_index: integer("word_index"),
 });
 

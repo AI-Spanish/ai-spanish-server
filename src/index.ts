@@ -83,6 +83,7 @@ app.get("/api/user/getAllUsersInfo", user.getAllUsersInfo);
 app.post("/api/word/changeWordBook", word.changeWordBook);
 app.get("/api/word/getWordDetail", word.getWordDetail);
 app.get("/api/word/getAllWBData", word.getAllWBData);
+app.get("/api/word/getWBSections", word.getWBSections);
 app.get("/api/word/getSingleWBData", word.getSingleWBData);
 app.get("/api/word/getWBLearnData", word.getWBLearnData);
 app.get("/api/word/getAllLearnData", word.getAllLearnData);

@@ -7,9 +7,11 @@ import {
   desc,
   eq,
   exists,
+  isNull,
   lte,
   ne,
   notExists,
+  or,
   sql,
 } from "drizzle-orm";
 import {
@@ -36,10 +38,13 @@ import sm_5_js from "@/lib/sm-5.js";
 const logger = log4js.getLogger("book");
 logger.level = "all";
 
+const getWordInBookOrSection = (bookId) =>
+  or(eq(wordInBook.wb_id, bookId), eq(wordInBook.section_id, bookId));
+
 // POST
 export async function changeWordBook(c: Context) {
   const body = await c.req.json();
-  const { userId, bookId } = body;
+  const { userId, bookId, sectionId } = body;
 
   if (!userId || !bookId) {
     return c.json(failRes({ message: "缺少必要的参数" }));
@@ -97,18 +102,61 @@ export async function getAllWBData(c: Context) {
   const { page, pageSize } = PageQueryParamsSchema.parse(c.req.query());
 
   try {
-    const all = await db.select({ count: count() }).from(wordBook);
     const allBook = await db
-      .select()
+      .select({
+        id: wordBook.id,
+        name: wordBook.name,
+        description: wordBook.description,
+        cover: wordBook.cover,
+        tag: wordBook.tag,
+        count: sql`count(*) over()`,
+      })
       .from(wordBook)
-      .where(ne(wordBook.id, "-1"))
+      .where(and(ne(wordBook.id, "-1"), isNull(wordBook.parBookId)))
       .limit(pageSize)
       .offset((page - 1) * pageSize);
 
     return c.json(
       listRes({
-        total: all[0].count,
+        total: allBook[0].count,
         list: allBook,
+        queryParams: {
+          page,
+          pageSize,
+        },
+      })
+    );
+  } catch (e: any) {
+    logger.error(e);
+    return c.json(failRes({ message: e.message }));
+  }
+}
+
+// GET
+export async function getWBSections(c: Context) {
+  const { wb_id, page, pageSize } = BookLearningParamsSchema.parse(
+    c.req.query()
+  );
+
+  try {
+    const allBook = await db
+      .select({
+        id: wordBook.id,
+        name: wordBook.name,
+        description: wordBook.description,
+        cover: wordBook.cover,
+        tag: wordBook.tag,
+        count: sql`count(*) over()`,
+      })
+      .from(wordBook)
+      .where(eq(wordBook.parBookId, wb_id))
+      .limit(pageSize)
+      .offset((page - 1) * pageSize);
+
+    return c.json(
+      listRes({
+        total: parseInt(allBook[0]?.count as string) || 0,
+        list: allBook.sort((a, b) => a.name.localeCompare(b.name)),
         queryParams: {
           page,
           pageSize,
@@ -166,7 +214,7 @@ export async function getWBLearnData(c: Context) {
       .where(
         and(
           eq(learningRecord.word_id, wordInBook.word_id),
-          eq(wordInBook.wb_id, bookId)
+          getWordInBookOrSection(bookId)
         )
       );
 
@@ -181,7 +229,7 @@ export async function getWBLearnData(c: Context) {
     const totalRes = db
       .select({ count: count() })
       .from(wordInBook)
-      .where(eq(wordInBook.wb_id, bookId));
+      .where(getWordInBookOrSection(bookId));
 
     let resList = await Promise.all([learnedRes, totalRes]);
 
@@ -285,7 +333,7 @@ export async function getBasicLearningData(c: Context) {
         wordInBook,
         and(
           eq(learningRecord.word_id, wordInBook.word_id),
-          eq(wordInBook.wb_id, bookId)
+          getWordInBookOrSection(bookId)
         )
       );
 
@@ -303,7 +351,7 @@ export async function getBasicLearningData(c: Context) {
     const totalWordsRes = db
       .select({ count: count() })
       .from(wordInBook)
-      .where(eq(wordInBook.wb_id, bookId));
+      .where(getWordInBookOrSection(bookId));
 
     const resList = await Promise.all([
       learnedNumRes,
@@ -355,7 +403,7 @@ export async function getLearningData(c: Context) {
       .from(wordInBook)
       .where(
         and(
-          eq(wordInBook.wb_id, bookId),
+          getWordInBookOrSection(bookId),
           //   删去已经学过的单词
           notExists(learningRecordQuery)
         )
@@ -452,7 +500,7 @@ export async function getReviewData(c: Context) {
 // * 获取干扰项单词列表
 async function getDistractionWords(
   mainword_id: any,
-  wd_bk_id: any,
+  bookId: any,
   sampleSize: number
 ) {
   const result = await db
@@ -460,7 +508,7 @@ async function getDistractionWords(
     .from(wordInBook)
     .leftJoin(word, eq(word.id, wordInBook.word_id))
     .where(
-      and(eq(wordInBook.wb_id, wd_bk_id), ne(wordInBook.word_id, mainword_id))
+      and(getWordInBookOrSection(bookId), ne(wordInBook.word_id, mainword_id))
     )
     .limit(sampleSize);
 
@@ -495,17 +543,20 @@ export async function getBookRecordWord(c: Context) {
 
     let subQuery = undefined;
     if (subType === "getBkWord") {
-      subQuery = eq(wordInBook.wb_id, wb_id);
+      subQuery = getWordInBookOrSection(wb_id);
     } else if (subType === "getBkUnlearnedWord") {
       subQuery = and(
-        eq(wordInBook.wb_id, wb_id),
+        getWordInBookOrSection(wb_id),
         notExists(learningRecordQuery)
       );
     } else if (
       subType === "getBkMasteredWord" ||
       subType === "getBkLearnedWord"
     ) {
-      subQuery = and(eq(wordInBook.wb_id, wb_id), exists(learningRecordQuery));
+      subQuery = and(
+        getWordInBookOrSection(wb_id),
+        exists(learningRecordQuery)
+      );
     }
 
     // 单词书所有单词
