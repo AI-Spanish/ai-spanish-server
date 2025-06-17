@@ -323,19 +323,22 @@ export async function getBasicLearningData(c: Context) {
   }
 
   try {
-    let tasks = [];
-    // 从词书与单词的关系表里获取当前学习的书的所有单词
-    const learnedNumRes = await db
-      .select({ count: count() })
-      .from(learningRecord)
-      .where(eq(learningRecord.user_id, user.id))
-      .leftJoin(
-        wordInBook,
+    // 筛选单词书中单词
+    const wordInBookQuery = db
+      .select()
+      .from(wordInBook)
+      .where(
         and(
           eq(learningRecord.word_id, wordInBook.word_id),
           getWordInBookOrSection(bookId)
         )
       );
+
+    // 某书的学习情况（区分未学习、学习中、已掌握）
+    const learnedNumRes = db
+      .select({ count: count() })
+      .from(learningRecord)
+      .where(and(eq(learningRecord.user_id, user.id), exists(wordInBookQuery)));
 
     const needToReviewRes = db
       .select({ count: count() })
@@ -359,7 +362,10 @@ export async function getBasicLearningData(c: Context) {
       totalWordsRes,
     ]);
 
-    console.log("📚 getBasicLearningData", resList);
+    console.log(
+      '📚 getBasicLearningData learnedNumRes needToReviewRes totalWordsRes,',
+      resList
+    );
 
     const data = {
       needToLearn: resList[2][0].count - resList[0][0].count,
