@@ -8,7 +8,7 @@ import {
   successRes,
 } from '@/utils';
 import { calculateSign, textToSpeech } from '@/lib/tts';
-import { insertMessage, updateMessage } from './message';
+import { updateMessage } from './message';
 import { client, upload2Oss } from '@/lib/oss';
 import { speechToText } from '@/lib/iat';
 import axios from 'axios';
@@ -54,16 +54,6 @@ export async function audio2text(c: Context) {
   try {
     const uploadResult = (await upload2Oss(fileName, buffer)) as any;
     const content = await iat_youdao(buffer);
-
-    //* Add Record
-    // const messageId = await insertMessage(c, {
-    //   historyId,
-    //   filename: uploadResult.name,
-    //   seconds,
-    //   content: content,
-    //   isAiRes: false,
-    // });
-    // console.log('🚀 ~ add message ~ :', messageId, content);
 
     return c.json(successRes({ ...uploadResult, content: content }));
   } catch (err) {

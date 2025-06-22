@@ -1,4 +1,4 @@
-import { failRes, MessageParamSchema } from "@/utils";
+import { failRes, MessageParamSchema, successRes } from "@/utils";
 import { Context } from "hono";
 import { streamSSE } from "hono/streaming";
 import { insertMessage } from "./message";
@@ -7,12 +7,12 @@ import db from "@/db";
 import log4js from "log4js";
 import { history, messages } from "@/db/schema";
 import { eq, count } from "drizzle-orm";
-
 import ScenariosDict from "../../public/scenarios-dict.json" assert { type: "json" };
 
 const logger = log4js.getLogger("chat");
 logger.level = "all";
 
+const MAX_CHAT_COUNT = 1000;
 interface RequestSSE {
   content: string;
   historyId: string;
@@ -21,17 +21,29 @@ interface RequestSSE {
   doneCallback?: (fullResponse: any, usage: any) => void;
 }
 
-// // POST
-// export async function chat(c: Context) {
-//   const body = await c.req.json();
-//   const { type } = MessageParamSchema.parse(body);
+// GET
+export async function chatCheck(c: Context) {
+  // const body = await c.req.json();
+  // const { type } = MessageParamSchema.parse(body);
 
-//   // if (type === "audio") {
-//   //   return chatAudio(c);
-//   // } else {
-//   // }
-//   return chatText(c);
-// }
+  const user = c.get("user");
+  if (!user) {
+    return c.json(failRes({ code: 401, message: "登录以继续" }));
+  }
+
+  const msg = await db
+    .select({ count: count(messages.id) })
+    .from(messages)
+    .where(eq(messages.uid, user.id));
+
+  if (msg[0].count >= MAX_CHAT_COUNT) {
+    return c.json(
+      failRes({ code: 500, message: "对话次数已用完, 请升级套餐" })
+    );
+  }
+
+  return c.json(successRes({ code: 200, message: "success" }));
+}
 
 // POST
 export async function chat(c: Context) {
@@ -69,7 +81,7 @@ export async function chat(c: Context) {
   await insertMessage(c, {
     content,
     historyId,
-    userId: user.id,
+    uid: user.id,
     isAiRes: false,
   });
 
@@ -79,7 +91,7 @@ export async function chat(c: Context) {
   const doneCallback = async (fullResponse, usage) => {
     //* Add AI Message
     const messageId = await insertMessage(c, {
-      userId: user.id,
+      uid: user.id,
       content: fullResponse.trimStart(),
       historyId,
       isAiRes: true,

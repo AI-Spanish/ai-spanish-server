@@ -1,7 +1,7 @@
 import { Context } from "hono";
 import db from "@/db";
 import { and, asc, count, desc, eq } from "drizzle-orm";
-import { session, studyDuration, users, word } from "@/db/schema";
+import { cardKey, session, studyDuration, users, word } from "@/db/schema";
 import {
   ContextVariables,
   failRes,
@@ -10,6 +10,7 @@ import {
   successRes,
   UserParamsSchema,
   generateRandomNickname,
+  RechargeCardKeySchema,
 } from "@/utils";
 import axios from "axios";
 import { getCookie, setCookie } from "hono/cookie";
@@ -344,7 +345,9 @@ export async function getStudyDuration(c: Context) {
 }
 
 //GET
-export async function getAllUsersInfo(c: Context<{ Variables: ContextVariables }>) {
+export async function getAllUsersInfo(
+  c: Context<{ Variables: ContextVariables }>
+) {
   // const user = c.get("user");
   // if (!user) {
   //   return c.json(failRes({ code: 401, message: "用户登录失效" }));
@@ -355,7 +358,7 @@ export async function getAllUsersInfo(c: Context<{ Variables: ContextVariables }
   // });
 
   const allUsers = await db.select().from(users);
-  const formattedUsers = allUsers.map(user => ({
+  const formattedUsers = allUsers.map((user) => ({
     ...user,
     wordSetting: JSON.parse(user.wordSetting),
   }));
@@ -366,4 +369,162 @@ export async function getAllUsersInfo(c: Context<{ Variables: ContextVariables }
       users: formattedUsers,
     })
   );
+}
+
+// POST
+export async function rechargeWithCardKey(c: Context) {
+  const body = await c.req.json();
+  const { cardKey: cardKeyValue } = RechargeCardKeySchema.parse(body);
+
+  const user = c.get("user");
+  if (!user) {
+    return c.json(failRes({ code: 401, message: "登录以继续" }));
+  }
+
+  try {
+    // 使用事务处理卡密验证和充值
+    const result = await db.transaction(async (tx) => {
+      // 1. 查找卡密
+      const cardRows = await tx
+        .select()
+        .from(cardKey)
+        .where(eq(cardKey.id, cardKeyValue))
+        .limit(1);
+
+      if (cardRows.length === 0) {
+        throw new Error("卡密不存在");
+      }
+
+      const cardData = cardRows[0] as any;
+
+      if (cardData.is_used) {
+        throw new Error("卡密已被使用");
+      }
+
+      if (cardData.expire_time && new Date(cardData.expire_time) < new Date()) {
+        throw new Error("卡密已过期");
+      }
+
+      // 2. 更新卡密状态
+      await tx
+        .update(cardKey)
+        .set({
+          is_used: true,
+          user_id: user.id,
+          used_time: new Date(),
+        })
+        .where(eq(cardKey.id, cardData.id));
+
+      // 3. 更新用户余额
+      const userData = await tx
+        .select({
+          id: users.id,
+          money: users.money,
+        })
+        .from(users)
+        .where(eq(users.id, user.id))
+        .limit(1);
+
+      if (userData.length === 0) {
+        throw new Error("用户不存在");
+      }
+
+      const currentBalance = userData[0].money || 0;
+      const cardAmount = parseInt(cardData.amount) || 0;
+      const newBalance = currentBalance + cardAmount;
+
+      await tx
+        .update(users)
+        .set({ money: newBalance })
+        .where(eq(users.id, user.id));
+
+      return {
+        success: true,
+        newBalance,
+        cardAmount,
+        cardKey: cardData.id,
+      };
+    });
+
+    logger.info(
+      `用户 ${user.id} 使用卡密 ${cardKeyValue} 充值成功，金额: ${result.cardAmount}`
+    );
+
+    const existingUser = await db.query.users.findFirst({
+      where: eq(users.id, user.id),
+    });
+
+    return c.json(
+      successRes({
+        message: "充值成功",
+        ...existingUser,
+      })
+    );
+  } catch (error) {
+    logger.error("卡密充值失败", error);
+
+    if (error instanceof Error) {
+      return c.json(
+        failRes({
+          code: 500,
+          message: error.message,
+        })
+      );
+    }
+
+    return c.json(
+      failRes({
+        code: 500,
+        message: "充值失败，请稍后重试",
+      })
+    );
+  }
+}
+
+// POST
+export async function generateCardKey(c: Context) {
+  const body = await c.req.json();
+  const { amount, expireTime = 7 } = body;
+
+  if (!amount || amount <= 0) {
+    return c.json(failRes({ code: 400, message: "充值金额必须大于0" }));
+  }
+
+  try {
+    const cardData = {
+      amount: amount.toString(),
+      is_used: false,
+      expire_time: new Date(
+        new Date().getTime() + expireTime * 24 * 60 * 60 * 1000
+      ),
+      created_time: new Date(),
+    };
+
+    const cardId = await db
+      .insert(cardKey)
+      .values(cardData)
+      .returning({ id: cardKey.id });
+
+    logger.info(`生成了卡密 ${cardId}，金额: ${amount}`);
+
+    return c.json(
+      successRes({
+        code: 200,
+        message: "卡密生成成功",
+        data: {
+          cardId: cardId,
+          amount: amount,
+        },
+      })
+    );
+  } catch (error) {
+    logger.error("卡密生成失败", error);
+
+    return c.json(
+      failRes({
+        code: 500,
+        message: "卡密生成失败，请稍后重试",
+      })
+    );
+  }
 }

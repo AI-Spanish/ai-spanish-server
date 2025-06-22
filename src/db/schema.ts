@@ -180,7 +180,7 @@ export const dailySum = pgTable("daily_sum", {
   createdAt: date("created_at", { mode: "date" }).defaultNow().notNull(),
 });
 
-// 生词本，在学习或者查词过程中可以点击“星星”将单词加入生词本，就会在本数据库生成相关数据
+// 生词本，在学习或者查词过程中可以点击"星星"将单词加入生词本，就会在本数据库生成相关数据
 export const notebook = pgTable("notebook", {
   id: text("id")
     .notNull()
@@ -189,4 +189,20 @@ export const notebook = pgTable("notebook", {
   userId: text("user_id").references(() => users.id),
   word_id: text("word_id").references(() => word.id),
   createdAt: timestamp("created_at", { mode: "date" }).defaultNow(),
+});
+
+export const cardKey = pgTable("card_key", {
+  id: text("id")
+    .notNull()
+    .primaryKey()
+    .default(sql`gen_random_uuid()`),
+  amount: text("amount"), 
+  is_used: boolean("is_used").default(false),
+  user_id: text("user_id").references(() => users.id),
+  used_time: timestamp("used_time", { mode: "date" }),
+  expire_time: timestamp("expire_time", { mode: "date" }),
+  create_time: timestamp("create_time", { mode: "date" }).defaultNow(),
+  update_time: timestamp("update_time", { mode: "date" }).$onUpdate(
+    () => new Date()
+  ),
 });

@@ -80,7 +80,7 @@ export async function insertMessage(c: Context, params: any) {
         .set({
           recordToken: increment(users.recordToken, payload.token),
         })
-        .where(eq(users.id, payload.userId));
+        .where(eq(users.id, payload.uid));
     }
 
     console.log("💬 ~  Add Message Record  ", messageId?.[0]?.id, newMes);

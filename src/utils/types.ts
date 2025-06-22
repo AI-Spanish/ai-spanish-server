@@ -86,7 +86,7 @@ export const MessageListParamSchema = z.object({
 });
 
 export const MessageParamSchema = z.object({
-  userId: z.coerce.string(),
+  uid: z.coerce.string(),
   type: z.coerce.string().default("text"),
   model: z.coerce.string().default(""),
   scenarioId: z.coerce.string().default(""),
@@ -121,4 +121,9 @@ export const BookLearningParamsSchema = z.object({
   subType: z.coerce.string().default(""),
   page: z.coerce.number().int().positive().default(1),
   pageSize: z.coerce.number().int().positive().max(100).default(10),
+});
+
+
+export const RechargeCardKeySchema = z.object({
+  cardKey: z.string().min(1, "卡密不能为空"),
 });
