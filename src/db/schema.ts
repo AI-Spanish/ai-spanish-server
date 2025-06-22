@@ -53,6 +53,7 @@ export const history = pgTable("history", {
     .default(sql`gen_random_uuid()`),
   title: text("title").default("New Chat"),
   uid: text("user_id"),
+  partner: text("partner"),
   // .notNull()
   // .references(() => users.id),
   createdAt: timestamp("created_at", { mode: "date" }).defaultNow(),

@@ -97,10 +97,12 @@ export const MessageParamSchema = z.object({
   token: z.coerce.number().default(0),
   filename: z.coerce.string().default(""),
   seconds: z.coerce.string().default(""),
+  partner: z.coerce.string().default(""), // 语音包
 });
 
 export const HistoryParamsSchema = z.object({
   id: z.coerce.string().default(""),
+  partner: z.coerce.string().default(""), // 语音包
 });
 
 export const OSSParamsSchema = z.object({

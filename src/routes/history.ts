@@ -61,19 +61,24 @@ export async function insertHistory(c: Context) {
     return c.json(failRes({ code: 401, message: "登录以查看历史记录" }));
   }
 
+  const body = await c.req.json();
+  const { partner } = HistoryParamsSchema.parse(body);
+
   try {
     const historyId = await db
       .insert(history)
       .values({
         uid: user.id,
+        partner: partner || "xixiaomei",
       })
-      .returning({ id: history.id });
+      .returning({ id: history.id, partner: history.partner });
 
     console.log("🚨 ~  Add History Record  ", historyId?.[0]?.id);
 
     return c.json(
       successRes({
         id: historyId?.[0]?.id,
+        partner: historyId?.[0]?.partner,
       })
     );
   } catch (e: any) {

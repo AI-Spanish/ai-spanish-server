@@ -94,7 +94,7 @@ export async function getOssUrl(c: Context) {
   );
 }
 
-// feiqi
+// 废弃
 // POST
 export async function text2oss(c: Context) {
   const body = await c.req.json();
@@ -136,6 +136,7 @@ export async function text2oss(c: Context) {
   return c.text('');
 }
 
+// 废弃
 // POST
 export async function iat_xunfei(c: Context) {
   // 音频文件路径
@@ -157,6 +158,7 @@ export async function iat_xunfei(c: Context) {
   return c.text('识别请求已发送');
 }
 
+// 废弃
 // POST
 export async function tts_xunfei(c: Context) {
   const content = 'hello';
@@ -217,7 +219,7 @@ export async function tts_youdao(c: Context) {
   // const q =
   //   'Hola! ¿En qué puedo ayudarte hoy? ¿Quieresaprender espanol o necesitas ayuda con algo?';
   const body = await c.req.json();
-  const { content } = MessageParamSchema.parse(body);
+  const { content, partner } = MessageParamSchema.parse(body);
   const q = content;
   const appKey = serverEnvs.YOUDAO_APP_KEY;
   const appSecret = serverEnvs.YOUDAO_APP_SECRET;
@@ -233,7 +235,7 @@ export async function tts_youdao(c: Context) {
       sign: calculateSign(appKey, appSecret, q, salt, curtime),
       signType: 'v3',
       curtime: curtime,
-      voiceName: 'xixiaomei',
+      voiceName: partner || 'xixiaomei',
       format: 'mp3',
     },
     {
