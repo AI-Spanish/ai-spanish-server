@@ -37,6 +37,7 @@ RUN adduser --system --uid 1001 hono
 
 COPY --from=builder /app/output ./output
 COPY --from=builder /app/public ./public
+COPY --from=builder /app/env ./env
 RUN chmod -R 777 /app/output
 RUN chmod -R 777 /app
 
