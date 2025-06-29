@@ -25,7 +25,7 @@ node src/test.js
 
 ```bash
 # run pg use docker
-docker run --name spanish-postgres -e POSTGRES_PASSWORD=123456 -p 5432:5432  -d postgres
+docker run --name spanish-postgres -e POSTGRES_PASSWORD=123456 -p 5433:5432  -d postgres
 
 # npx drizzle-kit push
 yarn db:push
@@ -87,4 +87,28 @@ pyerz -i ai-spanish-mini \
     --exclude ai-spanish-server/dist \
     -o ai-spanish代码文档.docx \
     -v
+```
+
+## 备份数据库
+
+```bash
+# 备份数据库
+docker exec -it spanish-postgres pg_dump -U postgres -d "spanish-PROD" > postgres-backup-prod.sql
+
+# 恢复特定数据库  # 备份文件复制到容器内并恢复数据库
+docker run --name spanish-postgres-3 -e POSTGRES_PASSWORD=123456 -p 5432:5432  -d postgres
+docker cp postgres-backup-prod.sql spanish-postgres-3:/tmp/
+docker exec spanish-postgres-3 psql -U postgres -c "CREATE DATABASE spanish_prod;"
+docker exec spanish-postgres-3 psql -U postgres -d spanish_prod -f /tmp/postgres-backup-prod.sql
+
+```
+
+**定时任务**
+
+```bash
+# crontab 每天凌晨2点执行备份
+echo "0 2 * * * /bin/bash /root/workspace/ai-spanish-server/backup_postgres.sh" | crontab -
+
+# 查看当前所有定时任务
+crontab -l
 ```
