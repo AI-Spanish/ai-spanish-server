@@ -73,6 +73,7 @@ export const PageQueryParamsSchema = z.object({
 export const UserParamsSchema = z.object({
   type: z.coerce.string().default("wechat"),
   code: z.coerce.string().default(""),
+  wxCode: z.coerce.string().default(""),
   avatarUrl: z.coerce.string().default(""),
   nickName: z.coerce.string().default(""),
   username: z.coerce.string().default(""),
@@ -123,7 +124,12 @@ export const BookLearningParamsSchema = z.object({
   pageSize: z.coerce.number().int().positive().max(100).default(10),
 });
 
-
 export const RechargeCardKeySchema = z.object({
   cardKey: z.string().min(1, "卡密不能为空"),
+});
+
+export const PrepayInfoSchema = z.object({
+  vipType: z.coerce.string().min(1, "vip类型不能为空"),
+  amount: z.coerce.number().min(0, "订单金额不能为空"),
+  openid: z.coerce.string().default(""),
 });

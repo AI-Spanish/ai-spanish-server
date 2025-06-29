@@ -54,3 +54,13 @@ export function generateRandomNickname(length) {
   }
   return nickname;
 }
+
+// 生成随机字符串
+export function generateNonceStr(len) {
+  let data = "ABCDEFGHJKMNPQRSTWXYZabcdefhijkmnprstwxyz2345678";
+  let str = "";
+  for (let i = 0; i < len; i++) {
+    str += data.charAt(Math.floor(Math.random() * data.length));
+  }
+  return str;
+}

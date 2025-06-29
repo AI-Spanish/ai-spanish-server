@@ -12,7 +12,7 @@ import ScenariosDict from "../../public/scenarios-dict.json" assert { type: "jso
 const logger = log4js.getLogger("chat");
 logger.level = "all";
 
-const MAX_CHAT_COUNT = 1000;
+const MAX_CHAT_COUNT = 20;
 interface RequestSSE {
   content: string;
   historyId: string;

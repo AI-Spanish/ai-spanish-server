@@ -5,6 +5,7 @@ import {
   integer,
   pgTable,
   serial,
+  numeric,
   text,
   timestamp,
   uuid,
@@ -196,13 +197,28 @@ export const cardKey = pgTable("card_key", {
     .notNull()
     .primaryKey()
     .default(sql`gen_random_uuid()`),
-  amount: text("amount"), 
+  amount: text("amount"),
   is_used: boolean("is_used").default(false),
   user_id: text("user_id").references(() => users.id),
   used_time: timestamp("used_time", { mode: "date" }),
   expire_time: timestamp("expire_time", { mode: "date" }),
   create_time: timestamp("create_time", { mode: "date" }).defaultNow(),
   update_time: timestamp("update_time", { mode: "date" }).$onUpdate(
+    () => new Date()
+  ),
+});
+
+export const orders = pgTable("orders", {
+  id: text("id")
+    .notNull()
+    .primaryKey()
+    .default(sql`substring(gen_random_uuid()::text, 1, 32)`),
+  user_id: text("user_id").references(() => users.id),
+  vipType: text("vip_type"),
+  amount: integer("amount"), // 单位为分
+  status: integer("status").notNull().default(0), // 0: 待支付 1: 已支付 2: 已取消 3: 已退款
+  createdAt: timestamp("created_at", { mode: "date" }).defaultNow(),
+  updatedAt: timestamp("updated_at", { mode: "date" }).$onUpdate(
     () => new Date()
   ),
 });
