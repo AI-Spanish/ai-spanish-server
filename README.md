@@ -44,7 +44,7 @@ docker rmi spanish-server
 
 docker build -t spanish-server .
 
-docker run -p 8000:8000  --env-file .env.prod --name spanish-server spanish-server
+docker run -p 8001:8000  --env-file .env.prod --name spanish-server-6.23 spanish-server-6.22
 
 # 持久化
 docker volume create spanish-volume

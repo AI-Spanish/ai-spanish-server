@@ -20,6 +20,8 @@ export const API_URLS = {
   "API_PAY_RECHARGEWITHCARDKEY": "/api/pay/rechargeWithCardKey",
   "API_PAY_GENERATECARDKEY": "/api/pay/generateCardKey",
   "API_PAY_GETPREPAYINFO": "/api/pay/getPrepayInfo",
+  "API_PAY_PAYSUCCESS": "/api/pay/paySuccess",
+  "API_PAY_PAYNOTIFY": "/api/pay/payNotify",
   "API_SCENARIO_GETSCENARIOLIST": "/api/scenario/getScenarioList",
   "API_USER_INFO": "/api/user/info",
   "API_USER_LOGIN": "/api/user/login",

@@ -77,6 +77,8 @@ app.get("/api/message/getAllMessages", message.getAllMessages);
 app.post("/api/pay/rechargeWithCardKey", pay.rechargeWithCardKey);
 app.post("/api/pay/generateCardKey", pay.generateCardKey);
 app.get("/api/pay/getPrepayInfo", pay.getPrepayInfo);
+app.post("/api/pay/paySuccess", pay.paySuccess);
+app.post("/api/pay/payNotify", pay.payNotify);
 app.get("/api/scenario/getScenarioList", scenario.getScenarioList);
 app.get("/api/user/info", user.info);
 app.post("/api/user/login", user.login);

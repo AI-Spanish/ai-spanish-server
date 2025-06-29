@@ -217,6 +217,12 @@ export const orders = pgTable("orders", {
   vipType: text("vip_type"),
   amount: integer("amount"), // 单位为分
   status: integer("status").notNull().default(0), // 0: 待支付 1: 已支付 2: 已取消 3: 已退款
+  transaction_id: text("transaction_id"),// 【微信支付订单号】 微信支付侧订单的唯一标识。
+  trade_state: text("trade_state"),// 【交易状态】 交易状态，枚举值：SUCCESS—支付成功，REFUND—转入退款，NOTPAY—未支付，CLOSED—已关闭，REVOKED—已撤销（刷卡支付），USERPAYING--用户支付中，PAYERROR--支付失败(其他原因，如银行返回失败)
+  bank_type: text("bank_type"),// 【银行类型】 OTHERS 余额/零钱
+  success_time: text("success_time"),// 【支付完成时间】
+  payer: text("payer"),// 【用户标识】 openid
+  pay_amount: text("pay_amount"),// 【支付金额】 单位为分
   createdAt: timestamp("created_at", { mode: "date" }).defaultNow(),
   updatedAt: timestamp("updated_at", { mode: "date" }).$onUpdate(
     () => new Date()

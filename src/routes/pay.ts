@@ -270,7 +270,7 @@ export async function generateCardKey(c: Context) {
 export async function getPrepayInfo(c: Context) {
   const user = c.get("user");
   if (!user) {
-    return c.json(failRes({ code: 401, message: "登录以查看历史记录" }));
+    return c.json(failRes({ code: 401, message: "登录以继续" }));
   }
 
   const { vipType, amount, openid } = PrepayInfoSchema.parse(c.req.query());
@@ -292,7 +292,7 @@ export async function getPrepayInfo(c: Context) {
   let wxOrderInfo = {
     mchid: serverEnvs.WX_MCH_ID,
     appid: serverEnvs.WX_APPID,
-    notify_url: serverEnvs.DOMAIN + "/api/pay/paymentSuccess", // 回调地址 自行实现接收支付结果信息
+    notify_url: serverEnvs.DOMAIN + "/api/pay/payNotify", // 回调地址 自行实现接收支付结果信息
     out_trade_no: orderInfo.id, // 上面创建的订单的订单号
     description: vipType, // 商品描述
     amount: {
@@ -325,9 +325,25 @@ export async function getPrepayInfo(c: Context) {
       headers: { Authorization: Authorization },
     }
   );
+  if (!data) {
+    return c.json(failRes({ code: 500, message: "准备支付失败" }));
+  }
+
   logger.debug("res=", data);
   const paySign = await createPaySign(data.prepay_id);
   return c.json(successRes(paySign));
+}
+
+// POST
+export async function paySuccess(c: Context) {
+  const body = await c.req.json();
+  const { orderId } = body;
+
+  await db.update(orders).set({
+    status: 1,
+  }).where(eq(orders.id, orderId));
+
+  return c.json(successRes({ code: "SUCCESS", message: "成功" }));
 }
 
 // POST
@@ -343,6 +359,18 @@ export async function payNotify(c: Context) {
     logger.error(`支付回调解析失败: ${JSON.stringify(deInfo)}`);
     return c.json(failRes({ code: 500, message: "支付回调解析失败" }));
   }
+
+
+  await db.update(orders).set({
+    transaction_id: deInfo.transaction_id,
+    trade_state: deInfo.trade_state,
+    bank_type: deInfo.bank_type,
+    success_time: deInfo.success_time,
+    payer: deInfo.payer.openid,
+    pay_amount: JSON.stringify(deInfo.amount),
+    status: 1,
+  }).where(eq(orders.id, deInfo.out_trade_no));
+
 
   return c.json(successRes({ code: "SUCCESS", message: "成功" }));
 }
