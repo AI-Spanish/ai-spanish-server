@@ -2,6 +2,8 @@
   "name": "ai-spanish-server",
   "type": "module",
   "scripts": {
+    "prepare": "husky",
+    "lint-staged": "lint-staged",
     "dev": "tsx watch src/index.ts",
     "build": "cross-env NODE_ENV=production tsc && tsc-alias ",
     "start": "cross-env NODE_ENV=production node dist/index.js",
@@ -32,12 +34,27 @@
     "zod": "^3.23.8"
   },
   "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
     "@types/ali-oss": "^6.16.11",
     "@types/crypto-js": "^4.2.2",
     "@types/node": "^20.11.17",
     "@types/ws": "^8.5.12",
     "drizzle-kit": "^0.24.2",
+    "husky": "^9.1.7",
+    "lint-staged": "^15.5.2",
     "tsc-alias": "^1.8.10",
     "tsx": "^4.19.1"
+  },
+  "lint-staged": {
+    "*.{js,ts,vue,jsx,tsx}": [
+      "eslint --cache --fix",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   }
 }
