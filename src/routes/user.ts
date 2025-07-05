@@ -14,7 +14,7 @@ import {
 } from "@/utils";
 import axios from "axios";
 import { getCookie, setCookie } from "hono/cookie";
-import { lucia } from "@/auth";
+import { generateToken, JWT_KEY } from "@/lib/jwt";
 import log4js from "log4js";
 
 const logger = log4js.getLogger("user");
@@ -123,9 +123,6 @@ export async function login(c: Context<{ Variables: ContextVariables }>) {
       curUser = await db.query.users.findFirst({
         where: eq(users.id, phoneNumber),
       });
-
-      // logger.debug("curUser", phoneNumber, curUser);
-
       // 注册
       if (!curUser) {
         curUser = {
@@ -215,10 +212,11 @@ export async function login(c: Context<{ Variables: ContextVariables }>) {
     }
   }
 
-  const session = await lucia.createSession(curUser.id, {});
-  const sessionCookie = lucia.createSessionCookie(session.id);
+  const sessionCookie = generateToken({
+    userId: curUser.id,
+  });
 
-  setCookie(c, lucia.sessionCookieName, sessionCookie.value);
+  setCookie(c, JWT_KEY, sessionCookie);
 
   return c.json(
     successRes({
@@ -231,11 +229,11 @@ export async function login(c: Context<{ Variables: ContextVariables }>) {
 
 // GET
 export async function logout(c: Context<{ Variables: ContextVariables }>) {
-  const session = c.get("session");
-  if (session) {
-    await lucia.invalidateSession(session.id);
-    c.header("Set-Cookie", lucia.createBlankSessionCookie().serialize());
-  }
+  // const session = c.get("session");
+  // if (session) {
+  //   await lucia.invalidateSession(session.id);
+  //   c.header("Set-Cookie", lucia.createBlankSessionCookie().serialize());
+  // }
   return c.json(successRes({}));
 }
 

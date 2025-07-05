@@ -22,13 +22,11 @@ function getFiles(dir) {
 }
 
 // 模板文件内容
-const template = `
-import { serve } from "@hono/node-server";
+const template = `import { serve } from "@hono/node-server";
 import { serveStatic } from "@hono/node-server/serve-static";
 import { Hono } from "hono";
-import { getCookie, setCookie } from "hono/cookie";
 import { ContextVariables } from "./utils";
-import { lucia } from "./auth";
+import { jwtAuth } from "./lib/jwt";
 ---import语句---
 
 import log4js from "log4js";
@@ -39,37 +37,7 @@ const app = new Hono<{ Variables: ContextVariables }>();
 
 app.use("/public/*", serveStatic({ root: "./" }));
 
-app.use("*", async (c, next) => {
-  const sessionId = getCookie(c, lucia.sessionCookieName);
-
-  if (!sessionId) {
-    c.set("user", null);
-    c.set("session", null);
-    return next();
-  }
-
-  const { session, user } = await lucia.validateSession(sessionId);
-
-  if (session && session.fresh) {
-    const sessionCookie = lucia.createSessionCookie(session.id);
-    setCookie(c, lucia.sessionCookieName, sessionCookie.serialize(), {
-      ...sessionCookie.attributes,
-      sameSite: "Strict",
-    });
-  }
-
-  if (!session) {
-    const sessionCookie = lucia.createBlankSessionCookie();
-    setCookie(c, lucia.sessionCookieName, sessionCookie.serialize(), {
-      ...sessionCookie.attributes,
-      sameSite: "Strict",
-    });
-  }
-
-  c.set("session", session);
-  c.set("user", user);
-  return next();
-});
+app.use("*", jwtAuth);
 
 app.get("/", (c) => c.text("Hello Node.js!"));
 
